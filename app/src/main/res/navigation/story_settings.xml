@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/storySettings"
-        android:name="org.thoughtcrime.securesms.stories.settings.story.StorySettingsFragment"
+        android:name="asia.coolapp.chat.stories.settings.story.StorySettingsFragment"
         android:label="story_settings_fragment">
         <action
             android:id="@+id/action_storySettings_to_myStorySettings"
@@ -25,7 +25,7 @@
 
             <argument
                 android:name="distribution_list_id"
-                app:argType="org.thoughtcrime.securesms.database.model.DistributionListId"
+                app:argType="asia.coolapp.chat.database.model.DistributionListId"
                 app:nullable="false" />
 
         </action>

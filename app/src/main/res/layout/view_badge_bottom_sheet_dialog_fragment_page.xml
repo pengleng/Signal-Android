@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
-    <org.thoughtcrime.securesms.badges.BadgeImageView
+    <asia.coolapp.chat.badges.BadgeImageView
         android:id="@+id/badge"
         android:layout_width="160dp"
         android:layout_height="160dp"

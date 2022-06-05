@@ -10,22 +10,22 @@
   <string name="AbstractNotificationBuilder_new_message">Nová správa</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal sa aktualizuje…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp sa aktualizuje…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Aktuálne: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Ešte ste si nenastavili heslo!</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Vypnúť heslo?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Toto natrvalo odomkne Signal a upozornenia na správy.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Toto natrvalo odomkne CoolApp a upozornenia na správy.</string>
   <string name="ApplicationPreferencesActivity_disable">Vypnúť</string>
   <string name="ApplicationPreferencesActivity_unregistering">Rušenie registrácie</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Rušenie registrácie Signal správ a hovorov…</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Vypnúť Signal správy a hovory?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Zakážte Signal správy a hovory zrušením registrácie zo serveru. Pre ich opätovné použitie budete musieť svoje telefónne číslo znovu zaregistrovať.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Rušenie registrácie CoolApp správ a hovorov…</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Vypnúť CoolApp správy a hovory?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Zakážte CoolApp správy a hovory zrušením registrácie zo serveru. Pre ich opätovné použitie budete musieť svoje telefónne číslo znovu zaregistrovať.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Chyba pripojenia na server!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS povolené</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Dotykom nastavte predvolenú aplikáciu pre SMS.</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS vypnuté</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Dotykom nastavte Signal ako predvolenú aplikáciu pre SMS</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Dotykom nastavte CoolApp ako predvolenú aplikáciu pre SMS</string>
   <string name="ApplicationPreferencesActivity_on">zap.</string>
   <string name="ApplicationPreferencesActivity_On">Zapnuté</string>
   <string name="ApplicationPreferencesActivity_off">vyp.</string>
@@ -60,14 +60,14 @@
   <string name="AttachmentKeyboard_file">Súbor</string>
   <string name="AttachmentKeyboard_contact">Kontakt</string>
   <string name="AttachmentKeyboard_location">Poloha</string>
-  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Na zobrazenie vašich fotiek a videí k nim Signal potrebuje prístup.</string>
+  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Na zobrazenie vašich fotiek a videí k nim CoolApp potrebuje prístup.</string>
   <string name="AttachmentKeyboard_give_access">Udeliť prístup</string>
   <string name="AttachmentKeyboard_payment">Platba</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Nenašla sa aplikácia pre výber médií.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal potrebuje prístup k úložisku aby k správam mohol pridať obrázkové, video a zvukové prílohy, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Úložisko\".</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal potrebuje prístup ku kontaktom aby k správam mohol pripojiť informácie o kontakte, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Kontakty\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal potrebuje prístup k polohe aby k správam mohol pripojiť informácie o polohe, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Poloha\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">CoolApp potrebuje prístup k úložisku aby k správam mohol pridať obrázkové, video a zvukové prílohy, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Úložisko\".</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">CoolApp potrebuje prístup ku kontaktom aby k správam mohol pripojiť informácie o kontakte, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Kontakty\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">CoolApp potrebuje prístup k polohe aby k správam mohol pripojiť informácie o polohe, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Poloha\".</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">Nahrávanie prílohy…</string>
   <string name="AttachmentUploadJob_compressing_video_start">Komprimuje sa video…</string>
@@ -92,10 +92,10 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">Členovia skupiny vás budú môcť do tejto skupiny znovu pridať.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Budete si môcť navzájom písať a volať a budú vidieť vaše meno a fotku.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">Zablokované osoby vám nebudú môcť volať ani posielať správy.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Blokovať prijímanie aktualizácií a noviniek Signal.</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Pokračovať v získavaní aktualizácií a noviniek Signal.</string>
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Blokovať prijímanie aktualizácií a noviniek CoolApp.</string>
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Pokračovať v získavaní aktualizácií a noviniek CoolApp.</string>
   <string name="BlockUnblockDialog_unblock_s">Odblokovať %1$s?</string>
   <string name="BlockUnblockDialog_block">Blokovať</string>
   <string name="BlockUnblockDialog_block_and_leave">Zablokovať a odísť</string>
@@ -115,20 +115,20 @@
   <string name="CameraXFragment_open_gallery_description">Otvoriť galériu</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Nedávne kontakty</string>
-  <string name="CameraContacts_signal_contacts">Kontakty Signal</string>
-  <string name="CameraContacts_signal_groups">Skupiny Signal</string>
+  <string name="CameraContacts_signal_contacts">Kontakty CoolApp</string>
+  <string name="CameraContacts_signal_groups">Skupiny CoolApp</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Zdieľať môžete max. %d konverzácie/-í.</string>
-  <string name="CameraContacts_select_signal_recipients">Vybrať príjemcov Signal</string>
-  <string name="CameraContacts_no_signal_contacts">Žiadne kontakty Signal</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">Na odoslanie fotiek kontaktom Signal môžete použiť tlačidlo fotoaparátu.</string>
+  <string name="CameraContacts_select_signal_recipients">Vybrať príjemcov CoolApp</string>
+  <string name="CameraContacts_no_signal_contacts">Žiadne kontakty CoolApp</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">Na odoslanie fotiek kontaktom CoolApp môžete použiť tlačidlo fotoaparátu.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Nenašli ste hľadaný kontakt?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Pozvite kontakt, aby použival Signal</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Pozvite kontakt, aby použival CoolApp</string>
   <string name="CameraContacts__menu_search">Hľadať</string>
   <!--Censorship Circumvention Megaphone-->
   <!--Title for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off_censorship_circumvention">Vypnúť obchádzanie cenzúry?</string>
   <!--Body for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
-  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Teraz sa môžete priamo pripojiť k službe Signal pre lepší zážitok.</string>
+  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Teraz sa môžete priamo pripojiť k službe CoolApp pre lepší zážitok.</string>
   <!--Action to prompt the user to disable circumvention since it is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off">Vypnúť</string>
   <!--Action to prompt the user to dismiss the alert at the bottom of the chat list-->
@@ -138,7 +138,7 @@
   <string name="ClearProfileActivity_remove_profile_photo">Odstrániť profilovú fotku?</string>
   <string name="ClearProfileActivity_remove_group_photo">Odstrániť fotku skupiny?</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">Aktualizovať Signal</string>
+  <string name="ClientDeprecatedActivity_update_signal">Aktualizovať CoolApp</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">Táto verzia aplikácie už nie je podporovaná. Aby ste mohli ďalej posielať a prijímať správy, aktualizujte na najnovšiu verziu.</string>
   <string name="ClientDeprecatedActivity_update">Aktualizovať</string>
   <string name="ClientDeprecatedActivity_dont_update">Neaktualizovať</string>
@@ -154,7 +154,7 @@
   <string name="CommunicationActions_insecure_call">Nezabezpečený hovor</string>
   <string name="CommunicationActions_carrier_charges_may_apply">Váš mobilný operátor vám môže účtovať poplatky. Číslo, na ktoré voláte, nie je registrované v Signale. Tento hovor sa uskutoční prostredníctvom vášho mobilného operátora, nie cez internet.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Vaše bezpečnostné číslo s %1$s sa zmenilo. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že %2$s si preinštaloval/a Signal.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Vaše bezpečnostné číslo s %1$s sa zmenilo. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že %2$s si preinštaloval/a CoolApp.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Mali by ste overiť vaše bezpečnostné číslo s týmto kontaktom.</string>
   <string name="ConfirmIdentityDialog_accept">Potvrdiť</string>
   <!--ContactsCursorLoader-->
@@ -169,7 +169,7 @@
   <string name="ContactsCursorLoader_new_story">Nový príbeh</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Správa %s</string>
-  <string name="ContactsDatabase_signal_call_s">Signal Hovor %s</string>
+  <string name="ContactsDatabase_signal_call_s">CoolApp Hovor %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Krstné meno</string>
   <string name="ContactNameEditActivity_family_name">Priezvisko</string>
@@ -192,7 +192,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Odosielanie zlyhalo, ťuknutím pošlete nezabezpečenú správu</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Prepnúť na nezabezpečené SMS?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Prepnúť na nezabezpečené MMS?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Táto správa <b>nebude</b> šifrovaná, pretože adresát už nepoužíva Signal.\n\nOdoslať nezabezpečenú SMS správu?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Táto správa <b>nebude</b> šifrovaná, pretože adresát už nepoužíva CoolApp.\n\nOdoslať nezabezpečenú SMS správu?</string>
   <string name="ConversationItem_unable_to_open_media">Nepodarilo sa nájst aplikáciu schopnú otvoriť tento typ súboru.</string>
   <string name="ConversationItem_copied_text">Skopírovaných %s</string>
   <string name="ConversationItem_from_s">od %s</string>
@@ -217,8 +217,8 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Zdá sa, že toto zariadenie nedokáže vytočiť telefónne číslo.</string>
   <string name="ConversationActivity_transport_insecure_sms">Nezabezpečená SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Nezabezpečená MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Prejdime na Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Prejdime na CoolApp %1$s</string>
   <string name="ConversationActivity_specify_recipient">Prosím vyberte kontakt</string>
   <string name="ConversationActivity_unblock">Odblokovať</string>
   <string name="ConversationActivity_attachment_exceeds_size_limits">Príloha presahuje limit veľkosti pre tento typ správy.</string>
@@ -232,17 +232,17 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Vo vašom zariadení nie je aplikácia schopná otvoriť tento odkaz.</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">Vaša žiadosť o členstvo bola odoslaná administrátorovi skupiny. Keď na ňu zareaguje, dostanete oznámenie.</string>
   <string name="ConversationActivity_cancel_request">Zrušiť žiadosť</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Pre posielanie zvukových správ potrebuje Signal prístup k mikrofónu.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal potrebuje prístup k mikrofónu aby mohol posielať zvukové správy, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Mikrofón\".</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Signal potrebuje prístup k mikrofónu a fotoaparátu aby mohol zavolať %s, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Mikrofón\" a \"Fotoaparát\".</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Pre fotenie a nahrávanie videa potrebuje Signal prístup k fotoaparátu.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal potrebuje prístup k fotoaparátu aby mohol vytvárať fotografie a video, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal potrebuje prístup k Fotoaparátu, aby mohol vytvárať fotografie a videá</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Pre posielanie zvukových správ potrebuje CoolApp prístup k mikrofónu.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">CoolApp potrebuje prístup k mikrofónu aby mohol posielať zvukové správy, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Mikrofón\".</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">CoolApp potrebuje prístup k mikrofónu a fotoaparátu aby mohol zavolať %s, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Mikrofón\" a \"Fotoaparát\".</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Pre fotenie a nahrávanie videa potrebuje CoolApp prístup k fotoaparátu.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">CoolApp potrebuje prístup k fotoaparátu aby mohol vytvárať fotografie a video, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">CoolApp potrebuje prístup k Fotoaparátu, aby mohol vytvárať fotografie a videá</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">Pre snímanie videí so zvukom povoľte prístup k mikrofónu.</string>
-  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signal potrebuje pre nahrávanie videí prístup k mikrofónu, no ten bol zamietnutý. Pokračujte, prosím, do nastavení aplikácie, vyberte „Povolenia“ a povoľte „Mikrofón“ a „Fotoaparát“.</string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signal potrebuje pre nahrávanie videí prístup k mikrofónu.</string>
+  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">CoolApp potrebuje pre nahrávanie videí prístup k mikrofónu, no ten bol zamietnutý. Pokračujte, prosím, do nastavení aplikácie, vyberte „Povolenia“ a povoľte „Mikrofón“ a „Fotoaparát“.</string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">CoolApp potrebuje pre nahrávanie videí prístup k mikrofónu.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal nemôže odosielať SMS/MMS, pretože nie je prednastavenou SMS aplikáciou. Chcete to zmeniť v nastaveniach Androidu?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp nemôže odosielať SMS/MMS, pretože nie je prednastavenou SMS aplikáciou. Chcete to zmeniť v nastaveniach Androidu?</string>
   <string name="ConversationActivity_yes">Áno</string>
   <string name="ConversationActivity_no">Nie</string>
   <string name="ConversationActivity_search_position">%1$d z %2$d</string>
@@ -256,7 +256,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">Opustíte túto skupinu a vymažete ju zo všetkých vašich zariadení.</string>
   <string name="ConversationActivity_delete">Vymazať</string>
   <string name="ConversationActivity_delete_and_leave">Odstrániť a opustiť</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Pre volanie %1$s potrebuje Signal prístup k vášmu mikrofónu</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Pre volanie %1$s potrebuje CoolApp prístup k vášmu mikrofónu</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">Viac nových možností v sekcii \"Nastavenia skupiny\"</string>
   <string name="ConversationActivity_join">Pridať sa</string>
   <string name="ConversationActivity_full">Plný</string>
@@ -303,14 +303,14 @@
     <item quantity="other">Ukladanie %1$d príloh na úložisko…</item>
   </plurals>
   <string name="ConversationFragment_pending">Čaká na spracovanie…</string>
-  <string name="ConversationFragment_push">Dáta (Signal)</string>
+  <string name="ConversationFragment_push">Dáta (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Mazanie</string>
   <string name="ConversationFragment_deleting_messages">Mažú sa správy…</string>
   <string name="ConversationFragment_delete_for_me">Zmazať pre mňa</string>
   <string name="ConversationFragment_delete_for_everyone">Zmazať pre všetkých</string>
-  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Táto správa sa vymaže všetkým v chate, čo používajú modernú verziu aplikácie Signal. Členovia budú vidieť, že ste vymazali správu.</string>
+  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Táto správa sa vymaže všetkým v chate, čo používajú modernú verziu aplikácie CoolApp. Členovia budú vidieť, že ste vymazali správu.</string>
   <string name="ConversationFragment_quoted_message_not_found">Pôvodná správa sa nenašla</string>
   <string name="ConversationFragment_quoted_message_no_longer_available">Pôvodná správa už nie je k dispozícii</string>
   <string name="ConversationFragment_failed_to_open_message">Nepodarilo sa otvoriť správu</string>
@@ -322,12 +322,12 @@
   <string name="ConversationFragment__d_group_members_have_the_same_name">%1$d členovia skupiny majú rovnaké meno.</string>
   <string name="ConversationFragment__tap_to_review">Ťuknite pre kontrolu</string>
   <string name="ConversationFragment__review_requests_carefully">Požiadavky pozorne overte</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">Signal našiel ďalší kontakt s rovnakým menom.</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">CoolApp našiel ďalší kontakt s rovnakým menom.</string>
   <string name="ConversationFragment_contact_us">Kontaktujte nás</string>
   <string name="ConversationFragment_verify">Overiť</string>
   <string name="ConversationFragment_not_now">Teraz nie</string>
   <string name="ConversationFragment_your_safety_number_with_s_changed">Vaše bezpečnostné číslo s %s sa zmenilo.</string>
-  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Vaše bezpečnostné číslo s %s sa zmenilo, zrejme preto, že si preinštalovali Signal alebo vymenili zariadenie. Ťuknite Overiť pre potvrdenie nového bezpečnostného čísla. Táto akcia je nepovinná.</string>
+  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Vaše bezpečnostné číslo s %s sa zmenilo, zrejme preto, že si preinštalovali CoolApp alebo vymenili zariadenie. Ťuknite Overiť pre potvrdenie nového bezpečnostného čísla. Táto akcia je nepovinná.</string>
   <!--Message shown to indicate which notification profile is on/active-->
   <string name="ConversationFragment__s_on">%1$s na</string>
   <!--Dialog title for block group link join requests-->
@@ -487,7 +487,7 @@
   <string name="BackupsPreferenceFragment__d_so_far">Zatiaľ %1$d…</string>
   <!--Show percentage of completion of backup-->
   <string name="BackupsPreferenceFragment__s_so_far">Zatiaľ %1$s%% …</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal potrebuje prístup k úložisku aby mohol vytvárať zálohy, ale prístup bol natrvalo zakázaný. Prosím, v nastaveniach aplikácií zvoľte \"Oprávnenia\" a povoľte \"Úložisko\".</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">CoolApp potrebuje prístup k úložisku aby mohol vytvárať zálohy, ale prístup bol natrvalo zakázaný. Prosím, v nastaveniach aplikácií zvoľte \"Oprávnenia\" a povoľte \"Úložisko\".</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Používa sa vlastné: %s</string>
   <string name="CustomDefaultPreference_using_default">Používa sa predvolené: %s</string>
@@ -506,7 +506,7 @@
   <string name="DateUtils_yesterday">Včera</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">Chatové stretnutie obnovené</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">Signal používa koncové šifrovanie a občas môže potrebovať obnoviť vašu chatovú reláciu. Toto nemá vplyv na bezpečnosť vášho chatu, ale mohla by vám uniknúť správa od tohto kontaktu a môžete používateľa požiadať, aby vám ju poslal znovu.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">CoolApp používa koncové šifrovanie a občas môže potrebovať obnoviť vašu chatovú reláciu. Toto nemá vplyv na bezpečnosť vášho chatu, ale mohla by vám uniknúť správa od tohto kontaktu a môžete používateľa požiadať, aby vám ju poslal znovu.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Odpojiť \"%s\"?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Po odpojení zariadenia nebudete môcť prijímať, ani odosielať správy.</string>
@@ -541,8 +541,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Viaceré prílohy sú podporované iba pre obrázky a videá</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">Na odosielanie do tejto skupiny nemáte povolenie</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Trvalá chyba komunikácie Signal!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal sa nebol schopný registrovať k službám Google Play. Signal správy a hovory boli vypnuté, prosím zaregistrujte sa opätovne cez Nastavenia &gt; Rozšírené.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Trvalá chyba komunikácie CoolApp!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">CoolApp sa nebol schopný registrovať k službám Google Play. CoolApp správy a hovory boli vypnuté, prosím zaregistrujte sa opätovne cez Nastavenia &gt; Rozšírené.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Chyba pri prijímaní GIFu v plnom rozlíšení</string>
   <!--GiphyFragmentPageAdapter-->
@@ -589,10 +589,10 @@
     <item quantity="other">Títo členovia musia znova prijať pozvánku do skupiny a kým ju neprijmú, nebudú dostávať skupinové správy:</item>
   </plurals>
   <plurals name="GroupsV1MigrationLearnMore_these_members_were_removed_from_the_group">
-    <item quantity="one">Tento člen bol odstránený zo skupiny a nebude sa môcť do nej znova pridať, pokým si Signal neaktualizuje:</item>
-    <item quantity="few">Títo členovia boli odstránení zo skupiny a nebudú sa môcť do nej znovu pridať, pokým si Signal neaktualizujú:</item>
-    <item quantity="many">Títo členovia boli odstránení zo skupiny a nebudú sa môcť do nej znovu pridať, pokým si Signal neaktualizujú:</item>
-    <item quantity="other">Títo členovia boli odstránení zo skupiny a nebudú sa môcť do nej znovu pridať, pokým si Signal neaktualizujú:</item>
+    <item quantity="one">Tento člen bol odstránený zo skupiny a nebude sa môcť do nej znova pridať, pokým si CoolApp neaktualizuje:</item>
+    <item quantity="few">Títo členovia boli odstránení zo skupiny a nebudú sa môcť do nej znovu pridať, pokým si CoolApp neaktualizujú:</item>
+    <item quantity="many">Títo členovia boli odstránení zo skupiny a nebudú sa môcť do nej znovu pridať, pokým si CoolApp neaktualizujú:</item>
+    <item quantity="other">Títo členovia boli odstránení zo skupiny a nebudú sa môcť do nej znovu pridať, pokým si CoolApp neaktualizujú:</item>
   </plurals>
   <!--GroupsV1MigrationInitiationBottomSheetDialogFragment-->
   <string name="GroupsV1MigrationInitiation_upgrade_to_new_group">Modernizovať na Novú skupinu</string>
@@ -728,7 +728,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">Toto pole je povinné.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">Vytvorenie skupiny zlyhalo.</string>
   <string name="AddGroupDetailsFragment__try_again_later">Skúsiť znova neskôr.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Vybrali ste kontakt, ktorý nepodporuje skupiny Signal, takže táto skupina bude MMS.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Vybrali ste kontakt, ktorý nepodporuje skupiny CoolApp, takže táto skupina bude MMS.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Vlastné názvy a fotky MMS skupín budú viditeľné len pre vás.</string>
   <string name="AddGroupDetailsFragment__remove">Odstrániť</string>
   <string name="AddGroupDetailsFragment__sms_contact">SMS kontakt</string>
@@ -763,8 +763,8 @@
   <string name="ManageGroupActivity_only_admins_can_enable_or_disable_the_option_to_approve_new_members">Iba administrátori môžu povoliť alebo zakázať možnosť schvaľovania nových členov.</string>
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">Iba administrátori môžu zresetovať zdieľateľný odkaz do skupiny.</string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">Nemáte oprávnenia na vykonanie tejto akcie</string>
-  <string name="ManageGroupActivity_not_capable">Niekto, koho ste pridali, nepodporuje nové skupiny a potrebuje si aktualizovať Signal</string>
-  <string name="ManageGroupActivity_not_announcement_capable">Niekto, koho ste pridali, nepodporuje skupiny oznámení a potrebuje aktualizovať Signal</string>
+  <string name="ManageGroupActivity_not_capable">Niekto, koho ste pridali, nepodporuje nové skupiny a potrebuje si aktualizovať CoolApp</string>
+  <string name="ManageGroupActivity_not_announcement_capable">Niekto, koho ste pridali, nepodporuje skupiny oznámení a potrebuje aktualizovať CoolApp</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">Nepodarilo sa aktualizovať skupinu</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">Nie ste členom tejto skupiny</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">Nepodarilo sa aktualizovať skupinu, prosím, skúste to neskôr</string>
@@ -775,7 +775,7 @@
   <string name="ManageGroupActivity_legacy_group_upgrade">Toto je Zastaraná skupina. Pre prístup k novým funkciám ako @spomenutia a administrátori</string>
   <string name="ManageGroupActivity_legacy_group_too_large">Táto Zastaraná skupina nemôže byť modernizovaná na Novú skupinu, lebo je príliš veľká. Maximálna veľkosť skupiny je %1$d.</string>
   <string name="ManageGroupActivity_upgrade_this_group">modernizujte túto skupinu.</string>
-  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Toto je nezabezpečené MMS skupina. Ak si chcete písať súkromne, pozvite svoje kontakty na Signal.</string>
+  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Toto je nezabezpečené MMS skupina. Ak si chcete písať súkromne, pozvite svoje kontakty na CoolApp.</string>
   <string name="ManageGroupActivity_invite_now">Pozvať teraz</string>
   <string name="ManageGroupActivity_more">viac</string>
   <string name="ManageGroupActivity_add_group_description">Pridať popis skupiny…</string>
@@ -868,10 +868,10 @@
     <item quantity="other">Skupina · %1$d členov</item>
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Pre používanie odkazov do skupín aktualizujte Signal.</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Verzia aplikácie Signal, ktorú používate, nepodporuje pripojenie do skupín cez odkazy. Ak sa chcete pridať do tejto skupiny cez odkaz, aktualizujte na najnovšiu verziu.</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Aktualizovať Signal</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Jedno alebo viac pripojených zariadení používa verziu Signalu, ktorá nepodporuje odkazy do skupín. Ak sa chcete pridať do tejto skupiny, aktualizujte Signal na svojom pripojenom zariadení/iach.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Pre používanie odkazov do skupín aktualizujte CoolApp.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Verzia aplikácie CoolApp, ktorú používate, nepodporuje pripojenie do skupín cez odkazy. Ak sa chcete pridať do tejto skupiny cez odkaz, aktualizujte na najnovšiu verziu.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Aktualizovať CoolApp</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Jedno alebo viac pripojených zariadení používa verziu Signalu, ktorá nepodporuje odkazy do skupín. Ak sa chcete pridať do tejto skupiny, aktualizujte CoolApp na svojom pripojenom zariadení/iach.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">Odkaz do skupiny nie je platný</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Pozvať priateľov</string>
@@ -911,7 +911,7 @@
     <item quantity="many">Odoslať %d SMS pozvánok? </item>
     <item quantity="other">Odoslať %d SMS pozvánok? </item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Prejdime na Signal: %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Prejdime na CoolApp: %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Vyzerá to, že nemáte žiadne aplikácie kam by ste mohli zdieľať.</string>
   <!--LearnMoreTextView-->
   <string name="LearnMoreTextView_learn_more">Dozvedieť sa viac</string>
@@ -921,7 +921,7 @@
   <string name="LongMessageActivity_message_from_s">Správa od %1$s</string>
   <string name="LongMessageActivity_your_message">Vaša správa</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Pripojenie na pozadí zapnuté</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Chyba pri načítaní MMS nastavení poskytovateľa</string>
@@ -984,7 +984,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">Vami odoslané adresátovi %1$s</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">Pripomenúť neskôr</string>
-  <string name="Megaphones_verify_your_signal_pin">Overte svoj PIN pre Signal</string>
+  <string name="Megaphones_verify_your_signal_pin">Overte svoj PIN pre CoolApp</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">Občas vás požiadame o overenie PINu, aby ste ho nezabudli.</string>
   <string name="Megaphones_verify_pin">Overiť PIN</string>
   <string name="Megaphones_get_started">Začať</string>
@@ -994,11 +994,11 @@
   <string name="Megaphones_appearance">Vzhľad</string>
   <string name="Megaphones_add_photo">Pridať fotku</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Prebieha Signal hovor</string>
-  <string name="NotificationBarManager__establishing_signal_call">Príprava na Signal hovor</string>
-  <string name="NotificationBarManager__incoming_signal_call">Prichádzajúci Signal hovor</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">Prichádzajúci Signal skupinový hovor</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">Zastavenie služby Signal hovoru</string>
+  <string name="NotificationBarManager_signal_call_in_progress">Prebieha CoolApp hovor</string>
+  <string name="NotificationBarManager__establishing_signal_call">Príprava na CoolApp hovor</string>
+  <string name="NotificationBarManager__incoming_signal_call">Prichádzajúci CoolApp hovor</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">Prichádzajúci CoolApp skupinový hovor</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">Zastavenie služby CoolApp hovoru</string>
   <string name="NotificationBarManager__decline_call">Odmietnuť hovor</string>
   <string name="NotificationBarManager__answer_call">Prijať hovor</string>
   <string name="NotificationBarManager__end_call">Ukončiť hovor</string>
@@ -1025,8 +1025,8 @@
   <string name="MediaSendActivity_message_to_s">Správa pre %s</string>
   <string name="MediaSendActivity_message">Správa</string>
   <string name="MediaSendActivity_select_recipients">Vybrať príjemcov</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal potrebuje prístup k Vašim kontaktom, aby ich mohol zobraziť.</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Signal potrebuje prístup k povoleniu Kontakty, aby mohol zobraziť vaše kontakty, ale prístup bol natrvalo zakázaný. Prejdite do nastavení aplikácie, zvoľte \"Povolenia\", a povoľte \"Kontakty\".</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">CoolApp potrebuje prístup k Vašim kontaktom, aby ich mohol zobraziť.</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">CoolApp potrebuje prístup k povoleniu Kontakty, aby mohol zobraziť vaše kontakty, ale prístup bol natrvalo zakázaný. Prejdite do nastavení aplikácie, zvoľte \"Povolenia\", a povoľte \"Kontakty\".</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="one">Nemôžete zdieľať viac ako %d položku.</item>
     <item quantity="few">Nemôžete zdieľať viac ako %d položiky.</item>
@@ -1233,7 +1233,7 @@
   <!--Update item message shown in the release channel when someone is already a sustainer so we ask them if they want to boost.-->
   <string name="MessageRecord_like_this_new_feature_say_thanks_with_a_boost">Páči sa vám táto nová funkcia? Poďakujte pomocou funkcie Podporiť.</string>
   <!--Update item message shown in the release channel when someone is not a sustainer so we ask them to consider becoming one-->
-  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">Signal poháňajú ľudia ako vy. Staňte sa podporovateľom ešte dnes.</string>
+  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">CoolApp poháňajú ľudia ako vy. Staňte sa podporovateľom ešte dnes.</string>
   <!--Group Calling update messages-->
   <string name="MessageRecord_s_started_a_group_call_s">%1$s zahájil(a) skupinový hovor · %2$s</string>
   <string name="MessageRecord_s_is_in_the_group_call_s">%1$s je v skupinovom hovore · %2$s</string>
@@ -1316,8 +1316,8 @@
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Máte príliš veľa pripojených zariadení, skúste niektoré odpojiť</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Tento QR kód neslúži na pridanie zariadenia.</string>
   <string name="DeviceProvisioningActivity_link_a_signal_device">Pridať zariadenie so Signalom?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Vyzerá to, že sa snažíte pripojiť zariadenie Signal cez skener tretej strany. Pre vašu bezpečnosť, prosím naskenujte kód znovu priamo zo Signalu.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal potrebuje prístup k fotoaparátu aby mohol naskenovať QR kód, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Vyzerá to, že sa snažíte pripojiť zariadenie CoolApp cez skener tretej strany. Pre vašu bezpečnosť, prosím naskenujte kód znovu priamo zo Signalu.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">CoolApp potrebuje prístup k fotoaparátu aby mohol naskenovať QR kód, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Nedá sa naskenovať QR kód bez povolenia prístupu k fotoaparátu</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Aktualizujte teraz</string>
@@ -1330,11 +1330,11 @@
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Zadajte heslo</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal ikona</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">CoolApp ikona</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Odoslať heslo</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Nesprávne heslo!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Odomknúť Signal</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - Zámok obrazovky</string>
+  <string name="PassphrasePromptActivity_unlock_signal">Odomknúť CoolApp</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - Zámok obrazovky</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Mapa</string>
   <string name="PlacePickerActivity_drop_pin">Umiestniť značku</string>
@@ -1357,12 +1357,12 @@
     <item quantity="many">Zostáva vám ešte %1$d pokusov. Ak počet pokusov vyčerpáte, môžete si vytvoriť nový PIN. Môžete sa zaregistrovať a používať svoj účet naďalej, ale stratíte niektoré uložené nastavenia, ako napríklad profilové informácie.</item>
     <item quantity="other">Zostáva vám ešte %1$d pokusov. Ak počet pokusov vyčerpáte, môžete si vytvoriť nový PIN. Môžete sa zaregistrovať a používať svoj účet naďalej, ale stratíte niektoré uložené nastavenia, ako napríklad profilové informácie.</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Signal registrácia - potrebujem pomoct s PIN na Androide</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">CoolApp registrácia - potrebujem pomoct s PIN na Androide</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">Zadajte alfanumerický PIN kód</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">Zadajte číselný PIN kód</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">Vytvorte si PIN</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Vyčerpali ste všetky pokusy na zadanie PIN, ale stále sa môžete k svojmu Signal účtu dosať vytvorením nového PIN. Kvôli ochrane vašeho súkromia a vašej bezpečnosti bude váš účet obnovený bez uložených profilových informácií alebo nastavení.</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Vyčerpali ste všetky pokusy na zadanie PIN, ale stále sa môžete k svojmu CoolApp účtu dosať vytvorením nového PIN. Kvôli ochrane vašeho súkromia a vašej bezpečnosti bude váš účet obnovený bez uložených profilových informácií alebo nastavení.</string>
   <string name="PinRestoreLockedFragment_create_new_pin">Vytvoriť nový PIN</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Varovanie</string>
@@ -1382,7 +1382,7 @@
   <string name="ReactionsRecipientAdapter_you">Vy</string>
   <!--RecaptchaRequiredBottomSheetFragment-->
   <string name="RecaptchaRequiredBottomSheetFragment_verify_to_continue_messaging">Pre pokračovanie v zasielaní správ overte</string>
-  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Ak chcete zabrániť spamu v Signal, dokončite overenie.</string>
+  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Ak chcete zabrániť spamu v CoolApp, dokončite overenie.</string>
   <string name="RecaptchaRequiredBottomSheetFragment_after_verifying_you_can_continue_messaging">Po overení, môžete pokračovať v zasielaní správ. Pozastavené správy sa automaticky odošlú.</string>
   <!--Recipient-->
   <string name="Recipient_you">Vy</string>
@@ -1407,18 +1407,18 @@
   <!--Title text for the Valentine\'s Day donation megaphone. The placeholder will always be a heart emoji. Needs to be a placeholder for Android reasons.-->
   <string name="ValentinesDayMegaphone_happy_heart_day">Šťastný 💜 Deň!</string>
   <!--Body text for the Valentine\'s Day donation megaphone.-->
-  <string name="ValentinesDayMegaphone_show_your_affection">Ukážte svoju náklonnosť tým, že sa stanete podporovateľom Signal.</string>
+  <string name="ValentinesDayMegaphone_show_your_affection">Ukážte svoju náklonnosť tým, že sa stanete podporovateľom CoolApp.</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Ťuknite sem pre spustenie videa</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Pre volanie %1$s potrebuje Signal prístup k vašej kamere</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Pre volanie %1$s potrebuje CoolApp prístup k vašej kamere</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Uskutočňovanie hovoru…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">Skupina je príliš veľká na to, aby vyzváňala účastníkom.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">Pripájanie…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Signal hovor</string>
-  <string name="WebRtcCallView__signal_video_call">Videohovor Signal</string>
+  <string name="WebRtcCallView__signal_call">CoolApp hovor</string>
+  <string name="WebRtcCallView__signal_video_call">Videohovor CoolApp</string>
   <string name="WebRtcCallView__start_call">Začať hovor</string>
   <string name="WebRtcCallView__join_call">Pripojiť sa k hovoru</string>
   <string name="WebRtcCallView__call_is_full">Hovor je plne obsadený</string>
@@ -1428,13 +1428,13 @@
   <string name="WebRtcCallView__reconnecting">Pripájanie…</string>
   <string name="WebRtcCallView__joining">Pripája sa…</string>
   <string name="WebRtcCallView__disconnected">Odpojený</string>
-  <string name="WebRtcCallView__signal_will_ring_s">Signal zazvoní %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">Signal zazvoní %1$s a %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">CoolApp zazvoní %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">CoolApp zazvoní %1$s a %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="one">Signal zazvoní %1$s, %2$s a %3$d ďalšiemu</item>
-    <item quantity="few">Signal zazvoní %1$s, %2$s a %3$d ďalším</item>
-    <item quantity="many">Signal zazvoní %1$s, %2$s a %3$d ďalším</item>
-    <item quantity="other">Signal zazvoní %1$s, %2$s a %3$d ďalším</item>
+    <item quantity="one">CoolApp zazvoní %1$s, %2$s a %3$d ďalšiemu</item>
+    <item quantity="few">CoolApp zazvoní %1$s, %2$s a %3$d ďalším</item>
+    <item quantity="many">CoolApp zazvoní %1$s, %2$s a %3$d ďalším</item>
+    <item quantity="other">CoolApp zazvoní %1$s, %2$s a %3$d ďalším</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s bude upozornený</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s a %2$s bude upozornený</string>
@@ -1521,18 +1521,18 @@ telefónne číslo
   <string name="RegistrationActivity_is_your_phone_number_above_correct">Je vaše telefónne číslo, uvedené vyššie, správne?</string>
   <string name="RegistrationActivity_edit_number">Úprav číslo</string>
   <string name="RegistrationActivity_missing_google_play_services">Chýba služba Google Play</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">V tomto zariadení chýba služba Google Play. Signal môžete používať aj tak, ale táto konfigurácia môže mať za následok nespoľahlivosť a nižší výkon.\n\nAk nie ste pokročilý užívateľ, nepoužívate neoficiálny ROM telefónu alebo si myslíte, že sa vám toto hlásenie nemalo zobrazovať, kontaktujte nás na support@signal.org pre vyriešenie problému.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">V tomto zariadení chýba služba Google Play. CoolApp môžete používať aj tak, ale táto konfigurácia môže mať za následok nespoľahlivosť a nižší výkon.\n\nAk nie ste pokročilý užívateľ, nepoužívate neoficiálny ROM telefónu alebo si myslíte, že sa vám toto hlásenie nemalo zobrazovať, kontaktujte nás na support@asia.coolapp.chat pre vyriešenie problému.</string>
   <string name="RegistrationActivity_i_understand">Rozumiem</string>
   <string name="RegistrationActivity_play_services_error">Chyba služby Google Play</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Služba Google Play sa aktualizuje, alebo je dočasne nedostupná. Prosím, skúste to znova.</string>
   <string name="RegistrationActivity_terms_and_privacy">Podmienky a Zásady ochrany osobných údajov</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signal potrebuje povolenia na kontakty a médiá, aby vám pomohol spojiť sa s priateľmi a odosielať správy. Vaše kontakty sa nahrávajú pomocou zisťovania súkromných kontaktov Signal, čo znamená, že sú šifrované end-to-end a nikdy ich služba Signal nevidí.</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">Signal potrebuje povolenie kontaktov, aby vám pomohol spojiť sa s priateľmi. Vaše kontakty sa nahrávajú pomocou zisťovania súkromných kontaktov Signal, čo znamená, že sú šifrované end-to-end a nikdy ich služba Signal nevidí.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">CoolApp potrebuje povolenia na kontakty a médiá, aby vám pomohol spojiť sa s priateľmi a odosielať správy. Vaše kontakty sa nahrávajú pomocou zisťovania súkromných kontaktov CoolApp, čo znamená, že sú šifrované end-to-end a nikdy ich služba CoolApp nevidí.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">CoolApp potrebuje povolenie kontaktov, aby vám pomohol spojiť sa s priateľmi. Vaše kontakty sa nahrávajú pomocou zisťovania súkromných kontaktov CoolApp, čo znamená, že sú šifrované end-to-end a nikdy ich služba CoolApp nevidí.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Urobili ste príliš veľa pokusov o zaregistrovanie tohto čísla. Prosím, skúste to znovu neskôr.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Nepodarilo sa pripojiť k službe. Prosím, overte Vaše sieťové pripojenie a skúste to znovu.</string>
   <string name="RegistrationActivity_non_standard_number_format">Neštandardný formát čísla</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">Zdá sa, že zadané číslo (%1$s) má neštandardný formát.\n\n Mali ste na mysli %2$s?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android - Formát telefónneho čísla</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android - Formát telefónneho čísla</string>
   <string name="RegistrationActivity_call_requested">Hovor požadovaný</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Ste %d krok od odoslania ladiaceho záznamu.</item>
@@ -1572,12 +1572,12 @@ telefónne číslo
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Pridať medzi kontakty</string>
   <string name="SharedContactDetailsActivity_invite_to_signal">Pozvať do Signalu</string>
-  <string name="SharedContactDetailsActivity_signal_message">Signal správa</string>
-  <string name="SharedContactDetailsActivity_signal_call">Signal hovor</string>
+  <string name="SharedContactDetailsActivity_signal_message">CoolApp správa</string>
+  <string name="SharedContactDetailsActivity_signal_call">CoolApp hovor</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Pridať medzi kontakty</string>
   <string name="SharedContactView_invite_to_signal">Pozvať do Signalu</string>
-  <string name="SharedContactView_message">Signal správa</string>
+  <string name="SharedContactView_message">CoolApp správa</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">Viac</string>
   <!--SignalPinReminders-->
@@ -1637,7 +1637,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="SupportEmailUtil_device_info">Info o zariadení:</string>
   <string name="SupportEmailUtil_android_version">Verzia Androidu:</string>
   <string name="SupportEmailUtil_signal_version">Verzia Signalu:</string>
-  <string name="SupportEmailUtil_signal_package">Signal balíček:</string>
+  <string name="SupportEmailUtil_signal_package">CoolApp balíček:</string>
   <string name="SupportEmailUtil_registration_lock">Registračný zámok:</string>
   <string name="SupportEmailUtil_locale">Miestne nastavenia:</string>
   <!--ThreadRecord-->
@@ -1693,22 +1693,22 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="UsernameEditFragment_usernames_cannot_begin_with_a_number">Používateľské mená nemôžu začínať číslicou.</string>
   <string name="UsernameEditFragment_username_is_invalid">Používateľské meno je neplatné.</string>
   <string name="UsernameEditFragment_usernames_must_be_between_a_and_b_characters">Používateľské mená musia obsahovať %1$d až %2$d znakov.</string>
-  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Používateľské mená sú v aplikácii Signal voliteľné. Ak sa rozhodnete vytvoriť používateľské meno, ostatní používatelia Signalu vás budú môcť podľa neho nájsť a spojiť sa s vami bez toho, aby poznali vaše telefónne číslo.</string>
+  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Používateľské mená sú v aplikácii CoolApp voliteľné. Ak sa rozhodnete vytvoriť používateľské meno, ostatní používatelia Signalu vás budú môcť podľa neho nájsť a spojiť sa s vami bez toho, aby poznali vaše telefónne číslo.</string>
   <plurals name="UserNotificationMigrationJob_d_contacts_are_on_signal">
-    <item quantity="one">%d váš kontakt začal používať Signal!</item>
-    <item quantity="few">%d vaše kontakty začali používať Signal!</item>
-    <item quantity="many">%d vašich kontaktov začalo používať Signal!</item>
-    <item quantity="other">%d vašich kontaktov začalo používať Signal!</item>
+    <item quantity="one">%d váš kontakt začal používať CoolApp!</item>
+    <item quantity="few">%d vaše kontakty začali používať CoolApp!</item>
+    <item quantity="many">%d vašich kontaktov začalo používať CoolApp!</item>
+    <item quantity="other">%d vašich kontaktov začalo používať CoolApp!</item>
   </plurals>
   <!--VerifyIdentityActivity-->
   <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Váš kontakt používa starú verziu Signalu. Pred overením bezpečnostného čísla ich požiadajte o aktualizáciu aplikácie.</string>
   <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Váš kontakt používa novšiu verziu Signalu, nekompatibilnú s formátom QR kódu. Prosím aktualizujte pre porovnanie.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Naskenovaný QR kód nie je správne formátovaný verifikačný kód bezpečnostného čísla. Prosím skúste ho naskenovať znova.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Zdielať bezpečnostné číslo cez…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Naše Signal bezpečnostné číslo:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Naše CoolApp bezpečnostné číslo:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Vyzerá to, že nemáte žiadne aplikácie kam by sa dalo zdieľať.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">V schránke sa nenašlo žiadne bezpečnostné číslo pre porovnanie</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal potrebuje prístup k fotoaparátu aby mohol naskenovať QR kód, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">CoolApp potrebuje prístup k fotoaparátu aby mohol naskenovať QR kód, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Nedá sa naskenovať QR kód bez povolenia prístupu k fotoaparátu</string>
   <string name="VerifyIdentityActivity_you_must_first_exchange_messages_in_order_to_view">Než uvidíte bezpečnostné číslo používateľa %1$s, musíte si najprv poslať správu.</string>
   <!--ViewOnceMessageActivity-->
@@ -1727,13 +1727,13 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ApplicationMigrationService_system_database_import_is_complete">Import systémovej databázy je dokončený.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Dotykom otvor.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal je odomknutý</string>
-  <string name="KeyCachingService_lock">Zamknúť Signal</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp je odomknutý</string>
+  <string name="KeyCachingService_lock">Zamknúť CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vy</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Nepodporovaný typ súboru</string>
   <string name="MediaPreviewActivity_draft">Koncept</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal potrebuje prístup k úložisku aby mohol ukladať dáta na externé úložisko, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Úložisko\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">CoolApp potrebuje prístup k úložisku aby mohol ukladať dáta na externé úložisko, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Úložisko\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Bez povolenia sa nedá zapisovať na externé úložisko</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Vymazať správu?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Týmto natrvalo odstánite túto správu.</string>
@@ -1752,17 +1752,17 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="MessageNotifier_failed_to_deliver_message">Správu sa nepodarilo doručiť.</string>
   <string name="MessageNotifier_error_delivering_message">Chyba doručovania správy.</string>
   <string name="MessageNotifier_message_delivery_paused">Doručenie správy bolo pozastavené.</string>
-  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Pre pokračovanie v zasielaní správ overte v Signal.</string>
+  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Pre pokračovanie v zasielaní správ overte v CoolApp.</string>
   <string name="MessageNotifier_mark_all_as_read">Označiť všetko ako prečítané</string>
   <string name="MessageNotifier_mark_read">Označiť ako prečítané</string>
   <string name="MessageNotifier_turn_off_these_notifications">Vypnúť tieto upozornenia</string>
   <string name="MessageNotifier_view_once_photo">Fotka na jedno zobrazenie</string>
   <string name="MessageNotifier_view_once_video">Video na jedno zobrazenie</string>
   <string name="MessageNotifier_reply">Odpovedať</string>
-  <string name="MessageNotifier_signal_message">Signal správa</string>
+  <string name="MessageNotifier_signal_message">CoolApp správa</string>
   <string name="MessageNotifier_unsecured_sms">Nezabezpečená SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Pravdepodobne máte nové správy</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Otvorte Signal pre kontrolu nedávnych upozornení.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Otvorte CoolApp pre kontrolu nedávnych upozornení.</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Kontakt</string>
   <string name="MessageNotifier_reacted_s_to_s">reagoval/a na „%2$s“: %1$s.</string>
@@ -1774,7 +1774,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Reagoval(a) %1$s na vaše médium na jedno zobrazenie</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">reagoval/a na vašu nálepku: %1$s.</string>
   <string name="MessageNotifier_this_message_was_deleted">Táto správa bola zmazaná.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Vypnúť upozornenia na to, že kontakt začal používať Signal? Môžete ich znova zapnúť v Signal &gt; Nastavenia &gt; Upozornenia.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Vypnúť upozornenia na to, že kontakt začal používať CoolApp? Môžete ich znova zapnúť v CoolApp &gt; Nastavenia &gt; Upozornenia.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Správy</string>
   <string name="NotificationChannel_calls">Volania</string>
@@ -1786,7 +1786,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="NotificationChannel_group_chats">Chat</string>
   <string name="NotificationChannel_missing_display_name">Neznáma</string>
   <string name="NotificationChannel_voice_notes">Hlasové poznámky</string>
-  <string name="NotificationChannel_contact_joined_signal">Váš kontakt začal používať Signal</string>
+  <string name="NotificationChannel_contact_joined_signal">Váš kontakt začal používať CoolApp</string>
   <string name="NotificationChannels__no_activity_available_to_open_notification_channel_settings">Na otvorenie nastavení kanála upozornení nie je k dispozícii žiadna aktivita.</string>
   <!--Notification channel name for showing persistent background connection on devices without push notifications-->
   <string name="NotificationChannel_background_connection">Pripojenie na pozadí</string>
@@ -1794,7 +1794,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="NotificationChannel_call_status">Stav hovoru</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Rýchla odpoveď nie je dostupná, keď je Signal zamknutý!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Rýchla odpoveď nie je dostupná, keď je CoolApp zamknutý!</string>
   <string name="QuickResponseService_problem_sending_message">Problém pri odosielaní správy!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Uložené do %s</string>
@@ -1805,7 +1805,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Neplatná skratka</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Nová správa</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Žiadosť o správu</string>
   <string name="SingleRecipientNotificationBuilder_you">Vy</string>
@@ -1823,9 +1823,9 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="UnauthorizedReminder_device_no_longer_registered">Zariadenie už nie je registrované</string>
   <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Dôvodom je pravdepodobne to, že ste Vaše telefónne číslo zaregistrovali v Signalu na inom zariadení.</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Ak chcete prijať hovor, poskytnite Signal prístup k mikrofónu.</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Ak chcete prijať hovor, poskytnite CoolApp prístup k mikrofónu.</string>
   <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Pre prijatie hovoru od %s musíte povoliť Signalu prístup k mikrofónu.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal potrebuje prístup k mikrofónu a fotoaparátu aby mohol volať alebo prijímať hovory, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Mikrofón\" a \"Fotoaparát\".</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">CoolApp potrebuje prístup k mikrofónu a fotoaparátu aby mohol volať alebo prijímať hovory, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Mikrofón\" a \"Fotoaparát\".</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Prijaté na pripojenom zariadení.</string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">Odmietnuté na pripojenom zariadení.</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">Zaneprázdnené na pripojenom zariadení.</string>
@@ -1861,15 +1861,15 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Fotka kontaktu</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal potrebuje prístup ku kontaktom aby mohol zobraziť Vaše kontakty, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Kontakty\".</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">CoolApp potrebuje prístup ku kontaktom aby mohol zobraziť Vaše kontakty, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Kontakty\".</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Nepodarilo sa načítať kontakty. Skontrolujte svoje sieťové pripojenie</string>
   <string name="ContactSelectionListFragment_username_not_found">Používateľské meno sa nenašlo</string>
   <string name="ContactSelectionListFragment_s_is_not_a_signal_user">„%1$s“ nie je používateľ Signalu. Skontrolujte používateľské meno a skúste znova.</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">Nie je potrebné pridávať samého seba do skupiny</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">Dosiahnutá maximálna veľkosť skupiny</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Signal skupiny môžu mať maximálne %1$d členov.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">CoolApp skupiny môžu mať maximálne %1$d členov.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">Dosiahli ste odporúčaný limit počtu členov</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Signal skupiny najlepšie fungujú s %1$d členmi alebo menej. Pridanie ďalších členov spôsobí oneskorenia v posielaní a prijímaní správ.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">CoolApp skupiny najlepšie fungujú s %1$d členmi alebo menej. Pridanie ďalších členov spôsobí oneskorenia v posielaní a prijímaní správ.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="one">%1$d člen</item>
     <item quantity="few">%1$d členovia</item>
@@ -1877,7 +1877,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
     <item quantity="other">%1$d členov</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal potrebuje prístup k Vašim kontaktom, aby ich mohol zobraziť.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">CoolApp potrebuje prístup k Vašim kontaktom, aby ich mohol zobraziť.</string>
   <string name="contact_selection_list_fragment__show_contacts">Ukázať Kontakty</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1894,7 +1894,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
     <item quantity="other">%1$d sledujúcich</item>
   </plurals>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Signal správa</string>
+  <string name="conversation_activity__type_message_push">CoolApp správa</string>
   <string name="conversation_activity__type_message_sms_insecure">Nezabezpečená SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Nezabezpečená MMS</string>
   <string name="conversation_activity__from_sim_name">Z %1$s</string>
@@ -1906,7 +1906,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Prepnúť na rýchlu prílohu fotoaparátom</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Nahrať a odoslať zvukovú prílohu</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Zamknúť nahrávanie zvukovej prílohy</string>
-  <string name="conversation_activity__enable_signal_for_sms">Zapnúť Signal pre SMS</string>
+  <string name="conversation_activity__enable_signal_for_sms">Zapnúť CoolApp pre SMS</string>
   <string name="conversation_activity__message_could_not_be_sent">Nepodarilo sa odoslať správu. Skontrolujte svoje pripojenie na internet a skúste znovu.</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Potiahnite pre zrušenie</string>
@@ -1937,7 +1937,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ConversationUpdateItem_view">Zobraziť</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">Keď odošlete správu, čas zmiznutia správy bude nastavený na %1$s.</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Podporiť Signal</string>
+  <string name="ConversationUpdateItem_signal_boost">Podporiť CoolApp</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">Staňte sa Sustainerom</string>
   <!--audio_view-->
@@ -1962,7 +1962,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">Na koniec</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">Bubliny sú funkciou systému Android, ktorú môžete vypnúť pre Signal konverzácie.</string>
+  <string name="BubbleOptOutTooltip__description">Bubliny sú funkciou systému Android, ktorú môžete vypnúť pre CoolApp konverzácie.</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">Teraz nie</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -2043,9 +2043,9 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="IdentityUtil_unverified_banner_one">Vaše bezpečnostné číslo s %s sa zmenilo, a už nie je overené</string>
   <string name="IdentityUtil_unverified_banner_two">Vaše bezpečnostné čísla s %1$s a %2$s už nie sú overené</string>
   <string name="IdentityUtil_unverified_banner_many">Vaše bezpečnostné čísla s %1$s, %2$s, a %3$s už nie sú overené</string>
-  <string name="IdentityUtil_unverified_dialog_one">Vaše bezpečnostné číslo s %1$s sa zmenilo a nie je už overené. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že %1$s si preinštaloval/a Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_two">Vaše bezpečnostné čísla s %1$s a %2$s už nie sú overené. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že si preinštalovali Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_many">Vaše bezpečnostné čísla s %1$s, %2$s a %3$s už nie sú overené. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že si preinštalovali Signal.</string>
+  <string name="IdentityUtil_unverified_dialog_one">Vaše bezpečnostné číslo s %1$s sa zmenilo a nie je už overené. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že %1$s si preinštaloval/a CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_two">Vaše bezpečnostné čísla s %1$s a %2$s už nie sú overené. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že si preinštalovali CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_many">Vaše bezpečnostné čísla s %1$s, %2$s a %3$s už nie sú overené. Môže to znamenať, že sa niekto snaží preniknúť do vašej komunikácie alebo jednoducho, že si preinštalovali CoolApp.</string>
   <string name="IdentityUtil_untrusted_dialog_one">Vaše bezpečnostné číslo s %s sa zmenilo.</string>
   <string name="IdentityUtil_untrusted_dialog_two">Vaše bezpečnostné čísla s %1$s a %2$s sa zmenili.</string>
   <string name="IdentityUtil_untrusted_dialog_many">Vaše bezpečnostné čísla s %1$s, %2$s a %3$s sa zmenili.</string>
@@ -2085,7 +2085,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Odomknúť</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal vyžaduje nastavenia MMS na doručenie médií a skupinových správ cez vášho poskytovateľa pripojenia. Vaše zariadenie neposkytuje tieto informácie, čo občas spôsobujú uzamknuté zariadenia alebo iné obmedzenia v nastaveniach.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">CoolApp vyžaduje nastavenia MMS na doručenie médií a skupinových správ cez vášho poskytovateľa pripojenia. Vaše zariadenie neposkytuje tieto informácie, čo občas spôsobujú uzamknuté zariadenia alebo iné obmedzenia v nastaveniach.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Pre odoslanie médií a skupinových správ stlačte OK, a dokončite príslušné nastavenia. MMS nastavenia vášho poskytovateľa sa väčšinov dajú nájsť vyhľadaním \"váš poskytovateľ APN\". Toto nastavenie musíte urobiť len raz.</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">Problém s doručením</string>
@@ -2125,7 +2125,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Zadajte meno alebo číslo</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ak chcete overiť bezpečnosť šifrovania end-to-end pomocou %s, porovnajte vyššie uvedené čísla s ich zariadeniami. Kód môžete naskenovať aj do ich telefónu. <a href="https://signal.org/redirect/safety-numbers">Viac informácií.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ak chcete overiť bezpečnosť šifrovania end-to-end pomocou %s, porovnajte vyššie uvedené čísla s ich zariadeniami. Kód môžete naskenovať aj do ich telefónu. <a href="https://asia.coolapp.chat/redirect/safety-numbers">Viac informácií.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Ťuknutím naskenujte</string>
   <string name="verify_display_fragment__successful_match">Zhoda úspešná</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">Bezpečnostné číslo sa nepodarilo overiť</string>
@@ -2183,7 +2183,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="HelpFragment__how_do_you_feel">Ako sa cítite? (voliteľné)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">Povedzte nám, prečo píšete.</string>
   <string name="HelpFragment__support_info">Podporné informácie</string>
-  <string name="HelpFragment__signal_android_support_request">Žiadosť o podporu pre Signal Android</string>
+  <string name="HelpFragment__signal_android_support_request">Žiadosť o podporu pre CoolApp Android</string>
   <string name="HelpFragment__debug_log">Denník ladenia:</string>
   <string name="HelpFragment__could_not_upload_logs">Nepodarilo sa nahrať denníky</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Prosíme, čo najpodrobnejšie popíšte situáciu a pomôžte nám tak porozumieť vášmu problému.</string>
@@ -2195,7 +2195,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
     <item>Spätná väzba</item>
     <item>Ostatné</item>
     <item>Platby (MobileCoin)</item>
-    <item>Podporovateľ Signal</item>
+    <item>Podporovateľ CoolApp</item>
   </string-array>
   <!--ReactWithAnyEmojiBottomSheetDialogFragment-->
   <string name="ReactWithAnyEmojiBottomSheetDialogFragment__this_message">Táto správa</string>
@@ -2247,8 +2247,8 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences__sms_mms">SMS a MMS</string>
   <string name="preferences__pref_all_sms_title">Prijať všetky SMS</string>
   <string name="preferences__pref_all_mms_title">Prijať všetky MMS</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Použiť Signal pre všetky prichádzajúce textové správy</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Použiť Signal pre všetky prichádzajúce multimediálne správy</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Použiť CoolApp pre všetky prichádzajúce textové správy</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Použiť CoolApp pre všetky prichádzajúce multimediálne správy</string>
   <string name="preferences__pref_enter_sends_title">Odoslať stlačením klávesy Enter</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Stlačením klávesy Enter sa správa odošle</string>
   <string name="preferences__pref_use_address_book_photos">Použiť fotky zo zoznamu kontaktov</string>
@@ -2263,7 +2263,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Uzamknúť obrazovku a upozornenia pomocou hesla</string>
   <string name="preferences__screen_security">Zabezpečenie obrazovky</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Zakázať vytváranie snímkov obrazovky v tejto aplikácii a v zozname bežiacich aplikácií</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Automaticky zamknúť Signal po určenej dobe bez aktivity</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Automaticky zamknúť CoolApp po určenej dobe bez aktivity</string>
   <string name="preferences__inactivity_timeout_passphrase">Heslo po neaktivite</string>
   <string name="preferences__inactivity_timeout_interval">Interval doby bez aktivity</string>
   <string name="preferences__notifications">Upozornenia</string>
@@ -2294,10 +2294,10 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences__slow">Pomaly</string>
   <string name="preferences__help">Pomocník</string>
   <string name="preferences__advanced">Rozšírené</string>
-  <string name="preferences__donate_to_signal">Prispieť na Signal</string>
+  <string name="preferences__donate_to_signal">Prispieť na CoolApp</string>
   <string name="preferences__subscription">Prispievanie</string>
-  <string name="preferences__become_a_signal_sustainer">Staňte sa podporovateľom Signal</string>
-  <string name="preferences__signal_boost">Podporiť Signal</string>
+  <string name="preferences__become_a_signal_sustainer">Staňte sa podporovateľom CoolApp</string>
+  <string name="preferences__signal_boost">Podporiť CoolApp</string>
   <string name="preferences__privacy">Súkromie</string>
   <string name="preferences__mms_user_agent">MMS používateľský agent</string>
   <string name="preferences__advanced_mms_access_point_names">Manuálne MMS nastavenia</string>
@@ -2328,7 +2328,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN kódy udržiavajú informácie uložené v Signale zašifrované, aby ste k nim mali prístup iba vy. Váš profil, vaše nastavenia a kontakty sa po opätovnej inštalácii obnovia. Na otvorenie aplikácie PIN potrebovať nebudete.</string>
   <string name="preferences__system_default">Predvolené nastavenie</string>
   <string name="preferences__language">Jazyk</string>
-  <string name="preferences__signal_messages_and_calls">Signal správy a hovory</string>
+  <string name="preferences__signal_messages_and_calls">CoolApp správy a hovory</string>
   <string name="preferences__advanced_pin_settings">Pokročilé nastavenia PIN kódu</string>
   <string name="preferences__free_private_messages_and_calls">Bezplatné zabezpečené správy a hovory medzi užívateľmi Signalu</string>
   <string name="preferences__submit_debug_log">Odoslať ladiaci záznam</string>
@@ -2371,7 +2371,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences_storage__custom">Vlastné</string>
   <string name="preferences_advanced__use_system_emoji">Použiť systémové emoji</string>
   <string name="preferences_advanced__disable_signal_built_in_emoji_support">Vypnúť emoji zabudované v Signale</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Smerovať všetky hovory cez server Signal pre zabránenie odhaleniu vašej IP adresy kontaktu. Zapnutie zníži kvalitu hovoru.</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Smerovať všetky hovory cez server CoolApp pre zabránenie odhaleniu vašej IP adresy kontaktu. Zapnutie zníži kvalitu hovoru.</string>
   <string name="preferences_advanced__always_relay_calls">Vždy presmerovať hovory</string>
   <string name="preferences_app_protection__who_can">Kto môže…</string>
   <string name="preferences_app_protection__app_access">Prístup k aplikácii</string>
@@ -2393,19 +2393,19 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences_chats__show_invitation_prompts">Zobraziť pozvánky</string>
   <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Zobraziť pozvánky pre kontakty bez Signalu</string>
   <string name="preferences_chats__message_text_size">Veľkosť písma správy</string>
-  <string name="preferences_events__contact_joined_signal">Váš kontakt začal používať Signal</string>
+  <string name="preferences_events__contact_joined_signal">Váš kontakt začal používať CoolApp</string>
   <string name="preferences_notifications__priority">Priorita</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <string name="preferences_communication__category_censorship_circumvention">Obchádzanie cenzúry</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention">Obchádzanie cenzúry</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Keď je povolené, Signal sa pokúsi obísť cenzúru. Nepovoľujte v umiestneniach, kde Signal nie je cenzurovaný.</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Keď je povolené, CoolApp sa pokúsi obísť cenzúru. Nepovoľujte v umiestneniach, kde CoolApp nie je cenzurovaný.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">Obchádzanie cenzúry bolo zapnuté na základe telefónneho čísla vašeho účtu.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Obchádzanie cenzúry ste manuálne vypli.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Obchádzanie cenzúry nie je nutné; už ste pripojený k službe Signal.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Obchádzanie cenzúry nie je nutné; už ste pripojený k službe CoolApp.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">Obchádzanie cenzúry je možné zapnúť len s prístupom na internet.</string>
   <string name="preferences_communication__category_sealed_sender">Zapečatený odosielateľ</string>
@@ -2420,7 +2420,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences_off">Vypnuté</string>
   <string name="preferences_on">Zapnuté</string>
   <string name="preferences_proxy_address">Proxy adresa</string>
-  <string name="preferences_only_use_a_proxy_if">Server proxy používajte iba v prípade, že sa nemôžete pripojiť k Signal cez mobilné dáta, alebo Wi-Fi.</string>
+  <string name="preferences_only_use_a_proxy_if">Server proxy používajte iba v prípade, že sa nemôžete pripojiť k CoolApp cez mobilné dáta, alebo Wi-Fi.</string>
   <string name="preferences_share">Zdieľať</string>
   <string name="preferences_save">Uložiť</string>
   <string name="preferences_connecting_to_proxy">Pripája sa ku proxy…</string>
@@ -2439,7 +2439,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="PaymentsAllActivityFragment__sent">Odoslaná</string>
   <string name="PaymentsAllActivityFragment__received">Prijatá</string>
   <string name="PaymentsHomeFragment__introducing_payments">Predstavujeme platby (Beta)</string>
-  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Pomocou Signal môžete odosielať a prijímať MobileCoin, novú digitálnu menu zameranú na súkromie. Ak chcete začať, aktivujte.</string>
+  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Pomocou CoolApp môžete odosielať a prijímať MobileCoin, novú digitálnu menu zameranú na súkromie. Ak chcete začať, aktivujte.</string>
   <string name="PaymentsHomeFragment__activate_payments">Aktivovať platby</string>
   <string name="PaymentsHomeFragment__activating_payments">Aktivujú sa platby…</string>
   <string name="PaymentsHomeFragment__restore_payments_account">Obnovte platobný účet</string>
@@ -2466,17 +2466,17 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="PaymentsHomeFragment__payments_is_not_available_in_your_region">Platby nie sú k dispozícii vo vašej oblasti.</string>
   <string name="PaymentsHomeFragment__could_not_enable_payments">Nepodarilo sa povoliť platby. Skúste to znova neskôr.</string>
   <string name="PaymentsHomeFragment__deactivate_payments_question">Deaktivovať platby?</string>
-  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Ak deaktivujete platby, nebudete môcť odosielať ani prijímať MobileCoin v Signal.</string>
+  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Ak deaktivujete platby, nebudete môcť odosielať ani prijímať MobileCoin v CoolApp.</string>
   <string name="PaymentsHomeFragment__deactivate">Deaktivovať</string>
   <string name="PaymentsHomeFragment__continue">Pokračovať</string>
   <string name="PaymentsHomeFragment__balance_is_not_currently_available">Zostatok nie je momentálne k dispozícii.</string>
   <string name="PaymentsHomeFragment__payments_deactivated">Platby sú deaktivované.</string>
   <string name="PaymentsHomeFragment__payment_failed">Platba zlyhala</string>
   <string name="PaymentsHomeFragment__details">Podrobnosti</string>
-  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Pomocou Signal môžete odosielať a prijímať MobileCoiny. Všetky platby podliehajú Podmienkam používania pre MobileCoins a MobileCoin Wallet. Toto je funkcia beta verzie, takže sa môžete stretnúť s určitými problémami a platby, alebo zostatky, ktoré môžete stratiť, nie je možné obnoviť.</string>
+  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Pomocou CoolApp môžete odosielať a prijímať MobileCoiny. Všetky platby podliehajú Podmienkam používania pre MobileCoins a MobileCoin Wallet. Toto je funkcia beta verzie, takže sa môžete stretnúť s určitými problémami a platby, alebo zostatky, ktoré môžete stratiť, nie je možné obnoviť.</string>
   <string name="PaymentsHomeFragment__activate">Aktivovať</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">Zobraziť podmienky MobileCoin</string>
-  <string name="PaymentsHomeFragment__payments_not_available">Platby v službe Signal už nie sú k dispozícii. Stále môžete prevádzať prostriedky na burzu, ale už nemôžete posielať a prijímať platby ani pridávať prostriedky.</string>
+  <string name="PaymentsHomeFragment__payments_not_available">Platby v službe CoolApp už nie sú k dispozícii. Stále môžete prevádzať prostriedky na burzu, ale už nemôžete posielať a prijímať platby ani pridávať prostriedky.</string>
   <!--PaymentsAddMoneyFragment-->
   <string name="PaymentsAddMoneyFragment__add_funds">Pridať prostriedky</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Adresa vašej peňaženky</string>
@@ -2513,10 +2513,10 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="PaymentsTransferFragment__next">Ďalší</string>
   <string name="PaymentsTransferFragment__invalid_address">Neplatná adresa</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">Skontrolujte adresu peňaženky, do ktorej sa snažíte previesť peniaze, a skúste to znovu.</string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Nemôžete vykonať prevod na adresu vašej Signal peňaženky. Zadajte adresu peňaženky z vášho účtu v podporovanej burze.</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Na naskenovanie QR kódu potrebuje Signal prístup k fotoaparátu.</string>
-  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">Pre načítanie QR kódu potrebuje Signal prístup k Fotoaparátu. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Na naskenovanie QR kódu potrebuje Signal prístup k fotoaparátu.</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Nemôžete vykonať prevod na adresu vašej CoolApp peňaženky. Zadajte adresu peňaženky z vášho účtu v podporovanej burze.</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Na naskenovanie QR kódu potrebuje CoolApp prístup k fotoaparátu.</string>
+  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">Pre načítanie QR kódu potrebuje CoolApp prístup k Fotoaparátu. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"Fotoaparát\".</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Na naskenovanie QR kódu potrebuje CoolApp prístup k fotoaparátu.</string>
   <string name="PaymentsTransferFragment__settings">Nastavenia</string>
   <!--PaymentsTransferQrScanFragment-->
   <string name="PaymentsTransferQrScanFragment__scan_address_qr_code">Naskenujte QR kód adresu</string>
@@ -2574,8 +2574,8 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Zavolať</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Signal hovor</string>
-  <string name="conversation_callable_secure__menu_video">Videohovor Signal</string>
+  <string name="conversation_callable_secure__menu_call">CoolApp hovor</string>
+  <string name="conversation_callable_secure__menu_video">Videohovor CoolApp</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2665,9 +2665,9 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">Importovať systémové SMS správy?</string>
   <string name="reminder_header_sms_import_text">Ťuknutím skopírujete SMS správy z vášho telefónu do šifrovanej databázy Signalu.</string>
-  <string name="reminder_header_push_title">Zapnúť Signal správy a hovory</string>
+  <string name="reminder_header_push_title">Zapnúť CoolApp správy a hovory</string>
   <string name="reminder_header_push_text">Zlepšite svoj zážitok z komunikácie.</string>
-  <string name="reminder_header_service_outage_text">Signal má technické ťažkosti. Pracujeme na tom, aby sme čo najskôr obnovili našu službu.</string>
+  <string name="reminder_header_service_outage_text">CoolApp má technické ťažkosti. Pracujeme na tom, aby sme čo najskôr obnovili našu službu.</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Uložiť</string>
@@ -2683,7 +2683,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="Insights__percent">%</string>
   <string name="Insights__title">Prehľady</string>
   <string name="InsightsDashboardFragment__title">Prehľady</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Signal Protocol za posledných %2$d dní automaticky ochránil %1$d%% vašich odchádzajúcich správ. Konverzácie medzi používateľmi Signalu sú vždy koncovo šifrované.</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">CoolApp Protocol za posledných %2$d dní automaticky ochránil %1$d%% vašich odchádzajúcich správ. Konverzácie medzi používateľmi Signalu sú vždy koncovo šifrované.</string>
   <string name="InsightsDashboardFragment__spread_the_word">Šíriť slovo</string>
   <string name="InsightsDashboardFragment__not_enough_data">Nedostatok údajov</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">Percentuálna hodnota vašich Prehľadov sa vypočítava na základe odchádzajúcich správ za posledných %1$d dní, ktoré nezmizli, ani neboli odstránené.</string>
@@ -2698,7 +2698,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="InsightsModalFragment__view_insights">Zobraziť prehľady</string>
   <string name="FirstInviteReminder__title">Pozvať do Signalu</string>
   <string name="FirstInviteReminder__description">Mohli ste zvýšiť počet šifrovaných správ, ktoré odosielate o %1$d%%</string>
-  <string name="SecondInviteReminder__title">Vylepšite svoj Signal</string>
+  <string name="SecondInviteReminder__title">Vylepšite svoj CoolApp</string>
   <string name="SecondInviteReminder__description">Pozvať používateľa %1$s</string>
   <string name="InsightsReminder__view_insights">Zobraziť prehľady</string>
   <string name="InsightsReminder__invite">Pozvať</string>
@@ -2744,7 +2744,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="KbsSplashFragment__learn_more_about_pins">Dozvedieť sa viac o PINoch</string>
   <string name="KbsSplashFragment__disable_pin">Vypnúť PIN</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Zadajte váš PIN pre Signal</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">Zadajte váš PIN pre CoolApp</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">Aby sme vám pomohli zapamätať si váš PIN kód, budeme vás opakovanie žiadať o jeho zadanie. Postupom času vás o to budeme žiadať menej často.</string>
   <string name="KbsReminderDialog__skip">Preskočiť</string>
   <string name="KbsReminderDialog__submit">Potvrdiť</string>
@@ -2765,8 +2765,8 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="RegistrationLockFragment__incorrect_pin">Nesprávny PIN</string>
   <string name="RegistrationLockFragment__forgot_your_pin">Zabudli ste svoj PIN?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">Ostáva už len zopár pokusov!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Signal registrácia - potrebujem pomôcť s PIN na Androide (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Signal registrácia - potrebujem pomôcť s PIN na Androide (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">CoolApp registrácia - potrebujem pomôcť s PIN na Androide (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">CoolApp registrácia - potrebujem pomôcť s PIN na Androide (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="one">Kvôli vášmu súkromiu a bezpečnosti nie je možné PIN nijakým spôsobom obnoviť. Ak svoj PIN zabudnete, po %1$d dni neaktivity si budete môcť overiť svoj účet prostredníctvom SMS. V tom prípade bude váš účet zmazaný a celý jeho obsah sa odstráni.</item>
     <item quantity="few">Kvôli vášmu súkromiu a bezpečnosti nie je možné PIN nijakým spôsobom obnoviť. Ak svoj PIN zabudnete, po %1$d dňoch neaktivity si budete môcť overiť svoj účet prostredníctvom SMS. V tom prípade bude váš účet zmazaný a celý jeho obsah sa odstráni.</item>
@@ -2808,7 +2808,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ConversationListFragment_loading">Načítava sa…</string>
   <string name="CallNotificationBuilder_connecting">Pripájanie…</string>
   <string name="Permissions_permission_required">Potrebné povolenie</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal potrebuje prístup k SMS správam aby mohol posielať SMS správy, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">CoolApp potrebuje prístup k SMS správam aby mohol posielať SMS správy, ale prístup bol natrvalo zakázaný. Prosím v nastaveniach aplikácií zvoľte \"Oprávnenia\", a povoľte \"SMS\".</string>
   <string name="Permissions_continue">Pokračovať</string>
   <string name="Permissions_not_now">Teraz nie</string>
   <string name="conversation_activity__enable_signal_messages">POVOLIŤ SIGNAL SPRÁVY</string>
@@ -2830,7 +2830,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="preferences_chats__transfer_account_to_a_new_android_device">Preniesť účet do nového Android zariadenia</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Zadajte heslo pre zálohy</string>
   <string name="RegistrationActivity_restore">Obnovenie</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Zálohy z novšej verzie Signal sa nedajú importovať.</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Zálohy z novšej verzie CoolApp sa nedajú importovať.</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Nesprávne heslo pre zálohy</string>
   <string name="RegistrationActivity_checking">Kontrola…</string>
   <string name="RegistrationActivity_d_messages_so_far">Zatiaľ %d správ…</string>
@@ -2852,7 +2852,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="BackupDialog_verify">Overiť</string>
   <string name="BackupDialog_you_successfully_entered_your_backup_passphrase">Úspešne ste zadali svoje heslo pre zálohy</string>
   <string name="BackupDialog_passphrase_was_not_correct">Heslo nebolo správne</string>
-  <string name="LocalBackupJob_creating_signal_backup">Vytvára sa záloha Signal…</string>
+  <string name="LocalBackupJob_creating_signal_backup">Vytvára sa záloha CoolApp…</string>
   <string name="LocalBackupJobApi29_backup_failed">Zálohovanie zlyhalo</string>
   <string name="LocalBackupJobApi29_your_backup_directory_has_been_deleted_or_moved">Váš priečinok na zálohy bol vymazaný alebo premiestnený.</string>
   <string name="LocalBackupJobApi29_your_backup_file_is_too_large">Súbor s vašou zálohou je príliš veľký na uloženie v tejto jednotke.</string>
@@ -2861,7 +2861,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ProgressPreference_d_messages_so_far">Zatiaľ %d správ</string>
   <string name="RegistrationActivity_wrong_number">Nesprávne číslo</string>
   <string name="RegistrationActivity_call_me_instead_available_in">Radšej mi zavolať \n (Dostupný/á o %1$02d:%2$02d)</string>
-  <string name="RegistrationActivity_contact_signal_support">Kontaktovať podporu Signal</string>
+  <string name="RegistrationActivity_contact_signal_support">Kontaktovať podporu CoolApp</string>
   <string name="RegistrationActivity_code_support_subject">Registrácia v Signali – Overovací kód pre Android</string>
   <string name="RegistrationActivity_incorrect_code">Nesprávny kód</string>
   <string name="BackupUtil_never">Nikdy</string>
@@ -2872,21 +2872,21 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="PhoneNumberPrivacy_my_contacts">Moje kontakty</string>
   <string name="PhoneNumberPrivacy_nobody">Nikto</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">Vaše telefónne číslo sa zobrazí ľuďom a skupinám, ktorým pošlete správu.</string>
-  <string name="PhoneNumberPrivacy_everyone_find_description">Každý, kto má vaše telefónne číslo vo svojich kontaktoch, vás uvidí ako kontakt v službe Signal. Ostatní vás budú môcť nájsť vo vyhľadávaní.</string>
+  <string name="PhoneNumberPrivacy_everyone_find_description">Každý, kto má vaše telefónne číslo vo svojich kontaktoch, vás uvidí ako kontakt v službe CoolApp. Ostatní vás budú môcť nájsť vo vyhľadávaní.</string>
   <string name="preferences_app_protection__screen_lock">Zámok obrazovky</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Uzamknúť Signal pomocou zámku obrazovky Androidu alebo odtlačkom prstu</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Uzamknúť CoolApp pomocou zámku obrazovky Androidu alebo odtlačkom prstu</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Časový limit neaktivity pred uzamknutím</string>
-  <string name="preferences_app_protection__signal_pin"> Signal PIN kód</string>
+  <string name="preferences_app_protection__signal_pin"> CoolApp PIN kód</string>
   <string name="preferences_app_protection__create_a_pin">Vytvoriť si PIN</string>
   <string name="preferences_app_protection__change_your_pin">Zmente si PIN</string>
   <string name="preferences_app_protection__pin_reminders">PIN pripomienky</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN kódy udržiavajú informácie uložené v Signal zašifrované, aby ste k nim mali prístup iba vy. Váš profil, vaše nastavenia a kontakty sa po opätovnej inštalácii Signalu obnovia.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Zvýšte svoje zabezpečenie tým, že pri opakovanej registrácii svojho telefónneho čísla v Signal budete vyžadovať PIN.</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN kódy udržiavajú informácie uložené v CoolApp zašifrované, aby ste k nim mali prístup iba vy. Váš profil, vaše nastavenia a kontakty sa po opätovnej inštalácii Signalu obnovia.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Zvýšte svoje zabezpečenie tým, že pri opakovanej registrácii svojho telefónneho čísla v CoolApp budete vyžadovať PIN.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">Pripomienky vám pomôžu zapamätať si váš PIN, keďže ho nie je možné obnoviť. Postupom času vás oň budeme žiadať zriedkavejšie.</string>
   <string name="preferences_app_protection__turn_off">Vypnúť</string>
   <string name="preferences_app_protection__confirm_pin">Potvrďte PIN</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Overte váš PIN pre Signal</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Uistite sa, že si svoj PIN pamätáte, alebo že ho máte bezpečne uložený, pretože ho nie je možné obnoviť. Ak váš PIN zabudnete, mohli by ste stratiť dáta pri opätovnej registrácii vášho Signal účtu.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">Overte váš PIN pre CoolApp</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Uistite sa, že si svoj PIN pamätáte, alebo že ho máte bezpečne uložený, pretože ho nie je možné obnoviť. Ak váš PIN zabudnete, mohli by ste stratiť dáta pri opätovnej registrácii vášho CoolApp účtu.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">Nesprávny PIN kód. Skúste to znova.</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">Aktivácia registračného zámku zlyhala.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">Dektivácia registračného zámku zlyhala.</string>
@@ -2899,19 +2899,19 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Urobili ste príliš veľa pokusov. Prosím, skúste to znovu neskôr.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Chyba pri pripájaní k službe</string>
   <string name="preferences_chats__backups">Zálohy</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal je zamknutý</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp je zamknutý</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">ŤUKNUTÍM ODOMKNITE</string>
   <string name="Recipient_unknown">Neznáme</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">Preniesť alebo obnoviť účet</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Ak ste si v minulosti zaregistrovali Signal účet, môžete tento účet a správy presunúť alebo obnoviť</string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Ak ste si v minulosti zaregistrovali CoolApp účet, môžete tento účet a správy presunúť alebo obnoviť</string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Presunúť z Android zariadenia</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">Presuňte svoj účet a správy z vášho starého Android telefónu. Musíte mať prístup do svojho starého zariadenia.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">Potrebujete prístup k svojmu starému zariadeniu.</string>
   <string name="TransferOrRestoreFragment__restore_from_backup">Obnoviť zo zálohy</string>
   <string name="TransferOrRestoreFragment__restore_your_messages_from_a_local_backup">Obnovte vaše správy z lokálnej zálohy. Keď nevykonáte obnovu teraz, neskôr nebude možná.</string>
   <!--NewDeviceTransferInstructionsFragment-->
-  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Otvorte Signal na svojom starom Android zariadení.</string>
+  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Otvorte CoolApp na svojom starom Android zariadení.</string>
   <string name="NewDeviceTransferInstructions__continue">Pokračovať</string>
   <string name="NewDeviceTransferInstructions__first_bullet">1.</string>
   <string name="NewDeviceTransferInstructions__tap_on_your_profile_photo_in_the_top_left_to_open_settings">Ťuknite na svoju profilovú fotku v ľavom hornom rohu pre otvorenie Nastavení</string>
@@ -2923,18 +2923,18 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="NewDeviceTransferSetup__preparing_to_connect_to_old_android_device">Pripravuje sa pripojenie do starého Android zariadenia…</string>
   <string name="NewDeviceTransferSetup__take_a_moment_should_be_ready_soon">Chvíľku strpenia, onedlho by malo byť hotovo</string>
   <string name="NewDeviceTransferSetup__waiting_for_old_device_to_connect">Čaká sa na pripojenie starého Android zariadenia…</string>
-  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">Signal potrebuje prístup k polohe, aby mohol objaviť a pripojiť sa k vášmu starému Android zariadeniu.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Aby Signal mohol objaviť a pripojiť sa k vášmu starému Android zariadeniu, musia byť zapnuté služby polohy.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">Signal potrebuje Wi-Fi, aby mohol objaviť a pripojiť sa k vášmu starému Android zariadeniu. Wi-Fi musí byť zapnuté, ale nemusí byť pripojené k žiadnej Wi-Fi sieti.</string>
-  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Je nám ľúto, ale vyzerá to, že toto zariadenie nepodporuje Wi-Fi Direct. Signal používa Wi-Fi Direct na objavenie a pripojenie sa ku vášmu starému Android zariadeniu. Môžete ale urobiť obnovu zo zálohy a tým obnoviť vaše konto zo svojho starého Android zariadenia.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">CoolApp potrebuje prístup k polohe, aby mohol objaviť a pripojiť sa k vášmu starému Android zariadeniu.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Aby CoolApp mohol objaviť a pripojiť sa k vášmu starému Android zariadeniu, musia byť zapnuté služby polohy.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">CoolApp potrebuje Wi-Fi, aby mohol objaviť a pripojiť sa k vášmu starému Android zariadeniu. Wi-Fi musí byť zapnuté, ale nemusí byť pripojené k žiadnej Wi-Fi sieti.</string>
+  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Je nám ľúto, ale vyzerá to, že toto zariadenie nepodporuje Wi-Fi Direct. CoolApp používa Wi-Fi Direct na objavenie a pripojenie sa ku vášmu starému Android zariadeniu. Môžete ale urobiť obnovu zo zálohy a tým obnoviť vaše konto zo svojho starého Android zariadenia.</string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Obnoviť zálohu</string>
   <string name="NewDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Počas pripájania sa k vášmu starému Android zariadeniu sa stala neočakávaná chyba.</string>
   <!--OldDeviceTransferSetupFragment-->
   <string name="OldDeviceTransferSetup__searching_for_new_android_device">Hľadá sa nové Android zariadenie…</string>
-  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">Signal potrebuje prístup k polohe, aby mohol objaviť a pripojiť sa k vášmu novému Android zariadeniu.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">Aby Signal mohol objaviť a pripojiť sa k vášmu novému Android zariadeniu, musia byť zapnuté služby polohy.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">Signal potrebuje Wi-Fi, aby mohol objaviť a pripojiť sa k vášmu novému Android zariadeniu. Wi-Fi musí byť zapnuté, ale nemusí byť pripojené k žiadnej Wi-Fi sieti.</string>
-  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Je nám ľúto, ale vyzerá to, že toto zariadenie nepodporuje Wi-Fi Direct. Signal používa Wi-Fi Direct na objavenie a pripojenie sa ku vášmu novému Android zariadeniu. Môžete ale urobiť obnovu zo zálohy a tým obnoviť vaše konto do svojho nového Android zariadenia.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">CoolApp potrebuje prístup k polohe, aby mohol objaviť a pripojiť sa k vášmu novému Android zariadeniu.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">Aby CoolApp mohol objaviť a pripojiť sa k vášmu novému Android zariadeniu, musia byť zapnuté služby polohy.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">CoolApp potrebuje Wi-Fi, aby mohol objaviť a pripojiť sa k vášmu novému Android zariadeniu. Wi-Fi musí byť zapnuté, ale nemusí byť pripojené k žiadnej Wi-Fi sieti.</string>
+  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Je nám ľúto, ale vyzerá to, že toto zariadenie nepodporuje Wi-Fi Direct. CoolApp používa Wi-Fi Direct na objavenie a pripojenie sa ku vášmu novému Android zariadeniu. Môžete ale urobiť obnovu zo zálohy a tým obnoviť vaše konto do svojho nového Android zariadenia.</string>
   <string name="OldDeviceTransferSetup__create_a_backup">Vytvoriť zálohu</string>
   <string name="OldDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Počas pripájania sa k vášmu novému Android zariadeniu sa stala neočakávaná chyba.</string>
   <!--DeviceTransferSetupFragment-->
@@ -2969,10 +2969,10 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device_to_start_the_transfer">Ťuknite Pokračovať na vašom druhom zariadení a prenos sa začne.</string>
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device">Ťuknite Pokračovať na vašom druhom zariadení…</string>
   <!--NewDeviceTransferFragment-->
-  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Presun nie je možný z novších verzií aplikácie Signal</string>
+  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Presun nie je možný z novších verzií aplikácie CoolApp</string>
   <!--DeviceTransferFragment-->
   <string name="DeviceTransfer__transferring_data">Prenášajú sa dáta</string>
-  <string name="DeviceTransfer__keep_both_devices_near_each_other">Ponechajte obe zariadenia blízko seba. Nevypínajte zariadenia a nechajte Signal otvorený. Prenosy sú zabezpečené prostredníctvom koncového šifrovania.</string>
+  <string name="DeviceTransfer__keep_both_devices_near_each_other">Ponechajte obe zariadenia blízko seba. Nevypínajte zariadenia a nechajte CoolApp otvorený. Prenosy sú zabezpečené prostredníctvom koncového šifrovania.</string>
   <string name="DeviceTransfer__d_messages_so_far">Zatiaľ %1$d správ…</string>
   <!--Filled in with total percentage of messages transferred-->
   <string name="DeviceTransfer__s_of_messages_so_far">Zatiaľ %1$s%% správ…</string>
@@ -2985,9 +2985,9 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="DeviceTransfer__unable_to_transfer">Nemožno presunúť</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Preniesť účet</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Pri prvom nastavení Signalu na novom zariadení naň môžete presunúť svoj Signal účet. Predtým, než budete pokračovať:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Pri prvom nastavení Signalu na novom zariadení naň môžete presunúť svoj CoolApp účet. Predtým, než budete pokračovať:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
-  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Stiahnite Signal na svojom novom Android zariadení</string>
+  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Stiahnite CoolApp na svojom novom Android zariadení</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
   <string name="OldDeviceTransferInstructions__tap_on_transfer_or_restore_account">Ťuknite na \"Preniesť alebo obnoviť účet\"</string>
   <string name="OldDeviceTransferInstructions__third_bullet">3.</string>
@@ -2996,7 +2996,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">Presun hotový</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">Choďte ku svojmu novému zariadeniu</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Vaše Signal dáta boli presunuté do vášho nového zariadenia. Pre ukončenie procesu presunu sa musíte zaregistrovať na vašom novom zariadení.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Vaše CoolApp dáta boli presunuté do vášho nového zariadenia. Pre ukončenie procesu presunu sa musíte zaregistrovať na vašom novom zariadení.</string>
   <string name="OldDeviceTransferComplete__close">Zatvoriť</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">Presun úspešný</string>
@@ -3013,7 +3013,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="DeviceToDeviceTransferService_status_service_connected">Prenáša sa účet…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">Dokončite registráciu na vašom novom zariadení</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Váš Signal účet bol presunutý do vášho nového zariadenia, ale musíte v ňom ešte dokončiť registráciu. Signal v tomto zariadení nebude aktívny.</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Váš CoolApp účet bol presunutý do vášho nového zariadenia, ale musíte v ňom ešte dokončiť registráciu. CoolApp v tomto zariadení nebude aktívny.</string>
   <string name="OldDeviceTransferLockedDialog__done">Hotovo</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">Zrušiť a aktivovať toto zariadenie</string>
   <!--AdvancedPreferenceFragment-->
@@ -3053,11 +3053,11 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="GroupsLearnMore_paragraph_1">Zastarané skupiny sú skupiny, ktoré nie sú kompatibilné s novými funkciami skupín, ako napríklad administrátori či viac hovoriace aktualizácie.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Môžem aktualizovať Zastaranú skupinu?</string>
   <string name="GroupsLearnMore_paragraph_2">Zastarané skupiny nie je zatiaľ možné aktualizovať na Nové skupiny, môžete však vytvoriť Novú skupinu s tými istými členmi, ak používajú najnovšiu verziu Signalu.</string>
-  <string name="GroupsLearnMore_paragraph_3">Signal v budúcnosti umožní zmeniť Zastarané skupiny na nový typ.</string>
+  <string name="GroupsLearnMore_paragraph_3">CoolApp v budúcnosti umožní zmeniť Zastarané skupiny na nový typ.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">Každý, kto má tento odkaz, môže vidieť názov a fotku tejto skupiny a požiadať o členstvo. Zdieľajte ho s ľuďmi, ktorým dôverujete.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Každý, kto má tento odkaz, môže vidieť názov a fotku tejto skupiny a stať sa jej členom. Zdieľajte ho s ľuďmi, ktorým dôverujete.</string>
-  <string name="GroupLinkBottomSheet_share_via_signal">Zdieľať cez Signal</string>
+  <string name="GroupLinkBottomSheet_share_via_signal">Zdieľať cez CoolApp</string>
   <string name="GroupLinkBottomSheet_copy">Kopírovať</string>
   <string name="GroupLinkBottomSheet_qr_code">QR kód</string>
   <string name="GroupLinkBottomSheet_share">Zdieľať</string>
@@ -3127,7 +3127,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="DeleteAccountFragment__no_number">Chýba telefónne číslo</string>
   <string name="DeleteAccountFragment__the_phone_number">Zadané telefónne číslo sa nezhoduje s telefónnym číslom vášho účtu.</string>
   <string name="DeleteAccountFragment__are_you_sure">Naozaj chcete vymazať svoj účet?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Tým sa odstráni váš účet Signal a obnoví sa aplikácia. Aplikácia sa po dokončení procesu zavrie. </string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Tým sa odstráni váš účet CoolApp a obnoví sa aplikácia. Aplikácia sa po dokončení procesu zavrie. </string>
   <string name="DeleteAccountFragment__failed_to_delete_account">Nepodarilo sa odstrániť účet. Máte v poriadku sieťové pripojenie?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">Nepodarilo sa odstrániť lokálne údaje. Manuálne ich môžete vymazať v systémových nastaveniach aplikácie.</string>
   <string name="DeleteAccountFragment__launch_app_settings">Spustiť nastavenía aplikácie</string>
@@ -3159,7 +3159,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ShareActivity__share">Zdieľať</string>
   <string name="ShareActivity__send">Poslať</string>
   <string name="ShareActivity__comma_s">, %1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">Zdieľanie do viacerých chatov je možné iba Signal správami.</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">Zdieľanie do viacerých chatov je možné iba CoolApp správami.</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">Zlyhalo odoslanie niektorým používateľom</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">Môžete zdieľať maximálne s %1$d chatmi</string>
@@ -3209,7 +3209,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="payment_info_card_about_mobilecoin">Čo je MobileCoin</string>
   <string name="payment_info_card_mobilecoin_is_a_new_privacy_focused_digital_currency">MobileCoin je nová digitálna mena zameraná na súkromie.</string>
   <string name="payment_info_card_adding_funds">Pridávanie finančných prostriedkov</string>
-  <string name="payment_info_card_you_can_add_funds_for_use_in">Prostriedky na použitie v službe Signal môžete pridať poslaním MobileCoinov na adresu vašej peňaženky.</string>
+  <string name="payment_info_card_you_can_add_funds_for_use_in">Prostriedky na použitie v službe CoolApp môžete pridať poslaním MobileCoinov na adresu vašej peňaženky.</string>
   <string name="payment_info_card_cashing_out">Vyberanie hotovosti</string>
   <string name="payment_info_card_you_can_cash_out_mobilecoin">MobileCoin si kedykoľvek môžete zmeniť na hotovosť v zmenárni, ktorá podporuje MobileCoin. Jednoducho vykonajte prevod na váš účet v danej zmenárni.</string>
   <string name="payment_info_card_hide_this_card">Skryť túto kartu?</string>
@@ -3223,18 +3223,18 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--DeactivateWalletFragment-->
   <string name="DeactivateWalletFragment__deactivate_wallet">Deaktivovať peňaženku</string>
   <string name="DeactivateWalletFragment__your_balance">Váš zostatok</string>
-  <string name="DeactivateWalletFragment__its_recommended_that_you">Odporúčame, aby ste pred deaktiváciou platieb vaše prostriedky previedli na adresu inej peňaženky. Ak sa rozhodnete, že vaše prostriedky neprevediete teraz, zostanú v peňaženke prepojenej so Signal, ak platby reaktivujete.</string>
+  <string name="DeactivateWalletFragment__its_recommended_that_you">Odporúčame, aby ste pred deaktiváciou platieb vaše prostriedky previedli na adresu inej peňaženky. Ak sa rozhodnete, že vaše prostriedky neprevediete teraz, zostanú v peňaženke prepojenej so CoolApp, ak platby reaktivujete.</string>
   <string name="DeactivateWalletFragment__transfer_remaining_balance">Previesť zostávajúcu čiastku</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring">Deaktivovať bez prevodu</string>
   <string name="DeactivateWalletFragment__deactivate">Deaktivovať</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring_question">Deaktivovať bez prevodu?</string>
-  <string name="DeactivateWalletFragment__your_balance_will_remain">V prípade, že  sa rozhodnete opätovne aktivovať platby, váš zostatok zostane vo vašej peňaženke prepojenej so službou Signal.</string>
+  <string name="DeactivateWalletFragment__your_balance_will_remain">V prípade, že  sa rozhodnete opätovne aktivovať platby, váš zostatok zostane vo vašej peňaženke prepojenej so službou CoolApp.</string>
   <string name="DeactivateWalletFragment__error_deactivating_wallet">Chyba pri deaktivácii peňaženky.</string>
   <!--PaymentsRecoveryStartFragment-->
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">Fráza na obnovenie</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">Zobraziť frázu na obnovenie</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">Zadajte frázu na obnovenie</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Váš zostatok sa automaticky obnoví, keď si Signal preinštalujete, ak potvrdíte váš PIN pre Signal. Váš zostatok môžete taktiež obnoviť pomocou frázy na obnovenie, čo je fráza pozostávajúca z %1$d-slov, ktorú máte len vy. Zapíšte si ju a uložte na bezpečné miesto.</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Váš zostatok sa automaticky obnoví, keď si CoolApp preinštalujete, ak potvrdíte váš PIN pre CoolApp. Váš zostatok môžete taktiež obnoviť pomocou frázy na obnovenie, čo je fráza pozostávajúca z %1$d-slov, ktorú máte len vy. Zapíšte si ju a uložte na bezpečné miesto.</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">Vaša fráza na obnovenie je jedinečná s %1$d-slovami. Pomocou tejto frázy obnovíte zostatok.</string>
   <string name="PaymentsRecoveryStartFragment__start">Štart</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">Zadať manuálne</string>
@@ -3303,7 +3303,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">Účet</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">Postupom času sa vás budeme pýtať menej často</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Na opätovné zaregistrovanie telefónneho čísla v aplikácii Signal vyžadujte svojim Signal PIN</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Na opätovné zaregistrovanie telefónneho čísla v aplikácii CoolApp vyžadujte svojim CoolApp PIN</string>
   <string name="AccountSettingsFragment__change_phone_number">Zmeniť telefónne číslo</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Toto použite na zmenu aktuálneho telefónneho čísla na nové telefónne číslo. Túto zmenu nemôžete vrátiť späť. \n\nPred pokračovaním sa uistite, že vaše nové číslo môže prijímať SMS alebo hovory.</string>
@@ -3332,7 +3332,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ChangeNumberConfirmFragment__you_are_about_to_change_your_phone_number_from_s_to_s">Chystáte sa zmeniť svoje telefónne číslo z %1$ss na %2$s. \n\nPred pokračovaním overte, či je nižšie uvedené číslo správne.</string>
   <string name="ChangeNumberConfirmFragment__edit_number">Úprav číslo</string>
   <!--ChangeNumberRegistrationLockFragment-->
-  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Zmena čísla Signal - potrebujete pomoc s PIN pre Android (PIN v2)</string>
+  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Zmena čísla CoolApp - potrebujete pomoc s PIN pre Android (PIN v2)</string>
   <!--ChangeNumberPinDiffersFragment-->
   <string name="ChangeNumberPinDiffersFragment__pins_do_not_match">PIN kódy sa nezhodujú</string>
   <string name="ChangeNumberPinDiffersFragment__the_pin_associated_with_your_new_number_is_different_from_the_pin_associated_with_your_old_one">PIN priradený k vášmu novému číslu sa líši od kódu PIN priradeného k vášmu starému číslu. Chcete si ponechať starý PIN, alebo ho aktualizovať?</string>
@@ -3364,7 +3364,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="NotificationsSettingsFragment__messages">Správy</string>
   <string name="NotificationsSettingsFragment__calls">Volania</string>
   <string name="NotificationsSettingsFragment__notify_when">Upozorniť, keď…</string>
-  <string name="NotificationsSettingsFragment__contact_joins_signal">Kontakt sa pripojí k Signal</string>
+  <string name="NotificationsSettingsFragment__contact_joins_signal">Kontakt sa pripojí k CoolApp</string>
   <!--Notification preference header-->
   <string name="NotificationsSettingsFragment__notification_profiles">Profily pre upozornenia</string>
   <!--Notification preference option header-->
@@ -3383,7 +3383,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="PrivacySettingsFragment__disappearing_messages">Miznúce správy</string>
   <string name="PrivacySettingsFragment__app_security">Zabezpečenie aplikácie</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">Zakázať vytváranie snímkov obrazovky v tejto aplikácii a v zozname bežiacich aplikácií</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">Správy a hovory Signal, vždy opakované hovory a zapečatený odosielateľ</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">Správy a hovory CoolApp, vždy opakované hovory a zapečatený odosielateľ</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">Predvolený časovač pre nové konverzácie</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">Nastavte predvolený časovač miznutia správ pre všetky nové správy ktoré ste poslali.</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3414,7 +3414,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="HelpSettingsFragment__version">Verzia</string>
   <string name="HelpSettingsFragment__debug_log">Ladiaci log</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Podmienky a Zásady ochrany osobných údajov</string>
-  <string name="HelpFragment__copyright_signal_messenger">Copyright Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Copyright CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Pod licenciou GPLv3</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Kvalita médií</string>
@@ -3474,7 +3474,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="AddAProfilePhotoMegaphone__add_photo">Pridať fotku</string>
   <!--BecomeASustainerMegaphone-->
   <string name="BecomeASustainerMegaphone__become_a_sustainer">Staňte sa Sustainerom</string>
-  <string name="BecomeASustainerMegaphone__signal_is_powered">Signal poháňajú ľudia ako vy. Prispejte a získajte odznak profilu.</string>
+  <string name="BecomeASustainerMegaphone__signal_is_powered">CoolApp poháňajú ľudia ako vy. Prispejte a získajte odznak profilu.</string>
   <string name="BecomeASustainerMegaphone__no_thanks">Nie, ďakujem</string>
   <string name="BecomeASustainerMegaphone__contribute">Prispieť</string>
   <!--KeyboardPagerFragment-->
@@ -3525,7 +3525,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ConversationSettingsFragment__conversation_muted_forever">Konverzácia bola navždy stlmená</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">Telefónne číslo skopírované do schránky.</string>
   <string name="ConversationSettingsFragment__phone_number">Telefónne číslo</string>
-  <string name="ConversationSettingsFragment__get_badges">Podporou Signal získate odznaky pre svoj profil. Klepnutím na odznak sa dozviete viac.</string>
+  <string name="ConversationSettingsFragment__get_badges">Podporou CoolApp získate odznaky pre svoj profil. Klepnutím na odznak sa dozviete viac.</string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">Pridať členov</string>
   <string name="PermissionsSettingsFragment__edit_group_info">Upraviť informácie o skupine</string>
@@ -3653,9 +3653,9 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="SelectFeaturedBadgeFragment__failed_to_update_profile">Aktualizácia profilu zlyhala</string>
   <string name="ViewBadgeBottomSheetDialogFragment__become_a_sustainer">Staňte sa udržovateľom</string>
   <string name="ImageView__badge">Odznak</string>
-  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">Signal používajú ľudia ako vy.</string>
+  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">CoolApp používajú ľudia ako vy.</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you">Podporte technológiu, ktorá je vytvorená pre vás, nie pre vaše údaje, pripojením sa ku komunite ľudí, ktorí ju udržujú.</string>
-  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Podporte technológiu, ktorá je vytvorená pre vás, nie pre vaše dáta, tým, že sa pripojíte ku komunite, ktorá podporuje Signal.</string>
+  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Podporte technológiu, ktorá je vytvorená pre vás, nie pre vaše dáta, tým, že sa pripojíte ku komunite, ktorá podporuje CoolApp.</string>
   <string name="SubscribeFragment__currency">Mena</string>
   <string name="SubscribeFragment__more_payment_options">Viac platobných možností</string>
   <string name="SubscribeFragment__cancel_subscription">Zrušiť prispievanie</string>
@@ -3672,34 +3672,34 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="Subscription__s_per_month">%s/mesiac</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/mesiac · Obnovenie %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/mesiac · Vyprší %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">Signal je nezisková organizácia bez žiadnych inzerentov, alebo investorov a udržiava ju iba ľudia, ktorí ju používajú a vážia si ju. Prispievajte opakovane mesačne a získajte odznak profilu, aby ste sa mohli podeliť o svoju podporu.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">CoolApp je nezisková organizácia bez žiadnych inzerentov, alebo investorov a udržiava ju iba ľudia, ktorí ju používajú a vážia si ju. Prispievajte opakovane mesačne a získajte odznak profilu, aby ste sa mohli podeliť o svoju podporu.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">Prečo prispieť?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">Signal sa zaviazal vyvíjať technológiu ochrany súkromia s otvoreným zdrojom, ktorá chráni slobodu prejavu a umožňuje bezpečnú globálnu komunikáciu.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">CoolApp sa zaviazal vyvíjať technológiu ochrany súkromia s otvoreným zdrojom, ktorá chráni slobodu prejavu a umožňuje bezpečnú globálnu komunikáciu.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">Váš príspevok podporuje túto vec a platí za vývoj a prevádzku aplikácie, ktorú používajú milióny ľudí na súkromnú komunikáciu. Žiadne reklamy. Žiadne sledovače. Nerobím si srandu.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">Ďakujem za tvoju podporu!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">Ďakujem za podporu!</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Získali ste odznak %s! Pomôžte Signal vybudovať povedomie zobrazením tohto odznaku vo svojom profile.</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Získali ste odznak Boost! Pomôžte Signal vybudovať povedomie zobrazením tohto odznaku vo svojom profile.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Získali ste odznak %s! Pomôžte CoolApp vybudovať povedomie zobrazením tohto odznaku vo svojom profile.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Získali ste odznak Boost! Pomôžte CoolApp vybudovať povedomie zobrazením tohto odznaku vo svojom profile.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__you_can_also">Môžete tiež</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__become_a_montly_sustainer">stať sa mesačným podporovateľom.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__display_on_profile">Zobraziť v profile</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">Vytvoriť vybraný odznak</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">Hotovo</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">Ak máte viac ako jeden odznak, môžete si jeden vybrať, ktorý sa zobrazí ostatným vo vašom profile.</string>
-  <string name="BecomeASustainerFragment__get_badges">Podporou Signal získate odznaky pre svoj profil.</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">Signal je nezisková organizácia bez inzerentov a investorov, ktorú podporujú iba ľudia ako vy.</string>
+  <string name="BecomeASustainerFragment__get_badges">Podporou CoolApp získate odznaky pre svoj profil.</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">CoolApp je nezisková organizácia bez inzerentov a investorov, ktorú podporujú iba ľudia ako vy.</string>
   <string name="ManageDonationsFragment__my_support">Moja podpora</string>
   <string name="ManageDonationsFragment__manage_subscription">Spravovať prispievanie</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">Daňové doklady</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">Daňové doklady</string>
   <string name="ManageDonationsFragment__badges">Odznaky</string>
   <string name="ManageDonationsFragment__subscription_faq">Časté otázky o prispievaním</string>
   <string name="ManageDonationsFragment__error_getting_subscription">Chyba pri získavaní prispievania.</string>
-  <string name="BoostFragment__give_signal_a_boost">Začať podporovať Signal</string>
+  <string name="BoostFragment__give_signal_a_boost">Začať podporovať CoolApp</string>
   <string name="BoostFragment__say_thanks_and_earn">Povedz \"ďakujem!\" a získajte odznak Podpora %1$d dní.</string>
   <string name="Boost__enter_custom_amount">Zadajte vlastnú čiastku</string>
   <string name="Boost__one_time_contribution">Jednorazový príspevok</string>
-  <string name="MySupportPreference__add_a_signal_boost">Pridať podporu Signal.</string>
+  <string name="MySupportPreference__add_a_signal_boost">Pridať podporu CoolApp.</string>
   <string name="MySupportPreference__s_per_month">%1$s/mesiac</string>
   <string name="MySupportPreference__renews_s">Obnovuje %1$s</string>
   <string name="MySupportPreference__processing_transaction">Prebieha spracovanie transakcie…</string>
@@ -3719,10 +3719,10 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_automatically">Vaše prispievanie podporovateľa bolo automaticky zrušené, pretože ste boli príliš dlho neaktívni. Váš odznak %1$s sa už vo vašom profile nezobrazuje.</string>
   <!--Copy displayed when badge expires after payment failure-->
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_canceled">Vaše predplatné Podporovateľa bolo zrušené, pretože sa nám nepodarilo spracovať vašu platbu. Váš odznak sa už vo vašom profile nezobrazuje.</string>
-  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Signal môžete naďalej používať, ale ak chcete podporiť aplikáciu a znova aktivovať svoj odznak, obnovte ho teraz.</string>
+  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">CoolApp môžete naďalej používať, ale ak chcete podporiť aplikáciu a znova aktivovať svoj odznak, obnovte ho teraz.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">Obnoviť prispievanie</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">Nedá sa spracovať platba za podporu</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Máme problém s evidovaním vašej platby za Signal Podporovateľ. Uistite sa, že je váš spôsob platby aktuálny. Ak nie, aktualizujte ho v službe Google Pay. Signal sa pokúsi spracovať platbu znova o niekoľko dní.</string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Máme problém s evidovaním vašej platby za CoolApp Podporovateľ. Uistite sa, že je váš spôsob platby aktuálny. Ak nie, aktualizujte ho v službe Google Pay. CoolApp sa pokúsi spracovať platbu znova o niekoľko dní.</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">Toto už nezobrazovať</string>
   <string name="Subscription__please_contact_support_for_more_information">Pre viac informácií kontaktujte podporu.</string>
   <string name="Subscription__contact_support">Kontaktovať zákaznícku podporu</string>
@@ -3742,7 +3742,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">Ak chcete prispieť v aplikácii, musíte si nastaviť službu Google Pay.</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">Prispievanie sa nepodarilo zrušiť</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">Zrušenie prispievania vyžaduje internetové pripojenie.</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Vaše zariadenie nepodporuje Google Pay, takže sa nemôžete prihlásiť na odber a získať odznak. Signal môžete stále podporiť príspevkom na našej webovej stránke.</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Vaše zariadenie nepodporuje Google Pay, takže sa nemôžete prihlásiť na odber a získať odznak. CoolApp môžete stále podporiť príspevkom na našej webovej stránke.</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">Chyba siete. Skontrolujte pripojenie a skúste to znova.</string>
   <string name="NetworkFailure__retry">Skúsiť znovu</string>
   <!--Stripe decline code generic_failure-->
@@ -3913,8 +3913,8 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="NotificationProfilesMegaphone__not_now">Teraz nie</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">Výber sa nepodarilo otvoriť.</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Poznámky k vydaniu Signal  &amp; Novinky</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">Poznámky k vydaniu CoolApp  &amp; Novinky</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Všetky aktivity</string>
   <!--Donation receipts all tab label-->
@@ -3934,13 +3934,13 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--Donation receipts share PNG-->
   <string name="DonationReceiptDetailsFragment__share_receipt">Zdieľať potvrdenie</string>
   <!--Donation receipts list end note-->
-  <string name="DonationReceiptListFragment__if_you_have">Ak ste preinštalovali Signal, potvrdenky z predchádzajúcich darov nebudú k dispozícii.</string>
+  <string name="DonationReceiptListFragment__if_you_have">Ak ste preinštalovali CoolApp, potvrdenky z predchádzajúcich darov nebudú k dispozícii.</string>
   <!--Donation receipts document title-->
   <string name="DonationReceiptDetailsFragment__donation_receipt">Potvrdenie o dare</string>
   <!--Donation receipts amount title-->
   <string name="DonationReceiptDetailsFragment__amount">Suma</string>
   <!--Donation receipts thanks-->
-  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Ďakujeme, že podporujete Signal. Váš príspevok pomáha podporiť misiu vývoja technológie ochrany súkromia s otvoreným zdrojom, ktorá chráni slobodu prejavu a umožňuje bezpečnú globálnu komunikáciu pre milióny ľudí na celom svete. Ak ste rezidentom Spojených štátov, uchovajte si toto potvrdenie pre svoje daňové záznamy. Signal Technology Foundation je nezisková organizácia v Spojených štátoch oslobodená od daní podľa oddielu 501c3 zákona o vnútorných výnosoch. Naše federálne daňové identifikačné číslo je 82–4506840.</string>
+  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Ďakujeme, že podporujete CoolApp. Váš príspevok pomáha podporiť misiu vývoja technológie ochrany súkromia s otvoreným zdrojom, ktorá chráni slobodu prejavu a umožňuje bezpečnú globálnu komunikáciu pre milióny ľudí na celom svete. Ak ste rezidentom Spojených štátov, uchovajte si toto potvrdenie pre svoje daňové záznamy. CoolApp Technology Foundation je nezisková organizácia v Spojených štátoch oslobodená od daní podľa oddielu 501c3 zákona o vnútorných výnosoch. Naše federálne daňové identifikačné číslo je 82–4506840.</string>
   <!--Donation receipt type-->
   <string name="DonationReceiptDetailsFragment__s_dash_s">%1$s - %2$s</string>
   <!--region "Stories Tab"-->
@@ -3955,7 +3955,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--Subtitle for "My Stories" row item when user has not added stories-->
   <string name="StoriesLandingFragment__add_a_story">Pridajte príbeh</string>
   <!--Displayed when there are no stories to display-->
-  <!-- Removed by excludeNonTranslatables <string name="StoriesLandingFragment__no_recent_updates">Momentálne nie sú k dispozícii žiadne najnovšie aktualizácie.</string> -->
+  <string name="StoriesLandingFragment__no_recent_updates">Momentálne nie sú k dispozícii žiadne najnovšie aktualizácie.</string>
   <!--Context menu option to hide a story-->
   <string name="StoriesLandingItem__hide_story">Skryť príbeh</string>
   <!--Context menu option to unhide a story-->
@@ -4064,17 +4064,17 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">Umožnite ľuďom, ktorí si môžu zobraziť váš príbeh, reagovať a odpovedať</string>
   <!--Note about default sharing-->
   <string name="MyStorySettingsFragment__hide_your_story_from">Skryte svoj príbeh pred konkrétnymi ľuďmi. V predvolenom nastavení sa váš príbeh zdieľa s vaším %1$s</string>
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <string name="MyStorySettingsFragment__signal_connections">Signal spojenia.</string>
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>Signal spojenia</strong> sú ľudia, ktorým ste sa rozhodli dôverovať, buď:</string>
-  <!--Signal connections sheet bullet point 1-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <string name="MyStorySettingsFragment__signal_connections">CoolApp spojenia.</string>
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>CoolApp spojenia</strong> sú ľudia, ktorým ste sa rozhodli dôverovať, buď:</string>
+  <!--CoolApp connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">Začatie konverzácie</string>
-  <!--Signal connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 2-->
   <string name="SignalConnectionsBottomSheet__accepting_a_message_request">Prijatie žiadosti o správu</string>
-  <!--Signal connections sheet bullet point 3-->
+  <!--CoolApp connections sheet bullet point 3-->
   <string name="SignalConnectionsBottomSheet__having_them_in_your_system_contacts">Mať ich vo svojich systémových kontaktoch</string>
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <string name="SignalConnectionsBottomSheet__your_connections_can_see_your_name">Vaše kontakty môžu vidieť vaše meno a fotografiu a môžu vidieť príspevky v časti „Môj príbeh“, pokiaľ to pred nimi neskryjete.</string>
   <!--Clickable option to add a viewer to a private story-->
   <string name="PrivateStorySettingsFragment__add_viewer">Pridať prehliadač</string>
@@ -4121,7 +4121,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--Dialog title for first time adding something to a story-->
   <string name="StoryDialogs__add_to_story_q">Pridať do príbehu?</string>
   <!--Dialog message for first time adding something to a story-->
-  <string name="StoryDialogs__adding_content">Pridaním obsahu do vášho príbehu si ho budú môcť vaše spojenia so Signal prezerať 24 hodín. V Nastaveniach môžete zmeniť, kto môže zobraziť váš príbeh.</string>
+  <string name="StoryDialogs__adding_content">Pridaním obsahu do vášho príbehu si ho budú môcť vaše spojenia so CoolApp prezerať 24 hodín. V Nastaveniach môžete zmeniť, kto môže zobraziť váš príbeh.</string>
   <!--First time share to story dialog: Positive action to go ahead and add to story-->
   <string name="StoryDialogs__add_to_story">Pridať do príbehu</string>
   <!--First time share to story dialog: Neutral action to edit who can view "My Story"-->
@@ -4184,13 +4184,13 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <!--Title for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_turn_off_censorship_circumvention">Vypnúť obchádzanie cenzúry?</string>
   <!--Body for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
-  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Teraz sa môžete priamo pripojiť k službe Signal pre lepší zážitok.</string>
+  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Teraz sa môžete priamo pripojiť k službe CoolApp pre lepší zážitok.</string>
   <!--Label for a button to dismiss a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_no_thanks">Nie, ďakujem</string>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">Vypnúť</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · Príbeh</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · Príbeh</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">Reagoval na príbeh</string>
   <!--endregion-->

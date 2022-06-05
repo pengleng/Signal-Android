@@ -1,9 +1,9 @@
-package org.thoughtcrime.securesms.database
+package asia.coolapp.chat.database
 
 import android.database.Cursor
 import org.signal.core.util.requireInt
 import org.signal.spinner.ColumnTransformer
-import org.thoughtcrime.securesms.database.model.StoryType.Companion.fromCode
+import asia.coolapp.chat.database.model.StoryType.Companion.fromCode
 
 object IsStoryTransformer : ColumnTransformer {
   override fun matches(tableName: String?, columnName: String): Boolean {

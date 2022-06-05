@@ -211,6 +211,7 @@ public class PushServiceSocket {
   private static final String UUID_ACK_MESSAGE_PATH     = "/v1/messages/uuid/%s";
   private static final String ATTACHMENT_V2_PATH        = "/v2/attachments/form/upload";
   private static final String ATTACHMENT_V3_PATH        = "/v3/attachments/form/upload";
+  private static final String ATTACHMENT_V4_PATH        = "/v4/attachments/form/upload";
 
   private static final String PAYMENTS_AUTH_PATH        = "/v1/payments/auth";
 
@@ -1137,6 +1138,18 @@ public class PushServiceSocket {
     }
   }
 
+  public AttachmentV4UploadAttributes getAttachmentV4UploadAttributes()
+      throws NonSuccessfulResponseCodeException, PushNetworkException, MalformedResponseException
+  {
+    String response = makeServiceRequest(ATTACHMENT_V4_PATH, "GET", null);
+    try {
+      return JsonUtil.fromJson(response, AttachmentV4UploadAttributes.class);
+    } catch (IOException e) {
+      Log.w(TAG, e);
+      throw new MalformedResponseException("Unable to parse entity", e);
+    }
+  }
+
   public byte[] uploadGroupV2Avatar(byte[] avatarCipherText, AvatarUploadAttributes uploadAttributes)
       throws IOException
   {
@@ -1172,6 +1185,30 @@ public class PushServiceSocket {
                                    uploadAttributes.getCdn(),
                                    getResumableUploadUrl(uploadAttributes.getSignedUploadLocation(), uploadAttributes.getHeaders()),
                                    System.currentTimeMillis() + CDN2_RESUMABLE_LINK_LIFETIME_MILLIS);
+  }
+
+  public ResumableUploadSpec getResumableUploadSpec(AttachmentV4UploadAttributes uploadAttributes) throws IOException {
+    return new ResumableUploadSpec(Util.getSecretBytes(64),
+                                   Util.getSecretBytes(16),
+                                   uploadAttributes.getKey(),
+                                   uploadAttributes.getCdn(),
+                                   getResumableUploadUrl(uploadAttributes.getSignedUploadLocation(), uploadAttributes.getHeaders()),
+                                   System.currentTimeMillis() + CDN2_RESUMABLE_LINK_LIFETIME_MILLIS);
+  }
+
+  public byte[] uploadAttachmentV4(PushAttachmentData attachment) throws IOException {
+
+    if (attachment.getResumableUploadSpec() == null || attachment.getResumableUploadSpec().getExpirationTimestamp() < System.currentTimeMillis()) {
+      throw new ResumeLocationInvalidException();
+    }
+
+    return uploadToCdn2Minio(attachment.getResumableUploadSpec().getResumeLocation(),
+                        attachment.getData(),
+                        "application/octet-stream",
+                        attachment.getDataSize(),
+                        attachment.getOutputStreamFactory(),
+                        attachment.getListener(),
+                        attachment.getCancelationSignal());
   }
 
   public byte[] uploadAttachment(PushAttachmentData attachment) throws IOException {
@@ -1336,6 +1373,9 @@ public class PushServiceSocket {
   }
 
   private String getResumableUploadUrl(String signedUrl, Map<String, String> headers) throws IOException {
+    if (signedUrl.startsWith("https://minio.")) {
+      return signedUrl;
+    }
     ConnectionHolder connectionHolder = getRandom(cdnClientsMap.get(2), random);
     OkHttpClient     okHttpClient     = connectionHolder.getClient()
                                                         .newBuilder()
@@ -1345,7 +1385,7 @@ public class PushServiceSocket {
                                                         .build();
 
     Request.Builder request = new Request.Builder().url(buildConfiguredUrl(connectionHolder, signedUrl))
-                                                   .post(RequestBody.create(null, ""));
+                                                   .put(RequestBody.create(null, ""));
 
     for (Map.Entry<String, String> header : headers.entrySet()) {
       if (!header.getKey().equalsIgnoreCase("host")) {
@@ -1497,6 +1537,50 @@ public class PushServiceSocket {
     }
 
     return new ResumeInfo(contentRange, offset);
+  }
+
+  private byte[] uploadToCdn2Minio(String fileUrl, InputStream data, String contentType, long contentLength, OutputStreamFactory outputStreamFactory, ProgressListener progressListener, CancelationSignal cancelationSignal)
+      throws IOException
+  {
+    ConnectionHolder connectionHolder = getRandom(cdnClientsMap.get(2), random);
+    OkHttpClient     okHttpClient     = connectionHolder.getClient()
+                                                        .newBuilder()
+                                                        .connectTimeout(soTimeoutMillis, TimeUnit.MILLISECONDS)
+                                                        .readTimeout(soTimeoutMillis, TimeUnit.MILLISECONDS)
+                                                        .build();
+
+    DigestingRequestBody file = new DigestingRequestBody(data, outputStreamFactory, contentType, contentLength, progressListener, cancelationSignal, 0);
+
+    Request.Builder request = new Request.Builder().url(buildConfiguredUrl(connectionHolder, fileUrl))
+                                                   .put(file)
+                                                   .addHeader("Content-Range", String.format(Locale.US, "bytes */%d", contentLength));
+
+    if (connectionHolder.getHostHeader().isPresent()) {
+      request.addHeader("Host", connectionHolder.getHostHeader().get());
+    }
+
+    Call call = okHttpClient.newCall(request.build());
+
+    synchronized (connections) {
+      connections.add(call);
+    }
+
+    try {
+      Response response;
+
+      try {
+        response = call.execute();
+      } catch (IOException e) {
+        throw new PushNetworkException(e);
+      }
+
+      if (response.isSuccessful()) return file.getTransmittedDigest();
+      else                         throw new NonSuccessfulResponseCodeException(response.code(), "Response: " + response);
+    } finally {
+      synchronized (connections) {
+        connections.remove(call);
+      }
+    }
   }
 
   private static HttpUrl buildConfiguredUrl(ConnectionHolder connectionHolder, String url) throws IOException {
@@ -2477,10 +2561,10 @@ public class PushServiceSocket {
     }
   }
 
-  public void reportSpam(ServiceId serviceId, String serverGuid)
+  public void reportSpam(String e164, String serverGuid)
       throws NonSuccessfulResponseCodeException, MalformedResponseException, PushNetworkException
   {
-    makeServiceRequest(String.format(REPORT_SPAM, serviceId.toString(), serverGuid), "POST", "");
+    makeServiceRequest(String.format(REPORT_SPAM, e164, serverGuid), "POST", "");
   }
 
   private static class VerificationCodeResponseHandler implements ResponseCodeHandler {

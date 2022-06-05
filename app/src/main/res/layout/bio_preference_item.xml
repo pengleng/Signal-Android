@@ -7,7 +7,7 @@
     android:background="@drawable/dsl_preference_item_background"
     android:minHeight="56dp">
 
-    <org.thoughtcrime.securesms.components.AvatarImageView
+    <asia.coolapp.chat.components.AvatarImageView
         android:id="@+id/icon"
         android:layout_width="64dp"
         android:layout_height="64dp"
@@ -19,7 +19,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <org.thoughtcrime.securesms.badges.BadgeImageView
+    <asia.coolapp.chat.badges.BadgeImageView
         android:id="@+id/badge"
         android:layout_width="24dp"
         android:layout_height="24dp"
@@ -41,7 +41,7 @@
         app:layout_constraintStart_toEndOf="@id/icon"
         app:layout_constraintEnd_toEndOf="parent">
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -49,7 +49,7 @@
             android:textAlignment="viewStart"
             tools:text="Peter Parker" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/about"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
             android:textAlignment="viewStart"
             tools:text="Crusin' the web" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/summary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

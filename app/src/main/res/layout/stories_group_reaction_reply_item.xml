@@ -7,14 +7,14 @@
     android:layout_marginHorizontal="16dp"
     android:layout_marginBottom="12dp">
 
-    <org.thoughtcrime.securesms.components.AvatarImageView
+    <asia.coolapp.chat.components.AvatarImageView
         android:id="@+id/avatar"
         android:layout_width="28dp"
         android:layout_height="28dp"
         app:layout_constraintBottom_toBottomOf="@id/body"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <org.thoughtcrime.securesms.components.FromTextView
+    <asia.coolapp.chat.components.FromTextView
         android:id="@+id/name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,7 +28,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:text="Miles Morales" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+    <asia.coolapp.chat.components.emoji.EmojiTextView
         android:id="@+id/body"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
         app:layout_constraintStart_toEndOf="@id/body"
         tools:text="15m" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+    <asia.coolapp.chat.components.emoji.EmojiImageView
         android:id="@+id/reaction"
         android:layout_width="28dp"
         android:layout_height="28dp"

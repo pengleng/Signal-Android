@@ -14,6 +14,7 @@
         style="@style/Signal.Text.Caption.MessageSent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
         android:visibility="gone"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -33,7 +34,7 @@
         app:lottie_rawRes="@raw/lottie_played"
         tools:visibility="visible" />
 
-    <org.thoughtcrime.securesms.components.PlaybackSpeedToggleTextView
+    <asia.coolapp.chat.components.PlaybackSpeedToggleTextView
         android:id="@+id/footer_audio_playback_speed_toggle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -74,7 +75,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:text="30m" />
 
-    <org.thoughtcrime.securesms.components.ExpirationTimerView
+    <asia.coolapp.chat.components.ExpirationTimerView
         android:id="@+id/footer_expiration_timer"
         android:layout_width="12dp"
         android:layout_height="12dp"
@@ -120,7 +121,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:visibility="visible" />
 
-    <org.thoughtcrime.securesms.components.DeliveryStatusView
+    <asia.coolapp.chat.components.DeliveryStatusView
         android:id="@+id/footer_delivery_status"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"

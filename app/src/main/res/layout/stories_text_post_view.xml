@@ -6,13 +6,13 @@
     android:layout_height="match_parent"
     tools:parentTag="androidx.constraintlayout.widget.ConstraintLayout">
 
-    <ImageView
+    <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/text_story_post_background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Signal.Story.Text" />
 
-    <org.thoughtcrime.securesms.stories.StoryTextView
+    <asia.coolapp.chat.stories.StoryTextView
         android:id="@+id/text_story_post_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
         tools:ignore="SpUsage"
         tools:text="TEST" />
 
-    <org.thoughtcrime.securesms.stories.StoryLinkPreviewView
+    <asia.coolapp.chat.stories.StoryLinkPreviewView
         android:id="@+id/text_story_post_link_preview"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

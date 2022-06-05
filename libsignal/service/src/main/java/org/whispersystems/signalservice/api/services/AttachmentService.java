@@ -5,6 +5,7 @@ import org.whispersystems.signalservice.internal.ServiceResponse;
 import org.whispersystems.signalservice.internal.ServiceResponseProcessor;
 import org.whispersystems.signalservice.internal.push.AttachmentV2UploadAttributes;
 import org.whispersystems.signalservice.internal.push.AttachmentV3UploadAttributes;
+import org.whispersystems.signalservice.internal.push.AttachmentV4UploadAttributes;
 import org.whispersystems.signalservice.internal.websocket.DefaultResponseMapper;
 import org.whispersystems.signalservice.internal.websocket.WebSocketProtos.WebSocketRequestMessage;
 
@@ -40,11 +41,23 @@ public final class AttachmentService {
     WebSocketRequestMessage requestMessage = WebSocketRequestMessage.newBuilder()
                                                                     .setId(new SecureRandom().nextLong())
                                                                     .setVerb("GET")
-                                                                    .setPath("/v3/attachments/form/upload")
+                                                                    .setPath("/v4/attachments/form/upload")
                                                                     .build();
 
     return signalWebSocket.request(requestMessage)
                           .map(DefaultResponseMapper.getDefault(AttachmentV3UploadAttributes.class)::map)
+                          .onErrorReturn(ServiceResponse::forUnknownError);
+  }
+
+  public Single<ServiceResponse<AttachmentV4UploadAttributes>> getAttachmentV4UploadAttributes() {
+    WebSocketRequestMessage requestMessage = WebSocketRequestMessage.newBuilder()
+                                                                    .setId(new SecureRandom().nextLong())
+                                                                    .setVerb("GET")
+                                                                    .setPath("/v4/attachments/form/upload")
+                                                                    .build();
+
+    return signalWebSocket.request(requestMessage)
+                          .map(DefaultResponseMapper.getDefault(AttachmentV4UploadAttributes.class)::map)
                           .onErrorReturn(ServiceResponse::forUnknownError);
   }
 

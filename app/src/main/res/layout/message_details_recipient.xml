@@ -16,7 +16,7 @@
         android:paddingStart="@dimen/dsl_settings_gutter"
         android:paddingEnd="@dimen/dsl_settings_gutter">
 
-        <org.thoughtcrime.securesms.components.AvatarImageView
+        <asia.coolapp.chat.components.AvatarImageView
             android:id="@+id/message_details_recipient_avatar"
             android:foreground="@drawable/contact_photo_background"
             android:layout_width="40dp"
@@ -30,7 +30,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"/>
 
-        <org.thoughtcrime.securesms.badges.BadgeImageView
+        <asia.coolapp.chat.badges.BadgeImageView
             android:id="@+id/message_details_recipient_badge"
             android:layout_width="24dp"
             android:layout_height="24dp"
@@ -41,7 +41,7 @@
             app:layout_constraintStart_toStartOf="@id/message_details_recipient_avatar"
             app:layout_constraintTop_toTopOf="@id/message_details_recipient_avatar" />
 
-        <org.thoughtcrime.securesms.components.FromTextView
+        <asia.coolapp.chat.components.FromTextView
             android:id="@+id/message_details_recipient_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

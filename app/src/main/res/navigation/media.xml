@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mediaCaptureFragment"
-        android:name="org.thoughtcrime.securesms.mediasend.v2.capture.MediaCaptureFragment"
+        android:name="asia.coolapp.chat.mediasend.v2.capture.MediaCaptureFragment"
         android:label="media_capture_fragment"
         tools:layout="@layout/fragment_container">
         <action
@@ -24,7 +24,7 @@
 
     <fragment
         android:id="@+id/mediaReviewFragment"
-        android:name="org.thoughtcrime.securesms.mediasend.v2.review.MediaReviewFragment"
+        android:name="asia.coolapp.chat.mediasend.v2.review.MediaReviewFragment"
         android:label="media_review_fragment"
         tools:layout="@layout/v2_media_review_fragment">
 
@@ -35,7 +35,7 @@
 
     <fragment
         android:id="@+id/mediaGalleryFragment"
-        android:name="org.thoughtcrime.securesms.mediasend.v2.gallery.MediaSelectionGalleryFragment"
+        android:name="asia.coolapp.chat.mediasend.v2.gallery.MediaSelectionGalleryFragment"
         android:label="media_review_fragment"
         tools:layout="@layout/v2_media_gallery_fragment">
         <action
@@ -45,7 +45,7 @@
 
     <fragment
         android:id="@+id/textStoryPostCreationFragment"
-        android:name="org.thoughtcrime.securesms.mediasend.v2.text.TextStoryPostCreationFragment"
+        android:name="asia.coolapp.chat.mediasend.v2.text.TextStoryPostCreationFragment"
         android:label="text_story_post_creation_fragment"
         tools:layout="@layout/stories_text_post_creation_fragment">
         <action
@@ -55,7 +55,7 @@
 
     <fragment
         android:id="@+id/textStoryPostSendFragment"
-        android:name="org.thoughtcrime.securesms.mediasend.v2.text.send.TextStoryPostSendFragment"
+        android:name="asia.coolapp.chat.mediasend.v2.text.send.TextStoryPostSendFragment"
         android:label="text_story_post_send_fragment"
         tools:layout="@layout/stories_send_text_post_fragment" />
 

@@ -12,7 +12,7 @@
         android:background="@color/signal_background_secondary"
         app:elevation="0dp">
 
-        <org.thoughtcrime.securesms.keyboard.emoji.KeyboardPageSearchView
+        <asia.coolapp.chat.keyboard.emoji.KeyboardPageSearchView
             android:id="@+id/gif_keyboard_search_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

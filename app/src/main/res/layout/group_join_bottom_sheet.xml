@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:theme="@style/Theme.Signal.RoundedBottomSheet.Light">
 
-    <org.thoughtcrime.securesms.components.AvatarImageView
+    <asia.coolapp.chat.components.AvatarImageView
         android:id="@+id/group_join_recipient_avatar"
         android:layout_width="96dp"
         android:layout_height="96dp"
@@ -28,7 +28,7 @@
         app:layout_constraintTop_toTopOf="@+id/group_join_recipient_avatar"
         tools:visibility="visible" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+    <asia.coolapp.chat.components.emoji.EmojiTextView
         android:id="@+id/group_join_group_name"
         style="@style/TextAppearance.Signal.Body1.Bold"
         android:layout_width="wrap_content"
@@ -56,7 +56,7 @@
         app:layout_constraintTop_toBottomOf="@+id/group_join_group_name"
         tools:text="Group · 12 members" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+    <asia.coolapp.chat.components.emoji.EmojiTextView
         android:id="@+id/group_join_group_description"
         style="@style/Signal.Text.Body"
         android:layout_width="0dp"

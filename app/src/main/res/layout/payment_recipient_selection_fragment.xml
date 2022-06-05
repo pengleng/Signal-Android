@@ -10,7 +10,7 @@
         android:layout_gravity="center"
         android:orientation="vertical">
 
-        <org.thoughtcrime.securesms.util.views.DarkOverflowToolbar
+        <asia.coolapp.chat.util.views.DarkOverflowToolbar
             android:id="@+id/payment_recipient_selection_fragment_toolbar"
             android:layout_width="match_parent"
             android:layout_height="56dp"
@@ -22,7 +22,7 @@
             app:titleTextAppearance="@style/Signal.Text.Title"
             app:title="@string/PaymentRecipientSelectionFragment__new_payment" />
 
-        <org.thoughtcrime.securesms.components.ContactFilterView
+        <asia.coolapp.chat.components.ContactFilterView
             android:id="@+id/contact_filter_edit_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

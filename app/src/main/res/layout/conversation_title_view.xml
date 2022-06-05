@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<org.thoughtcrime.securesms.conversation.ConversationTitleView xmlns:android="http://schemas.android.com/apk/res/android"
+<asia.coolapp.chat.conversation.ConversationTitleView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/conversation_title_view"
@@ -16,20 +16,21 @@
         android:layout_height="match_parent"
         android:layout_marginEnd="10dp">
 
-        <org.thoughtcrime.securesms.avatar.view.AvatarView
+        <asia.coolapp.chat.avatar.view.AvatarView
             android:id="@+id/contact_photo_image"
             android:layout_width="36dp"
             android:layout_height="36dp"
             android:layout_alignParentStart="true"
             android:layout_centerVertical="true"
             android:clickable="true"
+            android:layout_marginEnd="10dp"
             android:contentDescription="@string/conversation_list_item_view__contact_photo_image"
             android:cropToPadding="true"
             android:foreground="@drawable/contact_photo_background"
             app:fallbackImageSize="small"
             tools:src="@drawable/ic_contact_picture" />
 
-        <org.thoughtcrime.securesms.badges.BadgeImageView
+        <asia.coolapp.chat.badges.BadgeImageView
             android:id="@+id/badge"
             android:layout_width="16dp"
             android:layout_height="16dp"
@@ -49,7 +50,7 @@
         android:layout_toEndOf="@id/contact_photo_container"
         android:orientation="vertical">
 
-        <org.thoughtcrime.securesms.components.FromTextView
+        <asia.coolapp.chat.components.FromTextView
             android:id="@+id/title"
             style="@style/TextSecure.TitleTextStyle"
             android:layout_width="wrap_content"
@@ -95,7 +96,7 @@
                 android:textColor="@color/signal_inverse_transparent_80"
                 android:textDirection="ltr" />
 
-            <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+            <asia.coolapp.chat.components.emoji.EmojiTextView
                 android:id="@+id/subtitle"
                 style="@style/TextSecure.SubtitleTextStyle"
                 android:layout_width="wrap_content"
@@ -112,4 +113,4 @@
 
     </LinearLayout>
 
-</org.thoughtcrime.securesms.conversation.ConversationTitleView>
+</asia.coolapp.chat.conversation.ConversationTitleView>

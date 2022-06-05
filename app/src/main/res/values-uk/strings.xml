@@ -10,22 +10,22 @@
   <string name="AbstractNotificationBuilder_new_message">Нове повідомлення</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal оновлюється…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp оновлюється…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Поточний: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Ви ще не встановили фразу-пароль!</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Вимкнути фразу-пароль?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Це назавжди розблокує Signal та сповіщення повідомлень.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Це назавжди розблокує CoolApp та сповіщення повідомлень.</string>
   <string name="ApplicationPreferencesActivity_disable">Вимкнути</string>
   <string name="ApplicationPreferencesActivity_unregistering">Скасувати реєстрацію</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Скасування реєстрації на повідомлення та виклики Signal…</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Вимкнути повідомлення та виклики Signal?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Скасування реєстрації на сервері вимкне повідомлення та виклики Signal. Вам знадобиться знову зареєструвати ваш номер телефону, щоб користуватися ними в майбутньому.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Скасування реєстрації на повідомлення та виклики CoolApp…</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Вимкнути повідомлення та виклики CoolApp?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Скасування реєстрації на сервері вимкне повідомлення та виклики CoolApp. Вам знадобиться знову зареєструвати ваш номер телефону, щоб користуватися ними в майбутньому.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Помилка підключення до сервера!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS увімкнено</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Торкніться, щоб змінити типову програму для SMS</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS вимкнено</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Торкніться, щоб зробити Signal типовою програмою для SMS</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Торкніться, щоб зробити CoolApp типовою програмою для SMS</string>
   <string name="ApplicationPreferencesActivity_on">увімк.</string>
   <string name="ApplicationPreferencesActivity_On">Увімк.</string>
   <string name="ApplicationPreferencesActivity_off">вимк.</string>
@@ -60,14 +60,14 @@
   <string name="AttachmentKeyboard_file">Файл</string>
   <string name="AttachmentKeyboard_contact">Контакт</string>
   <string name="AttachmentKeyboard_location">Розташування</string>
-  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Signal потребує дозволів щоб показувати ваші фото та відео.</string>
+  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">CoolApp потребує дозволів щоб показувати ваші фото та відео.</string>
   <string name="AttachmentKeyboard_give_access">Надати доступ</string>
   <string name="AttachmentKeyboard_payment">Платіж</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Неможливо знайти програму для обрання медіа.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal потребує дозволу \"Зберігання\" для прикріплення фото, відео та аудіо, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal потребує дозволу \"Контакти\", щоб прикріпити контакт, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Контакти\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal потребує дозволу \"Геодані\", щоб прикріпити дані про розташування, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Геодані\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">CoolApp потребує дозволу \"Зберігання\" для прикріплення фото, відео та аудіо, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">CoolApp потребує дозволу \"Контакти\", щоб прикріпити контакт, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Контакти\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">CoolApp потребує дозволу \"Геодані\", щоб прикріпити дані про розташування, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Геодані\".</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">Вивантаження медіа…</string>
   <string name="AttachmentUploadJob_compressing_video_start">Стиснення відео…</string>
@@ -92,10 +92,10 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">Учасники групи зможуть знову додати вас в неї.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Ви зможете обмінюватись повідомленнями та дзвінками, а також вони зможуть бачити ваше ім\'я та фото.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">Заблоковані люди не зможуть подзвонити чи відправити Вам повідомлення.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Вимкнути отримання оновлень та новин Signal.</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Увімкнути отримання оновлень та новин Signal.</string>
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Вимкнути отримання оновлень та новин CoolApp.</string>
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Увімкнути отримання оновлень та новин CoolApp.</string>
   <string name="BlockUnblockDialog_unblock_s">Розблокувати %1$s?</string>
   <string name="BlockUnblockDialog_block">Заблокувати</string>
   <string name="BlockUnblockDialog_block_and_leave">Заблокувати і покинути</string>
@@ -115,20 +115,20 @@
   <string name="CameraXFragment_open_gallery_description">Відкрити Галерею</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Нещодавні контакти</string>
-  <string name="CameraContacts_signal_contacts">Контакти Signal</string>
-  <string name="CameraContacts_signal_groups">Групи Signal</string>
+  <string name="CameraContacts_signal_contacts">Контакти CoolApp</string>
+  <string name="CameraContacts_signal_groups">Групи CoolApp</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Ви можете поділитись із, щонайбільше, %d розмовами. </string>
-  <string name="CameraContacts_select_signal_recipients">Оберіть одержувача Signal</string>
-  <string name="CameraContacts_no_signal_contacts">Немає контактів Signal</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">Ви можете використовувати кнопку Камера лише для відправлення фото контактам Signal.</string>
+  <string name="CameraContacts_select_signal_recipients">Оберіть одержувача CoolApp</string>
+  <string name="CameraContacts_no_signal_contacts">Немає контактів CoolApp</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">Ви можете використовувати кнопку Камера лише для відправлення фото контактам CoolApp.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Не можете знайти, кого шукали?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Запросити контакт приєднатися до Signal</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Запросити контакт приєднатися до CoolApp</string>
   <string name="CameraContacts__menu_search">Пошук</string>
   <!--Censorship Circumvention Megaphone-->
   <!--Title for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off_censorship_circumvention">Вимкнути обхід цензури?</string>
   <!--Body for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
-  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Тепер ви можете приєднатись до Signal напряму для отримання кращого досвіду. </string>
+  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Тепер ви можете приєднатись до CoolApp напряму для отримання кращого досвіду. </string>
   <!--Action to prompt the user to disable circumvention since it is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off">Вимкнути</string>
   <!--Action to prompt the user to dismiss the alert at the bottom of the chat list-->
@@ -138,12 +138,12 @@
   <string name="ClearProfileActivity_remove_profile_photo">Видалити фото профіля?</string>
   <string name="ClearProfileActivity_remove_group_photo">Видалити фото групи?</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">Оновити Signal</string>
+  <string name="ClientDeprecatedActivity_update_signal">Оновити CoolApp</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">Ця версія застосунку більше не підтримується. Щоб продовжити надсилати та отримувати повідомлення, оновіться до останньої версії.</string>
   <string name="ClientDeprecatedActivity_update">Оновити</string>
   <string name="ClientDeprecatedActivity_dont_update">Не оновлювати</string>
   <string name="ClientDeprecatedActivity_warning">Попередження</string>
-  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Ваша версія Signal застаріла. Ви можете переглядати історію повідомлень, але не зможете відправляти чи отримувати повідомлення допоки не оновите застосунок.</string>
+  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Ваша версія CoolApp застаріла. Ви можете переглядати історію повідомлень, але не зможете відправляти чи отримувати повідомлення допоки не оновите застосунок.</string>
   <!--CommunicationActions-->
   <string name="CommunicationActions_no_browser_found">Браузера не знайдено.</string>
   <string name="CommunicationActions_send_email">Відправити електронний лист</string>
@@ -152,9 +152,9 @@
   <string name="CommunicationActions_cancel">Скасувати</string>
   <string name="CommunicationActions_call">Виклик</string>
   <string name="CommunicationActions_insecure_call">Незахищений дзвінок</string>
-  <string name="CommunicationActions_carrier_charges_may_apply">Оператор може стягувати оплату. Номер, за яким Ви телефонуєте, не зареєстровано у Signal. Цей дзвінок буде здійснено через мобільного оператора, а не через інтернет.</string>
+  <string name="CommunicationActions_carrier_charges_may_apply">Оператор може стягувати оплату. Номер, за яким Ви телефонуєте, не зареєстровано у CoolApp. Цей дзвінок буде здійснено через мобільного оператора, а не через інтернет.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Ваш номер безпеки із %1$s змінився. Це може означати або те, що хтось намагається перехопити вашу розмову, або те, що %2$s просто перевстановив Signal.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Ваш номер безпеки із %1$s змінився. Це може означати або те, що хтось намагається перехопити вашу розмову, або те, що %2$s просто перевстановив CoolApp.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Можливо, ви хочете перевірити ваш номер безпеки із цим контактом.</string>
   <string name="ConfirmIdentityDialog_accept">Прийняти</string>
   <!--ContactsCursorLoader-->
@@ -169,7 +169,7 @@
   <string name="ContactsCursorLoader_new_story">Нова історія</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Повідомлення %s</string>
-  <string name="ContactsDatabase_signal_call_s">Виклик Signal %s</string>
+  <string name="ContactsDatabase_signal_call_s">Виклик CoolApp %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Ім\'я</string>
   <string name="ContactNameEditActivity_family_name">Прізвище</string>
@@ -192,7 +192,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Не відправлено, натисніть для незахищеного відправлення</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Скористатися незашифрованим SMS як запасним варіантом?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Скористатися незашифрованим MMS як запасним варіантом?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Це повідомлення <b>не</b> буде зашифровано, оскільки одержувач більше не користується Signal.\n\nНадіслати незахищене повідомлення?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Це повідомлення <b>не</b> буде зашифровано, оскільки одержувач більше не користується CoolApp.\n\nНадіслати незахищене повідомлення?</string>
   <string name="ConversationItem_unable_to_open_media">Неможливо знайти застосунок для відкриття цього медіа.</string>
   <string name="ConversationItem_copied_text">Скопійовано %s</string>
   <string name="ConversationItem_from_s">від %s</string>
@@ -217,8 +217,8 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Здається, цей пристрій не підтримує виклики.</string>
   <string name="ConversationActivity_transport_insecure_sms">Незахищене SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Незахищене MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Перейдімо до Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Перейдімо до CoolApp %1$s</string>
   <string name="ConversationActivity_specify_recipient">Будь ласка, виберіть контакт</string>
   <string name="ConversationActivity_unblock">Розблокувати</string>
   <string name="ConversationActivity_attachment_exceeds_size_limits">Вкладення перевищує обмеження за розміром для типу повідомлення, яке ви надсилаєте.</string>
@@ -232,17 +232,17 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Немає програми на вашому пристрої, що може відкрити це посилання.</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">Ваш запит на приєднання надіслано до адміністраторів групи. Ви отримаєте повідомлення, коли вони відреагують.</string>
   <string name="ConversationActivity_cancel_request">Відмінити запит</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Щоб надсилати аудіо повідомлення, дозвольте Signal доступ до мікрофона.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal потребує дозволу «Мікрофон», щоб відправляти аудіоповідомлення, але наразі доступу немає. Будь ласка, перейдіть до налаштувань застосунку, оберіть «Дозволи» та увімкніть «Мікрофон».</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Signal потребує дозволів «Мікрофон» та «Камера», щоб подзвонити до %s, але наразі доступу немає. Будь ласка, перейдіть до налаштувань застосунку, оберіть «Дозволи» та увімкніть «Мікрофон» та «Камера».</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Щоб фотографувати або знімати відео дозвольте Signal доступ до камери.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal потребує дозволу \"Камера\", щоб фотографувати або знімати відео,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Камера\".</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal потребує дозволу «Камера», щоб фотографувати або фільмувати.</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Щоб надсилати аудіо повідомлення, дозвольте CoolApp доступ до мікрофона.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">CoolApp потребує дозволу «Мікрофон», щоб відправляти аудіоповідомлення, але наразі доступу немає. Будь ласка, перейдіть до налаштувань застосунку, оберіть «Дозволи» та увімкніть «Мікрофон».</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">CoolApp потребує дозволів «Мікрофон» та «Камера», щоб подзвонити до %s, але наразі доступу немає. Будь ласка, перейдіть до налаштувань застосунку, оберіть «Дозволи» та увімкніть «Мікрофон» та «Камера».</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Щоб фотографувати або знімати відео дозвольте CoolApp доступ до камери.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">CoolApp потребує дозволу \"Камера\", щоб фотографувати або знімати відео,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Камера\".</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">CoolApp потребує дозволу «Камера», щоб фотографувати або фільмувати.</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">Надайте доступ до мікрофону, щоб записувати відео зі звуком.</string>
-  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signal потрібен дозвіл на доступ до мікрофона, щоб знімати відео, але воно було вами відхилено. Будь ласка, натисніть «Продовжити», щоб перейти в налаштування програми, відкрийте \"Дозволи\" і включіть \"Мікрофон\" та \"Камера\". </string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signal потребує доступу до мікрофона для запису відео.</string>
+  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">CoolApp потрібен дозвіл на доступ до мікрофона, щоб знімати відео, але воно було вами відхилено. Будь ласка, натисніть «Продовжити», щоб перейти в налаштування програми, відкрийте \"Дозволи\" і включіть \"Мікрофон\" та \"Камера\". </string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">CoolApp потребує доступу до мікрофона для запису відео.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal не може відправити SMS/MMS тому що це не стандартна програма для SMS. Чи бажаєте змінити це в налаштуваннях Android?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp не може відправити SMS/MMS тому що це не стандартна програма для SMS. Чи бажаєте змінити це в налаштуваннях Android?</string>
   <string name="ConversationActivity_yes">Так</string>
   <string name="ConversationActivity_no">Ні</string>
   <string name="ConversationActivity_search_position">%1$d з %2$d</string>
@@ -256,7 +256,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">Ви покинете цю групу, та її буде видалено з усіх ваших пристроїв.</string>
   <string name="ConversationActivity_delete">Видалити</string>
   <string name="ConversationActivity_delete_and_leave">Видалити і покинути</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Щоб зателефонувати %1$s, Signal має отримати доступ до мікрофона</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Щоб зателефонувати %1$s, CoolApp має отримати доступ до мікрофона</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">У «Налаштування групи» відтепер є більше опцій</string>
   <string name="ConversationActivity_join">Приєднатись</string>
   <string name="ConversationActivity_full">Переповнено</string>
@@ -303,14 +303,14 @@
     <item quantity="other">Збереження %1$d вкладень до сховища…</item>
   </plurals>
   <string name="ConversationFragment_pending">Очікування…</string>
-  <string name="ConversationFragment_push">Дані (Signal)</string>
+  <string name="ConversationFragment_push">Дані (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Видалення</string>
   <string name="ConversationFragment_deleting_messages">Видалення повідомлень…</string>
   <string name="ConversationFragment_delete_for_me">Видалити для мене</string>
   <string name="ConversationFragment_delete_for_everyone">Видалити для всіх</string>
-  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Це повідомлення буде видалено для усіх у розмові, якщо вони використовують найновішу версію Signal. Вони зможуть побачити, що ви видалили повідомлення.</string>
+  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Це повідомлення буде видалено для усіх у розмові, якщо вони використовують найновішу версію CoolApp. Вони зможуть побачити, що ви видалили повідомлення.</string>
   <string name="ConversationFragment_quoted_message_not_found">Оригінальне повідомлення не знайдено</string>
   <string name="ConversationFragment_quoted_message_no_longer_available">Оригінальне повідомлення більше не доступно</string>
   <string name="ConversationFragment_failed_to_open_message">Не вдалося відкрити повідомлення</string>
@@ -322,12 +322,12 @@
   <string name="ConversationFragment__d_group_members_have_the_same_name">%1$d учасників групи мають однакові імена.</string>
   <string name="ConversationFragment__tap_to_review">Натисніть для перегляду</string>
   <string name="ConversationFragment__review_requests_carefully">Переглядайте запити уважно</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">Signal знайшов іншого користувача з цим ім\'ям.</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">CoolApp знайшов іншого користувача з цим ім\'ям.</string>
   <string name="ConversationFragment_contact_us">Напишіть нам</string>
   <string name="ConversationFragment_verify">Підтвердження</string>
   <string name="ConversationFragment_not_now">Не зараз</string>
   <string name="ConversationFragment_your_safety_number_with_s_changed">Ваш код безпеки із %s змінився</string>
-  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Ваш код безпеки з %s змінився, ймовірно тому що цей користувач перевстановив Signal або змінив пристрій. Торкніться «Підтвердити» щоб підтвердити новий код безпеки. Це необов\'язково.</string>
+  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Ваш код безпеки з %s змінився, ймовірно тому що цей користувач перевстановив CoolApp або змінив пристрій. Торкніться «Підтвердити» щоб підтвердити новий код безпеки. Це необов\'язково.</string>
   <!--Message shown to indicate which notification profile is on/active-->
   <string name="ConversationFragment__s_on">%1$s увімкнено</string>
   <!--Dialog title for block group link join requests-->
@@ -481,13 +481,13 @@
   <string name="BackupsPreferenceFragment__test_your_backup_passphrase">Випробуйте парольну фразу своєї резервної копії і переконайтеся, що вона збігається</string>
   <string name="BackupsPreferenceFragment__turn_on">Відключити Блокування Реєстрації?</string>
   <string name="BackupsPreferenceFragment__turn_off">Відключити</string>
-  <string name="BackupsPreferenceFragment__to_restore_a_backup">Щоб відновити з резервної копії, встановіть нову копію Signal. Відкрийте програму та натисніть \"Відновити резервну копію\", потім виберіть файл резервної копії. %1$s</string>
+  <string name="BackupsPreferenceFragment__to_restore_a_backup">Щоб відновити з резервної копії, встановіть нову копію CoolApp. Відкрийте програму та натисніть \"Відновити резервну копію\", потім виберіть файл резервної копії. %1$s</string>
   <string name="BackupsPreferenceFragment__learn_more">Дізнатись більше</string>
   <string name="BackupsPreferenceFragment__in_progress">В процесі…</string>
   <string name="BackupsPreferenceFragment__d_so_far">%1$d на цей час…</string>
   <!--Show percentage of completion of backup-->
   <string name="BackupsPreferenceFragment__s_so_far">%1$s%% на цей час…</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal потребує дозволу \"Зберігання\", щоб створювати резервні копії, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">CoolApp потребує дозволу \"Зберігання\", щоб створювати резервні копії, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Використання власного: %s</string>
   <string name="CustomDefaultPreference_using_default">Використання типового: %s</string>
@@ -506,7 +506,7 @@
   <string name="DateUtils_yesterday">Вчора</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">Сесію чату оновлено</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">Signal використовує наскрізне шифровання, що подекуди призводить до оновлення сесій чатів. Це не впливає на безпеку чату, хоча надіслане контактом повідомлення може не дійти і вам потрібно буде попросити надіслати його знов.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">CoolApp використовує наскрізне шифровання, що подекуди призводить до оновлення сесій чатів. Це не впливає на безпеку чату, хоча надіслане контактом повідомлення може не дійти і вам потрібно буде попросити надіслати його знов.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Від\'єднати \'%s\'?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Після від\'єднання цього пристрою він більше не зможе відправляти та одержувати повідомлення.</string>
@@ -524,9 +524,9 @@
   <string name="DocumentView_unnamed_file">Безіменний файл</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Оптимізувати для випадку відсутності служб Google Play</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Цей пристрій не підтримує служби Google Play. Торкніться, щоб вимкнути режим ощадливого споживання енергії Signal і отримувати повідомлення коли Signal працює у фоні.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Цей пристрій не підтримує служби Google Play. Торкніться, щоб вимкнути режим ощадливого споживання енергії CoolApp і отримувати повідомлення коли CoolApp працює у фоні.</string>
   <!--ExpiredBuildReminder-->
-  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Ваша версія Signal застаріла. Оновіть зараз, щоб відправляти та отримувати повідомлення.</string>
+  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Ваша версія CoolApp застаріла. Оновіть зараз, щоб відправляти та отримувати повідомлення.</string>
   <string name="ExpiredBuildReminder_update_now">Оновити зараз</string>
   <!--PendingGroupJoinRequestsReminder-->
   <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">
@@ -541,8 +541,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Кілька вкладень підтримуються тільки для зображень і відео</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">Ви не можете відправляти повідомлення в цю групу</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Постійний збій зв\'язку Signal!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal не зміг зареєструватись у сервісах Google Play. Виклики та повідомлення Signal наразі вимкнено, спробуйте перереєструватися у Налаштуваннях &gt; Додатково.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Постійний збій зв\'язку CoolApp!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">CoolApp не зміг зареєструватись у сервісах Google Play. Виклики та повідомлення CoolApp наразі вимкнено, спробуйте перереєструватися у Налаштуваннях &gt; Додатково.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Помилка при отриманні GIF у повному розширенні</string>
   <!--GiphyFragmentPageAdapter-->
@@ -728,7 +728,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">Це обов\'язкове поле.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">Не вдалось створити групу.</string>
   <string name="AddGroupDetailsFragment__try_again_later">Спробуйте знову пізніше.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Ви вибрали контакт, який не підтримує групи Signal, тому ця група буде перетворена в MMS.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Ви вибрали контакт, який не підтримує групи CoolApp, тому ця група буде перетворена в MMS.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Імена та фото MMS-груп будуть видні тільки вам. </string>
   <string name="AddGroupDetailsFragment__remove">Вилучити</string>
   <string name="AddGroupDetailsFragment__sms_contact">SMS контакт</string>
@@ -763,8 +763,8 @@
   <string name="ManageGroupActivity_only_admins_can_enable_or_disable_the_option_to_approve_new_members">Тільки адміністратори можуть включати або відключати опцію схвалення нових учасників. </string>
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">Тільки адміністратори можуть скидати посилання на групу. </string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">У нас немає прав на цю дію</string>
-  <string name="ManageGroupActivity_not_capable">Хтось із тих, кого ви додали, не підтримує нові групи і повинен (-на) оновити Signal </string>
-  <string name="ManageGroupActivity_not_announcement_capable">Хтось із тих, кого ви додали, не підтримує групи з оголошеннями і повинен (-на) оновити Signal</string>
+  <string name="ManageGroupActivity_not_capable">Хтось із тих, кого ви додали, не підтримує нові групи і повинен (-на) оновити CoolApp </string>
+  <string name="ManageGroupActivity_not_announcement_capable">Хтось із тих, кого ви додали, не підтримує групи з оголошеннями і повинен (-на) оновити CoolApp</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">Не вдалось оновити групу</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">Ви не учасник цієї групи</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">Не вдалося оновити групу, будь ласка, спробуйте пізніше </string>
@@ -775,7 +775,7 @@
   <string name="ManageGroupActivity_legacy_group_upgrade">Це Застаріла Група. Щоб отримати доступ до таких функцій, як @згадування і адміністратори груп, </string>
   <string name="ManageGroupActivity_legacy_group_too_large">Ця Застаріла Група не може бути оновлена до Нової Групи, тому що вона занадто велика. Максимальний розмір групи це - %1$d.</string>
   <string name="ManageGroupActivity_upgrade_this_group">оновити цю групу. </string>
-  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Це незахищена MMS Група. Щоб спілкуватися конфіденційно, запросіть своїх контактів в Signal.</string>
+  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Це незахищена MMS Група. Щоб спілкуватися конфіденційно, запросіть своїх контактів в CoolApp.</string>
   <string name="ManageGroupActivity_invite_now">Запросити зараз</string>
   <string name="ManageGroupActivity_more">більше</string>
   <string name="ManageGroupActivity_add_group_description">Додати опис групи…</string>
@@ -868,10 +868,10 @@
     <item quantity="other">Група · %1$d учасників</item>
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Оновіть Signal для використання посилань груп</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Версія Signal, яку ви використовуєте, не підтримує це посилання на групу. Оновіть до новішої версії, щоб приєднатися до цієї групи за посиланням. </string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Оновити Signal</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Як мінімум одне з ваших прив\'язаних пристроїв використовує версію Signal, яка не підтримує посилання на групи. Оновіть Signal на прив\'язаних пристроях (-ї), щоб приєднатися до цієї групи. </string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Оновіть CoolApp для використання посилань груп</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Версія CoolApp, яку ви використовуєте, не підтримує це посилання на групу. Оновіть до новішої версії, щоб приєднатися до цієї групи за посиланням. </string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Оновити CoolApp</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Як мінімум одне з ваших прив\'язаних пристроїв використовує версію CoolApp, яка не підтримує посилання на групи. Оновіть CoolApp на прив\'язаних пристроях (-ї), щоб приєднатися до цієї групи. </string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">Посилання групи недійсне</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Запросити друзів</string>
@@ -903,7 +903,7 @@
   <string name="InviteActivity_cancel">Скасувати</string>
   <string name="InviteActivity_sending">Надсилання…</string>
   <string name="InviteActivity_invitations_sent">Запрошення надіслано!</string>
-  <string name="InviteActivity_invite_to_signal">Запросити до Signal</string>
+  <string name="InviteActivity_invite_to_signal">Запросити до CoolApp</string>
   <string name="InviteActivity_send_sms">Відправити SMS (%d)</string>
   <plurals name="InviteActivity_send_sms_invites">
     <item quantity="one">Надіслати %d SMS запрошення?</item>
@@ -911,7 +911,7 @@
     <item quantity="many">Надіслати %d SMS запрошень?</item>
     <item quantity="other">Надіслати %d SMS запрошень?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Давай перейдемо на Signal: %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Давай перейдемо на CoolApp: %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Схоже, що у вас немає програм, щоб поділитися.</string>
   <!--LearnMoreTextView-->
   <string name="LearnMoreTextView_learn_more">Дізнатись більше</string>
@@ -921,7 +921,7 @@
   <string name="LongMessageActivity_message_from_s">Повідомлення від %1$s</string>
   <string name="LongMessageActivity_your_message">Ваше повідомлення</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Фонове підключення активоване</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Помилка читання налаштувань MMS провайдера</string>
@@ -984,7 +984,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">Надіслано вами до %1$s</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">Нагадати пізніше</string>
-  <string name="Megaphones_verify_your_signal_pin">Підтвердіть свій PIN-код Signal</string>
+  <string name="Megaphones_verify_your_signal_pin">Підтвердіть свій PIN-код CoolApp</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">Іноді ми будемо просити вас підтвердити PIN-код, щоб ви його не забували.</string>
   <string name="Megaphones_verify_pin">Підтвердити PIN-код</string>
   <string name="Megaphones_get_started">Давайте почнемо</string>
@@ -994,11 +994,11 @@
   <string name="Megaphones_appearance">Вигляд</string>
   <string name="Megaphones_add_photo">Додати Фото</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Відбувається виклик Signal</string>
-  <string name="NotificationBarManager__establishing_signal_call">Встановлення виклику Signal</string>
-  <string name="NotificationBarManager__incoming_signal_call">Вхідний виклик Signal</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">Вхідний груповий виклик Signal</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">Зупиняємо дзвінки сервісного центру Signal </string>
+  <string name="NotificationBarManager_signal_call_in_progress">Відбувається виклик CoolApp</string>
+  <string name="NotificationBarManager__establishing_signal_call">Встановлення виклику CoolApp</string>
+  <string name="NotificationBarManager__incoming_signal_call">Вхідний виклик CoolApp</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">Вхідний груповий виклик CoolApp</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">Зупиняємо дзвінки сервісного центру CoolApp </string>
   <string name="NotificationBarManager__decline_call">Відхилити виклик</string>
   <string name="NotificationBarManager__answer_call">Відповісти на виклик</string>
   <string name="NotificationBarManager__end_call">Завершити виклик</string>
@@ -1025,8 +1025,8 @@
   <string name="MediaSendActivity_message_to_s">Відправити до %s</string>
   <string name="MediaSendActivity_message">Повідомлення</string>
   <string name="MediaSendActivity_select_recipients">Обрати одержувачів</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal потребує дозволів \"Контакти\", щоб показати контакти.</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Signal потребує дозволу \"Контакти\", але наразі дозволу немає. Будь-ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\" та дозвольте \"Контакти\".</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">CoolApp потребує дозволів \"Контакти\", щоб показати контакти.</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">CoolApp потребує дозволу \"Контакти\", але наразі дозволу немає. Будь-ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\" та дозвольте \"Контакти\".</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="one">Ви не можете поділитись більше ніж %d зображенням.</item>
     <item quantity="few">Ви не можете поділитись більше ніж %d зображенням.</item>
@@ -1044,7 +1044,7 @@
   <string name="MessageDecryptionUtil_tap_to_send_a_debug_log">Натисніть, щоб відправити журнал налагодження</string>
   <!--MessageRecord-->
   <string name="MessageRecord_unknown">Невідомо</string>
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Отримано повідомлення, яке зашифроване старою версією Signal, яка вже не підтримується. Попросіть друга оновитися до останньої версії та надіслати повідомлення знову.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Отримано повідомлення, яке зашифроване старою версією CoolApp, яка вже не підтримується. Попросіть друга оновитися до останньої версії та надіслати повідомлення знову.</string>
   <string name="MessageRecord_left_group">Ви покинули групу.</string>
   <string name="MessageRecord_you_updated_group">Ви оновили групу.</string>
   <string name="MessageRecord_the_group_was_updated">Групу оновлено.</string>
@@ -1053,7 +1053,7 @@
   <string name="MessageRecord_missed_video_call_date">Пропущений відеодзвінок · %1$s</string>
   <string name="MessageRecord_s_updated_group">%s оновив групу.</string>
   <string name="MessageRecord_s_called_you_date">%1$s телефонував вам · %2$s</string>
-  <string name="MessageRecord_s_joined_signal">%s приєднався до Signal!</string>
+  <string name="MessageRecord_s_joined_signal">%s приєднався до CoolApp!</string>
   <string name="MessageRecord_you_disabled_disappearing_messages">Ви заборонили зникаючі повідомлення</string>
   <string name="MessageRecord_s_disabled_disappearing_messages">%1$s вимкнув зникаючі повідомлення.</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">Ви встановлюєте час зникнення повідомлення на %1$s.</string>
@@ -1234,7 +1234,7 @@
   <!--Update item message shown in the release channel when someone is already a sustainer so we ask them if they want to boost.-->
   <string name="MessageRecord_like_this_new_feature_say_thanks_with_a_boost">Подобається нова можливість? Подякуйте Boost\'ом.</string>
   <!--Update item message shown in the release channel when someone is not a sustainer so we ask them to consider becoming one-->
-  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">Signal працює завдяки таким людям, як ви. Підтримайте нас сьогодні.</string>
+  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">CoolApp працює завдяки таким людям, як ви. Підтримайте нас сьогодні.</string>
   <!--Group Calling update messages-->
   <string name="MessageRecord_s_started_a_group_call_s">%1$s розпочав груповий дзвінок · %2$s</string>
   <string name="MessageRecord_s_is_in_the_group_call_s">%1$s бере участь у груповому дзвінку · %2$s</string>
@@ -1317,26 +1317,26 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Хибний QR-код.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Вибачте, Ви вже з\'язали забагато пристроїв, спробуйте видалити декілька</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Вибачте, це хибний QR код для з\'язування пристрою.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">З\'язати пристрій Signal?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Здається, ви намагаєтеся з\'язати пристрій Signal, використовуючи сканер від 3-ї особи. Для вашого захисту, відскануйте код знову, використовуючи Signal.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal потребує дозволу \"Камера\", щоб сканувати QR коди,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Камера\".</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">З\'язати пристрій CoolApp?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Здається, ви намагаєтеся з\'язати пристрій CoolApp, використовуючи сканер від 3-ї особи. Для вашого захисту, відскануйте код знову, використовуючи CoolApp.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">CoolApp потребує дозволу \"Камера\", щоб сканувати QR коди,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Камера\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Для сканування QR коду необхідний доступ до Камери</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Оновитись зараз</string>
-  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">Вашу версію Signal перестануть підтримувати сьогодні. Торкніться, щоб оновити до останньої версії.</string>
+  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">Вашу версію CoolApp перестануть підтримувати сьогодні. Торкніться, щоб оновити до останньої версії.</string>
   <plurals name="OutdatedBuildReminder_your_version_of_signal_will_expire_in_n_days">
-    <item quantity="one">Завтра ця версія Signal перестане підтримуватись. Торкніться, щоб оновити до останньої версії.</item>
-    <item quantity="few">Ця версія Signal перестане підтримуватись через %d день. Торкніться, щоб оновити до останньої версії.</item>
-    <item quantity="many">Ця версія Signal перестане підтримуватись через %d днів. Торкніться, щоб оновити до останньої версії.</item>
-    <item quantity="other">Ця версія Signal перестане підтримуватись через %d днів. Торкніться, щоб оновити до останньої версії.</item>
+    <item quantity="one">Завтра ця версія CoolApp перестане підтримуватись. Торкніться, щоб оновити до останньої версії.</item>
+    <item quantity="few">Ця версія CoolApp перестане підтримуватись через %d день. Торкніться, щоб оновити до останньої версії.</item>
+    <item quantity="many">Ця версія CoolApp перестане підтримуватись через %d днів. Торкніться, щоб оновити до останньої версії.</item>
+    <item quantity="other">Ця версія CoolApp перестане підтримуватись через %d днів. Торкніться, щоб оновити до останньої версії.</item>
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Введіть фразу-пароль</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Значок Signal</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">Значок CoolApp</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Ввести фразу-пароль</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Хибна фраза-пароль!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Розблокувати Signal</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - Екран блокування</string>
+  <string name="PassphrasePromptActivity_unlock_signal">Розблокувати CoolApp</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - Екран блокування</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Карта</string>
   <string name="PlacePickerActivity_drop_pin">Поставити мітку </string>
@@ -1359,20 +1359,20 @@
     <item quantity="many">У вас залишилось %1$d спроб. Якщо ви вичерпаєте спроби, ви зможете створити новий PIN-код. Ви зможете зареєструватися та використовувати свій обліковий запис, але втратите деякі збережені настройки, наприклад інформацію вашого профілю.</item>
     <item quantity="other">У вас залишилось %1$d спроб. Якщо ви вичерпаєте спроби, ви зможете створити новий PIN-код. Ви зможете зареєструватися та використовувати свій обліковий запис, але втратите деякі збережені настройки, наприклад інформацію вашого профілю.</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Реєстрація в Signal - Потрібна допомога з PIN-кодом для Android</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Реєстрація в CoolApp - Потрібна допомога з PIN-кодом для Android</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">Введіть буквено-цифровий PIN-код</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">Введіть цифровий PIN-код</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">Створити PIN-код</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">У вас закінчилися спроби введення PIN-коду, але ви все одно можете отримати доступ до свого облікового запису Signal, створивши новий PIN-код. Для вашої конфіденційності та безпеки ваш обліковий запис буде відновлено без будь-якої збереженої інформації профілю або налаштувань.</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">У вас закінчилися спроби введення PIN-коду, але ви все одно можете отримати доступ до свого облікового запису CoolApp, створивши новий PIN-код. Для вашої конфіденційності та безпеки ваш обліковий запис буде відновлено без будь-якої збереженої інформації профілю або налаштувань.</string>
   <string name="PinRestoreLockedFragment_create_new_pin">Створити новий PIN-код</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Попередження</string>
-  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Якщо ви вимкнете PIN-код, то при перевстановленні Signal втратите всі дані, якщо ви заздалегідь  вручну  не створите резервну копію. При відключенному PIN-коді неможна буде включити блокування реєстрації.</string>
+  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Якщо ви вимкнете PIN-код, то при перевстановленні CoolApp втратите всі дані, якщо ви заздалегідь  вручну  не створите резервну копію. При відключенному PIN-коді неможна буде включити блокування реєстрації.</string>
   <string name="PinOptOutDialog_disable_pin">Вимкнути PIN</string>
   <!--RatingManager-->
-  <string name="RatingManager_rate_this_app">Оцінити Signal</string>
-  <string name="RatingManager_if_you_enjoy_using_this_app_please_take_a_moment">Якщо вам сподобався Signal, будь-ласка, оцініть його.</string>
+  <string name="RatingManager_rate_this_app">Оцінити CoolApp</string>
+  <string name="RatingManager_if_you_enjoy_using_this_app_please_take_a_moment">Якщо вам сподобався CoolApp, будь-ласка, оцініть його.</string>
   <string name="RatingManager_rate_now">Оцінити зараз!</string>
   <string name="RatingManager_no_thanks">Ні, дякую</string>
   <string name="RatingManager_later">Пізніше</string>
@@ -1384,7 +1384,7 @@
   <string name="ReactionsRecipientAdapter_you">Ви</string>
   <!--RecaptchaRequiredBottomSheetFragment-->
   <string name="RecaptchaRequiredBottomSheetFragment_verify_to_continue_messaging">Підтвердити для продовження спілкування</string>
-  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Для запобігання поширення спаму у Signal, будь ласка, здійсніть підтвердження особи.</string>
+  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Для запобігання поширення спаму у CoolApp, будь ласка, здійсніть підтвердження особи.</string>
   <string name="RecaptchaRequiredBottomSheetFragment_after_verifying_you_can_continue_messaging">Після підтвердження ви зможете продовжити спілкування. Усі призупинені повідомлення відправляться автоматично.</string>
   <!--Recipient-->
   <string name="Recipient_you">Ви</string>
@@ -1409,18 +1409,18 @@
   <!--Title text for the Valentine\'s Day donation megaphone. The placeholder will always be a heart emoji. Needs to be a placeholder for Android reasons.-->
   <string name="ValentinesDayMegaphone_happy_heart_day">З Днем усіх 💜!</string>
   <!--Body text for the Valentine\'s Day donation megaphone.-->
-  <string name="ValentinesDayMegaphone_show_your_affection">Продемонструйте свою любов та підтримайте Signal.</string>
+  <string name="ValentinesDayMegaphone_show_your_affection">Продемонструйте свою любов та підтримайте CoolApp.</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Щоб увімкнути відео натисніть тут</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Щоб зателефонувати %1$s, Signal має отримати доступ до камери</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Щоб зателефонувати %1$s, CoolApp має отримати доступ до камери</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Телефонуємо…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">Група завелика для дзвінків її учасникам.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">Повторне з’єднання…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Дзвінок Signal</string>
-  <string name="WebRtcCallView__signal_video_call">Відеодзвінок Signal</string>
+  <string name="WebRtcCallView__signal_call">Дзвінок CoolApp</string>
+  <string name="WebRtcCallView__signal_video_call">Відеодзвінок CoolApp</string>
   <string name="WebRtcCallView__start_call">Почати дзвінок</string>
   <string name="WebRtcCallView__join_call">Приєднатись</string>
   <string name="WebRtcCallView__call_is_full">Дзвінок повний</string>
@@ -1430,13 +1430,13 @@
   <string name="WebRtcCallView__reconnecting">Повторне з’єднання…</string>
   <string name="WebRtcCallView__joining">Приєднання…</string>
   <string name="WebRtcCallView__disconnected">Від\'єднано</string>
-  <string name="WebRtcCallView__signal_will_ring_s">Signal викликатиме %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">Signal викликатиме %1$s та %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">CoolApp викликатиме %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">CoolApp викликатиме %1$s та %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="one">Signal зателефонує %1$s, %2$s та %3$d іншому</item>
-    <item quantity="few">Signal зателефонує %1$s, %2$s, та %3$d іншим</item>
-    <item quantity="many">Signal зателефонує %1$s, %2$s, та %3$d іншим</item>
-    <item quantity="other">Signal зателефонує %1$s, %2$s та %3$d іншим</item>
+    <item quantity="one">CoolApp зателефонує %1$s, %2$s та %3$d іншому</item>
+    <item quantity="few">CoolApp зателефонує %1$s, %2$s, та %3$d іншим</item>
+    <item quantity="many">CoolApp зателефонує %1$s, %2$s, та %3$d іншим</item>
+    <item quantity="other">CoolApp зателефонує %1$s, %2$s та %3$d іншим</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s буде сповіщено</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s та %2$s будуть сповіщені</string>
@@ -1528,13 +1528,13 @@
   <string name="RegistrationActivity_play_services_error">Помилка служби Google Play</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play Services оновлюються або тимчасово недоступні. Будь-ласка, спробуйте знов.</string>
   <string name="RegistrationActivity_terms_and_privacy">Умови та Політика конфіденційності</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signal потребує дозволів на перегляд контактів та медіа, щоб допомогти вам зв’язуватися з друзями та надсилати повідомлення. Ваші контакти завантажуються за допомогою функції виявлення приватних контактів Signal, що означає, що вони зашифровані наскрізним методом і є невидимі для служби Signal.</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">Signal потребує дозволу для перегляду контактів, щоб допомогти вам зв’язатися з друзями. Ваші контакти завантажуються за допомогою функції виявлення приватних контактів Signal, що означає, що вони наскрізне зашифровані і ніколи не відображаються службою Signal.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">CoolApp потребує дозволів на перегляд контактів та медіа, щоб допомогти вам зв’язуватися з друзями та надсилати повідомлення. Ваші контакти завантажуються за допомогою функції виявлення приватних контактів CoolApp, що означає, що вони зашифровані наскрізним методом і є невидимі для служби CoolApp.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">CoolApp потребує дозволу для перегляду контактів, щоб допомогти вам зв’язатися з друзями. Ваші контакти завантажуються за допомогою функції виявлення приватних контактів CoolApp, що означає, що вони наскрізне зашифровані і ніколи не відображаються службою CoolApp.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Ви зробили надто багато спроб зареєструвати цей номер. Будь ласка, спробуйте ще раз пізніше.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Немає з\'єднання із сервером. Перевірте чи наявність доступу до Інтернет та спробуйте знову.</string>
   <string name="RegistrationActivity_non_standard_number_format">Нестандартний формат номеру</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">Введене число (%1$s) виглядає нестандартним.\n\nВи мали на увазі %2$s?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android — Формат телефонних номерів</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android — Формат телефонних номерів</string>
   <string name="RegistrationActivity_call_requested">Запит на дзвінок надіслано</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Ви в %d кроці від відправки журналу налагодження</item>
@@ -1557,7 +1557,7 @@
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">Включити блокування реєстрації?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">Відключити Блокування Реєстрації?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Якщо ви забудете свій PIN-код Signal, при повторній реєстрації в Signal, ви втратите доступ до свого облікового запису на 7 днів.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Якщо ви забудете свій PIN-код CoolApp, при повторній реєстрації в CoolApp, ви втратите доступ до свого облікового запису на 7 днів.</string>
   <string name="RegistrationLockV2Dialog_turn_on">Увімкнути</string>
   <string name="RegistrationLockV2Dialog_turn_off">Відключити</string>
   <!--RevealableMessageView-->
@@ -1573,13 +1573,13 @@
   <!--ShakeToReport-->
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Додати до контактів</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">Запросити до Signal</string>
-  <string name="SharedContactDetailsActivity_signal_message">Повідомлення Signal</string>
-  <string name="SharedContactDetailsActivity_signal_call">Виклик Signal</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">Запросити до CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_message">Повідомлення CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_call">Виклик CoolApp</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Додати до контактів</string>
-  <string name="SharedContactView_invite_to_signal">Запросити до Signal</string>
-  <string name="SharedContactView_message">Повідомлення Signal</string>
+  <string name="SharedContactView_invite_to_signal">Запросити до CoolApp</string>
+  <string name="SharedContactView_message">Повідомлення CoolApp</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">Більше</string>
   <!--SignalPinReminders-->
@@ -1604,14 +1604,14 @@
   <string name="SmsMessageRecord_secure_session_reset">Ви скинули безпечний сеанс.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s скидає безпечний сеанс.</string>
   <string name="SmsMessageRecord_duplicate_message">Дублікат повідомлення.</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Це повідомлення не вдалось опрацювати, оскільки його надіслано з новішої версії Signal. Попросіть ваш контакт надіслати це повідомлення знов, щойно ви оновите застосунок.</string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Це повідомлення не вдалось опрацювати, оскільки його надіслано з новішої версії CoolApp. Попросіть ваш контакт надіслати це повідомлення знов, щойно ви оновите застосунок.</string>
   <string name="SmsMessageRecord_error_handling_incoming_message">Помилка прийому вхідного повідомлення.</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Наліпки</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Встановлені наліпки</string>
   <string name="StickerManagementAdapter_stickers_you_received">Отримані Вами Стікери</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Стікери від Художників Signal</string>
+  <string name="StickerManagementAdapter_signal_artist_series">Стікери від Художників CoolApp</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Встановлені наліпки відсутні</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">Наліпки від вхідних дзвінків з\'являться тут</string>
   <string name="StickerManagementAdapter_untitled">Без назви</string>
@@ -1637,8 +1637,8 @@
   <string name="SupportEmailUtil_filter">Фільтр:</string>
   <string name="SupportEmailUtil_device_info">Про пристрій:</string>
   <string name="SupportEmailUtil_android_version">Версія Android:</string>
-  <string name="SupportEmailUtil_signal_version">Версія Signal:</string>
-  <string name="SupportEmailUtil_signal_package">Збірка Signal:</string>
+  <string name="SupportEmailUtil_signal_version">Версія CoolApp:</string>
+  <string name="SupportEmailUtil_signal_package">Збірка CoolApp:</string>
   <string name="SupportEmailUtil_registration_lock">Блокування реєстрації:</string>
   <string name="SupportEmailUtil_locale">Мова:</string>
   <!--ThreadRecord-->
@@ -1657,7 +1657,7 @@
   <string name="ThreadRecord_view_once_media">Медіа вже переглянуто</string>
   <string name="ThreadRecord_this_message_was_deleted">Це повідомлення було видалено.</string>
   <string name="ThreadRecord_you_deleted_this_message">Ви видалили це повідомлення.</string>
-  <string name="ThreadRecord_s_is_on_signal">%s приєднався до Signal!</string>
+  <string name="ThreadRecord_s_is_on_signal">%s приєднався до CoolApp!</string>
   <string name="ThreadRecord_disappearing_messages_disabled">Зникаючі повідомлення заборонені</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">Час зникнення повідомлень встановлено на %s</string>
   <string name="ThreadRecord_safety_number_changed">Номер безпеки змінено</string>
@@ -1674,8 +1674,8 @@
   <string name="ThreadRecord_video">Відео</string>
   <string name="ThreadRecord_chat_session_refreshed">Сесію чату оновлено</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Оновлення Signal</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Нова версія Signal доступна, натисніть для оновлення</string>
+  <string name="UpdateApkReadyListener_Signal_update">Оновлення CoolApp</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Нова версія CoolApp доступна, натисніть для оновлення</string>
   <!--UntrustedSendDialog-->
   <string name="UntrustedSendDialog_send_message">Надіслати повідомлення?</string>
   <string name="UntrustedSendDialog_send">Надіслати</string>
@@ -1694,22 +1694,22 @@
   <string name="UsernameEditFragment_usernames_cannot_begin_with_a_number">Псевдонім не може починатися з цифри.</string>
   <string name="UsernameEditFragment_username_is_invalid">Псевдонім невірний.</string>
   <string name="UsernameEditFragment_usernames_must_be_between_a_and_b_characters">Псевдонім складається з символів кількістю від %1$d до %2$d.</string>
-  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Псевдоніми в Signal необов\'язкові. Якщо ви вирішите створити псевдонім, інші користувачі Signal зможуть знайти вас під цим псевдонімом та зв\'язатися з вами, не знаючи ваш номер телефону.</string>
+  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Псевдоніми в CoolApp необов\'язкові. Якщо ви вирішите створити псевдонім, інші користувачі CoolApp зможуть знайти вас під цим псевдонімом та зв\'язатися з вами, не знаючи ваш номер телефону.</string>
   <plurals name="UserNotificationMigrationJob_d_contacts_are_on_signal">
-    <item quantity="one">%d контакт у Signal!</item>
-    <item quantity="few">%d контактів у Signal!</item>
-    <item quantity="many">%d контактів у Signal!</item>
-    <item quantity="other">%d контактів у Signal!</item>
+    <item quantity="one">%d контакт у CoolApp!</item>
+    <item quantity="few">%d контактів у CoolApp!</item>
+    <item quantity="many">%d контактів у CoolApp!</item>
+    <item quantity="other">%d контактів у CoolApp!</item>
   </plurals>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Ваш контакт працює на давнішій версії Signal. Будь ласка, попросіть його/її оновитися перед перевіркою вашого номера безпеки.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Ваш контакт працює на новішій версії Signal із несумісним форматом QR-коду. Будь ласка, оновіться, щоб порівняти.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Ваш контакт працює на давнішій версії CoolApp. Будь ласка, попросіть його/її оновитися перед перевіркою вашого номера безпеки.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Ваш контакт працює на новішій версії CoolApp із несумісним форматом QR-коду. Будь ласка, оновіться, щоб порівняти.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Сканований QR-код хибно форматований код підтвердження номера безпеки. Будь ласка, спробуйте сканувати знову.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Поділитися номером безпеки через…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Наш номер безпеки Signal:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Наш номер безпеки CoolApp:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Схоже, що у вас немає програм, щоб поділитися.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">У буфері обміну не було знайдено номеру безпеки для порівняння</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal потребує доступу \"Камера\", щоб сканувати QR коди, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Камера\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">CoolApp потребує доступу \"Камера\", щоб сканувати QR коди, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Камера\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Для сканування QR коду необхідний доступ до Камери</string>
   <string name="VerifyIdentityActivity_you_must_first_exchange_messages_in_order_to_view">Щоб переглянути код безпеки %1$s, вам потрібно спочатку обмінятися повідомленнями.</string>
   <!--ViewOnceMessageActivity-->
@@ -1728,13 +1728,13 @@
   <string name="ApplicationMigrationService_system_database_import_is_complete">Імпорт системної бази даних завершено.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Торкніться, щоб відкрити.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal розблоковано</string>
-  <string name="KeyCachingService_lock">Заблокувати Signal</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp розблоковано</string>
+  <string name="KeyCachingService_lock">Заблокувати CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ви</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Непідтримуваний тип медіа</string>
   <string name="MediaPreviewActivity_draft">Чернетка</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal потребує дозволу \"Зберігання\", щоб зберігати файли,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">CoolApp потребує дозволу \"Зберігання\", щоб зберігати файли,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Без доступу до файлової системи зберегти файли неможливо</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Видалити повідомлення?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Це назавжди видалить це повідомлення.</string>
@@ -1753,17 +1753,17 @@
   <string name="MessageNotifier_failed_to_deliver_message">Не вдалось доставити повідомлення.</string>
   <string name="MessageNotifier_error_delivering_message">Помилка доставки повідомлення.</string>
   <string name="MessageNotifier_message_delivery_paused">Доставку повідомлення призупинено.</string>
-  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Підтвердьте, щоб продовжувати обмін повідомленнями на Signal.</string>
+  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Підтвердьте, щоб продовжувати обмін повідомленнями на CoolApp.</string>
   <string name="MessageNotifier_mark_all_as_read">Позначити все як прочитане</string>
   <string name="MessageNotifier_mark_read">Позначити як прочитане</string>
   <string name="MessageNotifier_turn_off_these_notifications">Вимкніть ці сповіщення</string>
   <string name="MessageNotifier_view_once_photo">Фото вже переглянуто</string>
   <string name="MessageNotifier_view_once_video">Відео вже переглянуто</string>
   <string name="MessageNotifier_reply">Відповісти</string>
-  <string name="MessageNotifier_signal_message">Повідомлення Signal</string>
+  <string name="MessageNotifier_signal_message">Повідомлення CoolApp</string>
   <string name="MessageNotifier_unsecured_sms">Незахищене SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Можливо, у вас є нові повідомлення</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Відкрийте Signal, щоб перевірити наявність нових сповіщень.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Відкрийте CoolApp, щоб перевірити наявність нових сповіщень.</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Контакт</string>
   <string name="MessageNotifier_reacted_s_to_s">Відреагував (-ла)  %1$sна: \"%2$s\".</string>
@@ -1775,7 +1775,7 @@
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Відреагував (-ла) %1$s на ваше одноразове медіа</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">Відреагував (-ла) %1$s на ваш стікер.</string>
   <string name="MessageNotifier_this_message_was_deleted">Це повідомлення було видалено.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Вимкнути сповіщення \"Контакт приєднався до Signal\"? Ви можете заново включити їх в Signal &gt; Налаштування &gt; Сповіщення. </string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Вимкнути сповіщення \"Контакт приєднався до CoolApp\"? Ви можете заново включити їх в CoolApp &gt; Налаштування &gt; Сповіщення. </string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Повідомлення</string>
   <string name="NotificationChannel_calls">Виклики</string>
@@ -1787,7 +1787,7 @@
   <string name="NotificationChannel_group_chats">Чати</string>
   <string name="NotificationChannel_missing_display_name">Невідомо</string>
   <string name="NotificationChannel_voice_notes">Голосові нотатки</string>
-  <string name="NotificationChannel_contact_joined_signal">Контакт приєднався до Signal</string>
+  <string name="NotificationChannel_contact_joined_signal">Контакт приєднався до CoolApp</string>
   <string name="NotificationChannels__no_activity_available_to_open_notification_channel_settings">Немає доступної активності для відкриття налаштувань категорій повідомлень.</string>
   <!--Notification channel name for showing persistent background connection on devices without push notifications-->
   <string name="NotificationChannel_background_connection">Фонове з\'єднання</string>
@@ -1795,7 +1795,7 @@
   <string name="NotificationChannel_call_status">Стан виклику</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Швидка відповідь неможлива, коли Signal заблоковано!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Швидка відповідь неможлива, коли CoolApp заблоковано!</string>
   <string name="QuickResponseService_problem_sending_message">Проблема під час надсилання повідомлення!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Збережено до %s</string>
@@ -1806,7 +1806,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Неприпустимий ярлик</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Нове повідомлення</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Запит на листування</string>
   <string name="SingleRecipientNotificationBuilder_you">Ви</string>
@@ -1824,9 +1824,9 @@
   <string name="UnauthorizedReminder_device_no_longer_registered">Цей пристрій більше не зареєстровано</string>
   <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Скоріше за все це через те, що ви зареєстрували свій телефонний номер на іншому пристрої. Торкніться щоб перереєструвати.</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Для відповіді на дзвінок надайте Signal доступ до мікрофона.</string>
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Щоб відповісти нв дзвінок від %s, Signal потребує доступ до вашого мікрофону.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal потребує дозволів \"Мікрофон\" та \"Камера\", щоб здійснювати виклики, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Мікрофон\" та \"Камера\".</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Для відповіді на дзвінок надайте CoolApp доступ до мікрофона.</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Щоб відповісти нв дзвінок від %s, CoolApp потребує доступ до вашого мікрофону.</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">CoolApp потребує дозволів \"Мікрофон\" та \"Камера\", щоб здійснювати виклики, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Мікрофон\" та \"Камера\".</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Розмову прийнято на прив\'язаному пристрої. </string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">Відхилений на прив\'язаному пристрої.</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">Зайнято на прив\'язаному пристрої.</string>
@@ -1850,7 +1850,7 @@
   <string name="change_passphrase_activity__repeat_new_passphrase">Повторіть нову фразу-пароль</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">Ввести ім\'я або номер</string>
-  <string name="contact_selection_activity__invite_to_signal">Запросити до Signal</string>
+  <string name="contact_selection_activity__invite_to_signal">Запросити до CoolApp</string>
   <string name="contact_selection_activity__new_group">Нова група</string>
   <!--contact_filter_toolbar-->
   <string name="contact_filter_toolbar__clear_entered_text_description">Стерти введений текст</string>
@@ -1862,15 +1862,15 @@
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Фото контакту</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal потребує дозволів \"Контакти\", щоб показати контакти, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Контакти\".</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">CoolApp потребує дозволів \"Контакти\", щоб показати контакти, але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Контакти\".</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Не вдалося отримати список контактів, перевірте з\'єднання</string>
   <string name="ContactSelectionListFragment_username_not_found">Ім\'я користувача не знайдено</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" - не є користувачем Signal. Будь ласка, перевірте ім\'я користувача і спробуйте ще раз. </string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" - не є користувачем CoolApp. Будь ласка, перевірте ім\'я користувача і спробуйте ще раз. </string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">Вам не потрібно додавати себе в групу</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">Досягнуто максимального розміру групи</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">У групах Signal можуть перебувати максимум %1$d учасників.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">У групах CoolApp можуть перебувати максимум %1$d учасників.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">Досягнуто ліміт на рекомендовану кількість користувачів у групі</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Групи Signal працюють найкраще з %1$d учасників або менше. Додавання більшої кількості учасників призведе до затримок при відправці і отриманні повідомлень.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Групи CoolApp працюють найкраще з %1$d учасників або менше. Додавання більшої кількості учасників призведе до затримок при відправці і отриманні повідомлень.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="one">%1$d  учасник</item>
     <item quantity="few">%1$d учасник</item>
@@ -1878,7 +1878,7 @@
     <item quantity="other">%1$d учасники</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal потребує дозволів \"Контакти\", щоб показати контакти.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">CoolApp потребує дозволів \"Контакти\", щоб показати контакти.</string>
   <string name="contact_selection_list_fragment__show_contacts">Показати контакти</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1895,7 +1895,7 @@
     <item quantity="other">%1$d глядачів</item>
   </plurals>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Повідомлення Signal</string>
+  <string name="conversation_activity__type_message_push">Повідомлення CoolApp</string>
   <string name="conversation_activity__type_message_sms_insecure">Незахищене SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Незахищене MMS</string>
   <string name="conversation_activity__from_sim_name">Від %1$s</string>
@@ -1907,7 +1907,7 @@
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Увімк/вимк скриньку вкладень камери</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Записати та надіслати аудіо вкладення</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Заблокувати запис аудіо вкладення</string>
-  <string name="conversation_activity__enable_signal_for_sms">Дозволити Signal обробляти SMS</string>
+  <string name="conversation_activity__enable_signal_for_sms">Дозволити CoolApp обробляти SMS</string>
   <string name="conversation_activity__message_could_not_be_sent">Не вдалось відправити повідомлення. Перевірте ваше підключення до інтернету і спробуйте ще раз. </string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Проведіть для скасування</string>
@@ -1938,7 +1938,7 @@
   <string name="ConversationUpdateItem_view">Детальніше</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">Час зникання повідомлення буде встановлено на %1$s, коли ви його відправите їм.</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Розвиток Signal</string>
+  <string name="ConversationUpdateItem_signal_boost">Розвиток CoolApp</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">Стати прихильником</string>
   <!--audio_view-->
@@ -1963,7 +1963,7 @@
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">Прокрутить до самого низу</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">Бульбашки — особливість Android, що можна вимкнути для чатів Signal.</string>
+  <string name="BubbleOptOutTooltip__description">Бульбашки — особливість Android, що можна вимкнути для чатів CoolApp.</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">Не зараз</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -2044,7 +2044,7 @@
   <string name="IdentityUtil_unverified_banner_one">Ваш номер безпеки із %s змінився і наразі є НЕперевіреним</string>
   <string name="IdentityUtil_unverified_banner_two">Ваші номери безпеки із %1$s та %2$s більше не є перевіреними</string>
   <string name="IdentityUtil_unverified_banner_many">Ваші номери безпеки із %1$s ,%2$s та %3$sбільше не є перевіреними</string>
-  <string name="IdentityUtil_unverified_dialog_one">Ваш номер безпеки із %1$s змінився. Це може означати, що хтось намагається перехопити вашу розмову, або те, що %1$sпросто перевстановив Signal.</string>
+  <string name="IdentityUtil_unverified_dialog_one">Ваш номер безпеки із %1$s змінився. Це може означати, що хтось намагається перехопити вашу розмову, або те, що %1$sпросто перевстановив CoolApp.</string>
   <string name="IdentityUtil_unverified_dialog_two">Ваш номер безпеки із %1$s та %2$sзмінився. Це може означати, що хтось намагається перехопити вашу розмову, або те, що вони просто перевстановили Сигнал.</string>
   <string name="IdentityUtil_unverified_dialog_many">Ваш номер безпеки із %1$s, %2$sта %3$sзмінився. Це може означати, що хтось намагається перехопити вашу розмову, або те, що вони просто перевстановили Сигнал.</string>
   <string name="IdentityUtil_untrusted_dialog_one">Ваш номер безпеки із %s щойно змінився.</string>
@@ -2061,7 +2061,7 @@
   <!--giphy_fragment-->
   <string name="giphy_fragment__nothing_found">Нічого не знайдено</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Імпорутвати ваші SMS повідомлення у зашифровану базу даних Signal?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Імпорутвати ваші SMS повідомлення у зашифровану базу даних CoolApp?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">Системна база даних не буде порушена.</string>
   <string name="database_migration_activity__skip">Пропустити</string>
   <string name="database_migration_activity__import">Імпорт</string>
@@ -2086,7 +2086,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Розблокувати</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Для надсилання MMS-повідомлень Signal необхідно знати налаштування APN вашого оператора. Однак ваш пристрій не надає цієї інформації — перевірте налаштування доступу до цих параметрів.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Для надсилання MMS-повідомлень CoolApp необхідно знати налаштування APN вашого оператора. Однак ваш пристрій не надає цієї інформації — перевірте налаштування доступу до цих параметрів.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Щоб мати можливість відправляти MMS-повідомлення, введіть інформацію про APN нижче. Потрібні значення для вашого оператора можна знайти в інтернеті за запитом \'оператор APN\' або в його службі підтримки. Це потрібно зробити тільки один раз.</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">Проблема з доставленням</string>
@@ -2126,7 +2126,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Введіть ім\'я або номер</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Щоб перевірити безпеку вашого наскрізного шифрування з %s, порівняйте наведені вище числа з їхнім пристроєм. Ви також можете відсканувати код на їхньому телефоні. <a href="https://signal.org/redirect/safety-numbers">Докладніше.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Щоб перевірити безпеку вашого наскрізного шифрування з %s, порівняйте наведені вище числа з їхнім пристроєм. Ви також можете відсканувати код на їхньому телефоні. <a href="https://asia.coolapp.chat/redirect/safety-numbers">Докладніше.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Натисніть, щоб сканувати</string>
   <string name="verify_display_fragment__successful_match">Збіг вдалий</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">Не вдалось підтвердити код безпеки</string>
@@ -2184,7 +2184,7 @@
   <string name="HelpFragment__how_do_you_feel">Який у вас настрій?</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">Опишіть вашу проблему.</string>
   <string name="HelpFragment__support_info">Допоміжна інформація</string>
-  <string name="HelpFragment__signal_android_support_request">Запит на підтримку Signal на Android</string>
+  <string name="HelpFragment__signal_android_support_request">Запит на підтримку CoolApp на Android</string>
   <string name="HelpFragment__debug_log">Журнал відладки:</string>
   <string name="HelpFragment__could_not_upload_logs">Не вдалося вивантажити логи</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Будь ласка, пишіть якомога детальніше, щоб допомогти нам зрозуміти проблему. </string>
@@ -2196,7 +2196,7 @@
     <item>Відгук</item>
     <item>Інше</item>
     <item>Платежі (MobileCoin)</item>
-    <item>Прихильники &amp; Signal Boost</item>
+    <item>Прихильники &amp; CoolApp Boost</item>
   </string-array>
   <!--ReactWithAnyEmojiBottomSheetDialogFragment-->
   <string name="ReactWithAnyEmojiBottomSheetDialogFragment__this_message">Це повідомлення</string>
@@ -2248,8 +2248,8 @@
   <string name="preferences__sms_mms">SMS і MMS</string>
   <string name="preferences__pref_all_sms_title">Отримати усі SMS</string>
   <string name="preferences__pref_all_mms_title">Отримати усі MMS</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Використовувати Signal для усіх вхідних текстових повідомлень</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Використовувати Signal для усіх вхідних мультимедійних повідомлень</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Використовувати CoolApp для усіх вхідних текстових повідомлень</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Використовувати CoolApp для усіх вхідних мультимедійних повідомлень</string>
   <string name="preferences__pref_enter_sends_title">Enter надсилає повідомлення</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Натиснення кнопки Enter відправить повідомлення</string>
   <string name="preferences__pref_use_address_book_photos">Використовуйте фотографії з адресної книги</string>
@@ -2264,7 +2264,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Захистити Сигнал та сповіщення повідомлень фразою-паролем</string>
   <string name="preferences__screen_security">Безпека екрану</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Блокувати знімки екрану в списку недавніх та в програмі</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Автоблокувати Signal після певного часу неактивності</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Автоблокувати CoolApp після певного часу неактивності</string>
   <string name="preferences__inactivity_timeout_passphrase">Фраза-пароль після спливання часу неактивності</string>
   <string name="preferences__inactivity_timeout_interval">Інтервал часу неактивності</string>
   <string name="preferences__notifications">Сповіщення</string>
@@ -2295,10 +2295,10 @@
   <string name="preferences__slow">Повільно</string>
   <string name="preferences__help">Допомога</string>
   <string name="preferences__advanced">Розширені</string>
-  <string name="preferences__donate_to_signal">Підтримати Signal</string>
+  <string name="preferences__donate_to_signal">Підтримати CoolApp</string>
   <string name="preferences__subscription">Передплата</string>
-  <string name="preferences__become_a_signal_sustainer">Стати підтримувачем Signal</string>
-  <string name="preferences__signal_boost">Пришвидшити Signal</string>
+  <string name="preferences__become_a_signal_sustainer">Стати підтримувачем CoolApp</string>
+  <string name="preferences__signal_boost">Пришвидшити CoolApp</string>
   <string name="preferences__privacy">Приватність</string>
   <string name="preferences__mms_user_agent">MMS User Agent</string>
   <string name="preferences__advanced_mms_access_point_names">Власні налаштування MMS</string>
@@ -2325,13 +2325,13 @@
   <string name="preferences__chat_color_and_wallpaper">Колір і шпалери чату </string>
   <string name="preferences__disable_pin">Вимкнути PIN</string>
   <string name="preferences__enable_pin">Ввімкнути PIN</string>
-  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Якщо ви вимкнете PIN-код, то при перевстановленні Signal втратите всі дані, якщо ви заздалегідь  вручну  не створите резервну копію. При відключенному PIN-коді неможна буде включити блокування реєстрації.</string>
-  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN-коди зберігають інформацію в Signal зашифрованою, тому тільки ви можете отримати до неї доступ. Ваш профіль, налаштування та контакти буде відновлено, коли ви встановите застосунок знов. PIN-код не потрібен, щоб відкрити застосунок.</string>
+  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Якщо ви вимкнете PIN-код, то при перевстановленні CoolApp втратите всі дані, якщо ви заздалегідь  вручну  не створите резервну копію. При відключенному PIN-коді неможна буде включити блокування реєстрації.</string>
+  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN-коди зберігають інформацію в CoolApp зашифрованою, тому тільки ви можете отримати до неї доступ. Ваш профіль, налаштування та контакти буде відновлено, коли ви встановите застосунок знов. PIN-код не потрібен, щоб відкрити застосунок.</string>
   <string name="preferences__system_default">За замовчуванням</string>
   <string name="preferences__language">Мова</string>
-  <string name="preferences__signal_messages_and_calls">Повідомлення та виклики Signal</string>
+  <string name="preferences__signal_messages_and_calls">Повідомлення та виклики CoolApp</string>
   <string name="preferences__advanced_pin_settings">Розширені налаштування PIN-коду</string>
-  <string name="preferences__free_private_messages_and_calls">Безкоштовні приватні повідомлення та виклики для користувачів Signal</string>
+  <string name="preferences__free_private_messages_and_calls">Безкоштовні приватні повідомлення та виклики для користувачів CoolApp</string>
   <string name="preferences__submit_debug_log">Надіслати журнал відладки</string>
   <string name="preferences__delete_account">Видалити обліковий запис</string>
   <string name="preferences__support_wifi_calling">Режим сумісності \'WiFi Calling\'</string>
@@ -2371,8 +2371,8 @@
   <string name="preferences_storage__s_messages">%1$s повідомлень</string>
   <string name="preferences_storage__custom">Користувацький</string>
   <string name="preferences_advanced__use_system_emoji">Використовувати системні emoji</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Вимкнути вбудовану в Signal підтримку emoji</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Ретранслювати всі дзвінки через сервер Signal щоб уникнути розкриття вашого IP-адреси контакту. Включення знизить якість дзвінка.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Вимкнути вбудовану в CoolApp підтримку emoji</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Ретранслювати всі дзвінки через сервер CoolApp щоб уникнути розкриття вашого IP-адреси контакту. Включення знизить якість дзвінка.</string>
   <string name="preferences_advanced__always_relay_calls">Завжди ретранслювати дзвінки</string>
   <string name="preferences_app_protection__who_can">Хто може..</string>
   <string name="preferences_app_protection__app_access">Доступ до додатка</string>
@@ -2392,21 +2392,21 @@
   <string name="preferences_notifications__calls">Виклики</string>
   <string name="preferences_notifications__ringtone">Мелодія дзвінка</string>
   <string name="preferences_chats__show_invitation_prompts">Відображати пропозиції запрошення</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Відображати пропозиції запрошення для контактів, що не мають Signal</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Відображати пропозиції запрошення для контактів, що не мають CoolApp</string>
   <string name="preferences_chats__message_text_size">Розмір шрифту повідомлень</string>
-  <string name="preferences_events__contact_joined_signal">Контакт приєднався до Signal</string>
+  <string name="preferences_events__contact_joined_signal">Контакт приєднався до CoolApp</string>
   <string name="preferences_notifications__priority">Пріоритет</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <string name="preferences_communication__category_censorship_circumvention">Обхід цензури</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention">Обхід цензури</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Якщо увімкнено, Signal намагатиметься обійти цензуру. Не вмикайте цю функцію, якщо ви не в місці, де Signal заблоковано.</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Якщо увімкнено, CoolApp намагатиметься обійти цензуру. Не вмикайте цю функцію, якщо ви не в місці, де CoolApp заблоковано.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">Обхід цензури було активовано враховуючи номер мобільного цього акаунта.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Ви вручну відключили обхід цензури.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Обхід цензури не потрібен. З\'єднання з Signal вже встановлено.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Обхід цензури не потрібен. З\'єднання з CoolApp вже встановлено.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">Обхід цензури може бути активований лише при підключенні до інтернету.</string>
   <string name="preferences_communication__category_sealed_sender">Прихований відправник</string>
@@ -2421,7 +2421,7 @@
   <string name="preferences_off">Вимк.</string>
   <string name="preferences_on">Увімк.</string>
   <string name="preferences_proxy_address">Адреса проксі</string>
-  <string name="preferences_only_use_a_proxy_if">Використовуйте проксі тільки якщо ви не можете підключитися до Signal через мобільні дані або Wi-Fi.</string>
+  <string name="preferences_only_use_a_proxy_if">Використовуйте проксі тільки якщо ви не можете підключитися до CoolApp через мобільні дані або Wi-Fi.</string>
   <string name="preferences_share">Поділитися</string>
   <string name="preferences_save">Зберегти</string>
   <string name="preferences_connecting_to_proxy">Підключаємося до проксі… </string>
@@ -2440,7 +2440,7 @@
   <string name="PaymentsAllActivityFragment__sent">Надіслано</string>
   <string name="PaymentsAllActivityFragment__received">Одержано</string>
   <string name="PaymentsHomeFragment__introducing_payments">Представляємо платежі (Бета)</string>
-  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Використовуйте Signal для переказу та отримання MobileCoin — нової цифрової валюти, націленої на безпеку. Увімкніть, щоб почати.</string>
+  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Використовуйте CoolApp для переказу та отримання MobileCoin — нової цифрової валюти, націленої на безпеку. Увімкніть, щоб почати.</string>
   <string name="PaymentsHomeFragment__activate_payments">Увімкнути платежі</string>
   <string name="PaymentsHomeFragment__activating_payments">Вмикаємо платежі…</string>
   <string name="PaymentsHomeFragment__restore_payments_account">Відновити платіжний обліковий запис</string>
@@ -2467,17 +2467,17 @@
   <string name="PaymentsHomeFragment__payments_is_not_available_in_your_region">Платежі недоступні у вашому регіоні.</string>
   <string name="PaymentsHomeFragment__could_not_enable_payments">Не вдалося увімкнути платежі. Спробуйте пізніше. </string>
   <string name="PaymentsHomeFragment__deactivate_payments_question">Вимкнути платежі?</string>
-  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Ви не зможете відправляти або отримувати MobileCoin в Signal, якщо вимкнете платежі.</string>
+  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Ви не зможете відправляти або отримувати MobileCoin в CoolApp, якщо вимкнете платежі.</string>
   <string name="PaymentsHomeFragment__deactivate">Вимкнути</string>
   <string name="PaymentsHomeFragment__continue">Продовжити</string>
   <string name="PaymentsHomeFragment__balance_is_not_currently_available">Баланс в даний момент недоступний. </string>
   <string name="PaymentsHomeFragment__payments_deactivated">Платежі вимкнено.</string>
   <string name="PaymentsHomeFragment__payment_failed">Платіж не вдався</string>
   <string name="PaymentsHomeFragment__details">Деталі</string>
-  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Ви можете використовувати Signal щоб відправляти та отримувати MobileCoin. Усі платежі здійснюються відповідно до Умов користування MobileCoin та Гаманцем MobileCoin. Ця можливість перебуває у стадії бета, а тому можливі певні проблеми, зокрема платежі чи гроші на балансі можна втратити без можливості повернення.</string>
+  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Ви можете використовувати CoolApp щоб відправляти та отримувати MobileCoin. Усі платежі здійснюються відповідно до Умов користування MobileCoin та Гаманцем MobileCoin. Ця можливість перебуває у стадії бета, а тому можливі певні проблеми, зокрема платежі чи гроші на балансі можна втратити без можливості повернення.</string>
   <string name="PaymentsHomeFragment__activate">Активувати</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">Дивитись умови використання MobileCoin</string>
-  <string name="PaymentsHomeFragment__payments_not_available">Платежі у Signal більше недоступні. Ви все ще можете переказати кошти на обмін, але більше не зможете надсилати та отримувати платежі, поповнювати рахунок.</string>
+  <string name="PaymentsHomeFragment__payments_not_available">Платежі у CoolApp більше недоступні. Ви все ще можете переказати кошти на обмін, але більше не зможете надсилати та отримувати платежі, поповнювати рахунок.</string>
   <!--PaymentsAddMoneyFragment-->
   <string name="PaymentsAddMoneyFragment__add_funds">Додати кошти</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Адреса вашого гаманця</string>
@@ -2514,10 +2514,10 @@
   <string name="PaymentsTransferFragment__next">Далі</string>
   <string name="PaymentsTransferFragment__invalid_address">Неправильна адреса</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">Перевірте адресу гаманця, на який ви намагаєтеся переказати кошти, і спробуйте ще раз. </string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Ви не можете переказати на власну адресу гаманця Signal. Введіть адресу гаманця зі свого облікового запису на підтримуваній біржі.</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Щоб сканувати QR-код, Signal необхідний доступ до камери.</string>
-  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">Signal потрібен дозвіл на доступ до камери для сканування QR-коду. Перейдіть в налаштування, виберіть «Дозволи» і включіть «Камера»</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Щоб сканувати QR-код, Signal необхідний доступ до камери.</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Ви не можете переказати на власну адресу гаманця CoolApp. Введіть адресу гаманця зі свого облікового запису на підтримуваній біржі.</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Щоб сканувати QR-код, CoolApp необхідний доступ до камери.</string>
+  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">CoolApp потрібен дозвіл на доступ до камери для сканування QR-коду. Перейдіть в налаштування, виберіть «Дозволи» і включіть «Камера»</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Щоб сканувати QR-код, CoolApp необхідний доступ до камери.</string>
   <string name="PaymentsTransferFragment__settings">Налаштування</string>
   <!--PaymentsTransferQrScanFragment-->
   <string name="PaymentsTransferQrScanFragment__scan_address_qr_code">Сканувати QR-код адреси</string>
@@ -2575,8 +2575,8 @@
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Виклик</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Виклик через Signal </string>
-  <string name="conversation_callable_secure__menu_video">Відеодзвінок Signal</string>
+  <string name="conversation_callable_secure__menu_call">Виклик через CoolApp </string>
+  <string name="conversation_callable_secure__menu_video">Відеодзвінок CoolApp</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2666,10 +2666,10 @@
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Порівняти із буфером обміну</string>
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">Імпортувати системну базу SMS?</string>
-  <string name="reminder_header_sms_import_text">Торкніться, щоб імпортувати ваші SMS повідомлення у зашифровану базу даних Signal.</string>
-  <string name="reminder_header_push_title">Увімкнути повідомлення та виклики Signal</string>
+  <string name="reminder_header_sms_import_text">Торкніться, щоб імпортувати ваші SMS повідомлення у зашифровану базу даних CoolApp.</string>
+  <string name="reminder_header_push_title">Увімкнути повідомлення та виклики CoolApp</string>
   <string name="reminder_header_push_text">Оновіть досвід вашого спілкування.</string>
-  <string name="reminder_header_service_outage_text">Signal зазнав технічних труднощів. Ми тяжко працюємо щоб відновити сервіс якомога швидше.</string>
+  <string name="reminder_header_service_outage_text">CoolApp зазнав технічних труднощів. Ми тяжко працюємо щоб відновити сервіс якомога швидше.</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Зберегти</string>
@@ -2686,22 +2686,22 @@
   <string name="Insights__percent">%</string>
   <string name="Insights__title">Висновки</string>
   <string name="InsightsDashboardFragment__title">Висновки</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Signal Protocol автоматично захистив %1$d%% від ваших вихідних повідомлень за останні %2$d днів. Розмови між користувачами Signal завжди захищені наскрізним шифруванням.</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">CoolApp Protocol автоматично захистив %1$d%% від ваших вихідних повідомлень за останні %2$d днів. Розмови між користувачами CoolApp завжди захищені наскрізним шифруванням.</string>
   <string name="InsightsDashboardFragment__spread_the_word">Поширити</string>
   <string name="InsightsDashboardFragment__not_enough_data">Недостатньо даних</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">Ваш відсоток в \"Висновках\" вважається на основі вихідних повідомлень, які не зникли або не були видалені за останні %1$d </string>
   <string name="InsightsDashboardFragment__start_a_conversation">Почніть розмову</string>
-  <string name="InsightsDashboardFragment__invite_your_contacts">Почніть спілкуватися безпечно і включіть нові функції, які виходять за межі обмежень незашифрованих SMS, запрошуючи більше контактів приєднатися до Signal.</string>
+  <string name="InsightsDashboardFragment__invite_your_contacts">Почніть спілкуватися безпечно і включіть нові функції, які виходять за межі обмежень незашифрованих SMS, запрошуючи більше контактів приєднатися до CoolApp.</string>
   <string name="InsightsDashboardFragment__this_stat_was_generated_locally">Ця статистика була згенерована локально на вашому пристрої і її видно тільки вам. Вона ніколи нікуди не передається.</string>
   <string name="InsightsDashboardFragment__encrypted_messages">Зашифровані повідомлення</string>
   <string name="InsightsDashboardFragment__cancel">Скасувати</string>
   <string name="InsightsDashboardFragment__send">Надіслати</string>
   <string name="InsightsModalFragment__title">Представляємо \"Висновки\" </string>
-  <string name="InsightsModalFragment__description">Дізнайтеся, скільки з ваших вихідних повідомлень було відправлено безпечно, а потім швидко запросіть нові контакти, щоб збільшити ваш Signal відсоток . </string>
+  <string name="InsightsModalFragment__description">Дізнайтеся, скільки з ваших вихідних повідомлень було відправлено безпечно, а потім швидко запросіть нові контакти, щоб збільшити ваш CoolApp відсоток . </string>
   <string name="InsightsModalFragment__view_insights">Показати Висновки</string>
-  <string name="FirstInviteReminder__title">Запросити до Signal</string>
+  <string name="FirstInviteReminder__title">Запросити до CoolApp</string>
   <string name="FirstInviteReminder__description">Ви могли б збільшити кількість відправлених вами зашифрованих повідомлень на %1$d%%</string>
-  <string name="SecondInviteReminder__title">Поліпшіть свій Signal </string>
+  <string name="SecondInviteReminder__title">Поліпшіть свій CoolApp </string>
   <string name="SecondInviteReminder__description">Запросити %1$s</string>
   <string name="InsightsReminder__view_insights">Показати Висновки</string>
   <string name="InsightsReminder__invite">Запросити</string>
@@ -2726,7 +2726,7 @@
   <string name="CreateKbsPinFragment__create_a_new_pin">Створити новий PIN-код</string>
   <string name="CreateKbsPinFragment__you_can_choose_a_new_pin_as_long_as_this_device_is_registered">Ви можете змінити свій PIN-код, поки цей пристрій зареєстровано.</string>
   <string name="CreateKbsPinFragment__create_your_pin">Створити PIN-код</string>
-  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN-коди зберігають інформацію в Signal зашифрованою, тому тільки ви можете отримати до неї доступ. Ваш профіль, налаштування та контакти буде відновлено, коли ви встановите застосунок знов. PIN-код не потрібен, щоб відкрити застосунок.</string>
+  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN-коди зберігають інформацію в CoolApp зашифрованою, тому тільки ви можете отримати до неї доступ. Ваш профіль, налаштування та контакти буде відновлено, коли ви встановите застосунок знов. PIN-код не потрібен, щоб відкрити застосунок.</string>
   <string name="CreateKbsPinFragment__choose_a_stronger_pin">Виберіть більш надійний PIN-код</string>
   <!--ConfirmKbsPinFragment-->
   <string name="ConfirmKbsPinFragment__pins_dont_match">PIN-коди не збігаються. Спробуйте ще раз.</string>
@@ -2738,7 +2738,7 @@
   <string name="ConfirmKbsPinFragment__creating_pin">Створення PIN-коду…</string>
   <!--KbsSplashFragment-->
   <string name="KbsSplashFragment__introducing_pins">Представляємо PIN-коди</string>
-  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN-коди зберігають інформацію в Signal зашифрованою, тому тільки ви можете отримати до неї доступ. Ваш профіль, налаштування та контакти буде відновлено, коли ви встановите застосунок знов. PIN-код не потрібен, щоб відкрити застосунок.</string>
+  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN-коди зберігають інформацію в CoolApp зашифрованою, тому тільки ви можете отримати до неї доступ. Ваш профіль, налаштування та контакти буде відновлено, коли ви встановите застосунок знов. PIN-код не потрібен, щоб відкрити застосунок.</string>
   <string name="KbsSplashFragment__learn_more">Дізнатися більше</string>
   <string name="KbsSplashFragment__registration_lock_equals_pin">Блокування реєстрації = PIN-код</string>
   <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">Блокування реєстрації - тепер називається PIN-код і може більше. Оновіть його прямо зараз.</string>
@@ -2747,7 +2747,7 @@
   <string name="KbsSplashFragment__learn_more_about_pins">Дізнатися більше про PIN-коди</string>
   <string name="KbsSplashFragment__disable_pin">Вимкнути PIN</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Введіть свій PIN-код Signal</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">Введіть свій PIN-код CoolApp</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">Щоб допомогти вам запам\'ятати свій PIN-код, ми будемо просити вас вводити його періодично. Згодом це буде відбуватися рідше.</string>
   <string name="KbsReminderDialog__skip">Пропустити</string>
   <string name="KbsReminderDialog__submit">Надіслати</string>
@@ -2768,8 +2768,8 @@
   <string name="RegistrationLockFragment__incorrect_pin">Неправельний PIN-код</string>
   <string name="RegistrationLockFragment__forgot_your_pin">Забули свій PIN-код?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">Залишилося не так багато спроб!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Реєстрація в Signal - Потрібна допомога з PIN-кодом для Android (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Реєстрація в Signal - Потрібна допомога з PIN-кодом для Android (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Реєстрація в CoolApp - Потрібна допомога з PIN-кодом для Android (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Реєстрація в CoolApp - Потрібна допомога з PIN-кодом для Android (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="one">Для вашої конфіденційності та безпеки відновлення PIN-коду не передбачається. Якщо ви не зможете згадати свій PIN-код, ви зможете наново зареєструватися через SMS, якщо впродовж %1$d дня не буде активності. При цьому ваш обліковий запис буде витерто, а весь вміст видалено.</item>
     <item quantity="few">Для вашої конфіденційності та безпеки відновлення PIN-коду не передбачається. Якщо ви не зможете згадати свій PIN-код, ви зможете наново зареєструватися через SMS, якщо впродовж %1$d днів не буде активності. При цьому ваш обліковий запис буде витерто, а весь вміст видалено.</item>
@@ -2804,18 +2804,18 @@
   <string name="CalleeMustAcceptMessageRequestDialogFragment__s_will_get_a_message_request_from_you">%1$s отримає запит з повідомленням від вас. Ви зможете подзвонити коли ваше повідомлення запиту приймуть.</string>
   <!--KBS Megaphone-->
   <string name="KbsMegaphone__create_a_pin">Створіть PIN-код</string>
-  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">PIN-коди зберігають інформацію в сервісі Signal зашифровано.</string>
+  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">PIN-коди зберігають інформацію в сервісі CoolApp зашифровано.</string>
   <string name="KbsMegaphone__create_pin">Створити PIN-код</string>
   <!--transport_selection_list_item-->
   <string name="transport_selection_list_item__transport_icon">Логотип типу зв\'язку</string>
   <string name="ConversationListFragment_loading">Завантаження…</string>
   <string name="CallNotificationBuilder_connecting">З’єднання…</string>
   <string name="Permissions_permission_required">Необхідний дозвіл</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal потребує дозволу \"SMS\", але наразі дозволу немає. Будь-ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\" та увімкніть \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">CoolApp потребує дозволу \"SMS\", але наразі дозволу немає. Будь-ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\" та увімкніть \"SMS\".</string>
   <string name="Permissions_continue">Продовжити</string>
   <string name="Permissions_not_now">Не зараз</string>
-  <string name="conversation_activity__enable_signal_messages">Дозволити повідомлення Signal</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">Міграція бази даних Signal</string>
+  <string name="conversation_activity__enable_signal_messages">Дозволити повідомлення CoolApp</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">Міграція бази даних CoolApp</string>
   <string name="PushDecryptJob_new_locked_message">Нове заблоковане повідомлення</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">Розблокуйте, щоб побачити нові повідомлення</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">Фраза-пароль резервної копії</string>
@@ -2833,7 +2833,7 @@
   <string name="preferences_chats__transfer_account_to_a_new_android_device">Перенесіть обліковий запис на новий пристрій Android</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Введіть фразу-пароль</string>
   <string name="RegistrationActivity_restore">Відновити</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Неможливо імпортувати резервну копію з новіших версій Signal</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Неможливо імпортувати резервну копію з новіших версій CoolApp</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Хибна фраза-пароль!</string>
   <string name="RegistrationActivity_checking">Перевірка…</string>
   <string name="RegistrationActivity_d_messages_so_far">Залишилось %d повідомлень…</string>
@@ -2855,7 +2855,7 @@
   <string name="BackupDialog_verify">Підтвердження</string>
   <string name="BackupDialog_you_successfully_entered_your_backup_passphrase">Ви успішно ввели фразу-пароль своєї резервної копії </string>
   <string name="BackupDialog_passphrase_was_not_correct">Фраза-пароль була неправильна</string>
-  <string name="LocalBackupJob_creating_signal_backup">Створення резервної копії Signal…</string>
+  <string name="LocalBackupJob_creating_signal_backup">Створення резервної копії CoolApp…</string>
   <string name="LocalBackupJobApi29_backup_failed">Створення резервної копії не вдалось</string>
   <string name="LocalBackupJobApi29_your_backup_directory_has_been_deleted_or_moved">Ваша папка для резервних копій була видалена або переміщена.</string>
   <string name="LocalBackupJobApi29_your_backup_file_is_too_large">Ваш файл резервної копії занадто великий для зберігання на цьому носії. </string>
@@ -2864,8 +2864,8 @@
   <string name="ProgressPreference_d_messages_so_far">Залишилось %d повідомлень</string>
   <string name="RegistrationActivity_wrong_number">Недоступний номер</string>
   <string name="RegistrationActivity_call_me_instead_available_in">Подзвони мені взамін \n (Доступний о%1$02d:%2$02d)</string>
-  <string name="RegistrationActivity_contact_signal_support">Зверніться в службу підтримки Signal</string>
-  <string name="RegistrationActivity_code_support_subject">Реєстрація в Signal - код підтвердження для Android</string>
+  <string name="RegistrationActivity_contact_signal_support">Зверніться в службу підтримки CoolApp</string>
+  <string name="RegistrationActivity_code_support_subject">Реєстрація в CoolApp - код підтвердження для Android</string>
   <string name="RegistrationActivity_incorrect_code">Невірний код</string>
   <string name="BackupUtil_never">Ніколи</string>
   <string name="BackupUtil_unknown">Невідомо</string>
@@ -2875,21 +2875,21 @@
   <string name="PhoneNumberPrivacy_my_contacts">Мої контакти</string>
   <string name="PhoneNumberPrivacy_nobody">Ніхто</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">Ваш номер телефону буде видно всім людям і групам, яким ви відправляєте повідомлення. </string>
-  <string name="PhoneNumberPrivacy_everyone_find_description">Усі, у кого збережено ваш номер телефону, побачать вас у списку контактів Signal. Інші зможуть вас відшукати у пошуку.</string>
+  <string name="PhoneNumberPrivacy_everyone_find_description">Усі, у кого збережено ваш номер телефону, побачать вас у списку контактів CoolApp. Інші зможуть вас відшукати у пошуку.</string>
   <string name="preferences_app_protection__screen_lock">Блокування екрану</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Заблокувати доступ до Signal через налаштування Андроїд</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Заблокувати доступ до CoolApp через налаштування Андроїд</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Затримка блокування екрану при бездіяльності</string>
-  <string name="preferences_app_protection__signal_pin">PIN Signal</string>
+  <string name="preferences_app_protection__signal_pin">PIN CoolApp</string>
   <string name="preferences_app_protection__create_a_pin">Створіть PIN-код</string>
   <string name="preferences_app_protection__change_your_pin">Змінити PIN-код</string>
   <string name="preferences_app_protection__pin_reminders">Нагадування PIN-коду</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN-коди зберігають інформацію в сервісі Signal зашифрованою, так що тільки ви можете отримати до неї доступ.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Поліпшіть безпеку, захотівши вводити ваш PIN-код Signal при повторній реєстрації вашого номера телефону в Signal.</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN-коди зберігають інформацію в сервісі CoolApp зашифрованою, так що тільки ви можете отримати до неї доступ.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Поліпшіть безпеку, захотівши вводити ваш PIN-код CoolApp при повторній реєстрації вашого номера телефону в CoolApp.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">Нагадування допомагають вам запам\'ятати свій PIN-код, так як він не може бути відновлений. Нагадування будуть з\'являтися рідше з плином часу.</string>
   <string name="preferences_app_protection__turn_off">Відключити</string>
   <string name="preferences_app_protection__confirm_pin">Підтвердити PIN</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Підтвердіть свій PIN-код Signal</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Обов’язково запам’ятайте або надійно збережіть свій PIN-код, оскільки його неможливо відновити. Якщо ви забудете свій PIN-код, ви можете втратити дані при перереєстрації свого облікового запису Signal.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">Підтвердіть свій PIN-код CoolApp</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Обов’язково запам’ятайте або надійно збережіть свій PIN-код, оскільки його неможливо відновити. Якщо ви забудете свій PIN-код, ви можете втратити дані при перереєстрації свого облікового запису CoolApp.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">Неправильний PIN-код. Будь ласка спробуйте ще раз.</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">Не вдалось включити блокування реєстрації.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">Не вдалось відключити блокування реєстрації.</string>
@@ -2902,19 +2902,19 @@
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Ви зробили надто багато спроб. Будь ласка, спробуйте ще раз пізніше</string>
   <string name="RegistrationActivity_error_connecting_to_service">Помилка підключення до сервісу</string>
   <string name="preferences_chats__backups">Резервні копії</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal заблоковано</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp заблоковано</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">НАТИСНІТЬ ДЛЯ РОЗБЛОКУВАННЯ</string>
   <string name="Recipient_unknown">Невідомо</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">Перенесення або выдновлення аккаунта</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Якщо Ви вже зареєстрували обліковий запис Signal, ви можете перенести або відновити свій обліковий запис і повідомлення</string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Якщо Ви вже зареєстрували обліковий запис CoolApp, ви можете перенести або відновити свій обліковий запис і повідомлення</string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Перенести з пристрою Android</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">Перенести обліковий запис і повідомлення з вашого старого Android-пристрою. У вас повинен бути доступ до свого старого пристрою.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">У вас повинен бути доступ до свого старого пристрою.</string>
   <string name="TransferOrRestoreFragment__restore_from_backup">Відновити резервну копію</string>
   <string name="TransferOrRestoreFragment__restore_your_messages_from_a_local_backup">Відновити ваші повідомлення із локальної резервної копії. Якщо ви не бажаєте зробити це зараз, ви не зможете відновити їх пізніше.</string>
   <!--NewDeviceTransferInstructionsFragment-->
-  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Відкрийте Signal на своєму старому Android-телефоні</string>
+  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Відкрийте CoolApp на своєму старому Android-телефоні</string>
   <string name="NewDeviceTransferInstructions__continue">Продовжити</string>
   <string name="NewDeviceTransferInstructions__first_bullet">1.</string>
   <string name="NewDeviceTransferInstructions__tap_on_your_profile_photo_in_the_top_left_to_open_settings">Натисніть фото свого профілю в лівому верхньому кутку, щоб відкрити Настройки </string>
@@ -2926,18 +2926,18 @@
   <string name="NewDeviceTransferSetup__preparing_to_connect_to_old_android_device">Готуємося до підключення до вашого старого Android-пристрою… </string>
   <string name="NewDeviceTransferSetup__take_a_moment_should_be_ready_soon">Ще трохи, скоро закінчимо</string>
   <string name="NewDeviceTransferSetup__waiting_for_old_device_to_connect">Очікуємо підключення старого Android-пристрою… </string>
-  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">Signal потрібен дозвіл на доступ до місця вашого розташування, щоб виявити ваш старий Android-пристрій і підключитися до нього.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Служби геолокації повинні бути включені, щоб Signal зміг виявити ваш старий Android-пристрій і з\'єднатися з ним.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">Wi-Fi повинен бути включений, щоб Signal зміг виявити ваш старий Android-пристрій і з\'єднатися з ним. При цьому підключатися до будь-якої мережі Wi-Fi не обов\'язково. </string>
-  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Вибачте, але схоже, що цей пристрій не підтримує Wi-Fi Direct. Signal використовує Wi-Fi Direct, щоб виявити ваш старий Android-пристрій і з\'єднатися з ним. Однак ви можете відновити свій обліковий запис з резервної копії. </string>
+  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">CoolApp потрібен дозвіл на доступ до місця вашого розташування, щоб виявити ваш старий Android-пристрій і підключитися до нього.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Служби геолокації повинні бути включені, щоб CoolApp зміг виявити ваш старий Android-пристрій і з\'єднатися з ним.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">Wi-Fi повинен бути включений, щоб CoolApp зміг виявити ваш старий Android-пристрій і з\'єднатися з ним. При цьому підключатися до будь-якої мережі Wi-Fi не обов\'язково. </string>
+  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Вибачте, але схоже, що цей пристрій не підтримує Wi-Fi Direct. CoolApp використовує Wi-Fi Direct, щоб виявити ваш старий Android-пристрій і з\'єднатися з ним. Однак ви можете відновити свій обліковий запис з резервної копії. </string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Відновити резервну копію</string>
   <string name="NewDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">При спробі підключення до вашого старого Android-пристрою сталась несподівана помилка.</string>
   <!--OldDeviceTransferSetupFragment-->
   <string name="OldDeviceTransferSetup__searching_for_new_android_device">Пошук нового Android пристрою…</string>
-  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">Signal потрібен дозвіл на доступ до місця вашого розташування, щоб з\'єднатись з вашим старим Android пристроєм і підключитися до нього.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">Служби геолокації повинні бути включені, щоб Signal зміг з\'єднатися з вашим новим Android пристроєм.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">Wi-Fi повинен бути включений, щоб Signal зміг виявити ваш новий Android-пристрій і з\'єднатися з ним. При цьому підключатися до будь-якої мережі Wi-Fi не обов\'язково. </string>
-  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Вибачте, але схоже, що цей пристрій не підтримує Wi-Fi Direct. Signal використовує Wi-Fi Direct, щоб виявити ваш новий Android-пристрій і з\'єднатися з ним. Ви все одно можете створити резервну копію, щоб відновити свій обліковий запис на своєму новому Android-пристрої.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">CoolApp потрібен дозвіл на доступ до місця вашого розташування, щоб з\'єднатись з вашим старим Android пристроєм і підключитися до нього.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">Служби геолокації повинні бути включені, щоб CoolApp зміг з\'єднатися з вашим новим Android пристроєм.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">Wi-Fi повинен бути включений, щоб CoolApp зміг виявити ваш новий Android-пристрій і з\'єднатися з ним. При цьому підключатися до будь-якої мережі Wi-Fi не обов\'язково. </string>
+  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Вибачте, але схоже, що цей пристрій не підтримує Wi-Fi Direct. CoolApp використовує Wi-Fi Direct, щоб виявити ваш новий Android-пристрій і з\'єднатися з ним. Ви все одно можете створити резервну копію, щоб відновити свій обліковий запис на своєму новому Android-пристрої.</string>
   <string name="OldDeviceTransferSetup__create_a_backup">Створити резервну копію</string>
   <string name="OldDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">При спробі підключення до вашого нового Android-пристрою сталась несподівана помилка.</string>
   <!--DeviceTransferSetupFragment-->
@@ -2972,10 +2972,10 @@
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device_to_start_the_transfer">Натисніть \"Продовжити\" на вашому іншому пристрої, щоб почати передачу. </string>
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device">Натисніть \"Продовжити\" на іншому пристрої…</string>
   <!--NewDeviceTransferFragment-->
-  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Неможливо перенести з новіших версій Signal</string>
+  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Неможливо перенести з новіших версій CoolApp</string>
   <!--DeviceTransferFragment-->
   <string name="DeviceTransfer__transferring_data">Передача даних</string>
-  <string name="DeviceTransfer__keep_both_devices_near_each_other">Тримайте обидва пристрої поруч один з одним. Не вимикайте ні один з пристроїв і залишайте Signal відкритим. Перекази захищені наскрізним шифруванням.</string>
+  <string name="DeviceTransfer__keep_both_devices_near_each_other">Тримайте обидва пристрої поруч один з одним. Не вимикайте ні один з пристроїв і залишайте CoolApp відкритим. Перекази захищені наскрізним шифруванням.</string>
   <string name="DeviceTransfer__d_messages_so_far">Залишилось %1$d повідомлень…</string>
   <!--Filled in with total percentage of messages transferred-->
   <string name="DeviceTransfer__s_of_messages_so_far">%1$s%% повідомлень на цей час…</string>
@@ -2988,9 +2988,9 @@
   <string name="DeviceTransfer__unable_to_transfer">Не вдалось перенести</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Перенесення облікового запису</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Ви можете перенести свій обліковий запис Signal під час налаштування Signal на новому Android-пристрої. Перед тим як продовжити:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Ви можете перенести свій обліковий запис CoolApp під час налаштування CoolApp на новому Android-пристрої. Перед тим як продовжити:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
-  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Завантажте Signal на своєму новому Android-пристрої</string>
+  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Завантажте CoolApp на своєму новому Android-пристрої</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
   <string name="OldDeviceTransferInstructions__tap_on_transfer_or_restore_account">Натисніть на «Перенести або відновити обліковий запис»</string>
   <string name="OldDeviceTransferInstructions__third_bullet">3.</string>
@@ -2999,7 +2999,7 @@
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">Перенесення завершено</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">Перейдіть до вашого нового пристрою</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Ваші дані Signal були перенесені на новий пристрій. Щоб завершити процес перенесення, вам необхідно продовжити реєстрацію на своєму новому пристрої.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Ваші дані CoolApp були перенесені на новий пристрій. Щоб завершити процес перенесення, вам необхідно продовжити реєстрацію на своєму новому пристрої.</string>
   <string name="OldDeviceTransferComplete__close">Закрити</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">Перенесення успішне</string>
@@ -3016,7 +3016,7 @@
   <string name="DeviceToDeviceTransferService_status_service_connected">Перенесення облікового запису…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">Завершіть реєстрацію на своєму новому пристрої</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Ваш обліковий запис Signal був перенесений на новий пристрій, але тепер вам потрібно завершити реєстрацію на ньому. На цьому пристрої Signal буде неактивний.</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Ваш обліковий запис CoolApp був перенесений на новий пристрій, але тепер вам потрібно завершити реєстрацію на ньому. На цьому пристрої CoolApp буде неактивний.</string>
   <string name="OldDeviceTransferLockedDialog__done">Готово</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">Скасувати і активувати цей пристрій</string>
   <!--AdvancedPreferenceFragment-->
@@ -3055,12 +3055,12 @@
   <string name="GroupsLearnMore_what_are_legacy_groups">Що таке Успадковані групи?</string>
   <string name="GroupsLearnMore_paragraph_1">Успадковані групи — це групи, що не є сумісними з можливостями Нових груп, як-от адміністратори та більш детальні оновлення груп.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Чи можу я оновити успадковану групу?</string>
-  <string name="GroupsLearnMore_paragraph_2">Успадковані групи поки не можуть бути оновлені до Нових груп, але ви можете створити Нову групу з тими ж учасниками, якщо вони використовують найновішу версію Signal.</string>
-  <string name="GroupsLearnMore_paragraph_3">В майбутньому Signal надасть можливість оновлювати Успадковані групи.</string>
+  <string name="GroupsLearnMore_paragraph_2">Успадковані групи поки не можуть бути оновлені до Нових груп, але ви можете створити Нову групу з тими ж учасниками, якщо вони використовують найновішу версію CoolApp.</string>
+  <string name="GroupsLearnMore_paragraph_3">В майбутньому CoolApp надасть можливість оновлювати Успадковані групи.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">З цим посиланням будь-хто може переглядати назву і фото та подавати запит на приєднання. Діліться ним з людьми, яким ви довіряєте.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Будь-хто у кого є це посилання, може переглянути ім\'я та фото цієї групи та приєднатися до неї. Діліться ним з людьми, яким ви довіряєте.</string>
-  <string name="GroupLinkBottomSheet_share_via_signal">Поділитись через Signal</string>
+  <string name="GroupLinkBottomSheet_share_via_signal">Поділитись через CoolApp</string>
   <string name="GroupLinkBottomSheet_copy">Копіювати</string>
   <string name="GroupLinkBottomSheet_qr_code">QR-код</string>
   <string name="GroupLinkBottomSheet_share">Поділитися</string>
@@ -3130,7 +3130,7 @@
   <string name="DeleteAccountFragment__no_number">Номер не вказано</string>
   <string name="DeleteAccountFragment__the_phone_number">Наданий номер телефону не належить до вашого облікового запису.</string>
   <string name="DeleteAccountFragment__are_you_sure">Ви дійсно хочете видалити обліковий запис?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ця дія видалить ваш обліковий запис Signal та скине додаток. Після завершення цього процесу додаток закриється.</string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ця дія видалить ваш обліковий запис CoolApp та скине додаток. Після завершення цього процесу додаток закриється.</string>
   <string name="DeleteAccountFragment__failed_to_delete_account">Обліковий запис не вдалося видалити. Перевірили підключення до мережі?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">Не вдалося видалити локальні дані. Ви можете видалити їх вручну в системних налаштуваннях програми.</string>
   <string name="DeleteAccountFragment__launch_app_settings">Відкрийте Налаштування програми</string>
@@ -3162,7 +3162,7 @@
   <string name="ShareActivity__share">Поділитися</string>
   <string name="ShareActivity__send">Відправити</string>
   <string name="ShareActivity__comma_s">, %1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">Відправлення до декількох чатів підтримується лише для повідомлень Signal</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">Відправлення до декількох чатів підтримується лише для повідомлень CoolApp</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">Не вдалося відправити деяким користувачам</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">Ви можете поділитися до %1$d бесідами</string>
@@ -3212,7 +3212,7 @@
   <string name="payment_info_card_about_mobilecoin">Про MobileCoin</string>
   <string name="payment_info_card_mobilecoin_is_a_new_privacy_focused_digital_currency">MobileCoin — нова цифрова валюта, націлена на конфіденційність.</string>
   <string name="payment_info_card_adding_funds">Додавання коштів</string>
-  <string name="payment_info_card_you_can_add_funds_for_use_in">Ви можете додавати кошти для використання у Signal надсилаючи MobileCoin на адресу вашого гаманця.</string>
+  <string name="payment_info_card_you_can_add_funds_for_use_in">Ви можете додавати кошти для використання у CoolApp надсилаючи MobileCoin на адресу вашого гаманця.</string>
   <string name="payment_info_card_cashing_out">Виведення коштів</string>
   <string name="payment_info_card_you_can_cash_out_mobilecoin">Ви можете вивести MobileCoin у будь-який час на біржах, які підтримують MobileCoin. Лише здійсніть переказ коштів на свій рахунок на такій біржі.</string>
   <string name="payment_info_card_hide_this_card">Сховати цю картку? </string>
@@ -3226,18 +3226,18 @@
   <!--DeactivateWalletFragment-->
   <string name="DeactivateWalletFragment__deactivate_wallet">Вимкнути гаманець</string>
   <string name="DeactivateWalletFragment__your_balance">Ваш баланс</string>
-  <string name="DeactivateWalletFragment__its_recommended_that_you">Перш ніж відключати платежі, ми рекомендуємо перевести кошти на інший гаманець. Якщо ви вирішите не передавати свої кошти зараз, вони залишаться у вашому Гаманці, прив\'язаного з Signal, якщо ви знову активуєте платежі.</string>
+  <string name="DeactivateWalletFragment__its_recommended_that_you">Перш ніж відключати платежі, ми рекомендуємо перевести кошти на інший гаманець. Якщо ви вирішите не передавати свої кошти зараз, вони залишаться у вашому Гаманці, прив\'язаного з CoolApp, якщо ви знову активуєте платежі.</string>
   <string name="DeactivateWalletFragment__transfer_remaining_balance">Перевести кошти, що залишились на балансі</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring">Вимкнути без переводу коштів</string>
   <string name="DeactivateWalletFragment__deactivate">Вимкнути</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring_question">Вимкнути без переводу коштів?</string>
-  <string name="DeactivateWalletFragment__your_balance_will_remain">Баланс залишиться на рахунку, який додано до Signal, якщо ви вирішите знов увімкнути платежі.</string>
+  <string name="DeactivateWalletFragment__your_balance_will_remain">Баланс залишиться на рахунку, який додано до CoolApp, якщо ви вирішите знов увімкнути платежі.</string>
   <string name="DeactivateWalletFragment__error_deactivating_wallet">Помилка при вимкненні гаманця.</string>
   <!--PaymentsRecoveryStartFragment-->
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">Кодова фраза</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">Огляд кодової фрази</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">Ввести кодову фразу</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Ваш баланс автоматично відновиться, коли ви знову встановите Signal  та підтвердите ваш Signal PIN-код. Ви можете відновити ваш баланс за використання кодової фрази, яка складається з %1$d -слів і яку знаєте лише ви. Запишіть її та зберігайте у надійному місці.</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Ваш баланс автоматично відновиться, коли ви знову встановите CoolApp  та підтвердите ваш CoolApp PIN-код. Ви можете відновити ваш баланс за використання кодової фрази, яка складається з %1$d -слів і яку знаєте лише ви. Запишіть її та зберігайте у надійному місці.</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">Ваша кодова фраза — це %1$d -слів, що є унікальними для вас. Використайте для відновлення балансу.</string>
   <string name="PaymentsRecoveryStartFragment__start">Почати</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">Ввести власноруч</string>
@@ -3306,7 +3306,7 @@
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">Обліковий запис</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">З часом питання буде з\'являтися все рідше</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Щоб повторно зареєструвати свій номер телефону в Signal, необхідний PIN-код Signal</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Щоб повторно зареєструвати свій номер телефону в CoolApp, необхідний PIN-код CoolApp</string>
   <string name="AccountSettingsFragment__change_phone_number">Змінити номер телефону</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Скористайтесь цим, аби змінити свій поточний номер телефону на новий. Ви не можете скасувати цю зміну.\n\nПерш ніж продовжити, переконайтеся, що ваш новий номер може отримувати SMS або дзвінки.</string>
@@ -3335,7 +3335,7 @@
   <string name="ChangeNumberConfirmFragment__you_are_about_to_change_your_phone_number_from_s_to_s">Ви збираєтеся змінити свій номер телефону з %1$s на %2$s.\n\nПерш ніж продовжити, переконайтеся, що вказаний нижче номер правильний.</string>
   <string name="ChangeNumberConfirmFragment__edit_number">Редагувати номер</string>
   <!--ChangeNumberRegistrationLockFragment-->
-  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Зміна номеру в Signal – потрібна допомога щодо PIN-коду для Android (PIN-код v2)</string>
+  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Зміна номеру в CoolApp – потрібна допомога щодо PIN-коду для Android (PIN-код v2)</string>
   <!--ChangeNumberPinDiffersFragment-->
   <string name="ChangeNumberPinDiffersFragment__pins_do_not_match">PIN-коди не збігаються</string>
   <string name="ChangeNumberPinDiffersFragment__the_pin_associated_with_your_new_number_is_different_from_the_pin_associated_with_your_old_one">PIN-код, пов’язаний з вашим новим номером, відрізняється від PIN-коду, пов’язаного зі старим. Бажаєте зберегти свій старий PIN-код чи оновити його?</string>
@@ -3367,7 +3367,7 @@
   <string name="NotificationsSettingsFragment__messages">Повідомлення</string>
   <string name="NotificationsSettingsFragment__calls">Виклики</string>
   <string name="NotificationsSettingsFragment__notify_when">Сповіщати коли…</string>
-  <string name="NotificationsSettingsFragment__contact_joins_signal">Контакт приєднвся до Signal</string>
+  <string name="NotificationsSettingsFragment__contact_joins_signal">Контакт приєднвся до CoolApp</string>
   <!--Notification preference header-->
   <string name="NotificationsSettingsFragment__notification_profiles">Профілі сповіщень</string>
   <!--Notification preference option header-->
@@ -3386,7 +3386,7 @@
   <string name="PrivacySettingsFragment__disappearing_messages">Зникаючі повідомлення </string>
   <string name="PrivacySettingsFragment__app_security">Безпека програми</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">Блокувати знімки екрану в списку недавніх та в програмі</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">Signal повідомлення та дзвінки, завжди ретранслювати дзвінки та прихований відправник</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">CoolApp повідомлення та дзвінки, завжди ретранслювати дзвінки та прихований відправник</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">Таймер за умовчанням для нових чатів</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">Встановіть таймер зникнення повідомлень за замовчуванням для усіх нових чатів, які ви створите.</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3417,7 +3417,7 @@
   <string name="HelpSettingsFragment__version">Версія</string>
   <string name="HelpSettingsFragment__debug_log">Журнал відладки</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Умови та Політика конфіденційності</string>
-  <string name="HelpFragment__copyright_signal_messenger">Права захищено Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Права захищено CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Ліцензовано за GPLv3</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Якість медіа</string>
@@ -3477,7 +3477,7 @@
   <string name="AddAProfilePhotoMegaphone__add_photo">Додати фото</string>
   <!--BecomeASustainerMegaphone-->
   <string name="BecomeASustainerMegaphone__become_a_sustainer">Стати підтримувачем</string>
-  <string name="BecomeASustainerMegaphone__signal_is_powered">Signal працює завдяки таким людям, як ви. Зробіть внесок та отримайте емблему.</string>
+  <string name="BecomeASustainerMegaphone__signal_is_powered">CoolApp працює завдяки таким людям, як ви. Зробіть внесок та отримайте емблему.</string>
   <string name="BecomeASustainerMegaphone__no_thanks">Ні, дякую</string>
   <string name="BecomeASustainerMegaphone__contribute">Зробити внесок</string>
   <!--KeyboardPagerFragment-->
@@ -3528,7 +3528,7 @@
   <string name="ConversationSettingsFragment__conversation_muted_forever">Звук для розмови вимкнено назавжди</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">Номер телефону скопійовано в буфер обміну.</string>
   <string name="ConversationSettingsFragment__phone_number">Номер телефону</string>
-  <string name="ConversationSettingsFragment__get_badges">Отримайте значки для свого профілю, підтримуючи Signal. Торкніться значка, щоб дізнатися більше.</string>
+  <string name="ConversationSettingsFragment__get_badges">Отримайте значки для свого профілю, підтримуючи CoolApp. Торкніться значка, щоб дізнатися більше.</string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">Додати учасників</string>
   <string name="PermissionsSettingsFragment__edit_group_info">Редагувати інфо про групу</string>
@@ -3656,9 +3656,9 @@
   <string name="SelectFeaturedBadgeFragment__failed_to_update_profile">Не вдалось оновити обліковий запис</string>
   <string name="ViewBadgeBottomSheetDialogFragment__become_a_sustainer">Стати підтримувачем</string>
   <string name="ImageView__badge">Емблема</string>
-  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">Signal працює завдяки таким людям як ви.</string>
+  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">CoolApp працює завдяки таким людям як ви.</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you">Підтримайте технологію, що побудована для вас, а не для ваших даних, долучившись до спільноти людей, які підтримують її.</string>
-  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Підтримайте технологію, що побудована для вас, а не для ваших даних, долучившись до спільноти, яка підтримує Signal.</string>
+  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Підтримайте технологію, що побудована для вас, а не для ваших даних, долучившись до спільноти, яка підтримує CoolApp.</string>
   <string name="SubscribeFragment__currency">Валюта</string>
   <string name="SubscribeFragment__more_payment_options">Більше опцій для сплати</string>
   <string name="SubscribeFragment__cancel_subscription">Скасувати передплату</string>
@@ -3675,34 +3675,34 @@
   <string name="Subscription__s_per_month">%s/місяць</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/місяць  · Оновлюється %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/місяць · Спливає %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">Signal — некомерційний, без рекламодавців чи інвесторів, підтримуваний лише людьми, які його використовують та цінують. Зробіть регулярний щомісячний внесок та отримайте емблему облікового запису, розказавши про свою підтримку.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">CoolApp — некомерційний, без рекламодавців чи інвесторів, підтримуваний лише людьми, які його використовують та цінують. Зробіть регулярний щомісячний внесок та отримайте емблему облікового запису, розказавши про свою підтримку.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">Навіщо робити внесок?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">Signal прагне розвивати технологію конфіденційності з відкритим вихідним кодом, яка захищає свободу слова і забезпечує безпечне глобальне спілкування.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">CoolApp прагне розвивати технологію конфіденційності з відкритим вихідним кодом, яка захищає свободу слова і забезпечує безпечне глобальне спілкування.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">Ваш внесок сприяє цій справі й оплачує розробку й роботу застосунка, який використовується мільйонами для приватного спілкування. Без реклами. Без трекерів. Без жартів.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">Дякуємо за вашу підтримку!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">Дякуємо за пришвидшення!</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Ви заробили емблему %s! Допоможіть Signal у розвитку обізнаності, та дозвольте показувати емблему у себе в обліковому записі.</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Ви заробили емблему пришвидшення! Допоможіть Signal у розвитку обізнаності, та дозвольте показувати її у себе в обліковому записі.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Ви заробили емблему %s! Допоможіть CoolApp у розвитку обізнаності, та дозвольте показувати емблему у себе в обліковому записі.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Ви заробили емблему пришвидшення! Допоможіть CoolApp у розвитку обізнаності, та дозвольте показувати її у себе в обліковому записі.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__you_can_also">Ви також можете</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__become_a_montly_sustainer">стати підтримувачем щомісячно.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__display_on_profile">Показувати в обліковому записі</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">Створити головний значок</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">Готово</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">Коли у вас більше однієї емблеми, ви можете обирати, яку саме демонструвати у своєму обліковому записі.</string>
-  <string name="BecomeASustainerFragment__get_badges">Отримайте емблеми для свого облікового запису підтримуючи Signal.</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">Signal — неприбутковий, без рекламодавців чи інвесторів, що підтримується лише такими людьми, як ви.</string>
+  <string name="BecomeASustainerFragment__get_badges">Отримайте емблеми для свого облікового запису підтримуючи CoolApp.</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">CoolApp — неприбутковий, без рекламодавців чи інвесторів, що підтримується лише такими людьми, як ви.</string>
   <string name="ManageDonationsFragment__my_support">Моя підтримка</string>
   <string name="ManageDonationsFragment__manage_subscription">Керувати передплатою</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">Квитанції</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">Квитанції</string>
   <string name="ManageDonationsFragment__badges">Емблеми</string>
   <string name="ManageDonationsFragment__subscription_faq">Підписка ЧАП</string>
   <string name="ManageDonationsFragment__error_getting_subscription">Помилка отримання передплати.</string>
-  <string name="BoostFragment__give_signal_a_boost">Пришвидшити Signal</string>
+  <string name="BoostFragment__give_signal_a_boost">Пришвидшити CoolApp</string>
   <string name="BoostFragment__say_thanks_and_earn">Скажіть «Дякую!» та отримайте емблему пришвидшення на %1$d днів.</string>
   <string name="Boost__enter_custom_amount">Власна сума</string>
   <string name="Boost__one_time_contribution">Одноразовий внесок</string>
-  <string name="MySupportPreference__add_a_signal_boost">Додати Signal пришвидшення</string>
+  <string name="MySupportPreference__add_a_signal_boost">Додати CoolApp пришвидшення</string>
   <string name="MySupportPreference__s_per_month">%1$s/місяць</string>
   <string name="MySupportPreference__renews_s">Оновлюється %1$s</string>
   <string name="MySupportPreference__processing_transaction">Обробка транзакції…</string>
@@ -3722,10 +3722,10 @@
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_automatically">Вашу підписку Прихильника було автоматично скасовано, оскільки ви занадто довго були неактивні. Значок %1$s більше не відображається у вашому профілі.</string>
   <!--Copy displayed when badge expires after payment failure-->
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_canceled">Вашу передплату Підтримувача скасовано, оскільки ми не змогли опрацювати ваш платіж. Емблема більше не показується у профілі.</string>
-  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Ви можете продовжувати використовувати Signal, але щоб підтримати застосунок та повторно активувати свій значок, поновіть зараз.</string>
+  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Ви можете продовжувати використовувати CoolApp, але щоб підтримати застосунок та повторно активувати свій значок, поновіть зараз.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">Поновити передплату</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">Неможливо опрацювати платіж передплати</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">У нас виникли проблеми зі списанням платежу Підтримувача Signal. Упевніться, що дані платіжного засобу вірні. Якщо ні — оновіть їх у Google Pay. Signal ще раз спробує здійснити списання коштів за декілька днів.</string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">У нас виникли проблеми зі списанням платежу Підтримувача CoolApp. Упевніться, що дані платіжного засобу вірні. Якщо ні — оновіть їх у Google Pay. CoolApp ще раз спробує здійснити списання коштів за декілька днів.</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">Не показувати знов</string>
   <string name="Subscription__please_contact_support_for_more_information">Будь ласка, зв\'яжіться з підтримкою для додаткової інформації.</string>
   <string name="Subscription__contact_support">Зверніться в службу підтримки</string>
@@ -3745,7 +3745,7 @@
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">Щоб пожертвувати в застосунку, потрібно налаштувати Google Pay.</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">Не вдалось скасувати передплату</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">Скасування передплати потребує інтернет з\'єднання.</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Ваш пристрій не підтримує Google Pay, тому ви не можете підписатися, щоб отримати значок. Ви все ще можете підтримати Signal, зробивши пожертву на нашому веб-сайті.</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Ваш пристрій не підтримує Google Pay, тому ви не можете підписатися, щоб отримати значок. Ви все ще можете підтримати CoolApp, зробивши пожертву на нашому веб-сайті.</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">Помилка мережі. Перевірте з\'єднання та спробуйте ще.</string>
   <string name="NetworkFailure__retry">Повторити</string>
   <!--Stripe decline code generic_failure-->
@@ -3916,8 +3916,8 @@
   <string name="NotificationProfilesMegaphone__not_now">Не зараз</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">Не вдалося відкрити вибір.</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Що нового &amp; Новини Signal</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">Що нового &amp; Новини CoolApp</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Вся активність</string>
   <!--Donation receipts all tab label-->
@@ -3937,13 +3937,13 @@
   <!--Donation receipts share PNG-->
   <string name="DonationReceiptDetailsFragment__share_receipt">Поділитись квитанцією</string>
   <!--Donation receipts list end note-->
-  <string name="DonationReceiptListFragment__if_you_have">Якщо ви перевстановлювали Signal, квитанції попередніх внесків не будуть доступні.</string>
+  <string name="DonationReceiptListFragment__if_you_have">Якщо ви перевстановлювали CoolApp, квитанції попередніх внесків не будуть доступні.</string>
   <!--Donation receipts document title-->
   <string name="DonationReceiptDetailsFragment__donation_receipt">Квитанція внеску</string>
   <!--Donation receipts amount title-->
   <string name="DonationReceiptDetailsFragment__amount">Сума</string>
   <!--Donation receipts thanks-->
-  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Дякуємо за підтримку Signal. Ваш внесок допомагає підтримувати місію розробки технології конфіденційності з відкритим кодом, яка захищає вільне висловлювання та забезпечує безпечне спілкування для мільйонів людей у всьому світі. Якщо ви є резидентом Сполучених Штатів, збережіть цю квитанцію для податкового обліку. Signal Technology Foundation – відповідно до розділу 501c3 Податкового кодексу це звільнена від податків некомерційна організація в Сполучених Штатах. Наш федеральний податковий номер: 82–4506840.</string>
+  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Дякуємо за підтримку CoolApp. Ваш внесок допомагає підтримувати місію розробки технології конфіденційності з відкритим кодом, яка захищає вільне висловлювання та забезпечує безпечне спілкування для мільйонів людей у всьому світі. Якщо ви є резидентом Сполучених Штатів, збережіть цю квитанцію для податкового обліку. CoolApp Technology Foundation – відповідно до розділу 501c3 Податкового кодексу це звільнена від податків некомерційна організація в Сполучених Штатах. Наш федеральний податковий номер: 82–4506840.</string>
   <!--Donation receipt type-->
   <string name="DonationReceiptDetailsFragment__s_dash_s">%1$s - %2$s</string>
   <!--region "Stories Tab"-->
@@ -3958,7 +3958,7 @@
   <!--Subtitle for "My Stories" row item when user has not added stories-->
   <string name="StoriesLandingFragment__add_a_story">Додати історію</string>
   <!--Displayed when there are no stories to display-->
-  <!-- Removed by excludeNonTranslatables <string name="StoriesLandingFragment__no_recent_updates">Немає оновлень для показу.</string> -->
+  <string name="StoriesLandingFragment__no_recent_updates">Немає оновлень для показу.</string>
   <!--Context menu option to hide a story-->
   <string name="StoriesLandingItem__hide_story">Сховати історію</string>
   <!--Context menu option to unhide a story-->
@@ -4067,17 +4067,17 @@
   <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">Дозволити тим, хто бачить вашу історію, реагувати та відповідати</string>
   <!--Note about default sharing-->
   <string name="MyStorySettingsFragment__hide_your_story_from">Приховати історію від певних осіб. За замовчуванням вашу історію побачать %1$s</string>
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <string name="MyStorySettingsFragment__signal_connections">Знайомі у Signal.</string>
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>Знайомі у Signal</strong> — особи, яким ви довіряєте, бо:</string>
-  <!--Signal connections sheet bullet point 1-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <string name="MyStorySettingsFragment__signal_connections">Знайомі у CoolApp.</string>
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>Знайомі у CoolApp</strong> — особи, яким ви довіряєте, бо:</string>
+  <!--CoolApp connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">Почали з ними розмову</string>
-  <!--Signal connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 2-->
   <string name="SignalConnectionsBottomSheet__accepting_a_message_request">Схвалили запит на листування</string>
-  <!--Signal connections sheet bullet point 3-->
+  <!--CoolApp connections sheet bullet point 3-->
   <string name="SignalConnectionsBottomSheet__having_them_in_your_system_contacts">Вони є у ваших контактах</string>
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <string name="SignalConnectionsBottomSheet__your_connections_can_see_your_name">Ваші знайомі можуть бачити ваше ім\'я та фото, а також публікації у розділі «Мої історії», якщо ви не сховаєте їх від них.</string>
   <!--Clickable option to add a viewer to a private story-->
   <string name="PrivateStorySettingsFragment__add_viewer">Додати глядача</string>
@@ -4124,7 +4124,7 @@
   <!--Dialog title for first time adding something to a story-->
   <string name="StoryDialogs__add_to_story_q">Додати до історії?</string>
   <!--Dialog message for first time adding something to a story-->
-  <string name="StoryDialogs__adding_content">Додання вмісту до вашої історії дозволить вашим знайомим Signal переглядати її упродовж 24 годин. У налаштуваннях можна змінити, хто зможе переглядати вашу історію.</string>
+  <string name="StoryDialogs__adding_content">Додання вмісту до вашої історії дозволить вашим знайомим CoolApp переглядати її упродовж 24 годин. У налаштуваннях можна змінити, хто зможе переглядати вашу історію.</string>
   <!--First time share to story dialog: Positive action to go ahead and add to story-->
   <string name="StoryDialogs__add_to_story">Додати до історії</string>
   <!--First time share to story dialog: Neutral action to edit who can view "My Story"-->
@@ -4187,13 +4187,13 @@
   <!--Title for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_turn_off_censorship_circumvention">Вимкнути обхід цензури?</string>
   <!--Body for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
-  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Тепер ви можете приєднатись до Signal напряму для отримання кращого досвіду. </string>
+  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Тепер ви можете приєднатись до CoolApp напряму для отримання кращого досвіду. </string>
   <!--Label for a button to dismiss a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_no_thanks">Ні, дякую</string>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">Відключити</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · Історія</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · Історія</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">Реакції на історію</string>
   <!--endregion-->

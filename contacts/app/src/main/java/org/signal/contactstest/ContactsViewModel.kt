@@ -33,6 +33,7 @@ class ContactsViewModel(application: Application) : AndroidViewModel(application
       if (account != null) {
         val contactList: List<ContactDetails> = SystemContactsRepository.getAllSystemContacts(
           context = application,
+          rewrites = emptyMap(),
           e164Formatter = { number -> number }
         ).use { it.toList() }
 

@@ -9,7 +9,7 @@
     android:paddingHorizontal="@dimen/dsl_settings_gutter">
 
     <!-- TODO - Final art asset -->
-    <org.thoughtcrime.securesms.components.AvatarImageView
+    <asia.coolapp.chat.components.AvatarImageView
         android:id="@+id/avatar"
         android:layout_width="40dp"
         android:layout_height="40dp"
@@ -19,7 +19,7 @@
         app:backgroundTint="@color/signal_background_secondary"
         app:fallbackImageSize="small" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+    <asia.coolapp.chat.components.emoji.EmojiTextView
         android:id="@+id/label"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

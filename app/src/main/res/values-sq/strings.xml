@@ -1381,7 +1381,7 @@ grupit dhe s\’do të marrë mesazhe grupi përpara se ta pranojë:</item>
   <string name="RegistrationActivity_is_your_phone_number_above_correct">A është i saktë numri juaj i telefonit më sipër?</string>
   <string name="RegistrationActivity_edit_number">Modifiko numrin</string>
   <string name="RegistrationActivity_missing_google_play_services">Mungojnë Shërbimet Google Play</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Në këtë pajisje mungojnë Shërbimet Google Play. Mundeni prapëseprapë ta përdorni Signal-in, por ky formësim mund të sjellë qëndrueshmëri ose funksionim të reduktuar.\n\nNëse s\’jeni përdorues i përparuar, s\’po përdorni një ROM Android të modifikuar, ose besoni se po  e shihni gabimisht këtë, ju lutemi, lidhuni me support@signal.org për ndihmë në diagnostikikim.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Në këtë pajisje mungojnë Shërbimet Google Play. Mundeni prapëseprapë ta përdorni Signal-in, por ky formësim mund të sjellë qëndrueshmëri ose funksionim të reduktuar.\n\nNëse s\’jeni përdorues i përparuar, s\’po përdorni një ROM Android të modifikuar, ose besoni se po  e shihni gabimisht këtë, ju lutemi, lidhuni me support@asia.coolapp.chat për ndihmë në diagnostikikim.</string>
   <string name="RegistrationActivity_i_understand">E kuptoj</string>
   <string name="RegistrationActivity_play_services_error">Gabim nga Shërbime Play</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Shërbimet Google Play po përditësohen ose janë përkohësisht jashtë funksionimi. Ju lutemi, riprovoni.</string>
@@ -1958,7 +1958,7 @@ grupit dhe s\’do të marrë mesazhe grupi përpara se ta pranojë:</item>
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Jepni një emër ose një numër</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Që të verifikoni sigurinë e fshehtëzimit tuaj skaj-më-skaj me %s, krahasoni numrat më sipër me pajisjen e tij. Mundeni edhe të skanoni kodin në telefonin e tij. <a href="https://signal.org/redirect/safety-numbers">Mësoni më tepër.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Që të verifikoni sigurinë e fshehtëzimit tuaj skaj-më-skaj me %s, krahasoni numrat më sipër me pajisjen e tij. Mundeni edhe të skanoni kodin në telefonin e tij. <a href="https://asia.coolapp.chat/redirect/safety-numbers">Mësoni më tepër.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Prekeni që të skanohet</string>
   <string name="verify_display_fragment__successful_match">Përputhje e suksesshme</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">S\’u arri të verifikohet numër sigurie</string>
@@ -3492,7 +3492,7 @@ spastrohet dhe krejt lënda do të fshihet.</item>
   <string name="ManageDonationsFragment__my_support">Përkrahja ime</string>
   <string name="ManageDonationsFragment__manage_subscription">Administroni pajtim</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">Dëftesa Tatimore</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">Dëftesa Tatimore</string>
   <string name="ManageDonationsFragment__badges">Stema</string>
   <string name="ManageDonationsFragment__subscription_faq">PBR pajtimesh</string>
   <string name="ManageDonationsFragment__error_getting_subscription">Gabim në marrje pajtimi.</string>
@@ -3755,7 +3755,7 @@ spastrohet dhe krejt lënda do të fshihet.</item>
   <!--Subtitle for "My Stories" row item when user has not added stories-->
   <string name="StoriesLandingFragment__add_a_story">Shtoni një histori</string>
   <!--Displayed when there are no stories to display-->
-  <!-- Removed by excludeNonTranslatables <string name="StoriesLandingFragment__no_recent_updates">S’ka përditësime së fundi për shfaqje tani.</string> -->
+  <string name="StoriesLandingFragment__no_recent_updates">S’ka përditësime së fundi për shfaqje tani.</string>
   <!--Context menu option to hide a story-->
   <string name="StoriesLandingItem__hide_story">Fshihe historinë</string>
   <!--Context menu option to unhide a story-->
@@ -3858,7 +3858,7 @@ spastrohet dhe krejt lënda do të fshihet.</item>
   <string name="MyStorySettingsFragment__hide_your_story_from">Fshiheni historinë tuaj për persona të caktuar. Si parazgjedhje, historia juaj ndahet me %1$s tuaj</string>
   <!--Signal connections linked text that opens the Signal Connections sheet-->
   <string name="MyStorySettingsFragment__signal_connections">Lidhje Signal.</string>
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
   <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>Lidhjet Signal</strong> janë persona që zgjidhni t’u besoni, ose përmes:</string>
   <!--Signal connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">Nisjes së një bisede</string>
@@ -3980,7 +3980,7 @@ spastrohet dhe krejt lënda do të fshihet.</item>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">Çaktivizoje</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · Histori</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · Histori</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">Reagoi te një histori</string>
   <!--endregion-->

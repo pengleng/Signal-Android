@@ -8,7 +8,7 @@
     android:paddingStart="@dimen/dsl_settings_gutter"
     android:paddingEnd="@dimen/dsl_settings_gutter">
 
-    <org.thoughtcrime.securesms.components.OutlinedThumbnailView
+    <asia.coolapp.chat.components.OutlinedThumbnailView
         android:id="@+id/story"
         android:layout_width="56dp"
         android:layout_height="84dp"
@@ -22,7 +22,7 @@
         app:otv_strokeColor="@color/signal_background_primary"
         tools:background="@color/red" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+    <asia.coolapp.chat.components.emoji.EmojiTextView
         android:id="@+id/view_count"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

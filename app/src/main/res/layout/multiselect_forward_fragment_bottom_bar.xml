@@ -10,6 +10,7 @@
         android:id="@+id/background_helper"
         android:layout_width="0dp"
         android:layout_height="0dp"
+        android:background="?android:windowBackground"
         app:layout_constraintBottom_toBottomOf="@id/selected_list"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -46,7 +47,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@id/selected_list">
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiEditText
+        <asia.coolapp.chat.components.emoji.EmojiEditText
             android:id="@+id/add_message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -59,7 +60,8 @@
             android:minHeight="44dp"
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
-            android:textAppearance="@style/Signal.Text.Body" />
+            android:textAppearance="@style/Signal.Text.Body"
+            tools:ignore="TouchTargetSizeCheck" />
     </FrameLayout>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton

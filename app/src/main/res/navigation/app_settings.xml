@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/appSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.AppSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.AppSettingsFragment"
         android:label="app_settings_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -119,13 +119,13 @@
 
     <activity
         android:id="@+id/manageProfileActivity"
-        android:name="org.thoughtcrime.securesms.profiles.manage.ManageProfileActivity"
+        android:name="asia.coolapp.chat.profiles.manage.ManageProfileActivity"
         android:label="manage_profile_activity" />
 
     <!-- region Account Settings and subpages -->
     <fragment
         android:id="@+id/accountSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.account.AccountSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.account.AccountSettingsFragment"
         android:label="account_settings_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -164,18 +164,18 @@
 
     <fragment
         android:id="@+id/advancedPinSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedAdvancedPinPreferenceFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedAdvancedPinPreferenceFragment"
         android:label="advanced_pin_settings_fragment" />
 
     <fragment
         android:id="@+id/deleteAccountFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedDeleteAccountFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedDeleteAccountFragment"
         android:label="delete_account_fragment"
         tools:layout="@layout/delete_account_fragment" />
 
     <activity
         android:id="@+id/oldDeviceTransferActivity"
-        android:name="org.thoughtcrime.securesms.devicetransfer.olddevice.OldDeviceTransferActivity"
+        android:name="asia.coolapp.chat.devicetransfer.olddevice.OldDeviceTransferActivity"
         android:label="old_device_transfer_Activity"
         tools:layout="@layout/old_device_transfer_activity" />
 
@@ -186,19 +186,19 @@
     <!-- Linked Devices -->
     <activity
         android:id="@+id/deviceActivity"
-        android:name="org.thoughtcrime.securesms.DeviceActivity"
+        android:name="asia.coolapp.chat.DeviceActivity"
         android:label="device_activity" />
 
     <!-- Payments -->
     <activity
         android:id="@+id/paymentsActivity"
-        android:name="org.thoughtcrime.securesms.payments.preferences.PaymentsActivity"
+        android:name="asia.coolapp.chat.payments.preferences.PaymentsActivity"
         android:label="payments_activity" />
 
     <!-- region Appearance settings and Subpages -->
     <fragment
         android:id="@+id/appearanceSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.appearance.AppearanceSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.appearance.AppearanceSettingsFragment"
         android:label="appearance_settings_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -212,7 +212,7 @@
 
     <activity
         android:id="@+id/wallpaperActivity"
-        android:name="org.thoughtcrime.securesms.wallpaper.ChatWallpaperActivity"
+        android:name="asia.coolapp.chat.wallpaper.ChatWallpaperActivity"
         android:label="wallpaper_activity" />
 
     <!-- endregion -->
@@ -221,7 +221,7 @@
 
     <fragment
         android:id="@+id/chatsSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.chats.ChatsSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.chats.ChatsSettingsFragment"
         android:label="chats_settings_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -249,13 +249,13 @@
 
     <fragment
         android:id="@+id/backupsPreferenceFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedBackupsPreferenceFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedBackupsPreferenceFragment"
         android:label="backups_preference_fragment"
         tools:layout="@layout/fragment_backups" />
 
     <fragment
         android:id="@+id/smsSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.chats.sms.SmsSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.chats.sms.SmsSettingsFragment"
         android:label="sms_settings_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -269,12 +269,12 @@
 
     <fragment
         android:id="@+id/mmsPreferencesFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedMmsPreferencesFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedMmsPreferencesFragment"
         android:label="mms_preferences_fragment" />
 
     <fragment
         android:id="@+id/editReactionsFragment"
-        android:name="org.thoughtcrime.securesms.reactions.edit.EditReactionsFragment"
+        android:name="asia.coolapp.chat.reactions.edit.EditReactionsFragment"
         android:label="edit_reactions_fragment"
         tools:layout="@layout/edit_reactions_fragment" />
 
@@ -283,7 +283,7 @@
     <!-- Notifications -->
     <fragment
         android:id="@+id/notificationsSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.NotificationsSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.NotificationsSettingsFragment"
         android:label="notifications_settings_fragment">
 
         <action
@@ -299,7 +299,7 @@
     <!-- region Privacy -->
     <fragment
         android:id="@+id/privacySettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.privacy.PrivacySettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.privacy.PrivacySettingsFragment"
         android:label="privacy_settings_fragment">
         <action
             android:id="@+id/action_privacySettingsFragment_to_blockedUsersActivity"
@@ -346,7 +346,7 @@
 
             <argument
                 android:name="private_story"
-                app:argType="org.thoughtcrime.securesms.database.model.DistributionListId"
+                app:argType="asia.coolapp.chat.database.model.DistributionListId"
                 app:nullable="false" />
 
         </action>
@@ -354,12 +354,12 @@
 
     <activity
         android:id="@+id/blockedUsersActivity"
-        android:name="org.thoughtcrime.securesms.blocked.BlockedUsersActivity"
+        android:name="asia.coolapp.chat.blocked.BlockedUsersActivity"
         android:label="blocked_users_activity" />
 
     <fragment
         android:id="@+id/advancedPrivacySettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.privacy.advanced.AdvancedPrivacySettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.privacy.advanced.AdvancedPrivacySettingsFragment"
         android:label="advanced_privacy_settings_fragment" />
 
     <include app:graph="@navigation/app_settings_expire_timer" />
@@ -369,7 +369,7 @@
 
     <fragment
         android:id="@+id/dataAndStorageSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.data.DataAndStorageSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.data.DataAndStorageSettingsFragment"
         android:label="data_and_storage_settings_fragment">
         <action
             android:id="@+id/action_dataAndStorageSettingsFragment_to_storagePreferenceFragment"
@@ -389,12 +389,12 @@
 
     <fragment
         android:id="@+id/storagePreferenceFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedStoragePreferenceFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedStoragePreferenceFragment"
         android:label="storage_preference_fragment" />
 
     <fragment
         android:id="@+id/editProxyFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedEditProxyFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedEditProxyFragment"
         android:label="edit_proxy_fragment" />
 
     <!-- endregion -->
@@ -402,7 +402,7 @@
     <!-- region Help -->
     <fragment
         android:id="@+id/helpSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.help.HelpSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.help.HelpSettingsFragment"
         android:label="help_settings_fragment">
         <action
             android:id="@+id/action_helpSettingsFragment_to_helpFragment"
@@ -422,7 +422,7 @@
 
     <fragment
         android:id="@+id/helpFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.wrapped.WrappedHelpFragment"
+        android:name="asia.coolapp.chat.components.settings.app.wrapped.WrappedHelpFragment"
         android:label="help_fragment">
 
         <argument
@@ -434,13 +434,13 @@
 
     <activity
         android:id="@+id/submitDebugLogActivity"
-        android:name="org.thoughtcrime.securesms.logsubmit.SubmitDebugLogActivity"
+        android:name="asia.coolapp.chat.logsubmit.SubmitDebugLogActivity"
         android:label="submit_debug_log_activity" />
     <!-- endregion -->
 
     <activity
         android:id="@+id/inviteActivity"
-        android:name="org.thoughtcrime.securesms.InviteActivity"
+        android:name="asia.coolapp.chat.InviteActivity"
         android:label="invite_activity"
         tools:layout="@layout/invite_activity" />
 
@@ -539,7 +539,7 @@
 
     <fragment
         android:id="@+id/internalSettingsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.internal.InternalSettingsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.internal.InternalSettingsFragment"
         android:label="internal_settings_fragment" />
 
     <!-- endregion -->
@@ -547,7 +547,7 @@
     <!-- Subscriptions -->
     <fragment
         android:id="@+id/manageDonationsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.manage.ManageDonationsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.manage.ManageDonationsFragment"
         android:label="manage_donations_fragment"
         tools:layout="@layout/dsl_settings_fragment">
 
@@ -585,7 +585,7 @@
 
     <fragment
         android:id="@+id/donationReceiptListFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.receipts.list.DonationReceiptListFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.receipts.list.DonationReceiptListFragment"
         android:label="donation_receipt_list_fragment"
         tools:layout="@layout/donation_receipt_list_fragment">
         <action
@@ -599,7 +599,7 @@
 
     <fragment
         android:id="@+id/donationReceiptDetailFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.receipts.detail.DonationReceiptDetailFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.receipts.detail.DonationReceiptDetailFragment"
         android:label="donation_receipt_detail_fragment"
         tools:layout="@layout/donation_receipt_detail_fragment">
 
@@ -610,7 +610,7 @@
 
     <fragment
         android:id="@+id/subscribeFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.subscribe.SubscribeFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.subscribe.SubscribeFragment"
         android:label="subscribe_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -632,7 +632,7 @@
 
     <dialog
         android:id="@+id/setDonationCurrencyFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.currency.SetCurrencyFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.currency.SetCurrencyFragment"
         android:label="set_currency_fragment"
         tools:layout="@layout/dsl_settings_fragment">
 
@@ -647,19 +647,19 @@
 
     <dialog
         android:id="@+id/subscribeLearnMoreBottomSheetDialog"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.subscribe.SubscribeLearnMoreBottomSheetDialogFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.subscribe.SubscribeLearnMoreBottomSheetDialogFragment"
         android:label="subscribe_learn_more_bottom_sheet_dialog"
         tools:layout="@layout/subscribe_learn_more_bottom_sheet_dialog_fragment" />
 
     <dialog
         android:id="@+id/subscribeThanksForYourSupportBottomSheetDialog"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.thanks.ThanksForYourSupportBottomSheetDialogFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.thanks.ThanksForYourSupportBottomSheetDialogFragment"
         android:label="subscribe_thanks_for_your_support_bottom_sheet_dialog"
         tools:layout="@layout/thanks_for_your_support_bottom_sheet_dialog_fragment">
 
         <argument
             android:name="badge"
-            app:argType="org.thoughtcrime.securesms.badges.models.Badge"
+            app:argType="asia.coolapp.chat.badges.models.Badge"
             app:nullable="false" />
 
         <argument
@@ -675,7 +675,7 @@
     <!-- Notification Profiles -->
     <fragment
         android:id="@+id/notificationProfilesFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.NotificationProfilesFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.NotificationProfilesFragment"
         tools:layout="@layout/notification_profiles_empty">
 
         <action
@@ -697,7 +697,7 @@
 
     <fragment
         android:id="@+id/editNotificationProfileFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.EditNotificationProfileFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.EditNotificationProfileFragment"
         tools:layout="@layout/fragment_edit_notification_profile">
 
         <argument
@@ -719,7 +719,7 @@
 
     <fragment
         android:id="@+id/addAllowedMembersFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.AddAllowedMembersFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.AddAllowedMembersFragment"
         tools:layout="@layout/fragment_add_allowed_members">
 
         <argument
@@ -746,7 +746,7 @@
 
     <fragment
         android:id="@+id/selectRecipientsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.SelectRecipientsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.SelectRecipientsFragment"
         tools:layout="@layout/fragment_select_recipients_fragment">
 
         <argument
@@ -756,14 +756,14 @@
         <argument
             android:name="currentSelection"
             android:defaultValue="@null"
-            app:argType="org.thoughtcrime.securesms.recipients.RecipientId[]"
+            app:argType="asia.coolapp.chat.recipients.RecipientId[]"
             app:nullable="true" />
 
     </fragment>
 
     <fragment
         android:id="@+id/notificationProfileDetailsFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.NotificationProfileDetailsFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.NotificationProfileDetailsFragment"
         tools:layout="@layout/dsl_settings_fragment">
 
         <argument
@@ -798,7 +798,7 @@
 
     <fragment
         android:id="@+id/editNotificationProfileScheduleFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.EditNotificationProfileScheduleFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.EditNotificationProfileScheduleFragment"
         tools:layout="@layout/fragment_edit_notification_profile_schedule">
 
         <argument
@@ -823,7 +823,7 @@
 
     <fragment
         android:id="@+id/notificationProfileCreatedFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.notifications.profiles.NotificationProfileCreatedFragment"
+        android:name="asia.coolapp.chat.components.settings.app.notifications.profiles.NotificationProfileCreatedFragment"
         tools:layout="@layout/fragment_notification_profile_created">
 
         <argument

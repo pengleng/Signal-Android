@@ -6,6 +6,6 @@
     <changeImageTransform />
     <changeBounds />
 
-    <transition class="org.thoughtcrime.securesms.animation.transitions.CircleToSquareImageViewTransition" />
+    <transition class="asia.coolapp.chat.animation.transitions.CircleToSquareImageViewTransition" />
 
 </transitionSet>

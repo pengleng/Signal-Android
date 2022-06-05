@@ -193,7 +193,7 @@ public class WebSocketConnection extends WebSocketListener {
     }
 
     if (incomingRequests.isEmpty() && client == null) {
-      throw new IOException("Connection closed!");
+       throw new IOException("Connection closed!");
     } else if (incomingRequests.isEmpty()) {
       throw new TimeoutException("Timeout exceeded");
     } else {

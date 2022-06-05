@@ -15,7 +15,7 @@
         app:layout_constraintStart_toStartOf="@android:id/list"
         app:layout_constraintTop_toTopOf="@android:id/list" />
 
-    <org.thoughtcrime.securesms.conversation.mutiselect.MultiselectRecyclerView
+    <asia.coolapp.chat.conversation.mutiselect.MultiselectRecyclerView
         android:id="@android:id/list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -65,7 +65,7 @@
         android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent" />
 
-    <org.thoughtcrime.securesms.components.ConversationScrollToView
+    <asia.coolapp.chat.components.ConversationScrollToView
         android:id="@+id/scroll_to_mention"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -77,7 +77,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_goneMarginBottom="20dp" />
 
-    <org.thoughtcrime.securesms.components.ConversationScrollToView
+    <asia.coolapp.chat.components.ConversationScrollToView
         android:id="@+id/scroll_to_bottom"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -88,7 +88,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
-    <org.thoughtcrime.securesms.components.menu.SignalBottomActionBar
+    <asia.coolapp.chat.components.menu.SignalBottomActionBar
         android:id="@+id/conversation_bottom_action_bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

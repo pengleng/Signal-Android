@@ -2,7 +2,7 @@
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:parentTag="org.thoughtcrime.securesms.components.PaymentPillStrip">
+    tools:parentTag="asia.coolapp.chat.components.PaymentPillStrip">
 
     <FrameLayout
         android:id="@+id/button_start_frame"

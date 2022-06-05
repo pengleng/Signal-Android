@@ -14,8 +14,6 @@ import java.lang.IllegalArgumentException
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
-import java.util.Queue
-import java.util.concurrent.ConcurrentLinkedQueue
 import kotlin.math.ceil
 import kotlin.math.max
 import kotlin.math.min
@@ -41,7 +39,7 @@ internal class SpinnerServer(
     registerHelper("neq", ConditionalHelpers.neq)
   }
 
-  private val recentSql: MutableMap<String, Queue<QueryItem>> = mutableMapOf()
+  private val recentSql: MutableMap<String, MutableList<QueryItem>> = mutableMapOf()
   private val dateFormat = SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS zzz", Locale.US)
 
   override fun serve(session: IHTTPSession): Response {
@@ -72,11 +70,11 @@ internal class SpinnerServer(
   }
 
   fun onSql(dbName: String, sql: String) {
-    val commands: Queue<QueryItem> = recentSql[dbName] ?: ConcurrentLinkedQueue()
+    val commands: MutableList<QueryItem> = recentSql[dbName] ?: mutableListOf()
 
     commands += QueryItem(System.currentTimeMillis(), sql)
     if (commands.size > 100) {
-      commands.remove()
+      commands.removeAt(0)
     }
 
     recentSql[dbName] = commands

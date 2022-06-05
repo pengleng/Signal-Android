@@ -10,22 +10,22 @@
   <string name="AbstractNotificationBuilder_new_message">Pesan baru</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal sedang diperbarui…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp sedang diperbarui…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Sekarang: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Anda belum mengatur frasa sandi!</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Nonaktifkan frasa sandi?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Aksi ini akan membuka kunci Signal dan notifikasi pesan secara permanen.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Aksi ini akan membuka kunci CoolApp dan notifikasi pesan secara permanen.</string>
   <string name="ApplicationPreferencesActivity_disable">Nonaktifkan</string>
   <string name="ApplicationPreferencesActivity_unregistering">Berhenti mendaftar</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Berhenti mendaftar layanan pesan dan panggilan Signal…</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Nonaktifkan pesan dan panggilan Signal?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Menonaktifkan pesan dan panggilan Signal dengan berhenti mendaftar dari peladen. Anda perlu mendaftarkan ulang nomor telepon Anda untuk menggunakannya lagi di kemudian hari.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Berhenti mendaftar layanan pesan dan panggilan CoolApp…</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Nonaktifkan pesan dan panggilan CoolApp?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Menonaktifkan pesan dan panggilan CoolApp dengan berhenti mendaftar dari peladen. Anda perlu mendaftarkan ulang nomor telepon Anda untuk menggunakannya lagi di kemudian hari.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Gagal menyambung ke peladen!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS Aktif</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Sentuh untuk mengubah aplikasi SMS utama Anda</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS Nonaktif</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Sentuh untuk memilih Signal sebagai aplikasi SMS utama Anda</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Sentuh untuk memilih CoolApp sebagai aplikasi SMS utama Anda</string>
   <string name="ApplicationPreferencesActivity_on">aktif</string>
   <string name="ApplicationPreferencesActivity_On">Aktif</string>
   <string name="ApplicationPreferencesActivity_off">mati</string>
@@ -57,14 +57,14 @@
   <string name="AttachmentKeyboard_file">Berkas</string>
   <string name="AttachmentKeyboard_contact">Kontak</string>
   <string name="AttachmentKeyboard_location">Lokasi</string>
-  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Signal memerlukan izin untuk menampilkan foto dan video Anda.</string>
+  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">CoolApp memerlukan izin untuk menampilkan foto dan video Anda.</string>
   <string name="AttachmentKeyboard_give_access">Berikan Akses</string>
   <string name="AttachmentKeyboard_payment">Pembayaran</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Tidak bisa menemukan aplikasi untuk membuka media yang dipilih.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal memerlukan izin Penyimpanan untuk melampirkan foto, video, atau audio, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke menu pengaturan aplikasi, Pilih \"Izin\", dan aktifkan \"Penyimpanan\".</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal memerlukan izin Kontak untuk melampirkan informasi kontak, tetapi saat ini izin ditolak secara permanen. Harap melanjutkan ke menu pengaturan aplikasi, Pilih \"Izin\", dan aktifkan \"Kontak\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal memerlukan izin Lokasi untuk melampirkan lokasi, tetapi saat ini izin ditolak secara permanen. Harap melanjutkan ke menu pengaturan aplikasi, Pilih \"Izin\", dan aktifkan \"Lokasi\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">CoolApp memerlukan izin Penyimpanan untuk melampirkan foto, video, atau audio, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke menu pengaturan aplikasi, Pilih \"Izin\", dan aktifkan \"Penyimpanan\".</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">CoolApp memerlukan izin Kontak untuk melampirkan informasi kontak, tetapi saat ini izin ditolak secara permanen. Harap melanjutkan ke menu pengaturan aplikasi, Pilih \"Izin\", dan aktifkan \"Kontak\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">CoolApp memerlukan izin Lokasi untuk melampirkan lokasi, tetapi saat ini izin ditolak secara permanen. Harap melanjutkan ke menu pengaturan aplikasi, Pilih \"Izin\", dan aktifkan \"Lokasi\".</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">Mengunggah media…</string>
   <string name="AttachmentUploadJob_compressing_video_start">Mengompresi video…</string>
@@ -89,10 +89,10 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">Anggota grup dapat mengundang Anda kembali ke dalam grup.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Anda akan bisa memberi pesan dan saling menelepon dan Anda akan membagikan nama dan foto dengan mereka.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">Orang yang Anda blokir tidak akan dapat menelepon atau mengirim pesan pada Anda</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Berhenti mendapat pembaruan dan berita Signal</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Lanjut mendapatkan pembaruan dan berita Signal.</string>
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Berhenti mendapat pembaruan dan berita CoolApp</string>
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Lanjut mendapatkan pembaruan dan berita CoolApp.</string>
   <string name="BlockUnblockDialog_unblock_s">Buka blokir %1$s?</string>
   <string name="BlockUnblockDialog_block">Blokir</string>
   <string name="BlockUnblockDialog_block_and_leave">Blokir dan Tinggalkan</string>
@@ -112,20 +112,20 @@
   <string name="CameraXFragment_open_gallery_description">Buka galeri</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Kontak-kontak terbaru</string>
-  <string name="CameraContacts_signal_contacts">Kontak Signal</string>
-  <string name="CameraContacts_signal_groups">Grup Signal</string>
+  <string name="CameraContacts_signal_contacts">Kontak CoolApp</string>
+  <string name="CameraContacts_signal_groups">Grup CoolApp</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Anda dapat berbagi dengan maksimal %d percakapan.</string>
   <string name="CameraContacts_select_signal_recipients">Pilih penerima</string>
-  <string name="CameraContacts_no_signal_contacts">Tidak ada kontak Signal</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">Anda hanya dapat menggunakan tombol kamera ini untuk mengirim foto-foto ke kontak Signal.</string>
+  <string name="CameraContacts_no_signal_contacts">Tidak ada kontak CoolApp</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">Anda hanya dapat menggunakan tombol kamera ini untuk mengirim foto-foto ke kontak CoolApp.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Tidak dapat menemukan kontak yang Anda cari?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Undang kontak untuk bergabung dengan Signal</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Undang kontak untuk bergabung dengan CoolApp</string>
   <string name="CameraContacts__menu_search">Pencarian</string>
   <!--Censorship Circumvention Megaphone-->
   <!--Title for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off_censorship_circumvention">Matikan penghindaran sensor?</string>
   <!--Body for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
-  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Sekarang Anda bisa terhubung langsung dengan layanan Signal untuk pengalaman yang lebih baik</string>
+  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Sekarang Anda bisa terhubung langsung dengan layanan CoolApp untuk pengalaman yang lebih baik</string>
   <!--Action to prompt the user to disable circumvention since it is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off">Matikan</string>
   <!--Action to prompt the user to dismiss the alert at the bottom of the chat list-->
@@ -135,12 +135,12 @@
   <string name="ClearProfileActivity_remove_profile_photo">Hapus foto profil?</string>
   <string name="ClearProfileActivity_remove_group_photo">Hapus foto grup?</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">Perbarui Signal</string>
+  <string name="ClientDeprecatedActivity_update_signal">Perbarui CoolApp</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">Versi dari aplikasi ini tidak lagi didukung. Untuk melanjutkan mengirim dan menerima pesan, perbarui ke versi terakhir.</string>
   <string name="ClientDeprecatedActivity_update">Perbarui</string>
   <string name="ClientDeprecatedActivity_dont_update">Jangan Perbarui</string>
   <string name="ClientDeprecatedActivity_warning">Peringatan</string>
-  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Versi Signal Anda telah kedaluwarsa. Anda dapat melihat riwayat pesan Anda namun Anda tidak dapat mengirim atau menerima pesan sampai Anda memperbaruinya.</string>
+  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Versi CoolApp Anda telah kedaluwarsa. Anda dapat melihat riwayat pesan Anda namun Anda tidak dapat mengirim atau menerima pesan sampai Anda memperbaruinya.</string>
   <!--CommunicationActions-->
   <string name="CommunicationActions_no_browser_found">Peramban web tidak ditemukan.</string>
   <string name="CommunicationActions_send_email">Kirim email</string>
@@ -149,9 +149,9 @@
   <string name="CommunicationActions_cancel">Batal</string>
   <string name="CommunicationActions_call">Panggil</string>
   <string name="CommunicationActions_insecure_call">Panggilan tidak aman</string>
-  <string name="CommunicationActions_carrier_charges_may_apply">Panggilan akan menggunakan pulsa seluler. Karena nomor yang Anda hubungi belum menggunakan Signal, panggilan ini akan melalui jaringan seluler, bukan melalui Internet.</string>
+  <string name="CommunicationActions_carrier_charges_may_apply">Panggilan akan menggunakan pulsa seluler. Karena nomor yang Anda hubungi belum menggunakan CoolApp, panggilan ini akan melalui jaringan seluler, bukan melalui Internet.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Nomor keamanan Anda dengan %1$s telah berubah. Ini bisa disebabkan seseorang mencoba mencegat komunikasi Anda, atau disebabkan %2$s telah memasang ulang Signal.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Nomor keamanan Anda dengan %1$s telah berubah. Ini bisa disebabkan seseorang mencoba mencegat komunikasi Anda, atau disebabkan %2$s telah memasang ulang CoolApp.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Sebaiknya Anda verifikasi nomor keamanan kontak ini.</string>
   <string name="ConfirmIdentityDialog_accept">Terima</string>
   <!--ContactsCursorLoader-->
@@ -164,7 +164,7 @@
   <!--Action for creating a new story-->
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Pesan %s</string>
-  <string name="ContactsDatabase_signal_call_s">Panggilan Signal %s</string>
+  <string name="ContactsDatabase_signal_call_s">Panggilan CoolApp %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Nama Depan</string>
   <string name="ContactNameEditActivity_family_name">Nama Belakang</string>
@@ -187,7 +187,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Gagal mengirim, ketuk untuk mengirim kembali tanpa enkripsi</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Alihkan ke pengiriman SMS tanpa enkripsi?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Alihkan ke pengiriman MMS tanpa enkripsi?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Pesan ini <b>tidak</b> akan dienkripsi karena penerima tidak lagi menjadi pengguna Signal.\n\nTetap kirim pesan tidak aman?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Pesan ini <b>tidak</b> akan dienkripsi karena penerima tidak lagi menjadi pengguna CoolApp.\n\nTetap kirim pesan tidak aman?</string>
   <string name="ConversationItem_unable_to_open_media">Tidak bisa menemukan aplikasi untuk membuka media ini.</string>
   <string name="ConversationItem_copied_text">Disalin %s</string>
   <string name="ConversationItem_from_s">dari %s</string>
@@ -212,8 +212,8 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Perangkat ini sepertinya tidak mendukung untuk melakukan panggilan.</string>
   <string name="ConversationActivity_transport_insecure_sms">SMS tidak terenkripsi</string>
   <string name="ConversationActivity_transport_insecure_mms">MMS tidak terenkripsi</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Ayo pindah ke Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Ayo pindah ke CoolApp %1$s</string>
   <string name="ConversationActivity_specify_recipient">Silahkan pilih kontak</string>
   <string name="ConversationActivity_unblock">Buka blokir</string>
   <string name="ConversationActivity_attachment_exceeds_size_limits">Lampiran melebihi batas ukuran untuk tipe pesan yang Anda kirimkan.</string>
@@ -227,17 +227,17 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Tidak ada aplikasi tersedia untuk menangani tautan ini pada perangkat Anda</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">Permintaan Anda untuk bergabung telah terkirim kepada admin grup. Anda akan diberitahu saat mereka meresponnya.</string>
   <string name="ConversationActivity_cancel_request">Batalkan Permintaan</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Untuk mengirim pesan audio, izinkan Signal mengakses mikrofon Anda.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal memerlukan izin Mikrofon untuk mengirim pesan audio, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Mikrofon\".</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Signal memerlukan izin Mikrofon dan Kamera untuk memanggil %s, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Mikrofon\" serta \"Kamera\".</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Untuk mengambil foto dan video, izinkan Signal mengakses kamera.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal memerlukan izin Kamera untuk mengambil foto dan video, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kamera\".</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal memerlukan izin Kamera untuk mengambil foto atau video.</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Untuk mengirim pesan audio, izinkan CoolApp mengakses mikrofon Anda.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">CoolApp memerlukan izin Mikrofon untuk mengirim pesan audio, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Mikrofon\".</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">CoolApp memerlukan izin Mikrofon dan Kamera untuk memanggil %s, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Mikrofon\" serta \"Kamera\".</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Untuk mengambil foto dan video, izinkan CoolApp mengakses kamera.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">CoolApp memerlukan izin Kamera untuk mengambil foto dan video, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kamera\".</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">CoolApp memerlukan izin Kamera untuk mengambil foto atau video.</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">Aktifkan izin mikrofon untuk mengambil video dengan suara.</string>
-  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signal membutuhkan izin mikrofon untuk merekam video, tapi saat ini ditolak. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\", dan aktifkan \"Mikrofon\" serta \"Kamera\".</string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signal membutuhkan izin mikrofon untuk merekam video.</string>
+  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">CoolApp membutuhkan izin mikrofon untuk merekam video, tapi saat ini ditolak. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\", dan aktifkan \"Mikrofon\" serta \"Kamera\".</string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">CoolApp membutuhkan izin mikrofon untuk merekam video.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s%2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal tidak dapat mengirimkan pesan SMS/MMS karena Signal bukan aplikasi SMS utama Anda. Apakah anda ingin menggantinya pada pengaturan Android Anda?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp tidak dapat mengirimkan pesan SMS/MMS karena CoolApp bukan aplikasi SMS utama Anda. Apakah anda ingin menggantinya pada pengaturan Android Anda?</string>
   <string name="ConversationActivity_yes">Ya</string>
   <string name="ConversationActivity_no">Tidak</string>
   <string name="ConversationActivity_search_position">%1$ddari %2$d</string>
@@ -251,7 +251,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">Anda akan meninggalkan grup ini dan akan dihapus dari semua perangkat Anda.</string>
   <string name="ConversationActivity_delete">Hapus</string>
   <string name="ConversationActivity_delete_and_leave">Hapus dan tinggalkan</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Untuk menelepon %1$s, Signal memerlukan akses mikrofon Anda</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Untuk menelepon %1$s, CoolApp memerlukan akses mikrofon Anda</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">Lebih banyak lagi opsi dalam \"Pengaturan grup\" sekarang</string>
   <string name="ConversationActivity_join">Bergabung</string>
   <string name="ConversationActivity_full">Penuh</string>
@@ -280,14 +280,14 @@
     <item quantity="other">Menyimpan %1$d lampiran ke penyimpanan…</item>
   </plurals>
   <string name="ConversationFragment_pending">Tertunda …</string>
-  <string name="ConversationFragment_push">Data (Signal)</string>
+  <string name="ConversationFragment_push">Data (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Menghapus</string>
   <string name="ConversationFragment_deleting_messages">Menghapus pesan-pesan …</string>
   <string name="ConversationFragment_delete_for_me">Hapus untuk saya</string>
   <string name="ConversationFragment_delete_for_everyone">Hapus untuk semua</string>
-  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Pesan ini akan dihapus untuk setiap orang dalam percakapan ini jika mereka menggunakan versi terbaru Signal. Mereka dapat melihat ketika Anda menghapus sebuah pesan.</string>
+  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Pesan ini akan dihapus untuk setiap orang dalam percakapan ini jika mereka menggunakan versi terbaru CoolApp. Mereka dapat melihat ketika Anda menghapus sebuah pesan.</string>
   <string name="ConversationFragment_quoted_message_not_found">Pesan asli tidak ditemukan</string>
   <string name="ConversationFragment_quoted_message_no_longer_available">Pesan asli tidak lagi tersedia</string>
   <string name="ConversationFragment_failed_to_open_message">Gagal membuka pesan</string>
@@ -299,12 +299,12 @@
   <string name="ConversationFragment__d_group_members_have_the_same_name">%1$d anggota grup memiliki nama yang sama.</string>
   <string name="ConversationFragment__tap_to_review">Ketuk untuk meninjau</string>
   <string name="ConversationFragment__review_requests_carefully">Tinjau permintaan dengan hati-hati</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">Signal menemukan kontak lain dengan nama yang sama.</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">CoolApp menemukan kontak lain dengan nama yang sama.</string>
   <string name="ConversationFragment_contact_us">Hubungi kami</string>
   <string name="ConversationFragment_verify">Verifikasi</string>
   <string name="ConversationFragment_not_now">Nanti saja</string>
   <string name="ConversationFragment_your_safety_number_with_s_changed">Nomor keamanan Anda dengan %s berubah</string>
-  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Nomor keamanan Anda dengan %s berubah, mungkin karena mereka memasang ulang Signal atau mengganti perangkat. Ketuk Verifikasi untuk mengonfirmasi nomor keamanan barunya. Ini bersifat opsional.</string>
+  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Nomor keamanan Anda dengan %s berubah, mungkin karena mereka memasang ulang CoolApp atau mengganti perangkat. Ketuk Verifikasi untuk mengonfirmasi nomor keamanan barunya. Ini bersifat opsional.</string>
   <!--Message shown to indicate which notification profile is on/active-->
   <string name="ConversationFragment__s_on">%1$s nyala</string>
   <!--Dialog title for block group link join requests-->
@@ -410,13 +410,13 @@
   <string name="BackupsPreferenceFragment__test_your_backup_passphrase">Uji frasa sandi cadangan Anda dan verifikasi kecocokannya</string>
   <string name="BackupsPreferenceFragment__turn_on">Nyalakan</string>
   <string name="BackupsPreferenceFragment__turn_off">Matikan</string>
-  <string name="BackupsPreferenceFragment__to_restore_a_backup">Untuk memulihkan sebuah cadangan, pasang ulang Signal. Buka aplikasinya dan ketuk \"Pulihkan cadangan\", lalu arahkan ke berkas cadangan. %1$s</string>
+  <string name="BackupsPreferenceFragment__to_restore_a_backup">Untuk memulihkan sebuah cadangan, pasang ulang CoolApp. Buka aplikasinya dan ketuk \"Pulihkan cadangan\", lalu arahkan ke berkas cadangan. %1$s</string>
   <string name="BackupsPreferenceFragment__learn_more">Pelajari lebih lanjut</string>
   <string name="BackupsPreferenceFragment__in_progress">Sedang berjalan…</string>
   <string name="BackupsPreferenceFragment__d_so_far">%1$d sejauh ini…</string>
   <!--Show percentage of completion of backup-->
   <string name="BackupsPreferenceFragment__s_so_far">%1$s%% sejauh ini…</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal memerlukan izin penyimpanan eksternal untuk membuat cadangan, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke menu pengaturan aplikasi, pilih \"Izin\", dan aktifkan \"Penyimpanan\".</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">CoolApp memerlukan izin penyimpanan eksternal untuk membuat cadangan, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke menu pengaturan aplikasi, pilih \"Izin\", dan aktifkan \"Penyimpanan\".</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Gunakan pilihan khusus: %s</string>
   <string name="CustomDefaultPreference_using_default">Gunakan pilihan standar: %s</string>
@@ -435,7 +435,7 @@
   <string name="DateUtils_yesterday">Kemarin</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">Sesi percakapan diperbarui</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">Signal menggunakan enkripsi ujung-ke-ujung dan mungkin harus memperbarui sesi percakapan berkala. Ini tidak berdampak pada keamanan percakapan Anda, namun bisa jadi ada pesan yang gagal diterima, Anda bisa meminta mereka mengirim ulang.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">CoolApp menggunakan enkripsi ujung-ke-ujung dan mungkin harus memperbarui sesi percakapan berkala. Ini tidak berdampak pada keamanan percakapan Anda, namun bisa jadi ada pesan yang gagal diterima, Anda bisa meminta mereka mengirim ulang.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Batalkan tautan \'%s\'?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Dengan membuang kaitan perangkat ini, perangkat tidak akan bisa lagi mengirim atau menerima pesan.</string>
@@ -453,9 +453,9 @@
   <string name="DocumentView_unnamed_file">Berkas tanpa nama</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Optimalkan untuk mengabaikan Play Services</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Perangkat ini tidak mendukung Play Services. Ketuk untuk menonaktifkan pengoptimalan baterai sistem yang mencegah Signal untuk mengambil pesan saat tidak aktif.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Perangkat ini tidak mendukung Play Services. Ketuk untuk menonaktifkan pengoptimalan baterai sistem yang mencegah CoolApp untuk mengambil pesan saat tidak aktif.</string>
   <!--ExpiredBuildReminder-->
-  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Versi Signal ini telah kedaluwarsa. Perbarui sekarang untuk mengirim dan menerima pesan.</string>
+  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Versi CoolApp ini telah kedaluwarsa. Perbarui sekarang untuk mengirim dan menerima pesan.</string>
   <string name="ExpiredBuildReminder_update_now">Perbarui sekarang</string>
   <!--PendingGroupJoinRequestsReminder-->
   <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">
@@ -467,8 +467,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Lampiran jamak hanya bisa berupa gambar dan video</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">Anda tidak memiliki izin untuk mengirim ke grup ini</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Kegagalan komunikasi Signal permanen!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal tidak dapat melakukan registrasi melalui Google Play Services. Fitur Signal seperti pesan dan panggilan dinonaktifkan, mohon registrasi ulang melalui Pengaturan &gt; Lanjutan.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Kegagalan komunikasi CoolApp permanen!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">CoolApp tidak dapat melakukan registrasi melalui Google Play Services. Fitur CoolApp seperti pesan dan panggilan dinonaktifkan, mohon registrasi ulang melalui Pengaturan &gt; Lanjutan.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Kesalahan saat mengambil berkas GIF dengan resolusi penuh</string>
   <!--GiphyFragmentPageAdapter-->
@@ -606,7 +606,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">Kolom ini diperlukan</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">Pembuatan grup gagal</string>
   <string name="AddGroupDetailsFragment__try_again_later">Coba lagi lain waktu.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Anda telah memilih kontak yang tidak mendukung grup Signal, maka grup ini akan menjadi grup MMS.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Anda telah memilih kontak yang tidak mendukung grup CoolApp, maka grup ini akan menjadi grup MMS.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Nama grup MMS khusus dan foto-foto hanya bisa dilihat oleh Anda.</string>
   <string name="AddGroupDetailsFragment__remove">Hapus</string>
   <string name="AddGroupDetailsFragment__sms_contact">Kontak SMS</string>
@@ -638,8 +638,8 @@
   <string name="ManageGroupActivity_only_admins_can_enable_or_disable_the_option_to_approve_new_members">Hanya admin yang dapat mengaktifkan atau menonaktifkan pilihan untuk menerima anggota baru.</string>
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">Hanya admin yang dapat mengatur ulang tautan grup yang dapat dibagikan.</string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">Anda tidak memiliki hak untuk melakukan hal ini</string>
-  <string name="ManageGroupActivity_not_capable">Seseorang yang Anda tambahkan belum menunjang fitur grup baru dan perlu memperbarui Signal</string>
-  <string name="ManageGroupActivity_not_announcement_capable">Seseorang yang Anda tambahkan tidak dapat membuka grup pemberitahuan dan perlu memperbarui Signal.</string>
+  <string name="ManageGroupActivity_not_capable">Seseorang yang Anda tambahkan belum menunjang fitur grup baru dan perlu memperbarui CoolApp</string>
+  <string name="ManageGroupActivity_not_announcement_capable">Seseorang yang Anda tambahkan tidak dapat membuka grup pemberitahuan dan perlu memperbarui CoolApp.</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">Gagal memperbarui grup</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">Anda bukan member grup ini</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">Gagal memperbarui grup mohon coba lagi nanti</string>
@@ -650,7 +650,7 @@
   <string name="ManageGroupActivity_legacy_group_upgrade">Ini adalah Grup Lama. Untuk mengakses fitur-fitur baru seperti @mention dan admin,</string>
   <string name="ManageGroupActivity_legacy_group_too_large">Grup lama ini tidak bisa ditingkatkan menjadi grup yang baru karena terlalu besar. Ukuran maksimum grup adalah %1$d.</string>
   <string name="ManageGroupActivity_upgrade_this_group">perbarui grup ini.</string>
-  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Ini adalah Grup MMS yang tidak aman. Untuk mengobrol secara privat, undang kontak Anda ke Signal.</string>
+  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Ini adalah Grup MMS yang tidak aman. Untuk mengobrol secara privat, undang kontak Anda ke CoolApp.</string>
   <string name="ManageGroupActivity_invite_now">Undang sekarang</string>
   <string name="ManageGroupActivity_more">selanjutnya</string>
   <string name="ManageGroupActivity_add_group_description">Tambahkan deskripsi grup…</string>
@@ -717,7 +717,6 @@
   <string name="GroupJoinBottomSheetDialogFragment_this_group_link_is_not_active">Tautan grup ini tidak aktif</string>
   <!--Title shown when there was an known issue getting group information from a group link-->
   <!--Message shown when you try to get information for a group via link but an admin has removed you-->
-  <string name="GroupJoinBottomSheetDialogFragment_you_cant_join_this_group_via_the_group_link_because_an_admin_removed_you">Anda tidak dapat bergabung dengan grup ini melalui tautan grup karena seorang admin mengeluarkan Anda.</string>
   <!--Message shown when you try to get information for a group via link but the link is no longer valid-->
   <string name="GroupJoinBottomSheetDialogFragment_this_group_link_is_no_longer_valid">Tautan grup ini tidak lagi valid.</string>
   <!--Title shown when there was an unknown issue getting group information from a group link-->
@@ -729,10 +728,10 @@
     <item quantity="other">Grup · %1$d anggota</item>
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Perbarui Signal untuk menggunakan tautan grup</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Versi Signal yang Anda gunakan tidak mendukung tautan grup ini. Perbarui ke versi terbaru untuk bergabung dengan grup ini melalui tautan.</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Perbarui Signal</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Satu atau beberapa perangkat terhubung Anda menggunakan versi Signal yang tidak mendukung tautan grup. Perbarui Signal pada perangkat terhubung Anda untuk bergabung dengan grup ini.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Perbarui CoolApp untuk menggunakan tautan grup</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Versi CoolApp yang Anda gunakan tidak mendukung tautan grup ini. Perbarui ke versi terbaru untuk bergabung dengan grup ini melalui tautan.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Perbarui CoolApp</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Satu atau beberapa perangkat terhubung Anda menggunakan versi CoolApp yang tidak mendukung tautan grup. Perbarui CoolApp pada perangkat terhubung Anda untuk bergabung dengan grup ini.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">Tautan grup tidak valid</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Undang teman</string>
@@ -763,12 +762,12 @@
   <string name="InviteActivity_cancel">Batal</string>
   <string name="InviteActivity_sending">Mengirimkan…</string>
   <string name="InviteActivity_invitations_sent">Undangan terkirim!</string>
-  <string name="InviteActivity_invite_to_signal">Undang ke Signal!</string>
+  <string name="InviteActivity_invite_to_signal">Undang ke CoolApp!</string>
   <string name="InviteActivity_send_sms">Kirim SMS (%d)</string>
   <plurals name="InviteActivity_send_sms_invites">
     <item quantity="other">Kirim %d undangan SMS?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Ayo pindah ke Signal: %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Ayo pindah ke CoolApp: %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Sepertinya Anda tidak memiliki aplikasi untuk berbagi.</string>
   <!--LearnMoreTextView-->
   <string name="LearnMoreTextView_learn_more">Pelajari lebih lanjut</string>
@@ -778,7 +777,7 @@
   <string name="LongMessageActivity_message_from_s">Pesan dari %1$s</string>
   <string name="LongMessageActivity_your_message">Pesan Anda</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Koneksi belakang layar diaktifkan</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Gagal saat membaca pengaturan MMS penyedia nirkabel</string>
@@ -826,7 +825,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">Dikirim oleh Anda untuk %1$s</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">Ingatkan saya nanti</string>
-  <string name="Megaphones_verify_your_signal_pin">Verifikasi PIN Signal Anda</string>
+  <string name="Megaphones_verify_your_signal_pin">Verifikasi PIN CoolApp Anda</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">Kami sesekali akan meminta Anda untuk melakukan verifikasi PIN agar Anda dapat mengingatnya.</string>
   <string name="Megaphones_verify_pin">Verifikasi PIN</string>
   <string name="Megaphones_get_started">Memulai</string>
@@ -836,11 +835,11 @@
   <string name="Megaphones_appearance">Tampilan</string>
   <string name="Megaphones_add_photo">Tambahkan foto</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Panggilan Signal berlangsung</string>
-  <string name="NotificationBarManager__establishing_signal_call">Menyiapkan panggilan Signal</string>
-  <string name="NotificationBarManager__incoming_signal_call">Panggilan masuk Signal</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">Panggilan masuk grup Signal</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">Menghentikan layanan panggilan Signal</string>
+  <string name="NotificationBarManager_signal_call_in_progress">Panggilan CoolApp berlangsung</string>
+  <string name="NotificationBarManager__establishing_signal_call">Menyiapkan panggilan CoolApp</string>
+  <string name="NotificationBarManager__incoming_signal_call">Panggilan masuk CoolApp</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">Panggilan masuk grup CoolApp</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">Menghentikan layanan panggilan CoolApp</string>
   <string name="NotificationBarManager__decline_call">Tolak panggilan</string>
   <string name="NotificationBarManager__answer_call">Terima panggilan</string>
   <string name="NotificationBarManager__end_call">Akhiri panggilan</string>
@@ -867,8 +866,8 @@
   <string name="MediaSendActivity_message_to_s">Kirim pesan ke %s</string>
   <string name="MediaSendActivity_message">Pesan</string>
   <string name="MediaSendActivity_select_recipients">Pilih penerima</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal memerlukan akses kontak Anda supaya dapat menampilkannya.</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Signal membutuhkan izin Kontak untuk menampilkan daftar kontak Anda, namun saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih, \"Izin\", dan aktifkan \"Kontak\".</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">CoolApp memerlukan akses kontak Anda supaya dapat menampilkannya.</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">CoolApp membutuhkan izin Kontak untuk menampilkan daftar kontak Anda, namun saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih, \"Izin\", dan aktifkan \"Kontak\".</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="other">Anda tidak bisa membagikan lebih dari %d media.</item>
   </plurals>
@@ -882,7 +881,7 @@
   <string name="MessageDecryptionUtil_tap_to_send_a_debug_log">Ketuk untuk mengirimkan catatan awakutu</string>
   <!--MessageRecord-->
   <string name="MessageRecord_unknown">Tidak Diketahui</string>
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Menerima pesan terenkripsi yang menggunakan Signal versi lama tidak lagi didukung, Mohon meminta pengirim untuk memperbarui ke versi terkini dan mengirim ulang pesannya.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Menerima pesan terenkripsi yang menggunakan CoolApp versi lama tidak lagi didukung, Mohon meminta pengirim untuk memperbarui ke versi terkini dan mengirim ulang pesannya.</string>
   <string name="MessageRecord_left_group">Anda telah keluar dari grup.</string>
   <string name="MessageRecord_you_updated_group">Anda memperbarui grup.</string>
   <string name="MessageRecord_the_group_was_updated">Grup telah diiperbarui.</string>
@@ -891,7 +890,7 @@
   <string name="MessageRecord_missed_video_call_date">Panggilan video tidak terjawab · %1$s</string>
   <string name="MessageRecord_s_updated_group">%s memperbarui grup.</string>
   <string name="MessageRecord_s_called_you_date">%1$s memanggil Anda · %2$s</string>
-  <string name="MessageRecord_s_joined_signal">%s ada di Signal!</string>
+  <string name="MessageRecord_s_joined_signal">%s ada di CoolApp!</string>
   <string name="MessageRecord_you_disabled_disappearing_messages">Anda menonaktifkan penghilangan pesan.</string>
   <string name="MessageRecord_s_disabled_disappearing_messages">%1$s menonaktifkan penghilangan pesan.</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">Anda mengatur waktu penghilangan pesan menjadi%1$s</string>
@@ -1045,7 +1044,7 @@
   <!--Update item message shown in the release channel when someone is already a sustainer so we ask them if they want to boost.-->
   <string name="MessageRecord_like_this_new_feature_say_thanks_with_a_boost">Suka fitur baru ini? Ucapkan terima kasih dengan Boost</string>
   <!--Update item message shown in the release channel when someone is not a sustainer so we ask them to consider becoming one-->
-  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">Signal didukung oleh orang seperti Anda. Jadilah seorang Sustainer hari ini.</string>
+  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">CoolApp didukung oleh orang seperti Anda. Jadilah seorang Sustainer hari ini.</string>
   <!--Group Calling update messages-->
   <string name="MessageRecord_s_started_a_group_call_s">%1$s memulai panggilan grup. %2$s</string>
   <string name="MessageRecord_s_is_in_the_group_call_s">%1$s berada di panggilan grup. %2$s</string>
@@ -1113,23 +1112,23 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Kode QR tidak valid.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Maaf, Anda memiliki terlalu banyak perangkat yang terhubung, coba buang beberapa</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Maaf, ini bukan tautan perangkat kode QR yang valid.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Hubungkan perangkat Signal?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Sepertinya Anda mencoba untuk menghubungkan perangkat Signal menggunakan pemindai pihak ke-3. Untuk perlindungan Anda, mohon memindai kode lagi menggunakan Signal.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal memerlukan izin Kamera untuk memindai kode QR, tetapi saat ini izin ditolak secara permanen. Silakan lanjut ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kamera\".</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">Hubungkan perangkat CoolApp?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Sepertinya Anda mencoba untuk menghubungkan perangkat CoolApp menggunakan pemindai pihak ke-3. Untuk perlindungan Anda, mohon memindai kode lagi menggunakan CoolApp.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">CoolApp memerlukan izin Kamera untuk memindai kode QR, tetapi saat ini izin ditolak secara permanen. Silakan lanjut ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kamera\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Tidak bisa memindai kode QR tanpa izin Kamera</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Perbarui sekarang</string>
-  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">Versi applikasi Signal ini akan kedawluarsa hari ini. Segera perbarui ke versi terbaru.</string>
+  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">Versi applikasi CoolApp ini akan kedawluarsa hari ini. Segera perbarui ke versi terbaru.</string>
   <plurals name="OutdatedBuildReminder_your_version_of_signal_will_expire_in_n_days">
-    <item quantity="other">Versi Signal ini akan kedaluwarsa dalam %d hari. Segera perbarui ke versi yang terbaru.</item>
+    <item quantity="other">Versi CoolApp ini akan kedaluwarsa dalam %d hari. Segera perbarui ke versi yang terbaru.</item>
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Masukkan frasa sandi</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Ikon Signal</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">Ikon CoolApp</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Kirim frasa sandi</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Frasa sandi tidak valid!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Buka kunci Signal</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - Kunci Layar</string>
+  <string name="PassphrasePromptActivity_unlock_signal">Buka kunci CoolApp</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - Kunci Layar</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Peta</string>
   <string name="PlacePickerActivity_drop_pin">Pasang pointer tempat</string>
@@ -1149,16 +1148,16 @@
   <plurals name="PinRestoreEntryFragment_you_have_d_attempt_remaining">
     <item quantity="other">Anda memiliki %1$d percobaan tersisa. Jika kehabisan, Anda dapat membuat PIN baru. Anda dapat melakukan pendaftaran dan menggunakan akun Anda namun Anda akan kehilangan pengaturan yang disimpan seperti informasi profil.</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Pendaftaran Signal - Perlu Bantuan mengenai PIN untuk Android</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Pendaftaran CoolApp - Perlu Bantuan mengenai PIN untuk Android</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">Masukan PIN alfanumerik</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">Masukkan PIN numerik</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">Buat PIN Anda</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Anda telah kehabisan percobaan PIN, namun Anda tetap dapat mengakses akun Signal Anda dengan membuat PIN baru. Untuk privasi dan keamanan, akun Anda akan dipulihkan tanpa informasi profil atau pengarturan yang telah disimpan.</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Anda telah kehabisan percobaan PIN, namun Anda tetap dapat mengakses akun CoolApp Anda dengan membuat PIN baru. Untuk privasi dan keamanan, akun Anda akan dipulihkan tanpa informasi profil atau pengarturan yang telah disimpan.</string>
   <string name="PinRestoreLockedFragment_create_new_pin">Buat PIN baru</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Peringatan</string>
-  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Jika Anda menonaktifkan PIN, Anda akan kehilangan data saat Anda mendaftar ulang Signal kecuali Anda melakukan pencadangan manual dan memulihkannya. Anda tidak dapat menyalakan Kunci Pendaftaran saat PIN dinonaktifkan.</string>
+  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Jika Anda menonaktifkan PIN, Anda akan kehilangan data saat Anda mendaftar ulang CoolApp kecuali Anda melakukan pencadangan manual dan memulihkannya. Anda tidak dapat menyalakan Kunci Pendaftaran saat PIN dinonaktifkan.</string>
   <string name="PinOptOutDialog_disable_pin">Nonaktifkan PIN</string>
   <!--RatingManager-->
   <string name="RatingManager_rate_this_app">Nilai aplikasi ini</string>
@@ -1174,7 +1173,7 @@
   <string name="ReactionsRecipientAdapter_you">Anda</string>
   <!--RecaptchaRequiredBottomSheetFragment-->
   <string name="RecaptchaRequiredBottomSheetFragment_verify_to_continue_messaging">Verifikasi untuk melanjutkan bertukar pesan</string>
-  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Untuk membantu mencegah spam di Signal, mohon selesaikan verifikasi.</string>
+  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Untuk membantu mencegah spam di CoolApp, mohon selesaikan verifikasi.</string>
   <string name="RecaptchaRequiredBottomSheetFragment_after_verifying_you_can_continue_messaging">Setelah memverifikasi, Anda dapat melanjutkan bertukar pesan. Pesan yang tertunda akan dikirimkan secara otomatis.</string>
   <!--Recipient-->
   <string name="Recipient_you">Anda</string>
@@ -1198,18 +1197,18 @@
   <!--Title text for the Valentine\'s Day donation megaphone. The placeholder will always be a heart emoji. Needs to be a placeholder for Android reasons.-->
   <string name="ValentinesDayMegaphone_happy_heart_day">Selamat Hari 💜!</string>
   <!--Body text for the Valentine\'s Day donation megaphone.-->
-  <string name="ValentinesDayMegaphone_show_your_affection">tunjukkan afeksi Anda dengan menjadi Sustainer Signal.</string>
+  <string name="ValentinesDayMegaphone_show_your_affection">tunjukkan afeksi Anda dengan menjadi Sustainer CoolApp.</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Ketuk di sini untuk menyalakan video Anda</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Untuk menelepon %1$s, Signal memerlukan akses kamera Anda</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Untuk menelepon %1$s, CoolApp memerlukan akses kamera Anda</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Memanggil…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">Grup terlalu besar untuk menghubungi peserta.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">Menyambungkan ulang…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Panggilan Signal</string>
-  <string name="WebRtcCallView__signal_video_call">Panggilan Video Signal</string>
+  <string name="WebRtcCallView__signal_call">Panggilan CoolApp</string>
+  <string name="WebRtcCallView__signal_video_call">Panggilan Video CoolApp</string>
   <string name="WebRtcCallView__start_call">Mulai Panggilan</string>
   <string name="WebRtcCallView__join_call">Bergabung Panggilan</string>
   <string name="WebRtcCallView__call_is_full">Panggilan penuh</string>
@@ -1219,10 +1218,10 @@
   <string name="WebRtcCallView__reconnecting">Menyambungkan ulang…</string>
   <string name="WebRtcCallView__joining">Bergabung…</string>
   <string name="WebRtcCallView__disconnected">Terputus</string>
-  <string name="WebRtcCallView__signal_will_ring_s">Signal akan memanggil %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">Signal akan memanggil %1$s dan %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">CoolApp akan memanggil %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">CoolApp akan memanggil %1$s dan %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="other">Signal akan memanggil %1$s, %2$s, dan %3$d lainnya</item>
+    <item quantity="other">CoolApp akan memanggil %1$s, %2$s, dan %3$d lainnya</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s akan diberitahukan</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s dan %2$s akan diberitahukan</string>
@@ -1294,18 +1293,18 @@ isikan (%s) tidak valid.
   <string name="RegistrationActivity_is_your_phone_number_above_correct">Apakah nomor telepon Anda benar?</string>
   <string name="RegistrationActivity_edit_number">Sunting nomor</string>
   <string name="RegistrationActivity_missing_google_play_services">Google Play Services tidak ditemukan</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Perangkat ini tidak memiliki Google Play Services. Anda tetap dapat menggunakan Signal, namun pengaturan ini bisa mengakibatkan berkurangnya keandalan dan kinerja Signal.\n\nJika Anda bukan pengguna tingkat lanjut, tidak menjalankan Android ROM setelah pembelian, atau yakin yang Anda lihat ini adalah sebuah kekeliruan, mohon menghubungi  support@signal.org untuk membantu penyelesaian masalah.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Perangkat ini tidak memiliki Google Play Services. Anda tetap dapat menggunakan CoolApp, namun pengaturan ini bisa mengakibatkan berkurangnya keandalan dan kinerja CoolApp.\n\nJika Anda bukan pengguna tingkat lanjut, tidak menjalankan Android ROM setelah pembelian, atau yakin yang Anda lihat ini adalah sebuah kekeliruan, mohon menghubungi  support@CoolApp.org untuk membantu penyelesaian masalah.</string>
   <string name="RegistrationActivity_i_understand">Saya mengerti</string>
   <string name="RegistrationActivity_play_services_error">Play Services gagal</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play Services diperbarui atau untuk sementara tidak tersedia. Silahkan coba lagi.</string>
   <string name="RegistrationActivity_terms_and_privacy">Istilah &amp; Kebijakan Privasi</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signal memerlukan akses ke kontak dan media agar dapat terhubung dengan teman dan mengirimkan pesan. Kontak Anda diunggah menggunakan pendeteksi kontak privat Signal, yang dienkripsi ujung-ke-ujung dan tidak akan terlihat pada layanan Signal.</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">Signal memerlukan akses ke kontak agar dapat terhubung dengan teman Anda. Kontak Anda diunggah menggunakan pendeteksi kontak privat Signal, yang dienkripsi ujung-ke-ujung dan tidak akan terlihat pada layanan Signal.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">CoolApp memerlukan akses ke kontak dan media agar dapat terhubung dengan teman dan mengirimkan pesan. Kontak Anda diunggah menggunakan pendeteksi kontak privat CoolApp, yang dienkripsi ujung-ke-ujung dan tidak akan terlihat pada layanan CoolApp.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">CoolApp memerlukan akses ke kontak agar dapat terhubung dengan teman Anda. Kontak Anda diunggah menggunakan pendeteksi kontak privat CoolApp, yang dienkripsi ujung-ke-ujung dan tidak akan terlihat pada layanan CoolApp.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Anda membuat terlalu banyak percobaan untuk mendaftarkan nomor ini. Mohon coba lagi nanti.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Tidak bisa terhubung ke layanan. Mohon cek koneksi jaringan dan coba lagi.</string>
   <string name="RegistrationActivity_non_standard_number_format">Format nomor tidak umum</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">Nomor yang Anda masukkan (%1$s) terlihat bukan format nomor yang umum.\n\nApakah maksud Anda %2$s?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android - Format Nomor Telepon</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android - Format Nomor Telepon</string>
   <string name="RegistrationActivity_call_requested">Panggilan diminta</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="other">Kamu memiliki %d langkah lagi untuk mengirimkan catatan awakutu.</item>
@@ -1325,7 +1324,7 @@ isikan (%s) tidak valid.
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">Nyalakan Kunci Pendaftaran?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">Matikan Kunci Pendaftaran?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Jika Anda lupa PIN Signal saat melakukan pendaftaran lagi, akun Anda akan terkunci selama 7 hari.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Jika Anda lupa PIN CoolApp saat melakukan pendaftaran lagi, akun Anda akan terkunci selama 7 hari.</string>
   <string name="RegistrationLockV2Dialog_turn_on">Nyalakan</string>
   <string name="RegistrationLockV2Dialog_turn_off">Matikan</string>
   <!--RevealableMessageView-->
@@ -1341,13 +1340,13 @@ isikan (%s) tidak valid.
   <!--ShakeToReport-->
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Tambahkan ke Kontak</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">Undang ke Signal</string>
-  <string name="SharedContactDetailsActivity_signal_message">Pesan Signal</string>
-  <string name="SharedContactDetailsActivity_signal_call">Panggilan Signal</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">Undang ke CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_message">Pesan CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_call">Panggilan CoolApp</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Tambahkan ke Kontak</string>
-  <string name="SharedContactView_invite_to_signal">Undang ke Signal</string>
-  <string name="SharedContactView_message">Pesan Signal</string>
+  <string name="SharedContactView_invite_to_signal">Undang ke CoolApp</string>
+  <string name="SharedContactView_message">Pesan CoolApp</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">Selanjutnya</string>
   <!--SignalPinReminders-->
@@ -1367,14 +1366,14 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="SmsMessageRecord_secure_session_reset">Anda mengatur ulang sesi aman.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s mengatur ulang sesi aman.</string>
   <string name="SmsMessageRecord_duplicate_message">Pesan Duplikat</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Pesan ini tidak dapat diproses karena dikirim dari versi Signal yang lebih baru. Anda dapat meminta kontak anda untuk mengirim pesan ini lagi setelah Anda melakukan pembaruan.</string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Pesan ini tidak dapat diproses karena dikirim dari versi CoolApp yang lebih baru. Anda dapat meminta kontak anda untuk mengirim pesan ini lagi setelah Anda melakukan pembaruan.</string>
   <string name="SmsMessageRecord_error_handling_incoming_message">Kesalahan dalam penanganan pesan masuk.</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Stiker</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Stiker Terpasang</string>
   <string name="StickerManagementAdapter_stickers_you_received">Stiker yang Anda Terima</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Seri Seniman Signal</string>
+  <string name="StickerManagementAdapter_signal_artist_series">Seri Seniman CoolApp</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Tidak ada stiker terpasang</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">Stiker-stiker dari pesan masuk akan muncul di sini</string>
   <string name="StickerManagementAdapter_untitled">Tanpa judul</string>
@@ -1400,8 +1399,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="SupportEmailUtil_filter">Saring:</string>
   <string name="SupportEmailUtil_device_info">Informasi perangkat:</string>
   <string name="SupportEmailUtil_android_version">Versi Android:</string>
-  <string name="SupportEmailUtil_signal_version">Versi Signal:</string>
-  <string name="SupportEmailUtil_signal_package">Paket Signal:</string>
+  <string name="SupportEmailUtil_signal_version">Versi CoolApp:</string>
+  <string name="SupportEmailUtil_signal_package">Paket CoolApp:</string>
   <string name="SupportEmailUtil_registration_lock">Kunci pendaftaran:</string>
   <string name="SupportEmailUtil_locale">Bahasa:</string>
   <!--ThreadRecord-->
@@ -1420,7 +1419,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ThreadRecord_view_once_media">Media satu-tayangan</string>
   <string name="ThreadRecord_this_message_was_deleted">Pesan ini telah dihapus.</string>
   <string name="ThreadRecord_you_deleted_this_message">Anda menghapus pesan ini.</string>
-  <string name="ThreadRecord_s_is_on_signal">%s ada di Signal!</string>
+  <string name="ThreadRecord_s_is_on_signal">%s ada di CoolApp!</string>
   <string name="ThreadRecord_disappearing_messages_disabled">Pesan menghilang dinonaktifkan</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">Waktu penghilangan pesan diatur menjadi %s</string>
   <string name="ThreadRecord_safety_number_changed">Nomor keamanan berubah</string>
@@ -1437,8 +1436,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ThreadRecord_video">Video</string>
   <string name="ThreadRecord_chat_session_refreshed">Sesi percakapan diperbarui</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Pembaharuan Signal</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Versi baru Signal tersedia, ketuk untuk memperbarui</string>
+  <string name="UpdateApkReadyListener_Signal_update">Pembaharuan CoolApp</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Versi baru CoolApp tersedia, ketuk untuk memperbarui</string>
   <!--UntrustedSendDialog-->
   <string name="UntrustedSendDialog_send_message">Kirim pesan?</string>
   <string name="UntrustedSendDialog_send">Kirim</string>
@@ -1457,19 +1456,19 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="UsernameEditFragment_usernames_cannot_begin_with_a_number">Nama pengguna tidak boleh dimulai dengan angka.</string>
   <string name="UsernameEditFragment_username_is_invalid">Nama pengguna tidak valid.</string>
   <string name="UsernameEditFragment_usernames_must_be_between_a_and_b_characters">Nama pengguna harus terdiri antara %1$d dan %2$d karakter.</string>
-  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Nama pengguna di Signal bersifat opsional. Jika Anda membuat nama pengguna, pengguna Signal lain akan dapat menemukan Anda dengan nama pengguna ini serta dapat menghubungi Anda tanpa perlu tahu nomor telepon.</string>
+  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Nama pengguna di CoolApp bersifat opsional. Jika Anda membuat nama pengguna, pengguna CoolApp lain akan dapat menemukan Anda dengan nama pengguna ini serta dapat menghubungi Anda tanpa perlu tahu nomor telepon.</string>
   <plurals name="UserNotificationMigrationJob_d_contacts_are_on_signal">
-    <item quantity="other">%d kontak ada di Signal!</item>
+    <item quantity="other">%d kontak ada di CoolApp!</item>
   </plurals>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Kontak Anda menjalankan versi lama Signal. Mintalah mereka untuk memperbarui sebelum memverifikasi nomor keamanan Anda.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Kontak Anda menjalankan versi Signal yang lebih baru dengan format kode QR yang tidak kompatibel. Silahkan perbarui untuk membandingkan.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Kontak Anda menjalankan versi lama CoolApp. Mintalah mereka untuk memperbarui sebelum memverifikasi nomor keamanan Anda.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Kontak Anda menjalankan versi CoolApp yang lebih baru dengan format kode QR yang tidak kompatibel. Silahkan perbarui untuk membandingkan.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Kode QR yang dipindai bukan kode verifikasi nomor keamanan dengan format yang benar. Coba pindai lagi.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Bagikan nomor keamanan melalui…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Nomor keamanan Signal kami:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Nomor keamanan CoolApp kami:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Sepertinya Anda tidak memiliki aplikasi untuk berbagi.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">Tidak ada nomor keamanan untuk dibandingkan yang ditemukan di papan klip</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal memerlukan izin Kamera untuk memindai kode QR, tetapi saat ini izin ditolak secara permanen. Silakan lanjut ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kamera\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">CoolApp memerlukan izin Kamera untuk memindai kode QR, tetapi saat ini izin ditolak secara permanen. Silakan lanjut ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kamera\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Tidak bisa memindai kode QR tanpa izin Kamera</string>
   <string name="VerifyIdentityActivity_you_must_first_exchange_messages_in_order_to_view">Anda harus bertukar pesan terlebih dulu untuk melihat nomor keamanan %1$s.</string>
   <!--ViewOnceMessageActivity-->
@@ -1488,13 +1487,13 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ApplicationMigrationService_system_database_import_is_complete">Impor sistem basis data berhasil</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Sentuh untuk membuka.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal tidak terkunci</string>
-  <string name="KeyCachingService_lock">Kunci Signal</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp tidak terkunci</string>
+  <string name="KeyCachingService_lock">Kunci CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Anda</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Tipe media tidak didukung</string>
   <string name="MediaPreviewActivity_draft">Draf</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal memerlukan izin Penyimpanan untuk menyimpan di penyimpanan eksternal, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Penyimpanan\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">CoolApp memerlukan izin Penyimpanan untuk menyimpan di penyimpanan eksternal, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Penyimpanan\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Tidak bisa menyimpan ke penyimpanan eksternal tanpa izin</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Hapus pesan?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Aksi ini akan menghapus pesan secara permanen.</string>
@@ -1511,17 +1510,17 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="MessageNotifier_failed_to_deliver_message">Gagal mengirimkan pesan.</string>
   <string name="MessageNotifier_error_delivering_message">Kesalahan dalam mengirimkan pesan.</string>
   <string name="MessageNotifier_message_delivery_paused">Pengiriman pesan ditunda.</string>
-  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Verifikasi untuk lanjut bertukar pesan di Signal.</string>
+  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Verifikasi untuk lanjut bertukar pesan di CoolApp.</string>
   <string name="MessageNotifier_mark_all_as_read">Tandai telah dibaca semuanya</string>
   <string name="MessageNotifier_mark_read">Tandai sudah dibaca</string>
   <string name="MessageNotifier_turn_off_these_notifications">Matikan notifikasi ini</string>
   <string name="MessageNotifier_view_once_photo">Foto satu-tayangan</string>
   <string name="MessageNotifier_view_once_video">Video satu-tayangan</string>
   <string name="MessageNotifier_reply">Balas</string>
-  <string name="MessageNotifier_signal_message">Pesan Signal</string>
+  <string name="MessageNotifier_signal_message">Pesan CoolApp</string>
   <string name="MessageNotifier_unsecured_sms">SMS tidak terenkripsi</string>
   <string name="MessageNotifier_you_may_have_new_messages">Anda mungkin memiliki pesan baru</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Buka Signal untuk memeriksa notifikasi terbaru.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Buka CoolApp untuk memeriksa notifikasi terbaru.</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Kontak</string>
   <string name="MessageNotifier_reacted_s_to_s">Bereaksi %1$s ke: \"%2$s\".</string>
@@ -1533,7 +1532,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Bereaksi %1$s terhadap media sekali-lihat Anda.</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">Bereaksi %1$s terhadap stiker Anda.</string>
   <string name="MessageNotifier_this_message_was_deleted">Pesan ini telah dihapus.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Matikan notifikasi kontak bergabung Signal? Anda dapat menyalakannya kembali di Signal &gt; Pengaturan &gt; Notifikasi.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Matikan notifikasi kontak bergabung CoolApp? Anda dapat menyalakannya kembali di CoolApp &gt; Pengaturan &gt; Notifikasi.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Pesan</string>
   <string name="NotificationChannel_calls">Panggilan</string>
@@ -1545,7 +1544,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="NotificationChannel_group_chats">Percakapan</string>
   <string name="NotificationChannel_missing_display_name">Tidak dikenal</string>
   <string name="NotificationChannel_voice_notes">Pesan suara</string>
-  <string name="NotificationChannel_contact_joined_signal">Kontak bergabung dengan Signal</string>
+  <string name="NotificationChannel_contact_joined_signal">Kontak bergabung dengan CoolApp</string>
   <string name="NotificationChannels__no_activity_available_to_open_notification_channel_settings">Tidak ada aktivitas yang tersedia untuk membuka pengaturan notifikasi saluran.</string>
   <!--Notification channel name for showing persistent background connection on devices without push notifications-->
   <string name="NotificationChannel_background_connection">Koneksi belakang layar</string>
@@ -1553,7 +1552,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="NotificationChannel_call_status">Status panggilan</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Tanggapan cepat tidak tersedia ketika Signal sedang dikunci!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Tanggapan cepat tidak tersedia ketika CoolApp sedang dikunci!</string>
   <string name="QuickResponseService_problem_sending_message">Terjadi masalah saat mengirim pesan!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Disimpan ke %s</string>
@@ -1564,7 +1563,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Pintasan tidak valid</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Pesan baru</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Permintaan pesan</string>
   <string name="SingleRecipientNotificationBuilder_you">Anda</string>
@@ -1577,11 +1576,11 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   </plurals>
   <!--UnauthorizedReminder-->
   <string name="UnauthorizedReminder_device_no_longer_registered">Perangkat tidak lagi terdaftar</string>
-  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Hal ini mungkin karena Anda telah mendaftarkan nomor telepon Anda untuk Signal pada perangkat yang berbeda. Ketuk untuk mendaftar ulang.</string>
+  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Hal ini mungkin karena Anda telah mendaftarkan nomor telepon Anda untuk CoolApp pada perangkat yang berbeda. Ketuk untuk mendaftar ulang.</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Untuk menjawab panggilan, berikan Signal akses ke mikrofon Anda.</string>
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Untuk menjawab panggilan dari %s, berikan Signal akses ke mikrofon Anda.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal memerlukan izin Mikrofon dan Kamera untuk menerima atau melakukan panggilan, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengatuaran aplikasi, pilih \"Izin\" lalu aktifkan \"Mikrofon\" serta \"Kamera\". </string>
+  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Untuk menjawab panggilan, berikan CoolApp akses ke mikrofon Anda.</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Untuk menjawab panggilan dari %s, berikan CoolApp akses ke mikrofon Anda.</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">CoolApp memerlukan izin Mikrofon dan Kamera untuk menerima atau melakukan panggilan, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengatuaran aplikasi, pilih \"Izin\" lalu aktifkan \"Mikrofon\" serta \"Kamera\". </string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Dijawab dari perangkat terhubung.</string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">Ditolak dari perangkat terhubung.</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">Sibuk di perangkat tersambung.</string>
@@ -1605,7 +1604,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="change_passphrase_activity__repeat_new_passphrase">Ulangi frasa sandi baru</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">Masukkan nama atau nomor</string>
-  <string name="contact_selection_activity__invite_to_signal">Undang ke Signal</string>
+  <string name="contact_selection_activity__invite_to_signal">Undang ke CoolApp</string>
   <string name="contact_selection_activity__new_group">Grup baru</string>
   <!--contact_filter_toolbar-->
   <string name="contact_filter_toolbar__clear_entered_text_description">Hapus teks yang dimasukkan</string>
@@ -1617,20 +1616,20 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Foto Kontak</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal memerlukan izin Kontak untuk menampilkan daftar kontak Anda, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kontak\". </string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">CoolApp memerlukan izin Kontak untuk menampilkan daftar kontak Anda, tetapi saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Kontak\". </string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Kesalahan saat mengambil kontak, periksa koneksi jaringan Anda</string>
   <string name="ContactSelectionListFragment_username_not_found">Nama pengguna tidak ditemukan</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" bukan pengguna Signal. Cek kembali dan coba lagi.</string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" bukan pengguna CoolApp. Cek kembali dan coba lagi.</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">Anda tidak perlu menambahkan diri sendiri ke grup</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">Batas maksimal grup sudah terpenuhi</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Grup Signal memiliki batas maksimum %1$d anggota.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Grup CoolApp memiliki batas maksimum %1$d anggota.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">Jumlah rekomendasi anggota telah tercapai</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Performa grup Signal akan lebih baik dengan jumlah %1$d anggota atau kurang. Menambah anggota lebih banyak akan menyebabkan pengiriman dan penerimaan pesan menjadi lambat.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Performa grup CoolApp akan lebih baik dengan jumlah %1$d anggota atau kurang. Menambah anggota lebih banyak akan menyebabkan pengiriman dan penerimaan pesan menjadi lambat.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="other">%1$d anggota</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal memerlukan akses ke daftar kontak Anda supaya dapat menampilkannya.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">CoolApp memerlukan akses ke daftar kontak Anda supaya dapat menampilkannya.</string>
   <string name="contact_selection_list_fragment__show_contacts">Tampilkan kontak</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1638,7 +1637,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   </plurals>
   <!--Displays number of viewers for a story-->
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Pesan Signal</string>
+  <string name="conversation_activity__type_message_push">Pesan CoolApp</string>
   <string name="conversation_activity__type_message_sms_insecure">SMS tanpa enkripsi</string>
   <string name="conversation_activity__type_message_mms_insecure">MMS tanpa enkripsi</string>
   <string name="conversation_activity__from_sim_name">Dari %1$s</string>
@@ -1650,7 +1649,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Beralih ke laci lampiran kamera cepat</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Rekam dan kirim lampiran audio</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Kunci rekaman dari lampiran audio</string>
-  <string name="conversation_activity__enable_signal_for_sms">Aktifkan Signal untuk SMS</string>
+  <string name="conversation_activity__enable_signal_for_sms">Aktifkan CoolApp untuk SMS</string>
   <string name="conversation_activity__message_could_not_be_sent">Tidak dapat mengirim pesan. Cek koneksi Anda dan coba lagi.</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Geser untuk membatalkan</string>
@@ -1680,7 +1679,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ConversationUpdateItem_view">Lihat</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">Waktu pesan menghilang akan diatur menjadi %1$s saat Anda mengirimkan pesan.</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Penguat Signal</string>
+  <string name="ConversationUpdateItem_signal_boost">Penguat CoolApp</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">Menjadi Penyokong</string>
   <!--audio_view-->
@@ -1702,7 +1701,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">Gulir ke bawah</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">Bubbles adalah fitur Android yang dapat Anda matikan untuk percakapan Signal.</string>
+  <string name="BubbleOptOutTooltip__description">Bubbles adalah fitur Android yang dapat Anda matikan untuk percakapan CoolApp.</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">Nanti saja</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -1768,9 +1767,9 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="IdentityUtil_unverified_banner_one">Nomor keamanan anda dengan %s telah berubah dan tidak lagi terverifikasi</string>
   <string name="IdentityUtil_unverified_banner_two">Nomor keamanan anda dengan %1$s dan %2$s tidak lagi terverifikasi</string>
   <string name="IdentityUtil_unverified_banner_many">Nomor keamanan anda dengan %1$s, %2$s, dan%3$s tidak lagi terverifikasi</string>
-  <string name="IdentityUtil_unverified_dialog_one">Nomor keamanan anda dengan %1$s telah berubah dan tidak lagi terverifikasi. Ini bisa disebabkan seseorang mencoba mencegat komunikasi anda, atau disebabkan%1$s telah memasang ulang Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_two">Nomor keamanan anda dengan %1$s dan %2$s tidak lagi terverifikasi. Ini bisa disebabkan seseorang mencoba mencegat komunikasi anda, atau disebabkan mereka memasang ulang Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_many">Nomor keamanan anda dengan %1$s, %2$s, dan %3$s tidak lagi terverifikasi. Ini bisa disebabkan seseorang mencoba mencegat komunikasi anda, atau disebabkan mereka memasang ulang Signal.</string>
+  <string name="IdentityUtil_unverified_dialog_one">Nomor keamanan anda dengan %1$s telah berubah dan tidak lagi terverifikasi. Ini bisa disebabkan seseorang mencoba mencegat komunikasi anda, atau disebabkan%1$s telah memasang ulang CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_two">Nomor keamanan anda dengan %1$s dan %2$s tidak lagi terverifikasi. Ini bisa disebabkan seseorang mencoba mencegat komunikasi anda, atau disebabkan mereka memasang ulang CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_many">Nomor keamanan anda dengan %1$s, %2$s, dan %3$s tidak lagi terverifikasi. Ini bisa disebabkan seseorang mencoba mencegat komunikasi anda, atau disebabkan mereka memasang ulang CoolApp.</string>
   <string name="IdentityUtil_untrusted_dialog_one">Nomor keamanan anda dengan %s baru saja berubah.</string>
   <string name="IdentityUtil_untrusted_dialog_two">Nomor keamanan anda dengan %1$s dan %2$s baru saja berubah.</string>
   <string name="IdentityUtil_untrusted_dialog_many">Nomor keamanan anda dengan %1$s, %2$s, dan %3$s baru saja berubah.</string>
@@ -1782,7 +1781,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--giphy_fragment-->
   <string name="giphy_fragment__nothing_found">Tidak ada yang ditemukan</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Apakah Anda ingin mengimpor pesan teks yang ada ke basis data Signal yang terenkripsi?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Apakah Anda ingin mengimpor pesan teks yang ada ke basis data CoolApp yang terenkripsi?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">Basis data sistem utama tidak akan diubah atau dimodifikasi</string>
   <string name="database_migration_activity__skip">Lewati</string>
   <string name="database_migration_activity__import">Impor</string>
@@ -1804,7 +1803,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Buka Kunci</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal memerlukan pengaturan MMS untuk mengirimkan media dan pesan grup melalui jaringan operator. Perangkat Anda tidak dapat menyediakan informasi ini, yang bisa terjadi pada perangkat terkunci dan konfigurasi terbatas lainnya.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">CoolApp memerlukan pengaturan MMS untuk mengirimkan media dan pesan grup melalui jaringan operator. Perangkat Anda tidak dapat menyediakan informasi ini, yang bisa terjadi pada perangkat terkunci dan konfigurasi terbatas lainnya.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Untuk mengirim pesan media dan pesan grup, ketuk \'OK\' dan selesaikan pengaturan yang diminta. Pengaturan MMS untuk operator Anda biasanya dapat ditemukan dengan mencari \'APN operator Anda\'. Anda hanya perlu melakukan ini sekali saja.</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">Masalah Pengiriman</string>
@@ -1844,7 +1843,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Masukkan nama atau nomor</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Untuk memverifikasi keamanan enkripsi ujung-ke-ujung Anda dengan %s, bandingkan nomor di atas dengan yang ada di perangkat mereka. Anda juga dapat memindai kodenya di ponsel mereka. <a href="https://signal.org/redirect/safety-numbers">Pelajari lebih lanjut.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Untuk memverifikasi keamanan enkripsi ujung-ke-ujung Anda dengan %s, bandingkan nomor di atas dengan yang ada di perangkat mereka. Anda juga dapat memindai kodenya di ponsel mereka. <a href="https://CoolApp.org/redirect/safety-numbers">Pelajari lebih lanjut.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Ketuk untuk memindai</string>
   <string name="verify_display_fragment__successful_match">Pencocokan berhasil</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">Gagal memverifikasi nomor keamanan</string>
@@ -1902,7 +1901,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="HelpFragment__how_do_you_feel">Saran dan kesan (opsional)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">Beritahu mengapa Anda menghubungi kami.</string>
   <string name="HelpFragment__support_info">Informasi Bantuan</string>
-  <string name="HelpFragment__signal_android_support_request">Permintaan Bantuan Signal Android</string>
+  <string name="HelpFragment__signal_android_support_request">Permintaan Bantuan CoolApp Android</string>
   <string name="HelpFragment__debug_log">Catatan Awakutu:</string>
   <string name="HelpFragment__could_not_upload_logs">Gagal mengunggah catatan</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Mohon jelaskan sedeskriptif mungkin untuk membantu kami memahami permasalahannya.</string>
@@ -1914,7 +1913,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
     <item>Umpan balik</item>
     <item>Lainnya</item>
     <item>Pembayaran (MobileCoin)</item>
-    <item>Penyokong &amp; Penguat Signal</item>
+    <item>Penyokong &amp; Penguat CoolApp</item>
   </string-array>
   <!--ReactWithAnyEmojiBottomSheetDialogFragment-->
   <string name="ReactWithAnyEmojiBottomSheetDialogFragment__this_message">Pesan Ini</string>
@@ -1963,8 +1962,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences__sms_mms">SMS dan MMS</string>
   <string name="preferences__pref_all_sms_title">Terima semua SMS</string>
   <string name="preferences__pref_all_mms_title">Terima semua MMS</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Gunakan Signal untuk semua pesan teks yang masuk</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Gunakan Signal untuk semua pesan multimedia yang masuk</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Gunakan CoolApp untuk semua pesan teks yang masuk</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Gunakan CoolApp untuk semua pesan multimedia yang masuk</string>
   <string name="preferences__pref_enter_sends_title">Enter untuk mengirim</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Menekan tombol Enter akan mengirimkan pesan teks</string>
   <string name="preferences__pref_use_address_book_photos">Gunakan foto dari kontak</string>
@@ -1979,7 +1978,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Kunci layar dan notifikasi dengan frasa sandi</string>
   <string name="preferences__screen_security">Keamanan Layar</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Blokir tangkapan layar di daftar terbaru dan di dalam aplikasi</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Otomatis mengunci Signal setelah tidak aktif selang waktu tertentu</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Otomatis mengunci CoolApp setelah tidak aktif selang waktu tertentu</string>
   <string name="preferences__inactivity_timeout_passphrase">Frasa sandi untuk waktu habis karena tiada aktivitas</string>
   <string name="preferences__inactivity_timeout_interval">Interval waktu habis karena tiada aktivitas</string>
   <string name="preferences__notifications">Notifikasi</string>
@@ -2010,10 +2009,10 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences__slow">Lambat</string>
   <string name="preferences__help">Bantuan</string>
   <string name="preferences__advanced">Lanjutan</string>
-  <string name="preferences__donate_to_signal">Berdonasi ke Signal</string>
+  <string name="preferences__donate_to_signal">Berdonasi ke CoolApp</string>
   <string name="preferences__subscription">Berlangganan</string>
-  <string name="preferences__become_a_signal_sustainer">Menjadi Penyokong Signal</string>
-  <string name="preferences__signal_boost">Penguat Signal</string>
+  <string name="preferences__become_a_signal_sustainer">Menjadi Penyokong CoolApp</string>
+  <string name="preferences__signal_boost">Penguat CoolApp</string>
   <string name="preferences__privacy">Privasi</string>
   <string name="preferences__mms_user_agent">User Agent MMS</string>
   <string name="preferences__advanced_mms_access_point_names">Pengaturan Manual MMS</string>
@@ -2040,13 +2039,13 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences__chat_color_and_wallpaper">Warna percakapan &amp; wallpaper</string>
   <string name="preferences__disable_pin">Nonaktifkan PIN</string>
   <string name="preferences__enable_pin">Aktifkan PIN</string>
-  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Jika Anda menonaktifkan PIN, Anda akan kehilangan data saat Anda mendaftar ulang Signal kecuali Anda melakukan pencadangan manual dan memulihkannya. Anda tidak dapat menyalakan Kunci Pendaftaran saat PIN dinonaktifkan.</string>
-  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN menjaga informasi yang disimpan dengan Signal terenkripsi sehingga hanya Anda yang dapat mengaksesnya. Profil Anda, pengaturan, dan kontak-kontak akan dipulihkan saat Anda memasang ulang aplikasi. Anda tidak memerlukan PIN untuk membuka aplikasinya.</string>
+  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Jika Anda menonaktifkan PIN, Anda akan kehilangan data saat Anda mendaftar ulang CoolApp kecuali Anda melakukan pencadangan manual dan memulihkannya. Anda tidak dapat menyalakan Kunci Pendaftaran saat PIN dinonaktifkan.</string>
+  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN menjaga informasi yang disimpan dengan CoolApp terenkripsi sehingga hanya Anda yang dapat mengaksesnya. Profil Anda, pengaturan, dan kontak-kontak akan dipulihkan saat Anda memasang ulang aplikasi. Anda tidak memerlukan PIN untuk membuka aplikasinya.</string>
   <string name="preferences__system_default">Pengaturan dasar sistem</string>
   <string name="preferences__language">Bahasa</string>
-  <string name="preferences__signal_messages_and_calls">Pesan dan panggilan Signal</string>
+  <string name="preferences__signal_messages_and_calls">Pesan dan panggilan CoolApp</string>
   <string name="preferences__advanced_pin_settings">Pengaturan PIN tingkat lanjut</string>
-  <string name="preferences__free_private_messages_and_calls">Pesan dan panggilan privat gratis ke pengguna Signal</string>
+  <string name="preferences__free_private_messages_and_calls">Pesan dan panggilan privat gratis ke pengguna CoolApp</string>
   <string name="preferences__submit_debug_log">Kirim log awakutu</string>
   <string name="preferences__delete_account">Hapus akun</string>
   <string name="preferences__support_wifi_calling">Mode kompatibilitas \'Panggilan WiFi\'</string>
@@ -2086,8 +2085,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences_storage__s_messages">%1$s pesan</string>
   <string name="preferences_storage__custom">Spesifik</string>
   <string name="preferences_advanced__use_system_emoji">Gunakan emoji sistem</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Nonaktifkan dukungan emoji Signal bawaan</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Sampaikan semua panggilan melalui peladen Signal untuk menghindari pengungkapan alamat IP Anda ke kontak Anda. Mengaktifkannya akan mengurangi kualitas panggilan.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Nonaktifkan dukungan emoji CoolApp bawaan</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Sampaikan semua panggilan melalui peladen CoolApp untuk menghindari pengungkapan alamat IP Anda ke kontak Anda. Mengaktifkannya akan mengurangi kualitas panggilan.</string>
   <string name="preferences_advanced__always_relay_calls">Selalu relay panggilan</string>
   <string name="preferences_app_protection__who_can">Siapa yang dapat…</string>
   <string name="preferences_app_protection__app_access">Akses aplikasi</string>
@@ -2107,21 +2106,21 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences_notifications__calls">Panggilan</string>
   <string name="preferences_notifications__ringtone">Nada dering</string>
   <string name="preferences_chats__show_invitation_prompts">Tampilkan undangan</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Tampilkan undangan untuk kontak tanpa Signal</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Tampilkan undangan untuk kontak tanpa CoolApp</string>
   <string name="preferences_chats__message_text_size">Ukuran huruf pesan</string>
-  <string name="preferences_events__contact_joined_signal">Kontak bergabung dengan Signal</string>
+  <string name="preferences_events__contact_joined_signal">Kontak bergabung dengan CoolApp</string>
   <string name="preferences_notifications__priority">Prioritas</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <string name="preferences_communication__category_censorship_circumvention">Hindari penyensoran</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention">Hindari penyensoran</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Jika diaktifkan, Signal akan menggagalkan penyensoran. Jangan nonaktifkan fitur ini kecuali Anda berada di lokasi di mana Signal disensor.</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Jika diaktifkan, CoolApp akan menggagalkan penyensoran. Jangan nonaktifkan fitur ini kecuali Anda berada di lokasi di mana CoolApp disensor.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">Pengelabuan Penyensoran telah diaktifkan berdasarkan nomor telepon Anda.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Anda telah menonaktifkan pengelakan sensor secara manual.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Pengelabuan penyensoran tidak diperlukan; Anda telah terhubung dengan layanan Signal.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Pengelabuan penyensoran tidak diperlukan; Anda telah terhubung dengan layanan CoolApp.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">Penghindar penyensoran hanya dapat diaktifkan ketika terkoneksi dengan internet</string>
   <string name="preferences_communication__category_sealed_sender">Pengirim Tertutup</string>
@@ -2136,7 +2135,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences_off">Mati</string>
   <string name="preferences_on">Nyala</string>
   <string name="preferences_proxy_address">Alamat proksi</string>
-  <string name="preferences_only_use_a_proxy_if">Gunakan proksi hanya ketika Anda tidak dapat tersambung ke Signal menggunakan data seluler atau Wi-Fi.</string>
+  <string name="preferences_only_use_a_proxy_if">Gunakan proksi hanya ketika Anda tidak dapat tersambung ke CoolApp menggunakan data seluler atau Wi-Fi.</string>
   <string name="preferences_share">Bagikan</string>
   <string name="preferences_save">Simpan</string>
   <string name="preferences_connecting_to_proxy">Menyambung ke proksi…</string>
@@ -2155,7 +2154,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PaymentsAllActivityFragment__sent">Terkirim</string>
   <string name="PaymentsAllActivityFragment__received">Diterima</string>
   <string name="PaymentsHomeFragment__introducing_payments">Memperkenalkan pembayaran (Beta)</string>
-  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Gunakan Signal untuk mengirim dan menerima MobileCoin, mata uang digital yang berfokus pada privasi. Aktifkan untuk memulainya.</string>
+  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Gunakan CoolApp untuk mengirim dan menerima MobileCoin, mata uang digital yang berfokus pada privasi. Aktifkan untuk memulainya.</string>
   <string name="PaymentsHomeFragment__activate_payments">Aktifkan Pembayaran</string>
   <string name="PaymentsHomeFragment__activating_payments">Mengaktifkan pembayaran…</string>
   <string name="PaymentsHomeFragment__restore_payments_account">Pulihkan akun pembayaran</string>
@@ -2182,17 +2181,17 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PaymentsHomeFragment__payments_is_not_available_in_your_region">Pembauaran tidak tersedia di wilayah Anda.</string>
   <string name="PaymentsHomeFragment__could_not_enable_payments">Tidak dapat mengaktifkan pembayaran. Coba lagi nanti.</string>
   <string name="PaymentsHomeFragment__deactivate_payments_question">Nonaktifkan Pembayaran?</string>
-  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Anda tidak akan dapat mengirim dan menerima MobileCoin di Signal jika Anda menonaktifkan pembayaran.</string>
+  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Anda tidak akan dapat mengirim dan menerima MobileCoin di CoolApp jika Anda menonaktifkan pembayaran.</string>
   <string name="PaymentsHomeFragment__deactivate">Nonaktifkan</string>
   <string name="PaymentsHomeFragment__continue">Lanjut</string>
   <string name="PaymentsHomeFragment__balance_is_not_currently_available">Saldo sementara tidak tersedia.</string>
   <string name="PaymentsHomeFragment__payments_deactivated">Pembayaran dinonaktifkan.</string>
   <string name="PaymentsHomeFragment__payment_failed">Pembayaran gagal</string>
   <string name="PaymentsHomeFragment__details">Detail</string>
-  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Anda dapat menggunakan Signal untuk mengirim dan menerima MobileCoin. Semua pembayaran tunduk pada Persyaratan Layanan untuk MobileCoins dan MobileCoin Wallet. Ini adalah fitur beta sehingga Anda mungkin mengalami beberapa masalah dan pembayaran atau saldo yang mungkin hilang tidak dapat dipulihkan.</string>
+  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Anda dapat menggunakan CoolApp untuk mengirim dan menerima MobileCoin. Semua pembayaran tunduk pada Persyaratan Layanan untuk MobileCoins dan MobileCoin Wallet. Ini adalah fitur beta sehingga Anda mungkin mengalami beberapa masalah dan pembayaran atau saldo yang mungkin hilang tidak dapat dipulihkan.</string>
   <string name="PaymentsHomeFragment__activate">Aktifkan</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">Lihat persyaratan MobileCoin</string>
-  <string name="PaymentsHomeFragment__payments_not_available">Pembayaran di Signal tidak lagi tersedia. Anda dapat memindahkan dana ke sebuah exchange namun Anda tidak lagi dapat mengirim dan menerima pembayaran atau menambahkan dana.</string>
+  <string name="PaymentsHomeFragment__payments_not_available">Pembayaran di CoolApp tidak lagi tersedia. Anda dapat memindahkan dana ke sebuah exchange namun Anda tidak lagi dapat mengirim dan menerima pembayaran atau menambahkan dana.</string>
   <!--PaymentsAddMoneyFragment-->
   <string name="PaymentsAddMoneyFragment__add_funds">Tambahkan dana</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Alamat Dompet Anda</string>
@@ -2229,10 +2228,10 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PaymentsTransferFragment__next">Berikutnya</string>
   <string name="PaymentsTransferFragment__invalid_address">Alamat salah</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">Periksa alamat wallet yang coba Anda kirimkan dan coba lagi.</string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Anda tidak dapat mentransfer ke alamat wallet Signal Anda sendiri. Masukkan alamat wallet dari akun Anda di sebuah exchange yang didukung.</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Untuk memindai kode QR, Signal membutuhkan akses ke kamera.</string>
-  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">Signal membutuhkan perijinan Kamera untuk menangkap kode QR. Pergi ke pengaturan, pilih \"Perijinan\", dan akrifkan \"Kamera\".</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Untuk memindai kode QR, Signal membutuhkan akses ke kamera.</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Anda tidak dapat mentransfer ke alamat wallet CoolApp Anda sendiri. Masukkan alamat wallet dari akun Anda di sebuah exchange yang didukung.</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Untuk memindai kode QR, CoolApp membutuhkan akses ke kamera.</string>
+  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">CoolApp membutuhkan perijinan Kamera untuk menangkap kode QR. Pergi ke pengaturan, pilih \"Perijinan\", dan akrifkan \"Kamera\".</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Untuk memindai kode QR, CoolApp membutuhkan akses ke kamera.</string>
   <string name="PaymentsTransferFragment__settings">Pengaturan</string>
   <!--PaymentsTransferQrScanFragment-->
   <string name="PaymentsTransferQrScanFragment__scan_address_qr_code">PIndai Kode QR Alamat</string>
@@ -2290,8 +2289,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Panggil</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Panggilan Signal</string>
-  <string name="conversation_callable_secure__menu_video">Panggilan video Signal</string>
+  <string name="conversation_callable_secure__menu_call">Panggilan CoolApp</string>
+  <string name="conversation_callable_secure__menu_video">Panggilan video CoolApp</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2377,10 +2376,10 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Bandingkan dengan papan klip</string>
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">Impor sistem SMS</string>
-  <string name="reminder_header_sms_import_text">Ketuk untuk menyalin pesan telepon Anda ke dalam basis data Signal yang terenkripsi.</string>
-  <string name="reminder_header_push_title">Aktifkan pesan dan panggilan Signal</string>
+  <string name="reminder_header_sms_import_text">Ketuk untuk menyalin pesan telepon Anda ke dalam basis data CoolApp yang terenkripsi.</string>
+  <string name="reminder_header_push_title">Aktifkan pesan dan panggilan CoolApp</string>
   <string name="reminder_header_push_text">Tingkatkan pengalaman komunikasi Anda.</string>
-  <string name="reminder_header_service_outage_text">Signal mengalami kendala teknis. Kami sedang bekerja keras untuk mengembalikan layanan secepat mungkin.</string>
+  <string name="reminder_header_service_outage_text">CoolApp mengalami kendala teknis. Kami sedang bekerja keras untuk mengembalikan layanan secepat mungkin.</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Simpan</string>
@@ -2396,22 +2395,22 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="Insights__percent">%</string>
   <string name="Insights__title">Insight</string>
   <string name="InsightsDashboardFragment__title">Insight</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Protokol Signal melindungi %1$d%% pesan keluar Anda secara otomatis selama %2$dhari terakhir. Percakapan antara pengguna Signal selalu dienkripsi ujung-ke-ujung.</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Protokol CoolApp melindungi %1$d%% pesan keluar Anda secara otomatis selama %2$dhari terakhir. Percakapan antara pengguna CoolApp selalu dienkripsi ujung-ke-ujung.</string>
   <string name="InsightsDashboardFragment__spread_the_word">Kabarkan</string>
   <string name="InsightsDashboardFragment__not_enough_data">Data tidak cukup</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">Insight Anda dihitung dari pesan terkirim dalam %1$d hari terakhir yang masih dapat dilihat dan belum terhapus.</string>
   <string name="InsightsDashboardFragment__start_a_conversation">Mulai percakapan</string>
-  <string name="InsightsDashboardFragment__invite_your_contacts">Mari berkomunikasi secara aman dan aktifkan fitur terbaru yang melampaui batasan dari pesan SMS yang tidak terenkripsi dengan mendungan kontak Anda untuk menggunakan Signal.</string>
+  <string name="InsightsDashboardFragment__invite_your_contacts">Mari berkomunikasi secara aman dan aktifkan fitur terbaru yang melampaui batasan dari pesan SMS yang tidak terenkripsi dengan mendungan kontak Anda untuk menggunakan CoolApp.</string>
   <string name="InsightsDashboardFragment__this_stat_was_generated_locally">Statistik ini hanya dapat diakses dari perangkat ini dan dibaca oleh Anda sendiri. Informasi ini tidak dikirimkan ke manapun.</string>
   <string name="InsightsDashboardFragment__encrypted_messages">Pesan terenkripsi</string>
   <string name="InsightsDashboardFragment__cancel">Batal</string>
   <string name="InsightsDashboardFragment__send">Kirim</string>
   <string name="InsightsModalFragment__title">Memperkenalkan Insight</string>
-  <string name="InsightsModalFragment__description">Cari tahu berapa pesan yang berhasil terkirim secara aman, kemudian undang kontak baru untuk mengamankan lebih banyak percakapan di Signal.</string>
+  <string name="InsightsModalFragment__description">Cari tahu berapa pesan yang berhasil terkirim secara aman, kemudian undang kontak baru untuk mengamankan lebih banyak percakapan di CoolApp.</string>
   <string name="InsightsModalFragment__view_insights">Lihat Insight</string>
-  <string name="FirstInviteReminder__title">Undang ke Signal</string>
+  <string name="FirstInviteReminder__title">Undang ke CoolApp</string>
   <string name="FirstInviteReminder__description">Anda dapat meningkatkan jumlah pesan terenkripsi sebanyak %1$d%%.</string>
-  <string name="SecondInviteReminder__title">Perkuat Signal</string>
+  <string name="SecondInviteReminder__title">Perkuat CoolApp</string>
   <string name="SecondInviteReminder__description">Undang %1$s</string>
   <string name="InsightsReminder__view_insights">Lihat Insight</string>
   <string name="InsightsReminder__invite">Undang</string>
@@ -2430,19 +2429,19 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="CreateKbsPinFragment__create_a_new_pin">Buat PIN baru</string>
   <string name="CreateKbsPinFragment__you_can_choose_a_new_pin_as_long_as_this_device_is_registered">Anda dapat mengganti PIN Anda selama perangkat ini terdaftar.</string>
   <string name="CreateKbsPinFragment__create_your_pin">Buat PIN Anda</string>
-  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN akan menjaga informasi yang telah diberikan kepada Signal secara enkripsi, jadi hanya kamu yang bisa mengaksesnya. Informasi profil, pengaturan, dan kontak akan dikembalikan ketika kamu menginstall kembali. Kamu tidak perlu PIN untuk membuka applikasi ini.</string>
+  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN akan menjaga informasi yang telah diberikan kepada CoolApp secara enkripsi, jadi hanya kamu yang bisa mengaksesnya. Informasi profil, pengaturan, dan kontak akan dikembalikan ketika kamu menginstall kembali. Kamu tidak perlu PIN untuk membuka applikasi ini.</string>
   <string name="CreateKbsPinFragment__choose_a_stronger_pin">Buat PIN yang lebih kuah</string>
   <!--ConfirmKbsPinFragment-->
   <string name="ConfirmKbsPinFragment__pins_dont_match">PIN tidak cocok. Coba lagi.</string>
   <string name="ConfirmKbsPinFragment__confirm_your_pin">Konfirmasi PIN Anda.</string>
   <string name="ConfirmKbsPinFragment__pin_creation_failed">Pembuatan PIN gagal</string>
-  <string name="ConfirmKbsPinFragment__your_pin_was_not_saved">PIN Anda tidak disimpan. Signal akan meminta Anda membuat PIN lagi nanti.</string>
+  <string name="ConfirmKbsPinFragment__your_pin_was_not_saved">PIN Anda tidak disimpan. CoolApp akan meminta Anda membuat PIN lagi nanti.</string>
   <string name="ConfirmKbsPinFragment__pin_created">PIN dibuat.</string>
   <string name="ConfirmKbsPinFragment__re_enter_your_pin">Masukkan ulang PIN Anda</string>
   <string name="ConfirmKbsPinFragment__creating_pin">Membuat PIN…</string>
   <!--KbsSplashFragment-->
   <string name="KbsSplashFragment__introducing_pins">Memperkenalkan PIN</string>
-  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN akan menjaga informasi yang telah diberikan kepada Signal secara enkripsi, jadi hanya kamu yang bisa mengaksesnya. Informasi profil, pengaturan, dan kontak akan dikembalikan ketika kamu menginstall kembali. Kamu tidak perlu PIN untuk membuka applikasi ini.</string>
+  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN akan menjaga informasi yang telah diberikan kepada CoolApp secara enkripsi, jadi hanya kamu yang bisa mengaksesnya. Informasi profil, pengaturan, dan kontak akan dikembalikan ketika kamu menginstall kembali. Kamu tidak perlu PIN untuk membuka applikasi ini.</string>
   <string name="KbsSplashFragment__learn_more">Pelajari Lebih Lanjut</string>
   <string name="KbsSplashFragment__registration_lock_equals_pin">Kunci Pendaftaran = PIN</string>
   <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">Kunci Pendaftaran Anda sekarang bernama PIN, dan ia melakukan hal lebih. Perbarui sekarang.</string>
@@ -2451,7 +2450,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="KbsSplashFragment__learn_more_about_pins">Pelajari lebih lanjut tentang PIN</string>
   <string name="KbsSplashFragment__disable_pin">Nonaktifkan PIN</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Masukkan PIN Signal Anda</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">Masukkan PIN CoolApp Anda</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">Untuk membantu Anda mengingat PIN, kami akan meminta Anda untuk memasukkannya secara berkala. Kami akan memintanya lebih jarang dari waktu ke waktu.</string>
   <string name="KbsReminderDialog__skip">Lewati</string>
   <string name="KbsReminderDialog__submit">Kirimkan</string>
@@ -2472,8 +2471,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="RegistrationLockFragment__incorrect_pin">PIN Salah</string>
   <string name="RegistrationLockFragment__forgot_your_pin">Lupa PIN Anda?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">Tidak banyak percobaan tersedia!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Pendaftaran Signal - Perlu Bantuan mengenai PIN untuk Android (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Pendaftaran Signal - Perlu Bantuan mengenai PIN untuk Android (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Pendaftaran CoolApp - Perlu Bantuan mengenai PIN untuk Android (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Pendaftaran CoolApp - Perlu Bantuan mengenai PIN untuk Android (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="other">Untuk privasi dan keamanan Anda, tidak ada cara untuk memulihkan PIN Anda. Jika Anda tidak dapat mengingat PIN Anda, Anda bisa melakukan verifikasi ulang dengan SMS setelah %1$d hari tidak aktif. Dalam kasus ini, akun Anda dan semua konten di dalamnya akan dihapus.</item>
   </plurals>
@@ -2493,18 +2492,18 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="CalleeMustAcceptMessageRequestDialogFragment__s_will_get_a_message_request_from_you">%1$s akan menerima permintaan pesan dari Anda. Anda dapat memanggilnya saat permintaan pesan Anda diterima.</string>
   <!--KBS Megaphone-->
   <string name="KbsMegaphone__create_a_pin">Buat PIN</string>
-  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">PIN menjaga informasi yang telah disimpan oleh Signal dengan enkripsi.</string>
+  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">PIN menjaga informasi yang telah disimpan oleh CoolApp dengan enkripsi.</string>
   <string name="KbsMegaphone__create_pin">Buat PIN</string>
   <!--transport_selection_list_item-->
   <string name="transport_selection_list_item__transport_icon">Pindahkan ikon</string>
   <string name="ConversationListFragment_loading">Memuat…</string>
   <string name="CallNotificationBuilder_connecting">Menyambungkan…</string>
   <string name="Permissions_permission_required">Izin diperlukan</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal memerlukan izin SMS untuk mengirim pesan SMS, namun saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">CoolApp memerlukan izin SMS untuk mengirim pesan SMS, namun saat ini izin ditolak secara permanen. Mohon lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"SMS\".</string>
   <string name="Permissions_continue">Lanjutkan</string>
   <string name="Permissions_not_now">Nanti saja</string>
   <string name="conversation_activity__enable_signal_messages">AKTIFKAN PESAN SIGNAL</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">Memindahkan basis data Signal</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">Memindahkan basis data CoolApp</string>
   <string name="PushDecryptJob_new_locked_message">Pesan terkunci baru</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">Buka kunci untuk melihat pesan tertunda</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">Frasa sandi cadangan</string>
@@ -2522,7 +2521,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="preferences_chats__transfer_account_to_a_new_android_device">Transfer akun ke perangkat Android baru</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Masukkan frasa sandi cadangan</string>
   <string name="RegistrationActivity_restore">Pulihkan</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Tidak bisa mengimpor cadangan dari versi Signal yang lebih baru</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Tidak bisa mengimpor cadangan dari versi CoolApp yang lebih baru</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Frasa sandi cadangan tidak benar</string>
   <string name="RegistrationActivity_checking">Memeriksa…</string>
   <string name="RegistrationActivity_d_messages_so_far">%d pesan sejauh ini…</string>
@@ -2544,7 +2543,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="BackupDialog_verify">Memeriksa</string>
   <string name="BackupDialog_you_successfully_entered_your_backup_passphrase">Anda sukses memasukkan frasa sandi cadangan</string>
   <string name="BackupDialog_passphrase_was_not_correct">Frasa sandi salah</string>
-  <string name="LocalBackupJob_creating_signal_backup">Membuat cadangan Signal…</string>
+  <string name="LocalBackupJob_creating_signal_backup">Membuat cadangan CoolApp…</string>
   <string name="LocalBackupJobApi29_backup_failed">Cadangan gagal</string>
   <string name="LocalBackupJobApi29_your_backup_directory_has_been_deleted_or_moved">Direktori berkas cadangan telah terhapus atau dipindahkan.</string>
   <string name="LocalBackupJobApi29_your_backup_file_is_too_large">Berkas cadangan kamu terlalu besar untuk disimpan pada lokasi ini.</string>
@@ -2553,8 +2552,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ProgressPreference_d_messages_so_far">%d pesan sejauh ini…</string>
   <string name="RegistrationActivity_wrong_number">Nomor salah</string>
   <string name="RegistrationActivity_call_me_instead_available_in">Panggil saya \n (Tersedia di %1$02d:%2$02d)</string>
-  <string name="RegistrationActivity_contact_signal_support">Kontak Pusat Bantuan Signal</string>
-  <string name="RegistrationActivity_code_support_subject">Pendaftaran Signal - Kode Verifikasi untuk Android</string>
+  <string name="RegistrationActivity_contact_signal_support">Kontak Pusat Bantuan CoolApp</string>
+  <string name="RegistrationActivity_code_support_subject">Pendaftaran CoolApp - Kode Verifikasi untuk Android</string>
   <string name="RegistrationActivity_incorrect_code">Kode Salah</string>
   <string name="BackupUtil_never">Tidak pernah</string>
   <string name="BackupUtil_unknown">Tidak dikenal</string>
@@ -2564,21 +2563,21 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PhoneNumberPrivacy_my_contacts">Kontak saya</string>
   <string name="PhoneNumberPrivacy_nobody">Tak seorangpun</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">Nomor telepon Anda akan terlihat untuk semua orang dan grup yang Anda kirimi pesan.</string>
-  <string name="PhoneNumberPrivacy_everyone_find_description">Semua orang yang memiliki nomor Anda pada kontaknya akan melihat Anda sebagai kontak di Signal. Orang lain akan dapat mencari Anda.</string>
+  <string name="PhoneNumberPrivacy_everyone_find_description">Semua orang yang memiliki nomor Anda pada kontaknya akan melihat Anda sebagai kontak di CoolApp. Orang lain akan dapat mencari Anda.</string>
   <string name="preferences_app_protection__screen_lock">Layar terkunci</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Kunci akses Signal Anda dengan kunci layar Android atau sidik jari</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Kunci akses CoolApp Anda dengan kunci layar Android atau sidik jari</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Batas waktu kunci layar tanpa aktivitas</string>
   <string name="preferences_app_protection__signal_pin">PIN SIgnal</string>
   <string name="preferences_app_protection__create_a_pin">Buat PIN</string>
   <string name="preferences_app_protection__change_your_pin">Ganti PIN Anda</string>
   <string name="preferences_app_protection__pin_reminders">Pengingat PIN</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN menjaga informasi yang disimpan di Signal terenkripsi sehingga hanya Anda yang dapat mengaksesnya. Profil, pengaturan, dan kontak akan dipulihkan saat Anda memasang ulang Signal.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Tambahkan keamanan ekstra dengan memerlukan PIN Signal Anda untuk mendaftarkan nomor Anda ke Signal lagi.</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN menjaga informasi yang disimpan di CoolApp terenkripsi sehingga hanya Anda yang dapat mengaksesnya. Profil, pengaturan, dan kontak akan dipulihkan saat Anda memasang ulang CoolApp.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Tambahkan keamanan ekstra dengan memerlukan PIN CoolApp Anda untuk mendaftarkan nomor Anda ke CoolApp lagi.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">Pengingat membantu Anda mengingat PIN Anda karena ia tidak dapat dipulihkan. Anda akan ditanyakan lebih jarang dari waktu ke waktu.</string>
   <string name="preferences_app_protection__turn_off">Matikan</string>
   <string name="preferences_app_protection__confirm_pin">Konfimasi PIN</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Konfirmasi PIN Signal Anda</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Pastikan Anda mengingat atau menyimpan secara aman PIN Anda karena PIN tidak dapat dipulihkan. Jika Anda lupa PIN, Anda akan kehilangan data saat mendaftarkan ulang akun Signal Anda.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">Konfirmasi PIN CoolApp Anda</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Pastikan Anda mengingat atau menyimpan secara aman PIN Anda karena PIN tidak dapat dipulihkan. Jika Anda lupa PIN, Anda akan kehilangan data saat mendaftarkan ulang akun CoolApp Anda.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">PIN Salah. Coba lagi.</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">Gagal mengaktifkan kunci pendaftaran.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">Gagal menonaktifkan kunci pendaftaran.</string>
@@ -2591,19 +2590,19 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Kamu telah membuat banyak kesalahan, coba lagi nanti.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Gagal menyambung ke layanan</string>
   <string name="preferences_chats__backups">Cadangan</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal terkunci</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp terkunci</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">KETUK UNTUK MEMBUKA</string>
   <string name="Recipient_unknown">Tidak dikenal</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">Transfer atau pulihkan akun</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Jika sebelumnya Anda mendaftarkan akun di Signal, Anda dapat mentransfer atau memulihkan akun dan pesan-pesan Anda</string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Jika sebelumnya Anda mendaftarkan akun di CoolApp, Anda dapat mentransfer atau memulihkan akun dan pesan-pesan Anda</string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Transfer dari perangkat Android</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">Transfter akun lama dan pesan-pesan Anda dari perangkat Android lama Anda. Anda perlu akses ke perangkat lama Anda.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">Anda memerlukan akses ke perangkat lama Anda.</string>
   <string name="TransferOrRestoreFragment__restore_from_backup">Pulihkan dari cadangan</string>
   <string name="TransferOrRestoreFragment__restore_your_messages_from_a_local_backup">Pulihkan pesan-pesan Anda dari cadangan internal. Jika Anda tidak memulihkannya sekarang, Anda tidak akan dapat melakukannya nanti.</string>
   <!--NewDeviceTransferInstructionsFragment-->
-  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Buka Signal pada ponsel Android lama Anda.</string>
+  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Buka CoolApp pada ponsel Android lama Anda.</string>
   <string name="NewDeviceTransferInstructions__continue">Lanjut</string>
   <string name="NewDeviceTransferInstructions__first_bullet">1.</string>
   <string name="NewDeviceTransferInstructions__tap_on_your_profile_photo_in_the_top_left_to_open_settings">Ketuk pada foto profil Anda di bagian atas kiri untuk membuka Pengaturan</string>
@@ -2615,18 +2614,18 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="NewDeviceTransferSetup__preparing_to_connect_to_old_android_device">Menyiapkan untuk menghubungkan ke perangkat Android lama…</string>
   <string name="NewDeviceTransferSetup__take_a_moment_should_be_ready_soon">Sedang dalam proses, akan siap segera</string>
   <string name="NewDeviceTransferSetup__waiting_for_old_device_to_connect">Menunggu perangkat Android lama tersambung…</string>
-  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">Signal memerlukan akses ke perijinan lokasi untuk menemukan dan menyambungkan dengan perangkat Android lama Anda.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Signal memerluhkan layanan lokasi diaktifkan untuk menemukan dan menyambungkan dengan perangkat Android lama Anda.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">Signal memerlukan Wi-Fi untuk menemukan dan menyambungkan dengan perangkat Android lama Anda. Wi-Fi diperukan untuk diaktifkan namun tidak harus tersambung ke jaringan Wi-Fi.</string>
-  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Maaf, sepertinya perangkat ini tidak mendukung Wi-Fi Direct. Signal menggunakan Wi-Fi Direct untuk mencari dan menyambungkan dengan perangkat Android lama Anda. Anda tetap dapat memulihkan cadangan untuk mengembalikan akun dari perangkat Android lama Anda.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">CoolApp memerlukan akses ke perijinan lokasi untuk menemukan dan menyambungkan dengan perangkat Android lama Anda.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">CoolApp memerluhkan layanan lokasi diaktifkan untuk menemukan dan menyambungkan dengan perangkat Android lama Anda.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">CoolApp memerlukan Wi-Fi untuk menemukan dan menyambungkan dengan perangkat Android lama Anda. Wi-Fi diperukan untuk diaktifkan namun tidak harus tersambung ke jaringan Wi-Fi.</string>
+  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Maaf, sepertinya perangkat ini tidak mendukung Wi-Fi Direct. CoolApp menggunakan Wi-Fi Direct untuk mencari dan menyambungkan dengan perangkat Android lama Anda. Anda tetap dapat memulihkan cadangan untuk mengembalikan akun dari perangkat Android lama Anda.</string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Pulihkan cadangan</string>
   <string name="NewDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Kesalahan tidak terduga terjadi saat mencoba menyambungkan ke perangkat Android lama Anda.</string>
   <!--OldDeviceTransferSetupFragment-->
   <string name="OldDeviceTransferSetup__searching_for_new_android_device">Mencari perangkat Android baru…</string>
-  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">Signal memerlukan akses ke perijinan lokasi untuk menemukan dan menyambungkan dengan perangkat Android baru Anda.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">Signal memerluhkan layanan lokasi diaktifkan untuk menemukan dan menyambungkan dengan perangkat Android baru Anda.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">Signal memerlukan Wi-Fi untuk menemukan dan menyambungkan dengan perangkat Android baru Anda. Wi-Fi diperukan untuk diaktifkan namun tidak harus tersambung ke jaringan Wi-Fi.</string>
-  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Maaf, sepertinya perangkat ini tidak mendukung Wi-Fi Direct. Signal menggunakan Wi-Fi Direct untuk mencari dan menyambungkan dengan perangkat Android baru Anda. Anda tetap dapat memulihkan cadangan untuk mengembalikan akun dari perangkat Android baru Anda.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">CoolApp memerlukan akses ke perijinan lokasi untuk menemukan dan menyambungkan dengan perangkat Android baru Anda.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">CoolApp memerluhkan layanan lokasi diaktifkan untuk menemukan dan menyambungkan dengan perangkat Android baru Anda.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">CoolApp memerlukan Wi-Fi untuk menemukan dan menyambungkan dengan perangkat Android baru Anda. Wi-Fi diperukan untuk diaktifkan namun tidak harus tersambung ke jaringan Wi-Fi.</string>
+  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Maaf, sepertinya perangkat ini tidak mendukung Wi-Fi Direct. CoolApp menggunakan Wi-Fi Direct untuk mencari dan menyambungkan dengan perangkat Android baru Anda. Anda tetap dapat memulihkan cadangan untuk mengembalikan akun dari perangkat Android baru Anda.</string>
   <string name="OldDeviceTransferSetup__create_a_backup">Buat cadangan</string>
   <string name="OldDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Kesalahan tidak terduga terjadi saat mencoba menyambungkan ke perangkat Android baru Anda.</string>
   <!--DeviceTransferSetupFragment-->
@@ -2661,10 +2660,10 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device_to_start_the_transfer">Ketuk Lanjutkan pada perangkat lain Anda untuk memulai transfer.</string>
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device">Ketuk Lanjutkan pada perangkat lain Anda…</string>
   <!--NewDeviceTransferFragment-->
-  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Tidak dapat mentransfer dari versi baru Signal</string>
+  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Tidak dapat mentransfer dari versi baru CoolApp</string>
   <!--DeviceTransferFragment-->
   <string name="DeviceTransfer__transferring_data">Mentransfer data</string>
-  <string name="DeviceTransfer__keep_both_devices_near_each_other">Letakkan kedua perangkat berdekatan satu sama lain. Jangan matikan perangkat dan biarkan Signal terbuka. Proses transfer dienkripsi ujung-ke-ujung.</string>
+  <string name="DeviceTransfer__keep_both_devices_near_each_other">Letakkan kedua perangkat berdekatan satu sama lain. Jangan matikan perangkat dan biarkan CoolApp terbuka. Proses transfer dienkripsi ujung-ke-ujung.</string>
   <string name="DeviceTransfer__d_messages_so_far">%1$d pesan sejauh ini…</string>
   <!--Filled in with total percentage of messages transferred-->
   <string name="DeviceTransfer__s_of_messages_so_far">%1$s%% pesan sejauh ini…</string>
@@ -2677,9 +2676,9 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="DeviceTransfer__unable_to_transfer">Tidak dapat mentransfer</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Transfer Akun</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Anda dapat mentransfer akun Signal Anda saat memasang Signal pada perangkat Android baru. Sebelum melanjutkan:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Anda dapat mentransfer akun CoolApp Anda saat memasang CoolApp pada perangkat Android baru. Sebelum melanjutkan:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
-  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Unduh Signal di perangkat Android baru Anda</string>
+  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Unduh CoolApp di perangkat Android baru Anda</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
   <string name="OldDeviceTransferInstructions__tap_on_transfer_or_restore_account">Ketuk pada \"Transfer atau pulihkan akun\"</string>
   <string name="OldDeviceTransferInstructions__third_bullet">3.</string>
@@ -2688,7 +2687,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">Transfer selesai</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">Pergi ke perangkat baru Anda</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Data Signal Anda telah ditransfer ke perangkat baru. Untuk menyelesaikan proses transfer, Anda harus melanjutkan pendaftaran pada perangkat baru Anda.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Data CoolApp Anda telah ditransfer ke perangkat baru. Untuk menyelesaikan proses transfer, Anda harus melanjutkan pendaftaran pada perangkat baru Anda.</string>
   <string name="OldDeviceTransferComplete__close">Tutup</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">Transfer berhasil</string>
@@ -2705,7 +2704,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="DeviceToDeviceTransferService_status_service_connected">Mentransfer akun…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">Selesaikan pendaftaran pada perangkat baru Anda</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Akun Signal Anda telah ditransfer ke perangkat baru, namun Anda harus menyelesaikan pendaftaran di perangkat baru untuk melanjutkannya. Signal akan dinonaktifkan pada perangkat ini.</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Akun CoolApp Anda telah ditransfer ke perangkat baru, namun Anda harus menyelesaikan pendaftaran di perangkat baru untuk melanjutkannya. CoolApp akan dinonaktifkan pada perangkat ini.</string>
   <string name="OldDeviceTransferLockedDialog__done">Selesai</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">Batalkan dan aktifkan perangkat ini</string>
   <!--AdvancedPreferenceFragment-->
@@ -2743,12 +2742,12 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="GroupsLearnMore_what_are_legacy_groups">Apakah Grup Lama itu?</string>
   <string name="GroupsLearnMore_paragraph_1">Grup Lama adalah grup yang tidak cocok dengan fitur-fitur Grup Baru seperti admin dan pembaruan grup yang lebih deskriptif.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Bisakah Saya tingkatkan sebuah Grup Lawas?</string>
-  <string name="GroupsLearnMore_paragraph_2">Grup lama belum dapat diperbarui ke Grup Baru, namun Anda dapat membuat Grup Baru dengan anggota yang sama jika mereka menggunakan versi Signal terakhir.</string>
-  <string name="GroupsLearnMore_paragraph_3">Signal akan menawarkan cara untuk meningkatkan grup versi lawas di masa mendatang.</string>
+  <string name="GroupsLearnMore_paragraph_2">Grup lama belum dapat diperbarui ke Grup Baru, namun Anda dapat membuat Grup Baru dengan anggota yang sama jika mereka menggunakan versi CoolApp terakhir.</string>
+  <string name="GroupsLearnMore_paragraph_3">CoolApp akan menawarkan cara untuk meningkatkan grup versi lawas di masa mendatang.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">Siapapun dengan tautan ini dapat melihat nama dan foto grup ini dan dapat meminta untuk bergabung. Bagikan dengan orang yang Anda percaya.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Siapapun dengan tautan ini dapat melihat nama dan foto grup ini dan dapat bergabung dalam grup. Bagikan dengan orang yang Anda percaya.</string>
-  <string name="GroupLinkBottomSheet_share_via_signal">Bagikan melalui Signal</string>
+  <string name="GroupLinkBottomSheet_share_via_signal">Bagikan melalui CoolApp</string>
   <string name="GroupLinkBottomSheet_copy">Salin</string>
   <string name="GroupLinkBottomSheet_qr_code">Kode QR</string>
   <string name="GroupLinkBottomSheet_share">Bagikan</string>
@@ -2812,7 +2811,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="DeleteAccountFragment__no_number">Tidak ada nomor ditentukan</string>
   <string name="DeleteAccountFragment__the_phone_number">Nomor telepon yang kamu masukan tidak cocok dengan akun manapun.</string>
   <string name="DeleteAccountFragment__are_you_sure">Apakah kamu yakin ingin menghapus akun Anda?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ini akan menghapus akun Signal Anda dan mereset aplikasi. Aplikasi akan tertutup setelah proses selesai.</string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ini akan menghapus akun CoolApp Anda dan mereset aplikasi. Aplikasi akan tertutup setelah proses selesai.</string>
   <string name="DeleteAccountFragment__failed_to_delete_account">Gagal menghapus akun, apa kamu memiliki koneksi internet?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">Gagal menghapus data lokal, kamu bisa menghapusnya secara manual melalui pengaturan applikasi.</string>
   <string name="DeleteAccountFragment__launch_app_settings">Buka pengaturan applikasi</string>
@@ -2840,7 +2839,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ShareActivity__share">Bagikan</string>
   <string name="ShareActivity__send">Kirim</string>
   <string name="ShareActivity__comma_s">, %1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">Berbagi ke beberapa percakapan hanya didukung untuk pesan Signal.</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">Berbagi ke beberapa percakapan hanya didukung untuk pesan CoolApp.</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">Gagal mengirim ke beberapa pengguna</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">Anda hanya dapat berbagi dengan maksimal %1$d percakapan</string>
@@ -2890,7 +2889,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="payment_info_card_about_mobilecoin">Tentang MobileCoin</string>
   <string name="payment_info_card_mobilecoin_is_a_new_privacy_focused_digital_currency">MobileCoin adalah mata uang digital yang berfokus pada privasi.</string>
   <string name="payment_info_card_adding_funds">Menambahkan dana</string>
-  <string name="payment_info_card_you_can_add_funds_for_use_in">Anda dapat menambahkan dana untuk digunakan di Signal dengan mengirimkan MobileCoin ke alamat wallet Anda.</string>
+  <string name="payment_info_card_you_can_add_funds_for_use_in">Anda dapat menambahkan dana untuk digunakan di CoolApp dengan mengirimkan MobileCoin ke alamat wallet Anda.</string>
   <string name="payment_info_card_cashing_out">Menarik saldo</string>
   <string name="payment_info_card_you_can_cash_out_mobilecoin">Anda dapat menarik saldo MobileCoin kapan saja pada layanan exchange yang mendukung MobileCoin. Hanya dengan melakukan transfer ke akun Anda di exchange tersebut.</string>
   <string name="payment_info_card_hide_this_card">Sembunyikan kartu ini?</string>
@@ -2904,18 +2903,18 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--DeactivateWalletFragment-->
   <string name="DeactivateWalletFragment__deactivate_wallet">Nonaktifkan Wallet</string>
   <string name="DeactivateWalletFragment__your_balance">Saldo Anda</string>
-  <string name="DeactivateWalletFragment__its_recommended_that_you">Anda direkomendasikan untuk mentransfer dana Anda ke alamat wallet lain sebelum menonaktifkan pembayaran. Jika Anda memilih untuk tidak mentransfernya sekarang, dana Anda akan tetap di wallet yang tersambung ke Signal jika Anda mengaktifkan kembali pembayaran.</string>
+  <string name="DeactivateWalletFragment__its_recommended_that_you">Anda direkomendasikan untuk mentransfer dana Anda ke alamat wallet lain sebelum menonaktifkan pembayaran. Jika Anda memilih untuk tidak mentransfernya sekarang, dana Anda akan tetap di wallet yang tersambung ke CoolApp jika Anda mengaktifkan kembali pembayaran.</string>
   <string name="DeactivateWalletFragment__transfer_remaining_balance">Transfer saldo yang tersisa</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring">Nonaktifkan tanpa transfer</string>
   <string name="DeactivateWalletFragment__deactivate">Nonaktifkan</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring_question">Nonaktifkan tanpa transfer?</string>
-  <string name="DeactivateWalletFragment__your_balance_will_remain">Saldo Anda akan tetap di dalam wallet yang terhubung ke Signal jika Anda memilih untuk mengaktifkan kembali pembayaran.</string>
+  <string name="DeactivateWalletFragment__your_balance_will_remain">Saldo Anda akan tetap di dalam wallet yang terhubung ke CoolApp jika Anda memilih untuk mengaktifkan kembali pembayaran.</string>
   <string name="DeactivateWalletFragment__error_deactivating_wallet">Gagal menonaktifkan wallet.</string>
   <!--PaymentsRecoveryStartFragment-->
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">Frasa pemulihan</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">Lihat frasa pemulihan</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">Masukkan frasa pemulihan</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Saldo Anda akan dipulihkan secara otomatis saat Anda memasang ulang Signal jika Anda mengkonfirmasi PIN Signal. Anda juga dapat memulihkan saldo menggunakan frasa pemulihan, yang berupa %1$d-frasa kata unik untuk Anda. Tuliskan dan simpan di tempat yang aman.</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Saldo Anda akan dipulihkan secara otomatis saat Anda memasang ulang CoolApp jika Anda mengkonfirmasi PIN CoolApp. Anda juga dapat memulihkan saldo menggunakan frasa pemulihan, yang berupa %1$d-frasa kata unik untuk Anda. Tuliskan dan simpan di tempat yang aman.</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">Frasa pemulihan Anda berupa%1$d-frasa kata unik untuk Anda. Gunakan frasa ini untuk memulihkan saldo Anda.</string>
   <string name="PaymentsRecoveryStartFragment__start">Mulai</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">Masukkan secara manual</string>
@@ -2984,7 +2983,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">Akun</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">Anda akan ditanya lebih jarang seiring waktu</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Memerlukan PIN Signal untuk mendaftarkan nomor telepon Anda lagi di Signal</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Memerlukan PIN CoolApp untuk mendaftarkan nomor telepon Anda lagi di CoolApp</string>
   <string name="AccountSettingsFragment__change_phone_number">Ganti nomor telepon</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Gunakan ini untuk mengubah nomor telepon Anda saat ini ke nomor telepon yang baru. Anda tidak dapat membatalkannya.\n\nSebelum melanjutkan, pastikan nomor baru Anda dapat menerima SMS atau panggilan telepon.</string>
@@ -3013,7 +3012,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ChangeNumberConfirmFragment__you_are_about_to_change_your_phone_number_from_s_to_s">Anda akan mengubah nomor telepon dari %1$s ke %2$s.\n\nSebelum melanjutkan, mohon verifikasi bahwa nomor di bawah sudah benar.</string>
   <string name="ChangeNumberConfirmFragment__edit_number">Sunting nomor</string>
   <!--ChangeNumberRegistrationLockFragment-->
-  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Penggantian Nomor Signal - Butuh bantuan mengenai PIN untuk Android (v2 PIN)</string>
+  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Penggantian Nomor CoolApp - Butuh bantuan mengenai PIN untuk Android (v2 PIN)</string>
   <!--ChangeNumberPinDiffersFragment-->
   <string name="ChangeNumberPinDiffersFragment__pins_do_not_match">PIN tidak cocok</string>
   <string name="ChangeNumberPinDiffersFragment__the_pin_associated_with_your_new_number_is_different_from_the_pin_associated_with_your_old_one">PIN yang terkait dengan nomor baru Anda berbeda dengan PIN yang terkait dengan nomor lama Anda. Apa Anda ingin menggunakan PIN lama atau memperbaruinya?</string>
@@ -3045,7 +3044,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="NotificationsSettingsFragment__messages">Pesan</string>
   <string name="NotificationsSettingsFragment__calls">Panggilan</string>
   <string name="NotificationsSettingsFragment__notify_when">Beritahukan ketika…</string>
-  <string name="NotificationsSettingsFragment__contact_joins_signal">Kontak bergabung di Signal</string>
+  <string name="NotificationsSettingsFragment__contact_joins_signal">Kontak bergabung di CoolApp</string>
   <!--Notification preference header-->
   <string name="NotificationsSettingsFragment__notification_profiles">Profil-profil Pemberitahuan</string>
   <!--Notification preference option header-->
@@ -3064,7 +3063,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PrivacySettingsFragment__disappearing_messages">Penghilangan pesan</string>
   <string name="PrivacySettingsFragment__app_security">Keamanan aplikasi</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">Blokir tangkapan layar di daftar terbaru dan di dalam aplikasi</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">Pesan dan panggilan Signal, selalu relay panggilan, dan menggunakan pengirim tertutup</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">Pesan dan panggilan CoolApp, selalu relay panggilan, dan menggunakan pengirim tertutup</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">Penghitung waktu bawaan untuk percakapan baru</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">Atur waktu pesan menghilang untuk semua percakapan yang Anda mulai.</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3095,7 +3094,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="HelpSettingsFragment__version">Versi</string>
   <string name="HelpSettingsFragment__debug_log">Catatan Awakutu</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Istilah &amp; Kebijakan Privasi</string>
-  <string name="HelpFragment__copyright_signal_messenger">Hak Cipta Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Hak Cipta CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Berlisensi dibawah GPLv3</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Kualitas media</string>
@@ -3149,7 +3148,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="AddAProfilePhotoMegaphone__add_photo">Tambahkan foto</string>
   <!--BecomeASustainerMegaphone-->
   <string name="BecomeASustainerMegaphone__become_a_sustainer">Menjadi Penyokong</string>
-  <string name="BecomeASustainerMegaphone__signal_is_powered">Signal didukung oleh orang seperti Anda. Berkontribusi dan dapatkan sebuah lencana profil.</string>
+  <string name="BecomeASustainerMegaphone__signal_is_powered">CoolApp didukung oleh orang seperti Anda. Berkontribusi dan dapatkan sebuah lencana profil.</string>
   <string name="BecomeASustainerMegaphone__no_thanks">Tidak, terima kasih</string>
   <string name="BecomeASustainerMegaphone__contribute">Kontribusi</string>
   <!--KeyboardPagerFragment-->
@@ -3200,7 +3199,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ConversationSettingsFragment__conversation_muted_forever">Percakapan disenyapkan selamanya</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">Nomor telepon disalin ke papan klip.</string>
   <string name="ConversationSettingsFragment__phone_number">Nomor telepon</string>
-  <string name="ConversationSettingsFragment__get_badges">Dapatkan lencana pada profil Anda dengan mendukung Signal. Ketuk pada lencana untuk meplejari lebih lanjut.</string>
+  <string name="ConversationSettingsFragment__get_badges">Dapatkan lencana pada profil Anda dengan mendukung CoolApp. Ketuk pada lencana untuk meplejari lebih lanjut.</string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">Tambahkan anggota</string>
   <string name="PermissionsSettingsFragment__edit_group_info">Sunting informasi grup</string>
@@ -3316,9 +3315,9 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="SelectFeaturedBadgeFragment__failed_to_update_profile">Gagal memperbarui profil</string>
   <string name="ViewBadgeBottomSheetDialogFragment__become_a_sustainer">Menjadi penyokong</string>
   <string name="ImageView__badge">Lencana</string>
-  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">Signal didukung oleh orang-orang seperti Anda.</string>
+  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">CoolApp didukung oleh orang-orang seperti Anda.</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you">Dukung teknologi yang dibangun untuk Anda—bukan untuk data Anda—dengan bergabung ke komunitas yang menyokongnya.</string>
-  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Dukung teknologi yang dibangun untuk Anda, bukan data Anda, dengan bergabung dengan komunitas yang menyokong Signal.</string>
+  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Dukung teknologi yang dibangun untuk Anda, bukan data Anda, dengan bergabung dengan komunitas yang menyokong CoolApp.</string>
   <string name="SubscribeFragment__currency">Kurensi</string>
   <string name="SubscribeFragment__more_payment_options">Pilihan Pembayaran Lainnya</string>
   <string name="SubscribeFragment__cancel_subscription">Batalkan Langganan</string>
@@ -3335,33 +3334,33 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="Subscription__s_per_month">%s/bulan</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/bulan. Perbarui %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/bulan · Berakhir %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">Signal bersifat nirlaba tanpa pengiklan atau investor, disokong hanya oleh mereka yang menggunakan dan menghargainya. Beri kontribusi bulanan rutin dan dapatkan lencana profil untuk membagikan dukungan Anda.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">CoolApp bersifat nirlaba tanpa pengiklan atau investor, disokong hanya oleh mereka yang menggunakan dan menghargainya. Beri kontribusi bulanan rutin dan dapatkan lencana profil untuk membagikan dukungan Anda.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">Mengapa Berkontribusi?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">Signal berkomitmen untuk mengembangkan teknologi privasi bersumber terbuka yang melindungi kebebasan berekspresi dan memungkinkan komunikasi global yang aman.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">CoolApp berkomitmen untuk mengembangkan teknologi privasi bersumber terbuka yang melindungi kebebasan berekspresi dan memungkinkan komunikasi global yang aman.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">Kontribusi Anda mendukung gerakan ini dan membiayai pengembangan dan operasional dari aplikasi yang digunakan jutaan orang untuk komunikasi yang privat. Tanpa iklan. Tanpa pelacak. Beneran.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">Terima kasih untuk Dukungan Anda!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">Terima kasih untuk Penguatnya!</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Anda mendapatkan %s lencana! Bantu Signal membangun kesadaran dengan menampilkan lencana ini di profil Anda.</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Anda mendapatkan sebuah lencana Penguat! Bantu Signal membangun kesadaran dengan menampilkan lencana ini pada profil Anda.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Anda mendapatkan %s lencana! Bantu CoolApp membangun kesadaran dengan menampilkan lencana ini di profil Anda.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Anda mendapatkan sebuah lencana Penguat! Bantu CoolApp membangun kesadaran dengan menampilkan lencana ini pada profil Anda.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__you_can_also">Anda juga dapat</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__become_a_montly_sustainer">menjadi Penyokong bulanan.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__display_on_profile">Tampilkan di Profil</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">Buat lencana istimewa</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">Selesai</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">Jika punya lebih dari satu lencana, Anda dapat memilih salah satunya untuk ditampilkan pada profil Anda.</string>
-  <string name="BecomeASustainerFragment__get_badges">Dapatkan lencana pada profil Anda dengan mendukung Signal.</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">Signal adalah lembaga nirlaba tanpa pengiklan dan investor, didukung hanya oleh orang seperti Anda.</string>
+  <string name="BecomeASustainerFragment__get_badges">Dapatkan lencana pada profil Anda dengan mendukung CoolApp.</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">CoolApp adalah lembaga nirlaba tanpa pengiklan dan investor, didukung hanya oleh orang seperti Anda.</string>
   <string name="ManageDonationsFragment__my_support">Dukungan saya</string>
   <string name="ManageDonationsFragment__manage_subscription">Kelola langganan</string>
   <!--Label for Tax Receipts button-->
   <string name="ManageDonationsFragment__badges">Lencana</string>
   <string name="ManageDonationsFragment__subscription_faq">Pertanyaan Populer Langganan</string>
   <string name="ManageDonationsFragment__error_getting_subscription">Eror mengambil langganan.</string>
-  <string name="BoostFragment__give_signal_a_boost">Beri Penguat untuk Signal</string>
+  <string name="BoostFragment__give_signal_a_boost">Beri Penguat untuk CoolApp</string>
   <string name="BoostFragment__say_thanks_and_earn">Ucapkan Terima kasih!\\" dan dapatkan lencana Penguat untuk %1$d hari.</string>
   <string name="Boost__enter_custom_amount">Masukkan Jumlah Kustom</string>
   <string name="Boost__one_time_contribution">Kontribusi sekali saja</string>
-  <string name="MySupportPreference__add_a_signal_boost">Tambahkan Penguat Signal</string>
+  <string name="MySupportPreference__add_a_signal_boost">Tambahkan Penguat CoolApp</string>
   <string name="MySupportPreference__s_per_month">%1$s/bulan</string>
   <string name="MySupportPreference__renews_s">Perpanjang %1$s</string>
   <string name="MySupportPreference__processing_transaction">Memproses transaksi…</string>
@@ -3381,10 +3380,10 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_automatically">Langganan Penyokong Anda telah dibatalkan secara otomatis karena Anda telah lama tidak aktif. Lencana %1$s Anda tidak lagi terlihat pada profil Anda.</string>
   <!--Copy displayed when badge expires after payment failure-->
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_canceled">Langganan Penyokong Anda telah dibatalkan karena kami tidak dapat memproses pembayaran Anda. Lencana Anda tidak lagi tampak pada profil Anda.</string>
-  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Anda dapat tetap menggunakan Signal namun untuk mendukung aplikasinya dan mengaktifkan kembali lencana Anda, perbarui sekarang.</string>
+  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Anda dapat tetap menggunakan CoolApp namun untuk mendukung aplikasinya dan mengaktifkan kembali lencana Anda, perbarui sekarang.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">Perbarui langganan</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">Tidak dapat memproses pembayaran langganan</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Kami mengalami masalah mengumpulkan pembayaran Penyokong Signal Anda. Pastikan metode pembayaran Anda adalah yang terbaru. Jika bukan, perbarui di Google Pay. Signal akan mencoba memproses pembayarannya lagi dalam beberapa hari.</string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Kami mengalami masalah mengumpulkan pembayaran Penyokong CoolApp Anda. Pastikan metode pembayaran Anda adalah yang terbaru. Jika bukan, perbarui di Google Pay. CoolApp akan mencoba memproses pembayarannya lagi dalam beberapa hari.</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">Jangan tampilkan ini lagi</string>
   <string name="Subscription__please_contact_support_for_more_information">Harap hubungi bantuan untuk informasi lebih lanjut.</string>
   <string name="Subscription__contact_support">Hubungi Bantuan</string>
@@ -3404,7 +3403,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">Anda harus menata Google Pay untuk berdonasi dari dalam aplikasi.</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">Gagal membatalkan langganan</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">Pembatalan langganan memerlukan sambungan internet.</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Perangkat Anda tidak mendukung Google Pay, sehingga Anda tidak dapat berlangganan untuk memperoleh sebuah lencana. Anda tetap dapat mendukung Signal dengan berdonasi melalui situsweb kami.</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Perangkat Anda tidak mendukung Google Pay, sehingga Anda tidak dapat berlangganan untuk memperoleh sebuah lencana. Anda tetap dapat mendukung CoolApp dengan berdonasi melalui situsweb kami.</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">Galat jaringan. Periksa koneksi Anda dan coba lagi.</string>
   <string name="NetworkFailure__retry">Coba lagi</string>
   <!--Stripe decline code generic_failure-->
@@ -3575,8 +3574,8 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="NotificationProfilesMegaphone__not_now">Nanti saja</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">Gagal membuka pemilih dering.</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Catatan Rilis Signal &amp; Berita</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">Catatan Rilis CoolApp &amp; Berita</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Semua aktivitas</string>
   <!--Donation receipts all tab label-->
@@ -3599,7 +3598,6 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--Label for Chats tab in home app screen-->
   <string name="ConversationListTabs__chats">Percakapan</string>
   <!--Label for Stories tab in home app screen-->
-  <string name="ConversationListTabs__stories">Cerita</string>
   <!--String for counts above 99 in conversation list tabs-->
   <!--Title for "My Stories" row item in Stories landing page-->
   <!--Subtitle for "My Stories" row item when user has not added stories-->
@@ -3658,12 +3656,12 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--Switchable option for allowing replies and reactions on your stories-->
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <!--Note about default sharing-->
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <!--Signal connections sheet bullet point 1-->
-  <!--Signal connections sheet bullet point 2-->
-  <!--Signal connections sheet bullet point 3-->
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <!--CoolApp connections sheet bullet point 1-->
+  <!--CoolApp connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 3-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <!--Clickable option to add a viewer to a private story-->
   <!--Clickable option to delete a custom story-->
   <!--Dialog title when attempting to remove someone from a private story-->
@@ -3731,7 +3729,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--Title for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_turn_off_censorship_circumvention">Matikan penghindaran sensor?</string>
   <!--Body for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
-  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Sekarang Anda bisa terhubung langsung dengan layanan Signal untuk pengalaman yang lebih baik</string>
+  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Sekarang Anda bisa terhubung langsung dengan layanan CoolApp untuk pengalaman yang lebih baik</string>
   <!--Label for a button to dismiss a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_no_thanks">Tidak, terima kasih</string>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
@@ -3740,6 +3738,5 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <!--Conversation Item label for reactions to an unavailable story-->
   <!--endregion-->
   <!--Content description for expand contacts chevron-->
-  <string name="StoriesLinkPopup__visit_link">Kunjungi tautan</string>
   <!--EOF-->
 </resources>

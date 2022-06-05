@@ -87,6 +87,7 @@ import org.whispersystems.signalservice.internal.configuration.SignalServiceConf
 import org.whispersystems.signalservice.internal.crypto.PaddingInputStream;
 import org.whispersystems.signalservice.internal.push.AttachmentV2UploadAttributes;
 import org.whispersystems.signalservice.internal.push.AttachmentV3UploadAttributes;
+import org.whispersystems.signalservice.internal.push.AttachmentV4UploadAttributes;
 import org.whispersystems.signalservice.internal.push.GroupMismatchedDevices;
 import org.whispersystems.signalservice.internal.push.GroupStaleDevices;
 import org.whispersystems.signalservice.internal.push.MismatchedDevices;
@@ -586,7 +587,7 @@ public class SignalServiceMessageSender {
                                                                  attachment.getResumableUploadSpec().orElse(null));
 
     if (attachment.getResumableUploadSpec().isPresent()) {
-      return uploadAttachmentV3(attachment, attachmentKey, attachmentData);
+      return uploadAttachmentV4(attachment, attachmentKey, attachmentData);
     } else {
       return uploadAttachmentV2(attachment, attachmentKey, attachmentData);
     }
@@ -632,11 +633,11 @@ public class SignalServiceMessageSender {
 
   public ResumableUploadSpec getResumableUploadSpec() throws IOException {
     long                         start              = System.currentTimeMillis();
-    AttachmentV3UploadAttributes v3UploadAttributes = null;
+    AttachmentV4UploadAttributes v4UploadAttributes = null;
 
     Log.d(TAG, "Using pipe to retrieve attachment upload attributes...");
     try {
-      v3UploadAttributes = new AttachmentService.AttachmentAttributesResponseProcessor<>(attachmentService.getAttachmentV3UploadAttributes().blockingGet()).getResultOrThrow();
+      v4UploadAttributes = new AttachmentService.AttachmentAttributesResponseProcessor<>(attachmentService.getAttachmentV4UploadAttributes().blockingGet()).getResultOrThrow();
     } catch (WebSocketUnavailableException e) {
       Log.w(TAG, "[getResumableUploadSpec] Pipe unavailable, falling back... (" + e.getClass().getSimpleName() + ": " + e.getMessage() + ")");
     } catch (IOException e) {
@@ -645,13 +646,13 @@ public class SignalServiceMessageSender {
     
     long webSocket = System.currentTimeMillis() - start;
 
-    if (v3UploadAttributes == null) {
+    if (v4UploadAttributes == null) {
       Log.d(TAG, "Not using pipe to retrieve attachment upload attributes...");
-      v3UploadAttributes = socket.getAttachmentV3UploadAttributes();
+      v4UploadAttributes = socket.getAttachmentV4UploadAttributes();
     }
 
     long                rest = System.currentTimeMillis() - start;
-    ResumableUploadSpec spec = socket.getResumableUploadSpec(v3UploadAttributes);
+    ResumableUploadSpec spec = socket.getResumableUploadSpec(v4UploadAttributes);
     long                end  = System.currentTimeMillis() - start;
 
     Log.d(TAG, "[getResumableUploadSpec] webSocket: " + webSocket + " rest: " + rest + " end: " + end);
@@ -659,8 +660,8 @@ public class SignalServiceMessageSender {
     return spec;
   }
 
-  private SignalServiceAttachmentPointer uploadAttachmentV3(SignalServiceAttachmentStream attachment, byte[] attachmentKey, PushAttachmentData attachmentData) throws IOException {
-    byte[] digest = socket.uploadAttachment(attachmentData);
+  private SignalServiceAttachmentPointer uploadAttachmentV4(SignalServiceAttachmentStream attachment, byte[] attachmentKey, PushAttachmentData attachmentData) throws IOException {
+    byte[] digest = socket.uploadAttachmentV4(attachmentData);
     return new SignalServiceAttachmentPointer(attachmentData.getResumableUploadSpec().getCdnNumber(),
                                               new SignalServiceAttachmentRemoteId(attachmentData.getResumableUploadSpec().getCdnKey()),
                                               attachment.getContentType(),

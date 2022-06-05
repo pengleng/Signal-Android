@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/conversationListFragment"
-        android:name="org.thoughtcrime.securesms.conversationlist.ConversationListFragment"
+        android:name="asia.coolapp.chat.conversationlist.ConversationListFragment"
         android:label="conversation_list_fragment" >
         <action
             android:id="@+id/action_conversationListFragment_to_conversationListArchiveFragment"
@@ -18,7 +18,7 @@
 
     <fragment
         android:id="@+id/conversationListArchiveFragment"
-        android:name="org.thoughtcrime.securesms.conversationlist.ConversationListArchiveFragment"
+        android:name="asia.coolapp.chat.conversationlist.ConversationListArchiveFragment"
         android:label="conversation_list_archive_fragment" >
         <action
             android:id="@+id/action_conversationListArchiveFragment_to_storiesLandingFragment"
@@ -27,7 +27,7 @@
 
     <fragment
         android:id="@+id/storiesLandingFragment"
-        android:name="org.thoughtcrime.securesms.stories.landing.StoriesLandingFragment"
+        android:name="asia.coolapp.chat.stories.landing.StoriesLandingFragment"
         android:label="stories_landing_fragment" />
 
 </navigation>

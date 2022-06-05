@@ -4,14 +4,14 @@ import com.google.protobuf.InvalidProtocolBufferException;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.thoughtcrime.securesms.util.testprotos.TestInnerMessage;
-import org.thoughtcrime.securesms.util.testprotos.TestInnerMessageWithNewString;
-import org.thoughtcrime.securesms.util.testprotos.TestPerson;
-import org.thoughtcrime.securesms.util.testprotos.TestPersonWithNewFieldOnMessage;
-import org.thoughtcrime.securesms.util.testprotos.TestPersonWithNewMessage;
-import org.thoughtcrime.securesms.util.testprotos.TestPersonWithNewRepeatedString;
-import org.thoughtcrime.securesms.util.testprotos.TestPersonWithNewString;
-import org.thoughtcrime.securesms.util.testprotos.TestPersonWithNewStringAndInt;
+import asia.coolapp.chat.util.testprotos.TestInnerMessage;
+import asia.coolapp.chat.util.testprotos.TestInnerMessageWithNewString;
+import asia.coolapp.chat.util.testprotos.TestPerson;
+import asia.coolapp.chat.util.testprotos.TestPersonWithNewFieldOnMessage;
+import asia.coolapp.chat.util.testprotos.TestPersonWithNewMessage;
+import asia.coolapp.chat.util.testprotos.TestPersonWithNewRepeatedString;
+import asia.coolapp.chat.util.testprotos.TestPersonWithNewString;
+import asia.coolapp.chat.util.testprotos.TestPersonWithNewStringAndInt;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

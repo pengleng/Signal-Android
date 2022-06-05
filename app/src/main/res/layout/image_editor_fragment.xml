@@ -13,7 +13,7 @@
         android:layout_gravity="top|center_horizontal"
         android:gravity="center" />
 
-    <org.thoughtcrime.securesms.scribbles.ImageEditorHudV2
+    <asia.coolapp.chat.scribbles.ImageEditorHudV2
         android:id="@+id/scribble_hud"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

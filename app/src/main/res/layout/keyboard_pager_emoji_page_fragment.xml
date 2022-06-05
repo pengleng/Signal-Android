@@ -15,7 +15,7 @@
         app:expanded="false"
         tools:expanded="true">
 
-        <org.thoughtcrime.securesms.keyboard.emoji.KeyboardPageSearchView
+        <asia.coolapp.chat.keyboard.emoji.KeyboardPageSearchView
             android:id="@+id/emoji_keyboard_search_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiPageView
+    <asia.coolapp.chat.components.emoji.EmojiPageView
         android:id="@+id/emoji_page_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -89,7 +89,7 @@
         android:layout_height="2dp"
         android:background="@drawable/toolbar_shadow"
         app:app_bar_layout_id="@+id/emoji_keyboard_search_appbar"
-        app:layout_behavior="org.thoughtcrime.securesms.keyboard.TopShadowBehavior" />
+        app:layout_behavior="asia.coolapp.chat.keyboard.TopShadowBehavior" />
 
     <View
         android:id="@+id/emoji_keyboard_bottom_shadow"
@@ -97,6 +97,6 @@
         android:layout_height="3dp"
         android:background="@drawable/bottom_toolbar_shadow"
         app:bottom_bar_id="@+id/emoji_keyboard_bottom_bar"
-        app:layout_behavior="org.thoughtcrime.securesms.keyboard.BottomShadowBehavior" />
+        app:layout_behavior="asia.coolapp.chat.keyboard.BottomShadowBehavior" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

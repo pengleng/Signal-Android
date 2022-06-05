@@ -10,7 +10,7 @@
   <string name="AbstractNotificationBuilder_new_message">Peyama nû</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal tê nûkirin…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp tê nûkirin…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Aniha: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Te heta niha ti pêborîn diyar nekiriye!</string>
@@ -59,9 +59,9 @@
   <string name="AttachmentKeyboard_give_access">Destûrê bide</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Ji bo bijartina medyayê sepan nayê dîtin.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal, ji bo tevlîkirina wêne, vîdyo yan jî dengan destûra Bîrgehê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û  \"Bîrgeh\"ê çalak bike.</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal, ji bo tevllîkirina agahiyên têkiliyê destûra Navnivîskê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Navnivîsk\"ê çalak bike.</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal, ji bo tevllîkirina agahiya cîgehê destûra Cîgehê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Cîgeh\"ê çalak bike.</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">CoolApp, ji bo tevlîkirina wêne, vîdyo yan jî dengan destûra Bîrgehê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û  \"Bîrgeh\"ê çalak bike.</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">CoolApp, ji bo tevllîkirina agahiyên têkiliyê destûra Navnivîskê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Navnivîsk\"ê çalak bike.</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">CoolApp, ji bo tevllîkirina agahiya cîgehê destûra Cîgehê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Cîgeh\"ê çalak bike.</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">Medya tê barkirin…</string>
   <string name="AttachmentUploadJob_compressing_video_start">Vîdyo tê dewisandin…</string>
@@ -107,7 +107,7 @@
   <string name="CameraContacts_signal_groups">Komên Signalê</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Tu dikarî herî zêde bi %d axiftinan re parve bikî.</string>
   <string name="CameraContacts_select_signal_recipients">Wergirên Signalê hilbijêre</string>
-  <string name="CameraContacts_no_signal_contacts">Ti kesên te Signal saz nekiriye</string>
+  <string name="CameraContacts_no_signal_contacts">Ti kesên te CoolApp saz nekiriye</string>
   <string name="CameraContacts_you_can_only_use_the_camera_button">Tu dikarî bişkoka kamerayê tenê ji bo şandina wêneyan bi kar bînî.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Kesê ku tu lê digerî te wî nedît?</string>
   <string name="CameraContacts_invite_a_contact_to_join_signal">Ji bo tevlî Signalê bibe, kesekî dawet bike</string>
@@ -131,7 +131,7 @@
   <string name="CommunicationActions_cancel">Betal bike</string>
   <string name="CommunicationActions_call">Bigere</string>
   <string name="CommunicationActions_insecure_call">Gerîna neparastî</string>
-  <string name="CommunicationActions_carrier_charges_may_apply">Dibe ku hin mesrefê GSMê çêbibin. Numara ku hûn lê digerin li ser Signal qeydkirî nîne. Ev lêgerînê bi rêya xeta we ye telefonê bi cîhbigire, ne li ser rêya înternetê.</string>
+  <string name="CommunicationActions_carrier_charges_may_apply">Dibe ku hin mesrefê GSMê çêbibin. Numara ku hûn lê digerin li ser CoolApp qeydkirî nîne. Ev lêgerînê bi rêya xeta we ye telefonê bi cîhbigire, ne li ser rêya înternetê.</string>
   <!--ConfirmIdentityDialog-->
   <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Nimreya te ya ewlehiyê ya bi %1$s re hate guhertin. Yan yek dixwaze axiftina we qut bike yan jî belkî %2$s, Signalê ji nû ve saz dike.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Belkî tu bixwazî nimreya xwe ya ewlehiyê bi vî kesî re piştrast bikî.</string>
@@ -194,7 +194,7 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Xuya ye ev cîhaz piştgiriyê nade çalakiyên gerînê.</string>
   <string name="ConversationActivity_transport_insecure_sms">SMS\'a neparastî</string>
   <string name="ConversationActivity_transport_insecure_mms">MMS\'a neparastî</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
   <string name="ConversationActivity_lets_switch_to_signal">Ka em ji ser Signalê biaxivin %1$s</string>
   <string name="ConversationActivity_specify_recipient">Ji kerema xwe, kesekî bibijêre</string>
   <string name="ConversationActivity_unblock">Astengê rake</string>
@@ -204,17 +204,17 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Ti sepana ku karibe vê girêdanê di cîhaza te de veke tune.</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">Daxwaza te ya tevlîbûnê ji rêveberê komê re hat şandin. Dema ku daxwaza te hat bersivandin tu yê bê agahdarkirin.</string>
   <string name="ConversationActivity_cancel_request">Daxwazê betal bike</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Ji bo şandina peyamên dengî, bihêle bila Signal bigihîje mîkrofona te.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal, ji bo şandina peyamên dengî destûra Mîkrofonê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Mîkrofon\"ê çalak bike.</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Ji bo tu li %s bigerî, Signal destûrên Kamera û Mîkrofonê hewce dike, lê ew bi awayekî mayinde hatine redkirin. Ji kerema xwe, biçe sazkariyên sepanê \"Destûr\"ê bibijêre, piştre \"Mîkrofon\" û \"Kamara\"yê çalak bike.</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Ji bo kişandina vîdyo û wêneyan, bihêle bila Signal bigihîje kameraya te.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal, ji bo kişandina vîdyo an jî wêneyan destûra kamerayê hewce dike, lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Kamera\"yê çalak bike.</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal, ji bo kişandina vîdyo an jî wêneyan destûra kamerayê hewce dike</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Ji bo şandina peyamên dengî, bihêle bila CoolApp bigihîje mîkrofona te.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">CoolApp, ji bo şandina peyamên dengî destûra Mîkrofonê hewce dike lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Mîkrofon\"ê çalak bike.</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Ji bo tu li %s bigerî, CoolApp destûrên Kamera û Mîkrofonê hewce dike, lê ew bi awayekî mayinde hatine redkirin. Ji kerema xwe, biçe sazkariyên sepanê \"Destûr\"ê bibijêre, piştre \"Mîkrofon\" û \"Kamara\"yê çalak bike.</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Ji bo kişandina vîdyo û wêneyan, bihêle bila CoolApp bigihîje kameraya te.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">CoolApp, ji bo kişandina vîdyo an jî wêneyan destûra kamerayê hewce dike, lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Kamera\"yê çalak bike.</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">CoolApp, ji bo kişandina vîdyo an jî wêneyan destûra kamerayê hewce dike</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">Ji bo tomarkirina vîdeoyên dengî, destûra mîkrofonê çalak bike.</string>
-  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signal, ji bo tomarkirina vîdyoyan destûra mîkrofonê hewce dike lê ew hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre, piştre jî \"Kamera\" û \"Mîkrofon\"ê çalak bike.</string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signal, ji bo tomarkirina vîdyoyan destûra mîkrofonê hewce dike.</string>
+  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">CoolApp, ji bo tomarkirina vîdyoyan destûra mîkrofonê hewce dike lê ew hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre, piştre jî \"Kamera\" û \"Mîkrofon\"ê çalak bike.</string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">CoolApp, ji bo tomarkirina vîdyoyan destûra mîkrofonê hewce dike.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal nikare peyamên SMS/MMS\'ê bişîne ji ber ku ew ne sepana sereke ya SMS\'ê ye. Tu dixwazî vêya ji sazkariyên Androidê biguherînî?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp nikare peyamên SMS/MMS\'ê bişîne ji ber ku ew ne sepana sereke ya SMS\'ê ye. Tu dixwazî vêya ji sazkariyên Androidê biguherînî?</string>
   <string name="ConversationActivity_yes">Erê</string>
   <string name="ConversationActivity_no">Na</string>
   <string name="ConversationActivity_search_position">%1$d / %2$d</string>
@@ -228,7 +228,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">Tu yê ji vê komê derkevî û ew ê ji hemû cîhazên te bên jêbirin.</string>
   <string name="ConversationActivity_delete">Jê bibe</string>
   <string name="ConversationActivity_delete_and_leave">Jê bibe û derkeve</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Ji bo tu li %1$s bigerî, divê Signal bigihîje mîkrofona te.</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Ji bo tu li %1$s bigerî, divê CoolApp bigihîje mîkrofona te.</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">Di \"Sazkariyên Komê\" de êdî vebijarkên zêdetir hene</string>
   <string name="ConversationActivity_join">Tevlî bibe</string>
   <string name="ConversationActivity_full">Tije</string>
@@ -261,7 +261,7 @@
     <item quantity="other">%1$d pêvek li bîrgehê tên tomarkirin…</item>
   </plurals>
   <string name="ConversationFragment_pending">Li bendê ye…</string>
-  <string name="ConversationFragment_push">Dane (Signal)</string>
+  <string name="ConversationFragment_push">Dane (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Tê jêbirin</string>
@@ -345,7 +345,7 @@
   <string name="BackupsPreferenceFragment__learn_more">Zêdetir bizane</string>
   <string name="BackupsPreferenceFragment__in_progress">Dewam dike…</string>
   <string name="BackupsPreferenceFragment__d_so_far">Heta niha %1$d…</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal, ji bo çêkirina yedekê destûra bîrgehê hewce dike, lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Bîrgehê\"ê çalak bike.</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">CoolApp, ji bo çêkirina yedekê destûra bîrgehê hewce dike, lê ew bi awayekî mayinde hatiye redkirin. Ji kerema xwe, biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Bîrgehê\"ê çalak bike.</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Bikaranîna taybet: %s</string>
   <string name="CustomDefaultPreference_using_default">Bikaranîna jixweberî: %s</string>
@@ -381,7 +381,7 @@
   <string name="DocumentView_unnamed_file">Dosyeya bênav</string>
   <!--DonateMegaphone-->
   <!-- Removed by excludeNonTranslatables <string name="DonateMegaphone_donate_to_signal">Bexşê bide Sîgnalê</string> -->
-  <!-- Removed by excludeNonTranslatables <string name="DonateMegaphone_Signal_is_powered_by_people_like_you_show_your_support_today">Signal ji aliyê kesên wekî te ve tê piştgirîkirin. Îro, piştgiriya xwe nîşan bide!</string> -->
+  <!-- Removed by excludeNonTranslatables <string name="DonateMegaphone_Signal_is_powered_by_people_like_you_show_your_support_today">CoolApp ji aliyê kesên wekî te ve tê piştgirîkirin. Îro, piştgiriya xwe nîşan bide!</string> -->
   <!-- Removed by excludeNonTranslatables <string name="DonateMegaphone_donate">Bexş bike</string> -->
   <!-- Removed by excludeNonTranslatables <string name="DonateMegaphone_no_thanks">Na, spas</string> -->
   <!--GroupCallingMegaphone-->
@@ -389,7 +389,7 @@
   <!-- Removed by excludeNonTranslatables <string name="GroupCallingMegaphone__open_a_new_group_to_start">Ji bo tu dest bi gerîna komî ya şîfrekirî û belaş bikî, Komeke Nû vekî.</string> -->
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Ji bo Xizmetên Google Playê yên kêm, optîmîze bike</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ev cîhaz piştgiriya Xizmetên Google Playê nake. Dema ku Signal neçalak be ji bo optîmîzasyonên bateryaya sîstemê stendina peyaman asteng neke, lê bitikîne.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ev cîhaz piştgiriya Xizmetên Google Playê nake. Dema ku CoolApp neçalak be ji bo optîmîzasyonên bateryaya sîstemê stendina peyaman asteng neke, lê bitikîne.</string>
   <!--ExpiredBuildReminder-->
   <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Dema vê guhertoya Signalê qediya. Ji bo peyaman bişînî an jî bistînî aniha nûve bike.</string>
   <string name="ExpiredBuildReminder_update_now">Aniha nû bike</string>
@@ -404,7 +404,7 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Pêvekên pijimarî tenê ji bo wêne û vîdyoyan tên piştgirîkirin</string>
   <!--GcmRefreshJob-->
   <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Çewtiya têkilîdanînê ya mayinde ya Signalê!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal, nikare xwe li Xizmetên Google Playê tomar bike. Peyam û gerînên Signalê hatin neçalakkirin. Ji kerema xwe, di \"Sazkarî\"yan de ji beşa \"Pêşketî\"yê tomarbûnê dîsa biceribîne.</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">CoolApp, nikare xwe li Xizmetên Google Playê tomar bike. Peyam û gerînên Signalê hatin neçalakkirin. Ji kerema xwe, di \"Sazkarî\"yan de ji beşa \"Pêşketî\"yê tomarbûnê dîsa biceribîne.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Di stendina GIFa bi averûtiya fûl de çewtî derket</string>
   <!--GiphyFragmentPageAdapter-->
@@ -550,14 +550,14 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">Ev qad hewce ye.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">Afirandina komê bi ser neket.</string>
   <string name="AddGroupDetailsFragment__try_again_later">Paşê dîsa biceribîne.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">We berdengek ku nikare komên Signal ê bikar bîne bijart, ji bo vê dê ev kom yeka MMSê be</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">We berdengek ku nikare komên CoolApp ê bikar bîne bijart, ji bo vê dê ev kom yeka MMSê be</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Navên u wêneyên komê MMS ye taybetê bi tenê ji alîye we va bên dîtin.</string>
   <string name="AddGroupDetailsFragment__remove">Rake</string>
   <string name="AddGroupDetailsFragment__sms_contact">Kesê SMS\'ê</string>
   <string name="AddGroupDetailsFragment__remove_s_from_this_group">%1$s ji vê komê derxîne?</string>
   <!--NonGv2MemberDialog-->
-  <!-- Removed by excludeNonTranslatables <string name="NonGv2MemberDialog_single_users_are_non_gv2_capable">Komeke Kevnê bê darxistin ji ber ku \"%1$s\"  guhertoyeke Signal ê ye kevn bikartîne. Hûn dikarin Komeke Sitîla Nû li gel wan darbixin piştî ku ew guhertoya Signal a xwe bilin dikin, an jî hûn dikarin wan jêbibin berîya ku hûn komê dardixin</string> -->
-  <!-- Removed by excludeNonTranslatables <string name="NonGv2MemberDialog_single_users_are_non_gv2_capable_forced_migration">Ev koma nikare bê darxistin ji ber ku \" %1$s \" guhertoyeke Signal ê ye kevn bikartîne. Ger hûn wan jêbibin berîya ku hûn komê darbixin.</string> -->
+  <!-- Removed by excludeNonTranslatables <string name="NonGv2MemberDialog_single_users_are_non_gv2_capable">Komeke Kevnê bê darxistin ji ber ku \"%1$s\"  guhertoyeke CoolApp ê ye kevn bikartîne. Hûn dikarin Komeke Sitîla Nû li gel wan darbixin piştî ku ew guhertoya CoolApp a xwe bilin dikin, an jî hûn dikarin wan jêbibin berîya ku hûn komê dardixin</string> -->
+  <!-- Removed by excludeNonTranslatables <string name="NonGv2MemberDialog_single_users_are_non_gv2_capable_forced_migration">Ev koma nikare bê darxistin ji ber ku \" %1$s \" guhertoyeke CoolApp ê ye kevn bikartîne. Ger hûn wan jêbibin berîya ku hûn komê darbixin.</string> -->
   <!--ManageGroupActivity-->
   <string name="ManageGroupActivity_member_requests_and_invites">Daxwaz û vexwendinên endambûnê</string>
   <string name="ManageGroupActivity_add_members">Endaman tevlî bike</string>
@@ -584,7 +584,7 @@
   <string name="ManageGroupActivity_only_admins_can_enable_or_disable_the_option_to_approve_new_members">Tenê rêvebir dikarin vebijêrka erêkirina endamên nû çalak bikin an jî neçalak bikin.</string>
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">Tenê rêvebir dikarin lînka komê ya tê belavkirin reset bikin</string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">Mafê te tune ye tu vê bikî</string>
-  <string name="ManageGroupActivity_not_capable">Keseke/î we tevlêkir piştgirîya komên nû nake u hewceye ku Signal ê nubike.</string>
+  <string name="ManageGroupActivity_not_capable">Keseke/î we tevlêkir piştgirîya komên nû nake u hewceye ku CoolApp ê nubike.</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">Nûkirina komê bi ser neket</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">Tu ne endamê komê yî</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">Nûkirina komê bi ser neket, ji kerema xwe paşê dîsa biceribîne</string>
@@ -729,7 +729,7 @@
   <string name="LongMessageActivity_message_from_s">Peyam ji %1$s</string>
   <string name="LongMessageActivity_your_message">Peyama te</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Girêdana paşxanê hat çalakkirin</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Di xwendina sazkariyên dabînkera MMS\'ê ya bêtêl de çewtî</string>
@@ -805,7 +805,7 @@
   <string name="MediaSendActivity_message_to_s">Peyam ji %s re</string>
   <string name="MediaSendActivity_message">Peyam</string>
   <string name="MediaSendActivity_select_recipients">Wergiran hilbijêre</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal, ji bo navnivîska te nîşan bide hewceyî gihînê ye.</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">CoolApp, ji bo navnivîska te nîşan bide hewceyî gihînê ye.</string>
   <string name="MediaSendActivity_select_recipients_description">Wergiran hilbijêre</string>
   <string name="MediaSendActivity_tap_here_to_make_this_message_disappear_after_it_is_viewed">Li vir bitikîne ji bo, piştî ku ew peyam hate dîtin, vê peyamê bidî wendakirin.</string>
   <!--MediaRepository-->
@@ -1023,7 +1023,7 @@
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Bibore, ev QR kod ji bo girêdana cîhazê bi kêr nayê.</string>
   <string name="DeviceProvisioningActivity_link_a_signal_device">Cîhazeke Signalê girê bide?</string>
   <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Xuya ye ku tu hewl didî bi pişkînereke nenas QR kodê venêrînî. Ji bo parastina xwe, ji kerema xwe re kodê di signalê de dîsa venêrîne.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal, ji bo venêrîna QR kodê destûra kamerayê hewce dike, lê ew destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Kamera\"yê çalak bike.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">CoolApp, ji bo venêrîna QR kodê destûra kamerayê hewce dike, lê ew destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Kamera\"yê çalak bike.</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Bêyî destûra Kamerayê QR kod nayê venêrîn</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Aniha nû bike</string>
@@ -1085,8 +1085,8 @@
   <string name="RedPhone_got_it">Baş e</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Ji bo vîdyoya xwe vekî, li vir bitikîne</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Ji bo tu li %1$s bigerî, divê Signal bigihîje kameraya te</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Ji bo tu li %1$s bigerî, divê CoolApp bigihîje kameraya te</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Tê gerîn…</string>
   <!--WebRtcCallView-->
   <!-- Removed by excludeNonTranslatables <string name="WebRtcCallView__signal_voice_call">Gerîna dengî ya Signalê…</string> -->
@@ -1145,12 +1145,12 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">Nimreya telefona te ya li jorê rast e?</string>
   <string name="RegistrationActivity_edit_number">Nimreyê sererast bike</string>
   <string name="RegistrationActivity_missing_google_play_services">Xizmetên Google Playê kêm in</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Di vê cêhazê de Xizmetên Google Playê tune ye. Dîsa jî tu dikarî Signalê bi kar bînî lê ev pevsazî dibe ku bibe sedema kêmkirina pêbaweriyê an jî performansê.nnHeke tu ne bikarhênerekî pêşketî bî, ROM\'a alternatîv a Androidê naxebitînî an jî tu vê wekî çewtiyekê dibînî, ji bo çareserkirina pirsgirêkan bisupport@signal.org\'ê re têkeve têkiliyê.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Di vê cêhazê de Xizmetên Google Playê tune ye. Dîsa jî tu dikarî Signalê bi kar bînî lê ev pevsazî dibe ku bibe sedema kêmkirina pêbaweriyê an jî performansê.nnHeke tu ne bikarhênerekî pêşketî bî, ROM\'a alternatîv a Androidê naxebitînî an jî tu vê wekî çewtiyekê dibînî, ji bo çareserkirina pirsgirêkan bisupport@asia.coolapp.chat\'ê re têkeve têkiliyê.</string>
   <string name="RegistrationActivity_i_understand">Min fêm kir</string>
   <string name="RegistrationActivity_play_services_error">Çewtiya Xizmetên Google Playê</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Xizmetên Google Playê yan tên nûkirin yan jî ne amade ye. Paşê dîsa biceribîne.</string>
   <string name="RegistrationActivity_terms_and_privacy">Merc û Polîtîkaya Nihêniyê</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Ji bo tu bi kesên xwe re têkevî têkiliyê, peyaman bişînî û gerînên parastî bikî, hewce ye Signal bigihîje Navnivîsk û Bîrgeha te.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Ji bo tu bi kesên xwe re têkevî têkiliyê, peyaman bişînî û gerînên parastî bikî, hewce ye CoolApp bigihîje Navnivîsk û Bîrgeha te.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Ji bo qeydkirina vê nimreyê te gelek ceribandin kirin. Ji kerema xwe paşê dîsa biceribîne.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Girêdana bi xizmetê re pêk nehat. Ji kerema xwe, girêdana torê kontrol bike û dîsa biceribîne.</string>
   <string name="RegistrationActivity_we_need_to_verify_that_youre_human">Divê em piştrast bikin ku tu mirov î.</string>
@@ -1306,14 +1306,14 @@
     <item quantity="other">%d kes tevlî Signalê bûn!</item>
   </plurals>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Têkilîdêrên te guhertoya Signal ê ya kevn bi kar dihênin. Ji wan re bibêje, berê rastandina hejmara ewlehiyê, bila Signalê hildemînin,</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Têkilîdêrên te guhertoyeke nûtir ya Signal ê ya bi dirûva QR kodê re ne lihev, bi kar dihînin. Ji bo danberhevê ji kerema xwe hildemîne.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Têkilîdêrên te guhertoya CoolApp ê ya kevn bi kar dihênin. Ji wan re bibêje, berê rastandina hejmara ewlehiyê, bila Signalê hildemînin,</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Têkilîdêrên te guhertoyeke nûtir ya CoolApp ê ya bi dirûva QR kodê re ne lihev, bi kar dihînin. Ji bo danberhevê ji kerema xwe hildemîne.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Koda QR ku hat venerîn, bi rastî nehatiye dirûvandina koda rastandina ewlehiyê. Ji kerema xwe dîsa koda QR venerîne.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Nimreya ewlehiyê parve bike, bi rêya…</string>
   <string name="VerifyIdentityActivity_our_signal_safety_number">Nimreya me ya ewlehiyê ya Signalê:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Xuya ye ku sepanekî te ya ku pê parve bikî tune.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">Di rûnûsgehê de qet hejmara ewlehiyê ku bidî ber hev tune</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal, ji bo pişkînîna QR kodê destûra kamerayê hewce dike, lê ew destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Kamera\"yê çalak bike.</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">CoolApp, ji bo pişkînîna QR kodê destûra kamerayê hewce dike, lê ew destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Kamera\"yê çalak bike.</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Bêyî destûra Kamerayê QR kod nayê pişkînîn.</string>
   <!--ViewOnceMessageActivity-->
   <!--AudioView-->
@@ -1337,7 +1337,7 @@
   <string name="MediaPreviewActivity_you">Tu</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Cureya medyayê nayê piştgirîkirin</string>
   <string name="MediaPreviewActivity_draft">Reşnivîs</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal, ji bo tomarkirina li bîrgeha derveyî destûra bîrgehê hewce dike, lê ew destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Bîrgeh\"ê çalak bike.</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">CoolApp, ji bo tomarkirina li bîrgeha derveyî destûra bîrgehê hewce dike, lê ew destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe sazkariyên sepanê \"Destûr\"ê bibijêre û \"Bîrgeh\"ê çalak bike.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Bêyî destûran nikare li bîrgeha derveyî were tomarkirin</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Peyamê jê bibe?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Ev, dê bi mayindeyî vê peyamê jê bibe.</string>
@@ -1382,7 +1382,7 @@
   <string name="NotificationChannel_contact_joined_signal">Kes tevlî Signalê bû</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Dema ku Signal kilîdkirî be, bersiva bilez nayê bikaranîn!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Dema ku CoolApp kilîdkirî be, bersiva bilez nayê bikaranîn!</string>
   <string name="QuickResponseService_problem_sending_message">Di şandina peyamê de çewtî!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Li %s\'ê hat tomarkirin</string>
@@ -1393,7 +1393,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Kurterêya nederbasdar</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Peyama nû</string>
   <string name="SingleRecipientNotificationBuilder_you">Tu</string>
   <!--ThumbnailView-->
@@ -1406,10 +1406,10 @@
   </plurals>
   <!--UnauthorizedReminder-->
   <string name="UnauthorizedReminder_device_no_longer_registered">Cîhaz êdî neqeydkirî ye</string>
-  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Ev wekî ji ber ku te bi hejmara telefona xwe li Signal ê li ser amûrekî din tomar kiriye, bûye. Ji bo ku dîsa tomar bikî bitepîne. </string>
+  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Ev wekî ji ber ku te bi hejmara telefona xwe li CoolApp ê li ser amûrekî din tomar kiriye, bûye. Ji bo ku dîsa tomar bikî bitepîne. </string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Ji bo tu gerîna ji %s bibersivînî, bihêle bila Signal bigihîje mîkrofona te.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal, ji bo gerînê bike destûra Mîkrofonê û Kamerayê dixwaze, lê ev destûr bi awayekî mayinde hatine redkirin. Ji kerema xwe re, here sazkariyên sepanê \"Destûr\"ê bibijêre piştre \"Mîkrofon\" û \"Kamera\"yê çalak bike.</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Ji bo tu gerîna ji %s bibersivînî, bihêle bila CoolApp bigihîje mîkrofona te.</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">CoolApp, ji bo gerînê bike destûra Mîkrofonê û Kamerayê dixwaze, lê ev destûr bi awayekî mayinde hatine redkirin. Ji kerema xwe re, here sazkariyên sepanê \"Destûr\"ê bibijêre piştre \"Mîkrofon\" û \"Kamera\"yê çalak bike.</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Ji ser cîhaza girêdayî hat bersivandin.</string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">Ji ser cîhaza girêdayî hat redkirin.</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">Di cîhaza girêdayî de mijûl e.</string>
@@ -1444,7 +1444,7 @@
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Wêneyê Kesî</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal, ji bo nîşandana navnivîskê, destûra gihîna navnivîskê dixwaze, lê ev destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Navnivîsk\"ê çalak bike.</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">CoolApp, ji bo nîşandana navnivîskê, destûra gihîna navnivîskê dixwaze, lê ev destûr bi awayekî mayinde hatiye redkirin. Ji kerema xwe re, biçe menûya sazkariyên sepanê \"Destûr\"ê bibijêre û \"Navnivîsk\"ê çalak bike.</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Di anîna navnivîskê de çewtî derket, înterneta xwe kontrol bike</string>
   <string name="ContactSelectionListFragment_username_not_found">Navê bikarhêner nehat dîtin</string>
   <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" ne bikarhênerekî Signalê ye. Navê bikarhêner kontrol bike û dîsa biceribîne.</string>
@@ -1455,7 +1455,7 @@
     <item quantity="other">%1$d endam</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal, ji bo navnivîskê nîşan bide, destûra gihîna navnivîskê hewce dike.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">CoolApp, ji bo navnivîskê nîşan bide, destûra gihîna navnivîskê hewce dike.</string>
   <string name="contact_selection_list_fragment__show_contacts">Navnivîskê nîşan bide</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1603,7 +1603,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Kilîdê veke</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Ji bo şandina medya û peyamên komê ser WiFi, Signal şikila MMS dixwaze. Vê agahî ser cihazê te bêfêde ye, belkî amûr biqif e, an şikil gelek astengker e.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Ji bo şandina medya û peyamên komê ser WiFi, CoolApp şikila MMS dixwaze. Vê agahî ser cihazê te bêfêde ye, belkî amûr biqif e, an şikil gelek astengker e.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Ji bo şandina medya û peyamên komê, \'OK\' lêxe û şikila pêwîst xelas bike. Şikila MMS ji bo şirketa torrê di normal de dikare bê peydakirin bi lêgerrina \'your carrier APN\'. Pêwîst ku tu tenê carek wisa bikî.</string>
   <!--profile_create_activity-->
   <string name="CreateProfileActivity_first_name_required">Nav (hewce)</string>
@@ -1636,7 +1636,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Nav an jî nimreyekê binivîse</small></string>
   <!--verify_display_fragment-->
-  <!-- Removed by excludeNonTranslatables <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Eger tu bixwazî ewlehiya şîfreya xwe bi %s bipejirînî, nimreya li jor bi nimreya ser amûra xwe re bide ber hev. Wek alternatîv, tu dikarî koda li ser telefona wan bivenerînî, an jî ji wan bixwazî ku koda te bivenerin. <a href="https://signal.org/redirect/safety-numbers">Zêdetir hîn bibe.</a>]]></string> -->
+  <!-- Removed by excludeNonTranslatables <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Eger tu bixwazî ewlehiya şîfreya xwe bi %s bipejirînî, nimreya li jor bi nimreya ser amûra xwe re bide ber hev. Wek alternatîv, tu dikarî koda li ser telefona wan bivenerînî, an jî ji wan bixwazî ku koda te bivenerin. <a href="https://asia.coolapp.chat/redirect/safety-numbers">Zêdetir hîn bibe.</a>]]></string> -->
   <string name="verify_display_fragment__tap_to_scan">Ji bo venêrînê, lê bitikîne</string>
   <string name="verify_display_fragment__loading">Tê barkirin…</string>
   <!-- Removed by excludeNonTranslatables <string name="verify_display_fragment__verified">Piştrastkirî</string> -->
@@ -1685,7 +1685,7 @@
   <string name="HelpFragment__whats_this">Ev çi ye?</string>
   <string name="HelpFragment__how_do_you_feel">Tu xwe çawa his dikî?</string>
   <string name="HelpFragment__support_info">Agahiya piştgiriyê</string>
-  <string name="HelpFragment__signal_android_support_request">Daxwaza Piştgiriya Signal Androidê </string>
+  <string name="HelpFragment__signal_android_support_request">Daxwaza Piştgiriya CoolApp Androidê </string>
   <string name="HelpFragment__debug_log">Tomargeha neqandina çewtiyan:</string>
   <string name="HelpFragment__could_not_upload_logs">Nikaribu tomargehan bar bike. </string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Ji kerema xwe ra heta ku bi destê we hatîye zelal u berfireh bin da ku hun alîkariya me bikin ku em pirsgirêkê fehm bikin.</string>
@@ -1867,7 +1867,7 @@
   <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Ji bo kesên ku Signalê bi kar nînin, daxwazên vexwendinê nîşan bide</string>
   <string name="preferences_chats__message_text_size">Mezinahiya fonta peyamê</string>
   <string name="preferences_events__contact_joined_signal">Kes tevlî Signalê bû</string>
-  <string name="preferences_notifications__priority">Danezanên Sîstemê - Signal</string>
+  <string name="preferences_notifications__priority">Danezanên Sîstemê - CoolApp</string>
   <string name="preferences_communication__category_sealed_sender">Şanderê Veşartî</string>
   <string name="preferences_communication__sealed_sender_display_indicators">Nîşanderên ekranê</string>
   <string name="preferences_communication__sealed_sender_display_indicators_description">Di peyamên ku şander veşartî ne de dema \"Hûrgiliyên peyamê\" hate bijartin îkona rewşê nîşan bide.</string>
@@ -1880,7 +1880,7 @@
   <string name="preferences_off">Girtî</string>
   <string name="preferences_on">Vekirî</string>
   <string name="preferences_proxy_address">Navnîşana proxy</string>
-  <string name="preferences_only_use_a_proxy_if">Tenê dema ku tu nikarî bi rêya xeta mobil an jî Wi-Fi xwe bigînî Signal ê proxy yê bikar bîne.</string>
+  <string name="preferences_only_use_a_proxy_if">Tenê dema ku tu nikarî bi rêya xeta mobil an jî Wi-Fi xwe bigînî CoolApp ê proxy yê bikar bîne.</string>
   <string name="preferences_share">Parve bike</string>
   <string name="preferences_save">Tomar bike</string>
   <string name="preferences_connecting_to_proxy">Proxy va tê girêdan…</string>
@@ -2004,7 +2004,7 @@
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Bi panoyê re bide ber hev</string>
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">SMS\'ên sîstemê lê bar bike</string>
-  <string name="reminder_header_sms_import_text">Ji bo peyamên SMSê yên xwe kopî bikî nav agahîdanka şîfrekirî ya Signal ê, bitepîne</string>
+  <string name="reminder_header_sms_import_text">Ji bo peyamên SMSê yên xwe kopî bikî nav agahîdanka şîfrekirî ya CoolApp ê, bitepîne</string>
   <string name="reminder_header_push_title">Peyam û gerînên Signalê çalak bike</string>
   <string name="reminder_header_push_text">Tecrûbeya xwe ya têkilîdanînê bilind bike.</string>
   <string name="reminder_header_service_outage_text">Di Signalê de çend pirsgirêkên teknîkî rû didin. Ji bo vegerandina xizmetê em bi hemû hêza xwe li ser dixebitin.</string>
@@ -2110,11 +2110,11 @@
   <string name="KbsMegaphone__create_pin">PIN\'ê biafiîne</string>
   <!--Research Megaphone-->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphone_tell_signal_what_you_think">Tu çi difikirî ka ji Signalê re bibêjî</string> -->
-  <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphone_to_make_signal_the_best_messaging_app_on_the_planet">Ji bo ku Signal ê bikin sepana peyam-avîtinê ya li seranserê erdê a herî baş, em dixwazin ramanên we bibihîzin.</string> -->
+  <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphone_to_make_signal_the_best_messaging_app_on_the_planet">Ji bo ku CoolApp ê bikin sepana peyam-avîtinê ya li seranserê erdê a herî baş, em dixwazin ramanên we bibihîzin.</string> -->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphone_learn_more">Zêdetir bizane</string> -->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphone_dismiss">Bigire</string> -->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphoneDialog_signal_research">Lêkolîna Signalê</string> -->
-  <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphoneDialog_we_believe_in_privacy"><![CDATA[<p><b>Baweriya me bi nihêniyê heye.</b></p><p>Signal te naşopîne an jî daneyên te berhev nake. Ji bo ku em Signalê ji bo her kesî baştir bikin, bala me li ser paşragihandinên bikarhêneran e, <b>û em a te jî pir dixwazin.</b></p><p>Ji bo em zanibin bê tu Signalê çawa bi kar tînî, em anketekê çêdikin. Anketa me ti daneyeke têkildarî nasnameya te berhev nake. Heke tu bi paşragihandinên zêdetir re eleqedar î, vebijarka te heye ku agahiyên xwe yên têkiliyê peyda bikî.</p><p>Heke çend deqe û paşragihandinên te hebin, em dixwazin li te guhdarî bikin.</p>]]></string> -->
+  <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphoneDialog_we_believe_in_privacy"><![CDATA[<p><b>Baweriya me bi nihêniyê heye.</b></p><p>CoolApp te naşopîne an jî daneyên te berhev nake. Ji bo ku em Signalê ji bo her kesî baştir bikin, bala me li ser paşragihandinên bikarhêneran e, <b>û em a te jî pir dixwazin.</b></p><p>Ji bo em zanibin bê tu Signalê çawa bi kar tînî, em anketekê çêdikin. Anketa me ti daneyeke têkildarî nasnameya te berhev nake. Heke tu bi paşragihandinên zêdetir re eleqedar î, vebijarka te heye ku agahiyên xwe yên têkiliyê peyda bikî.</p><p>Heke çend deqe û paşragihandinên te hebin, em dixwazin li te guhdarî bikin.</p>]]></string> -->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphoneDialog_take_the_survey">Anketê dagire</string> -->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphoneDialog_no_thanks">Na, spas</string> -->
   <!-- Removed by excludeNonTranslatables <string name="ResearchMegaphoneDialog_the_survey_is_hosted_by_alchemer_at_the_secure_domain">Anket ji aliyê Alchemer ve li ser navpera(domain) parastî surveys.signalusers.org\'ê tê hewandin.</string> -->
@@ -2123,7 +2123,7 @@
   <string name="ConversationListFragment_loading">Tê barkirin…</string>
   <string name="CallNotificationBuilder_connecting">Tê girêdan…</string>
   <string name="Permissions_permission_required">Destûr hewce ye</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Ji bo Signal bikaribe SMSan bişîne destûra SMSê pêdivî ye, lê destûr nehatiye dayin. Ji kerema xwe ji sazkariyên sepanan, \"Destûr\"an bibijêre û \"SMS\"ê çalak bike.</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Ji bo CoolApp bikaribe SMSan bişîne destûra SMSê pêdivî ye, lê destûr nehatiye dayin. Ji kerema xwe ji sazkariyên sepanan, \"Destûr\"an bibijêre û \"SMS\"ê çalak bike.</string>
   <string name="Permissions_continue">Bidomîne</string>
   <string name="Permissions_not_now">Ne niha</string>
   <string name="conversation_activity__enable_signal_messages">PEYAMÊN SIGNALÊ ÇALAK BIKE</string>
@@ -2182,7 +2182,7 @@
   <string name="PhoneNumberPrivacy_nobody">Ne ti kes</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">Nimreya te ya telefonê ew ê ji bo hemû kes û komên ku te ji wan re peyam şandiye, bê xuyan.</string>
   <string name="preferences_app_protection__screen_lock">Kilîda ekranê</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Bi şoptilî an jî qufleya ekranê ya Androidê gihîna Signal ê qufle bike</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Bi şoptilî an jî qufleya ekranê ya Androidê gihîna CoolApp ê qufle bike</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Demboriya neçalakbûnê ya qufleya ekranê</string>
   <string name="preferences_app_protection__signal_pin">PIN\'a Signalê</string>
   <string name="preferences_app_protection__create_a_pin">PIN\'ê biafiîne</string>
@@ -2203,7 +2203,7 @@
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Te gelek caran ceriband. Ji kerema xwe paşê dîsa biceribîne.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Çewtî di girêdana li xizmetê de derket</string>
   <string name="preferences_chats__backups">Yedek</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal kilîdkirî ye</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp kilîdkirî ye</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">JI BO VEKIRINÊ LÊ BITEPÎNE</string>
   <string name="Recipient_unknown">Nenas</string>
   <!--TransferOrRestoreFragment-->
@@ -2256,8 +2256,8 @@
   <string name="GroupsLearnMore_what_are_legacy_groups">Komên kevn çi ne?</string>
   <string name="GroupsLearnMore_paragraph_1">Komên Kevn ew komin ku bi taybetîyên, yên wake rêvebir u nûvekirinên koma yên zêdetir şîrovekirî, yên  Komên Nû re ne lihevhatî ne.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Ez dikarim komeke kevn bilind bikim?</string>
-  <string name="GroupsLearnMore_paragraph_2">Komên Kevn hêj nikarin li Komên Nû bêne bilind kirin, lê hûn dikarin Komeke Nû bi heman endaman ra darbixin, ger ew li ser guhertoya Signal ê ya herî dawî bin.</string>
-  <string name="GroupsLearnMore_paragraph_3">Signal ê dê di pêşerojê de rêyekî ji bo nûvekirina Komên Kevn pêşkêş bike</string>
+  <string name="GroupsLearnMore_paragraph_2">Komên Kevn hêj nikarin li Komên Nû bêne bilind kirin, lê hûn dikarin Komeke Nû bi heman endaman ra darbixin, ger ew li ser guhertoya CoolApp ê ya herî dawî bin.</string>
+  <string name="GroupsLearnMore_paragraph_3">CoolApp ê dê di pêşerojê de rêyekî ji bo nûvekirina Komên Kevn pêşkêş bike</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_via_signal">Bi rêya Signalê parve bike</string>
   <string name="GroupLinkBottomSheet_copy">Kopî bike</string>
@@ -2335,7 +2335,7 @@
   <string name="ShareActivity__share">Parve bike</string>
   <string name="ShareActivity__send">Bişîne</string>
   <!-- Removed by excludeNonTranslatables <string name="ShareActivity__s_comma">%1$s,</string> -->
-  <string name="ShareActivity__sharing_to_multiple_chats_is">Parvekirina zêdetir axaftina tenê ji bo peyamên Signal tê piştgirîkirin</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">Parvekirina zêdetir axaftina tenê ji bo peyamên CoolApp tê piştgirîkirin</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">Ji hinek bikarhêneran re nehate şandin</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">Tu dikarî herî zêde bi %1$d gotûbêjan re parve bikî</string>

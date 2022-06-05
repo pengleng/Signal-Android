@@ -27,7 +27,7 @@
             tools:alpha="1"
             tools:visibility="visible" />
 
-        <org.thoughtcrime.securesms.components.emoji.SimpleEmojiTextView
+        <asia.coolapp.chat.components.emoji.SimpleEmojiTextView
             android:id="@+id/recipient"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -123,7 +123,7 @@
 
         </ViewSwitcher>
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/view_once_message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -137,7 +137,7 @@
             app:layout_constraintBottom_toTopOf="@id/button_barrier"
             tools:alpha="1" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/add_a_message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -151,7 +151,7 @@
             app:layout_constraintBottom_toTopOf="@id/button_barrier"
             tools:alpha="1" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/add_a_message_entry"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -290,7 +290,7 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-    <org.thoughtcrime.securesms.util.views.TouchInterceptingFrameLayout
+    <asia.coolapp.chat.util.views.TouchInterceptingFrameLayout
         android:id="@+id/progress_wrapper"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -307,6 +307,6 @@
             android:layout_gravity="center"
             android:indeterminate="true"
             android:indeterminateBehavior="cycle" />
-    </org.thoughtcrime.securesms.util.views.TouchInterceptingFrameLayout>
+    </asia.coolapp.chat.util.views.TouchInterceptingFrameLayout>
 
 </FrameLayout>

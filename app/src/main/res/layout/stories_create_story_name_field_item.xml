@@ -17,8 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Signal.Circle"
-        app:srcCompat="@drawable/ic_lock_40"
-        app:tint="@color/signal_icon_tint_primary" />
+        app:srcCompat="@drawable/ic_group_24" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/edit_text_wrapper"
@@ -31,7 +30,7 @@
         app:layout_constraintStart_toEndOf="@id/icon"
         app:layout_constraintTop_toTopOf="@id/icon">
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiEditText
+        <asia.coolapp.chat.components.emoji.EmojiEditText
             android:id="@+id/edit_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

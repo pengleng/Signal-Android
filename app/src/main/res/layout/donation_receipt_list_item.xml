@@ -10,7 +10,7 @@
     android:paddingEnd="16dp"
     android:paddingBottom="16dp">
 
-    <org.thoughtcrime.securesms.badges.BadgeImageView
+    <asia.coolapp.chat.badges.BadgeImageView
         android:id="@+id/badge"
         android:layout_width="32dp"
         android:layout_height="32dp"

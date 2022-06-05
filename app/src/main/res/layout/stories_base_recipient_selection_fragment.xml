@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <org.thoughtcrime.securesms.util.views.DarkOverflowToolbar
+    <asia.coolapp.chat.util.views.DarkOverflowToolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
         app:layout_constraintTop_toTopOf="parent"
         app:navigationIcon="@drawable/ic_arrow_left_24" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiEditText
+    <asia.coolapp.chat.components.emoji.EmojiEditText
         android:id="@+id/search_field"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

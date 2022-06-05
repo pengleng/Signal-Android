@@ -41,7 +41,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/basic_megaphone_title"
             style="@style/Signal.Text.Body"
             android:layout_width="0dp"
@@ -54,7 +54,7 @@
             app:layout_constraintTop_toTopOf="@id/basic_megaphone_image"
             tools:text="Avengers HQ Destroyed!" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+        <asia.coolapp.chat.components.emoji.EmojiTextView
             android:id="@+id/basic_megaphone_body"
             style="@style/Signal.Text.Preview"
             android:layout_width="0dp"

@@ -17,10 +17,6 @@ import androidx.annotation.Nullable;
 import org.signal.imageeditor.core.model.EditorElement;
 import org.signal.imageeditor.core.renderers.MultiLineTextRenderer;
 
-import java.util.Collection;
-import java.util.LinkedList;
-import java.util.List;
-
 /**
  * Invisible {@link android.widget.EditText} that is used during in-image text editing.
  */
@@ -41,8 +37,6 @@ public final class HiddenEditText extends androidx.appcompat.widget.AppCompatEdi
   @Nullable
   private OnEditOrSelectionChange onEditOrSelectionChange;
 
-  private List<TextFilter> textFilters = new LinkedList<>();
-
   public HiddenEditText(Context context) {
     super(context);
     setAlpha(0);
@@ -60,11 +54,7 @@ public final class HiddenEditText extends androidx.appcompat.widget.AppCompatEdi
   protected void onTextChanged(CharSequence text, int start, int lengthBefore, int lengthAfter) {
     super.onTextChanged(text, start, lengthBefore, lengthAfter);
     if (currentTextEntity != null) {
-      String filtered = text.toString();
-      for (TextFilter filter : textFilters) {
-        filtered = filter.filter(filtered);
-      }
-      currentTextEntity.setText(filtered);
+      currentTextEntity.setText(text.toString());
       postEditOrSelectionChange();
     }
   }
@@ -87,18 +77,6 @@ public final class HiddenEditText extends androidx.appcompat.widget.AppCompatEdi
         endEdit();
       }
     }
-  }
-
-  public void addTextFilter(@NonNull TextFilter filter) {
-    textFilters.add(filter);
-  }
-
-  public void addTextFilters(@NonNull Collection<TextFilter> filters) {
-    textFilters.addAll(filters);
-  }
-
-  public void removeTextFilter(@NonNull TextFilter filter) {
-    textFilters.remove(filter);
   }
 
   private void endEdit() {
@@ -194,12 +172,5 @@ public final class HiddenEditText extends androidx.appcompat.widget.AppCompatEdi
 
   public interface OnEditOrSelectionChange {
     void onChange(@NonNull EditorElement editorElement, @NonNull MultiLineTextRenderer textRenderer);
-  }
-
-  public interface TextFilter {
-    /**
-     * Given an input string, return a filtered version.
-     */
-    String filter(@NonNull String text);
   }
 }

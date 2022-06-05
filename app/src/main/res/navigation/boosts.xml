@@ -7,7 +7,7 @@
 
     <dialog
         android:id="@+id/boostFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.boost.BoostFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.boost.BoostFragment"
         android:label="boost_fragment"
         tools:layout="@layout/dsl_settings_fragment">
         <action
@@ -24,7 +24,7 @@
 
     <dialog
         android:id="@+id/setDonationCurrencyFragment"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.currency.SetCurrencyFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.currency.SetCurrencyFragment"
         android:label="set_currency_fragment"
         tools:layout="@layout/dsl_settings_fragment">
 
@@ -39,13 +39,13 @@
 
     <dialog
         android:id="@+id/boostThanksForYourSupportBottomSheetDialog"
-        android:name="org.thoughtcrime.securesms.components.settings.app.subscription.thanks.ThanksForYourSupportBottomSheetDialogFragment"
+        android:name="asia.coolapp.chat.components.settings.app.subscription.thanks.ThanksForYourSupportBottomSheetDialogFragment"
         android:label="boost_thanks_for_your_support_bottom_sheet_dialog"
         tools:layout="@layout/thanks_for_your_support_bottom_sheet_dialog_fragment">
 
         <argument
             android:name="badge"
-            app:argType="org.thoughtcrime.securesms.badges.models.Badge"
+            app:argType="asia.coolapp.chat.badges.models.Badge"
             app:nullable="false" />
 
         <argument

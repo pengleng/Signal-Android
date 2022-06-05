@@ -30,7 +30,7 @@
 
     <include layout="@layout/media_overview_detail_text" />
 
-    <org.thoughtcrime.securesms.components.AudioView
+    <asia.coolapp.chat.components.AudioView
         android:id="@+id/audio"
         android:layout_width="48dp"
         android:layout_height="48dp"

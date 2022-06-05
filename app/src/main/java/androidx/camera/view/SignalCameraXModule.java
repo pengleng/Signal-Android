@@ -55,9 +55,9 @@ import androidx.lifecycle.OnLifecycleEvent;
 
 import com.google.common.util.concurrent.ListenableFuture;
 
-import org.thoughtcrime.securesms.mediasend.camerax.CameraXUtil;
-import org.thoughtcrime.securesms.mms.MediaConstraints;
-import org.thoughtcrime.securesms.video.VideoUtil;
+import asia.coolapp.chat.mediasend.camerax.CameraXUtil;
+import asia.coolapp.chat.mms.MediaConstraints;
+import asia.coolapp.chat.video.VideoUtil;
 
 import java.util.ArrayList;
 import java.util.Arrays;

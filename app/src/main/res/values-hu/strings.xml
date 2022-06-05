@@ -10,7 +10,7 @@
   <string name="AbstractNotificationBuilder_new_message">Új üzenet</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">A Signal frissít…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">A CoolApp frissít…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Jelenleg: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Még nem állítottál be jelmondatot!</string>
@@ -18,14 +18,14 @@
   <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Ez véglegesen fel fogja oldani a Signalt és az üzenet értesítéseket.</string>
   <string name="ApplicationPreferencesActivity_disable">Letiltás</string>
   <string name="ApplicationPreferencesActivity_unregistering">Leregisztrálás</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Leregisztrálás a Signal üzenetekről és hívásokról…</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Letiltod a Signal üzeneteket és hívásokat?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Signal üzenetek és hívások letiltása a kiszolgálóról történő leregisztrálással. Ha a jövőben újra szeretnéd használni ezeket a szolgáltatásokat, akkor újra kell regisztrálnod telefonszámoddal.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Leregisztrálás a CoolApp üzenetekről és hívásokról…</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Letiltod a CoolApp üzeneteket és hívásokat?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">CoolApp üzenetek és hívások letiltása a kiszolgálóról történő leregisztrálással. Ha a jövőben újra szeretnéd használni ezeket a szolgáltatásokat, akkor újra kell regisztrálnod telefonszámoddal.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Hiba történt a kiszolgálóhoz történő kapcsolódás során!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS engedélyezve</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Koppints az alapértelmezett SMS alkalmazás megváltoztatásához!</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS letiltva</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Koppints ide, hogy a Signal legyen az alapértelmezett SMS alkalmazás!</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Koppints ide, hogy a CoolApp legyen az alapértelmezett SMS alkalmazás!</string>
   <string name="ApplicationPreferencesActivity_on">be</string>
   <string name="ApplicationPreferencesActivity_On">Be</string>
   <string name="ApplicationPreferencesActivity_off">ki</string>
@@ -90,10 +90,10 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">A tagok ezután újra hozzáadhatnak majd a csoporthoz.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Lehetőségetek lesz üzenetet küldeni egymásnak és felhívni egymást, valamint a neved és a fotód is megosztásra kerül velük.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">A letiltott személyek nem fognak tudni sem felhívni, sem pedig üzenetet küldeni neked.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Signal újdonságok és hírek blokkolása.</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Signal újdonságok és hírek visszakapcsolása.</string>
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">CoolApp újdonságok és hírek blokkolása.</string>
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">CoolApp újdonságok és hírek visszakapcsolása.</string>
   <string name="BlockUnblockDialog_unblock_s">Feloldod %1$s tiltását?</string>
   <string name="BlockUnblockDialog_block">Letiltás</string>
   <string name="BlockUnblockDialog_block_and_leave">Tiltás és kilépés</string>
@@ -113,12 +113,12 @@
   <string name="CameraXFragment_open_gallery_description">Galéria megnyitása</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Friss kontaktok</string>
-  <string name="CameraContacts_signal_contacts">Signal kontaktok</string>
-  <string name="CameraContacts_signal_groups">Signal csoportok</string>
+  <string name="CameraContacts_signal_contacts">CoolApp kontaktok</string>
+  <string name="CameraContacts_signal_groups">CoolApp csoportok</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Maximum %d db beszélgetést oszthatsz meg.</string>
-  <string name="CameraContacts_select_signal_recipients">Signal címzettek kiválasztása</string>
-  <string name="CameraContacts_no_signal_contacts">Nincs Signal kontakt</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">A kamera gombbal csak Signal kontaktoknak küldhetsz fotókat.</string>
+  <string name="CameraContacts_select_signal_recipients">CoolApp címzettek kiválasztása</string>
+  <string name="CameraContacts_no_signal_contacts">Nincs CoolApp kontakt</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">A kamera gombbal csak CoolApp kontaktoknak küldhetsz fotókat.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Nem találod, akit keresel?</string>
   <string name="CameraContacts_invite_a_contact_to_join_signal">Hívd meg egy ismerősödet Signalra!</string>
   <string name="CameraContacts__menu_search">Keresés</string>
@@ -136,12 +136,12 @@
   <string name="ClearProfileActivity_remove_profile_photo">Eltávolítod a profilképed?</string>
   <string name="ClearProfileActivity_remove_group_photo">Eltávolítod a csoport képét?</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">Signal frissítése</string>
+  <string name="ClientDeprecatedActivity_update_signal">CoolApp frissítése</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">Az app jelenlegi verziója elavult. Üzenetek küldése és fogadása előtt frissítened újabb verzióra.</string>
   <string name="ClientDeprecatedActivity_update">Frissítés</string>
   <string name="ClientDeprecatedActivity_dont_update">Nincs frissítés</string>
   <string name="ClientDeprecatedActivity_warning">Figyelmeztetés</string>
-  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Az általad használt Signal verziója elavult. Megtekintheted a beszélgetés-előzményeket, de frissítésig nem fogsz tudni üzeneteket küldeni és fogadni.</string>
+  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Az általad használt CoolApp verziója elavult. Megtekintheted a beszélgetés-előzményeket, de frissítésig nem fogsz tudni üzeneteket küldeni és fogadni.</string>
   <!--CommunicationActions-->
   <string name="CommunicationActions_no_browser_found">Nem található böngésző.</string>
   <string name="CommunicationActions_send_email">E-mail küldése</string>
@@ -166,7 +166,7 @@
   <!--Action for creating a new story-->
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Üzenet %s</string>
-  <string name="ContactsDatabase_signal_call_s">Signal hívás %s</string>
+  <string name="ContactsDatabase_signal_call_s">CoolApp hívás %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Keresztnév</string>
   <string name="ContactNameEditActivity_family_name">Vezetéknév</string>
@@ -189,7 +189,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Sikertelen küldés, koppints a titkosítatlan üzenetküldéshez</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Szeretnél visszaállni titkosítatlan SMS-re?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Szeretnél visszaállni titkosítatlan MMS-re?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Ez az üzenet <b>nem</b> lesz titkosítva, mert a címzett már nem Signal felhasználó.\n\nElküldöd titkosítatlan üzenetként?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Ez az üzenet <b>nem</b> lesz titkosítva, mert a címzett már nem CoolApp felhasználó.\n\nElküldöd titkosítatlan üzenetként?</string>
   <string name="ConversationItem_unable_to_open_media">Nem található olyan alkalmazás, ami képes lenne megnyitni ezt a médiafájlt.</string>
   <string name="ConversationItem_copied_text">%s másolva</string>
   <string name="ConversationItem_from_s">tőle: %s</string>
@@ -214,7 +214,7 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Úgy tűnik, hogy ez a készülék nem támogatja a tárcsázási műveleteket.</string>
   <string name="ConversationActivity_transport_insecure_sms">Titkosítatlan SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Titkosítatlan MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
   <string name="ConversationActivity_lets_switch_to_signal">Váltsunk Signalra: %1$s</string>
   <string name="ConversationActivity_specify_recipient">Kérlek válassz egy kontaktot</string>
   <string name="ConversationActivity_unblock">Blokkolás feloldása</string>
@@ -229,7 +229,7 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Nem található eszközödön megfelelő alkalmazás a hivatkozás kezeléséhez.</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">A csatlakozási kérésed el lett küldve a csoportadmin részére. Értesítést fogsz kapni, amint reagálnak rá.</string>
   <string name="ConversationActivity_cancel_request">Kérés törlése</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Hangüzenetek küldéséhez engedélyezd, hogy a Signal hozzáférhessen a mikrofonhoz!</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Hangüzenetek küldéséhez engedélyezd, hogy a CoolApp hozzáférhessen a mikrofonhoz!</string>
   <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">A Signalnak szüksége van a Mikrofon engedélyre, hogy hangüzeneteket küldhessen, de ez jelenleg nincs megadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd az \"Mikrofon\"-t.</string>
   <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">A Signalnak szüksége van Mikrofon és Kamera engedélyekre %s felhívásához, de ez jelenleg nincs megadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd a \"Mikrofon\"-t és a \"Kamera\"-t.</string>
   <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Fotók és videók készítéséhez engedélyezd a Signalnak a kamerához való hozzáférést!</string>
@@ -239,7 +239,7 @@
   <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">A Signalnak szüksége van mikrofon-hozzáférési engedélyre, de ez jelenleg meg van tagadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd a \"Mikrofon\"-t, valamint a \"Kamera\"-t.</string>
   <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">A Signalnak mikrofon-hozzáférési engedélyre van szüksége videók rögzítéséhez.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">A Signal nem tud SMS/MMS üzeneteket küldeni, mert nem az alapértelmezett SMS alkalmazásod. Szeretnél változtatni ezen az Android beállításaidban?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">A CoolApp nem tud SMS/MMS üzeneteket küldeni, mert nem az alapértelmezett SMS alkalmazásod. Szeretnél változtatni ezen az Android beállításaidban?</string>
   <string name="ConversationActivity_yes">Igen</string>
   <string name="ConversationActivity_no">Nem</string>
   <string name="ConversationActivity_search_position">%1$d / %2$d</string>
@@ -288,14 +288,14 @@
     <item quantity="other">%1$d db melléklet mentése a háttértárba…</item>
   </plurals>
   <string name="ConversationFragment_pending">Folyamatban…</string>
-  <string name="ConversationFragment_push">Adat (Signal)</string>
+  <string name="ConversationFragment_push">Adat (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Törlés</string>
   <string name="ConversationFragment_deleting_messages">Üzenetek törlése…</string>
   <string name="ConversationFragment_delete_for_me">Törlés számomra</string>
   <string name="ConversationFragment_delete_for_everyone">Törlés mindenki számára</string>
-  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Ez az üzenet a beszélgetés minden olyan résztvevőjénél törlésre kerül, aki a Signal friss verzióját használja. Számukra az is látható látható lesz, hogy töröltél egy üzenetet.</string>
+  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Ez az üzenet a beszélgetés minden olyan résztvevőjénél törlésre kerül, aki a CoolApp friss verzióját használja. Számukra az is látható látható lesz, hogy töröltél egy üzenetet.</string>
   <string name="ConversationFragment_quoted_message_not_found">Az eredeti üzenet nem található</string>
   <string name="ConversationFragment_quoted_message_no_longer_available">Az eredeti üzenet már nem érhető el</string>
   <string name="ConversationFragment_failed_to_open_message">Nem sikerült megnyitni az üzenetet</string>
@@ -307,7 +307,7 @@
   <string name="ConversationFragment__d_group_members_have_the_same_name">A csoport %1$d tagjának megegyezik a neve.</string>
   <string name="ConversationFragment__tap_to_review">Koppints az áttekintéshez</string>
   <string name="ConversationFragment__review_requests_carefully">Gondosan nézd át a kéréseket</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">A Signal talált egy másik, azonos nevű kontaktot.</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">A CoolApp talált egy másik, azonos nevű kontaktot.</string>
   <string name="ConversationFragment_contact_us">Kapcsolat</string>
   <string name="ConversationFragment_verify">Hitelesítés</string>
   <string name="ConversationFragment_not_now">Később</string>
@@ -459,7 +459,7 @@
   <string name="DateUtils_yesterday">Tegnap</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">A munkamenet alaphelyzetbe állt</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">A Signal végpontok közti titkosítást használ, és nagy ritkán újra kell indítania az ehhez felépített mukamenetet. Ennek nincs hatása a biztonságra, de előfordulhat, hogy az újraindítás alatt befutott üzenetek nem érkeznek meg ettől a kontakttól. Ilyen esetben azt javasoljuk, hogy kérd meg partneredet az elveszett üzenetek újraküldésére.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">A CoolApp végpontok közti titkosítást használ, és nagy ritkán újra kell indítania az ehhez felépített mukamenetet. Ennek nincs hatása a biztonságra, de előfordulhat, hogy az újraindítás alatt befutott üzenetek nem érkeznek meg ettől a kontakttól. Ilyen esetben azt javasoljuk, hogy kérd meg partneredet az elveszett üzenetek újraküldésére.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Társítás megszüntetése ezzel: \'%s\'?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Az eszköz a társítás megszüntetését követően nem lesz képes üzenetek küldésére vagy fogadására.</string>
@@ -479,7 +479,7 @@
   <string name="DozeReminder_optimize_for_missing_play_services">Optimalizálás hiányzó Play Szolgáltatásokra</string>
   <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ez a készülék nem támogatja a Play Szolgáltatásokat. Koppints a rendszer akkumulátor-optimalizációinak letiltásához, ami megakadályozza a Signalt abban, hogy inaktív állapotban is letöltse az üzeneteket.</string>
   <!--ExpiredBuildReminder-->
-  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Az általad használt Signal verziója elavult. Üzenetek küldéséhez és fogadásához frissíts most!</string>
+  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Az általad használt CoolApp verziója elavult. Üzenetek küldéséhez és fogadásához frissíts most!</string>
   <string name="ExpiredBuildReminder_update_now">Frissítés most</string>
   <!--PendingGroupJoinRequestsReminder-->
   <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">
@@ -492,8 +492,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Több csatolmányt használata csak fényképek és videók esetén támogatott.</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">Nincs jogosultságod, hogy bármit ebbe a csoportba küldj</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Elhúzódó Signal kommunikációs hiba!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">A Signal nem tudott beregisztrálni a Google Play Szolgáltatásokra. A Signal üzenetek és hívások ezért le lettek tiltva. Kérlek próbálj meg újraregisztrálni a Beállítások &gt; Haladó-ban!</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Elhúzódó CoolApp kommunikációs hiba!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">A CoolApp nem tudott beregisztrálni a Google Play Szolgáltatásokra. A CoolApp üzenetek és hívások ezért le lettek tiltva. Kérlek próbálj meg újraregisztrálni a Beállítások &gt; Haladó-ban!</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Hiba történt a teljes felbontású GIF letöltése során</string>
   <!--GiphyFragmentPageAdapter-->
@@ -647,7 +647,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">A mező kitöltése kötelező.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">A csoport létrehozása nem sikerült.</string>
   <string name="AddGroupDetailsFragment__try_again_later">Próbáld újra később!</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Olyan kontaktot választottál ki, aki nem támogatja a Signal csoportokat, így ez a csoport MMS lesz.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Olyan kontaktot választottál ki, aki nem támogatja a CoolApp csoportokat, így ez a csoport MMS lesz.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Az egyéni MMS csoportnevek és -fotók csak számodra lesznek láthatóak.</string>
   <string name="AddGroupDetailsFragment__remove">Eltávolítás</string>
   <string name="AddGroupDetailsFragment__sms_contact">SMS kontakt</string>
@@ -776,9 +776,9 @@
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Frissítsd a Signalt a csoporthivatkozások használatához</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Ez a Signal verzió nem támogatja a csoporthivatkozásokat. Frissíts a legújabb verzióra, hogy a hivatkozás használatával csatlakozhass ehhez a csoporthoz.</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Signal frissítése</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Egy vagy több párosított eszközöd a Signal olyan verzióját használja, amely nem támogatja a csoporthivatkozásokat. A belépéshez frissítsd Signalt párosított eszközeiden!</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Ez a CoolApp verzió nem támogatja a csoporthivatkozásokat. Frissíts a legújabb verzióra, hogy a hivatkozás használatával csatlakozhass ehhez a csoporthoz.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">CoolApp frissítése</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Egy vagy több párosított eszközöd a CoolApp olyan verzióját használja, amely nem támogatja a csoporthivatkozásokat. A belépéshez frissítsd Signalt párosított eszközeiden!</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">A csoporthivatkozás érvénytelen</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Barátok meghívása</string>
@@ -825,7 +825,7 @@
   <string name="LongMessageActivity_message_from_s">Üzenet tőle: %1$s</string>
   <string name="LongMessageActivity_your_message">Saját üzenet</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Háttérkapcsolat engedélyezve</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Hiba történt a mobilszolgáltató MMS beállításainak olvasása során</string>
@@ -878,7 +878,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">Te küldted %1$s részére</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">Emlékeztess később</string>
-  <string name="Megaphones_verify_your_signal_pin">Signal PIN kód hitelesítése</string>
+  <string name="Megaphones_verify_your_signal_pin">CoolApp PIN kód hitelesítése</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">Időnként megkérünk PIN kódod hitelesítésére, hogy biztosan ne felejtsd el.</string>
   <string name="Megaphones_verify_pin">PIN hitelesítése</string>
   <string name="Megaphones_get_started">Kezdés</string>
@@ -888,11 +888,11 @@
   <string name="Megaphones_appearance">Megjelenés</string>
   <string name="Megaphones_add_photo">Fotó hozzáadása</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Signal hívás folyamatban</string>
-  <string name="NotificationBarManager__establishing_signal_call">Signal hívás létesítése</string>
-  <string name="NotificationBarManager__incoming_signal_call">Bejövő Signal hívás</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">Bejövő Signal csoporthívás</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">A Signal hívás szolgáltatás leállítása</string>
+  <string name="NotificationBarManager_signal_call_in_progress">CoolApp hívás folyamatban</string>
+  <string name="NotificationBarManager__establishing_signal_call">CoolApp hívás létesítése</string>
+  <string name="NotificationBarManager__incoming_signal_call">Bejövő CoolApp hívás</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">Bejövő CoolApp csoporthívás</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">A CoolApp hívás szolgáltatás leállítása</string>
   <string name="NotificationBarManager__decline_call">Hívás elutasítása</string>
   <string name="NotificationBarManager__answer_call">Hívás felvétele</string>
   <string name="NotificationBarManager__end_call">Hívás befejezése</string>
@@ -935,7 +935,7 @@
   <string name="MessageDecryptionUtil_tap_to_send_a_debug_log">Érints a hibakeresési napló beküldéséhez</string>
   <!--MessageRecord-->
   <string name="MessageRecord_unknown">Ismeretlen</string>
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Egy olyan üzenet érkezett, amely a Signal egy régebbi, már nem támogatott verziójával lett titkosítva. Kérd meg a feladót, hogy frissítsen a legfrissebb verzióra, majd küldje el újra az üzenetet!</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Egy olyan üzenet érkezett, amely a CoolApp egy régebbi, már nem támogatott verziójával lett titkosítva. Kérd meg a feladót, hogy frissítsen a legfrissebb verzióra, majd küldje el újra az üzenetet!</string>
   <string name="MessageRecord_left_group">Kiléptél a csoportból.</string>
   <string name="MessageRecord_you_updated_group">Frissítetted a csoportot.</string>
   <string name="MessageRecord_the_group_was_updated">A csoport frissítve lett.</string>
@@ -1178,24 +1178,24 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Érvénytelen QR kód.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Sajnáljuk, de jelenleg túl sok eszköz van társítva, próbálj meg eltávolítani néhányat</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Sajnáljuk, de ez nem egy érvényes eszköz-társítási QR kód.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Signal eszköz társítása?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Úgy tűnik, hogy egy harmadik féltől származó vonalkódolvasóval próbálsz Signal eszközt társítani. A saját védelmed érdekében kérlek szkenneld újra a kódot Signalon belül!</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">CoolApp eszköz társítása?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Úgy tűnik, hogy egy harmadik féltől származó vonalkódolvasóval próbálsz CoolApp eszközt társítani. A saját védelmed érdekében kérlek szkenneld újra a kódot Signalon belül!</string>
   <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">A Signalnak szüksége van a Kamera engedélyre, hogy QR kódot szkennelhessen, de ez jelenleg nincs megadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd a \"Kamera\"-t.</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Nem lehet QR kódot szkennelni Kamera hozzáférési engedély nélkül</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Frissítés most</string>
-  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">A Signal jelenleg telepített verziója ma lejár. Frissíts a legújabb verzióra!</string>
+  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">A CoolApp jelenleg telepített verziója ma lejár. Frissíts a legújabb verzióra!</string>
   <plurals name="OutdatedBuildReminder_your_version_of_signal_will_expire_in_n_days">
-    <item quantity="one">A Signal jelenleg telepített verziója holnap lejár. Frissíts a legújabb verzióra!</item>
-    <item quantity="other">A Signal jelenleg telepített verziója %d napon belül lejár. Frissíts a legújabb verzióra!</item>
+    <item quantity="one">A CoolApp jelenleg telepített verziója holnap lejár. Frissíts a legújabb verzióra!</item>
+    <item quantity="other">A CoolApp jelenleg telepített verziója %d napon belül lejár. Frissíts a legújabb verzióra!</item>
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Add meg a jelmondatot</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal ikon</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">CoolApp ikon</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Jelmondat küldése</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Érvénytelen jelmondat!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Signal feloldása</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - Képernyőzár</string>
+  <string name="PassphrasePromptActivity_unlock_signal">CoolApp feloldása</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - Képernyőzár</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Térkép</string>
   <string name="PlacePickerActivity_drop_pin">Rajztű ledobása</string>
@@ -1217,7 +1217,7 @@ Kérlek telepítsd újra a Google Play Szolgáltatásokat, majd próbáld újra!
     <item quantity="one">Már csak %1$d próbálkozásod maradt. Ha kifogysz belőlük, lehetőséged lesz új PIN létrehozására. Regisztrálhatsz újra, majd használatba veheted a fiókodat, de mentett beállításaid egy része, mint például a profilinformációid elvesznek. </item>
     <item quantity="other">Még %1$d próbálkozásod maradt. Ha kifogysz belőlük, lehetőséged lesz új PIN létrehozására.  Regisztrálhatsz újra, majd használatba veheted a fiókodat, de mentett beállításaid egy része, mint például a profil-információid elvesznek. </item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Signal regisztráció - Segítségkérés a PIN kód használatához Androidon</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">CoolApp regisztráció - Segítségkérés a PIN kód használatához Androidon</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">Add meg az alfanumerikus PIN kódot</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">Add meg a számjegyekből álló PIN kódot</string>
   <!--PinRestoreLockedFragment-->
@@ -1226,7 +1226,7 @@ Kérlek telepítsd újra a Google Play Szolgáltatásokat, majd próbáld újra!
   <string name="PinRestoreLockedFragment_create_new_pin">Új PIN létrehozása</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Figyelmeztetés</string>
-  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">PIN kódod letiltásával egy esetleges újraregisztráció során az összes Signal adatod el fog veszni, kivéve ha azokat előtte külön lemented majd visszatöltöd. Letiltott PIN kóddal nem lehetséges a regisztrációs zár bekapcsolása.</string>
+  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">PIN kódod letiltásával egy esetleges újraregisztráció során az összes CoolApp adatod el fog veszni, kivéve ha azokat előtte külön lemented majd visszatöltöd. Letiltott PIN kóddal nem lehetséges a regisztrációs zár bekapcsolása.</string>
   <string name="PinOptOutDialog_disable_pin">PIN letiltása</string>
   <!--RatingManager-->
   <string name="RatingManager_rate_this_app">Értékeld az alkalmazást</string>
@@ -1242,7 +1242,7 @@ Kérlek telepítsd újra a Google Play Szolgáltatásokat, majd próbáld újra!
   <string name="ReactionsRecipientAdapter_you">Te</string>
   <!--RecaptchaRequiredBottomSheetFragment-->
   <string name="RecaptchaRequiredBottomSheetFragment_verify_to_continue_messaging">Az üzenetküldés folytatásához ellenőrzés szükséges</string>
-  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">A Signal hálózatán küldött kéretlen üzenetek megelőzése érdekében kérlek végezd el az alábbi ellenőrzést!</string>
+  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">A CoolApp hálózatán küldött kéretlen üzenetek megelőzése érdekében kérlek végezd el az alábbi ellenőrzést!</string>
   <string name="RecaptchaRequiredBottomSheetFragment_after_verifying_you_can_continue_messaging">Az ellenőrzést követően folytathatod az üzenetküldést. Az összes felfüggesztett üzenetet automatikusan elküldjük.</string>
   <!--Recipient-->
   <string name="Recipient_you">Te</string>
@@ -1266,18 +1266,18 @@ Kérlek telepítsd újra a Google Play Szolgáltatásokat, majd próbáld újra!
   <!--Title text for the Valentine\'s Day donation megaphone. The placeholder will always be a heart emoji. Needs to be a placeholder for Android reasons.-->
   <string name="ValentinesDayMegaphone_happy_heart_day">Boldog 💜 napot!</string>
   <!--Body text for the Valentine\'s Day donation megaphone.-->
-  <string name="ValentinesDayMegaphone_show_your_affection">Mutasd ki törődésed, és válj Signal Fenntartóvá!</string>
+  <string name="ValentinesDayMegaphone_show_your_affection">Mutasd ki törődésed, és válj CoolApp Fenntartóvá!</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Koppintsd ide a videókép bekapcsolásához</string>
   <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">%1$s hívásához a Signalnak hozzá kell férnie kamerádhoz</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Hívás…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">A csoport túl nagy minden tag megcsörgetéséhez.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">Újracsatlakozás…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Signal hívás</string>
-  <string name="WebRtcCallView__signal_video_call">Signal videóhívás</string>
+  <string name="WebRtcCallView__signal_call">CoolApp hívás</string>
+  <string name="WebRtcCallView__signal_video_call">CoolApp videóhívás</string>
   <string name="WebRtcCallView__start_call">Hívás indítása</string>
   <string name="WebRtcCallView__join_call">Belépés a hívásba</string>
   <string name="WebRtcCallView__call_is_full">A hívás betelt</string>
@@ -1287,11 +1287,11 @@ Kérlek telepítsd újra a Google Play Szolgáltatásokat, majd próbáld újra!
   <string name="WebRtcCallView__reconnecting">Újracsatlakozás…</string>
   <string name="WebRtcCallView__joining">Csatlakozás…</string>
   <string name="WebRtcCallView__disconnected">Lecsatlakozva</string>
-  <string name="WebRtcCallView__signal_will_ring_s">A Signal megcsörgeti őt: %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">A Signal megcsörgeti őket: %1$s és %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">A CoolApp megcsörgeti őt: %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">A CoolApp megcsörgeti őket: %1$s és %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="one">A Signal hívni fogja %1$s, %2$s és %3$d további ismerősödet</item>
-    <item quantity="other">A Signal megcsörgeti %1$s, %2$s és %3$d további ismerősödet</item>
+    <item quantity="one">A CoolApp hívni fogja %1$s, %2$s és %3$d további ismerősödet</item>
+    <item quantity="other">A CoolApp megcsörgeti %1$s, %2$s és %3$d további ismerősödet</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s értesítve lesz</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s és %2$s értesítve lesz</string>
@@ -1368,18 +1368,18 @@ szám (%s) érvénytelen.
   <string name="RegistrationActivity_is_your_phone_number_above_correct">Helyes a megadott telefonszám?</string>
   <string name="RegistrationActivity_edit_number">Szám szerkesztése</string>
   <string name="RegistrationActivity_missing_google_play_services">Hiányzó Google Play Szolgáltatások</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Ezen a készüléken hiányzik a Google Play Szolgáltatások. Továbbra is használhatod a Signalt, de ez a konfiguráció csökkent megbízhatóságot vagy teljesítményt eredményezhet.\n\nHa nem egy hozzáértő felhasználó vagy, aki egy utángyártott Android ROM-ot futtat, vagy ez egy hibának tűnik neked, akkor kérlek vedd fel a kapcsolatot a probléma megoldása érdekében a support@signal.org -gal.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Ezen a készüléken hiányzik a Google Play Szolgáltatások. Továbbra is használhatod a Signalt, de ez a konfiguráció csökkent megbízhatóságot vagy teljesítményt eredményezhet.\n\nHa nem egy hozzáértő felhasználó vagy, aki egy utángyártott Android ROM-ot futtat, vagy ez egy hibának tűnik neked, akkor kérlek vedd fel a kapcsolatot a probléma megoldása érdekében a support@CoolApp.org -gal.</string>
   <string name="RegistrationActivity_i_understand">Megértettem</string>
   <string name="RegistrationActivity_play_services_error">Play Szolgáltatások hiba</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">A Google Play Szolgáltatások épp frissítés alatt áll, vagy átmenetileg nem elérhető. Kérlek próbáld újra.</string>
   <string name="RegistrationActivity_terms_and_privacy">Feltételek &amp; Adatvédelmi irányelvek</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">A Signalnak hozzá kell férnie telefonkönyvedhez és a médiafájljaidhoz annak érdekében, hogy összeköthessen barátaiddal, és lehetővé váljon az üzenetküldés. Telefonkönyvedet feltöltjük a Signal privát felderítő szolgáltatásába, azonban a végpontok közti titkosításnak köszönhetően annak tartalma még a Signal szolgáltatás üzemeltetői számára sem lesz olvasható.</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">A Signalnak hozzá kell férnie telefonkönyvedhez annak érdekében, hogy összeköthessen barátaiddal, és lehetővé váljon az üzenetküldés. Telefonkönyvedet feltöltjük a Signal privát felderítő szolgáltatásába, azonban a végpontok közti titkosításnak köszönhetően annak tartalma még a Signal szolgáltatás üzemeltetői számára sem lesz olvasható.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">A Signalnak hozzá kell férnie telefonkönyvedhez és a médiafájljaidhoz annak érdekében, hogy összeköthessen barátaiddal, és lehetővé váljon az üzenetküldés. Telefonkönyvedet feltöltjük a CoolApp privát felderítő szolgáltatásába, azonban a végpontok közti titkosításnak köszönhetően annak tartalma még a CoolApp szolgáltatás üzemeltetői számára sem lesz olvasható.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">A Signalnak hozzá kell férnie telefonkönyvedhez annak érdekében, hogy összeköthessen barátaiddal, és lehetővé váljon az üzenetküldés. Telefonkönyvedet feltöltjük a CoolApp privát felderítő szolgáltatásába, azonban a végpontok közti titkosításnak köszönhetően annak tartalma még a CoolApp szolgáltatás üzemeltetői számára sem lesz olvasható.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Túl sokszor próbálkoztál ennek a számnak a regisztrációjával. Kérlek próbáld újra később!</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Nem lehet kapcsolódni szolgáltatáshoz. Kérlek ellenőrizd a hálózati kapcsolatot és próbáld újra!</string>
   <string name="RegistrationActivity_non_standard_number_format">Nem szabványos számformátum</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">A begépelt szám (%1$s) nem tűnik szabványos formátumúnak.\n\nNem erre gondoltál: %2$s ?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android - Telefonszám formátum</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android - Telefonszám formátum</string>
   <string name="RegistrationActivity_call_requested">Hívás kérve</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Még %d lépésre vagy a fejlesztői napló elküldésétől.</item>
@@ -1400,7 +1400,7 @@ szám (%s) érvénytelen.
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">Bekapcsolod a regisztrációs zárat?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">Kikapcsolod a regisztrációs zárat?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Amennyiben elfelejted Signal PIN kódodat a következő Signal regisztáció alkalmával, 7 napra ki leszel zárva a fiókodból.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Amennyiben elfelejted CoolApp PIN kódodat a következő CoolApp regisztáció alkalmával, 7 napra ki leszel zárva a fiókodból.</string>
   <string name="RegistrationLockV2Dialog_turn_on">Bekapcsolás</string>
   <string name="RegistrationLockV2Dialog_turn_off">Kikapcsolás</string>
   <!--RevealableMessageView-->
@@ -1417,12 +1417,12 @@ szám (%s) érvénytelen.
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Hozzáadás a Névjegyzékhez</string>
   <string name="SharedContactDetailsActivity_invite_to_signal">Meghívás a Signalra</string>
-  <string name="SharedContactDetailsActivity_signal_message">Signal üzenet</string>
-  <string name="SharedContactDetailsActivity_signal_call">Signal hívás</string>
+  <string name="SharedContactDetailsActivity_signal_message">CoolApp üzenet</string>
+  <string name="SharedContactDetailsActivity_signal_call">CoolApp hívás</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Hozzáadás a névjegyzékhez</string>
   <string name="SharedContactView_invite_to_signal">Meghívás a Signalra</string>
-  <string name="SharedContactView_message">Signal üzenet</string>
+  <string name="SharedContactView_message">CoolApp üzenet</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">Továbbiak</string>
   <!--SignalPinReminders-->
@@ -1442,14 +1442,14 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="SmsMessageRecord_secure_session_reset">Újraindítottad a biztonságos munkamenetet.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s újraindította a biztonságos munkamenetet.</string>
   <string name="SmsMessageRecord_duplicate_message">Üzenet duplikálása.</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Ez az üzenet nem dolgozható fel, mert a Signal egy újabb verziójából lett küldve. Kérd meg a partnered, hogy frissítés után ismét küldje el az üzenetet!   </string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Ez az üzenet nem dolgozható fel, mert a CoolApp egy újabb verziójából lett küldve. Kérd meg a partnered, hogy frissítés után ismét küldje el az üzenetet!   </string>
   <string name="SmsMessageRecord_error_handling_incoming_message">A bejövő üzenet kezelése sikertelen volt.</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Matricák</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Telepített matricák</string>
   <string name="StickerManagementAdapter_stickers_you_received">Beérkezett matricák</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Signal Művészi Sorozat</string>
+  <string name="StickerManagementAdapter_signal_artist_series">CoolApp Művészi Sorozat</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Nincsenek matricák telepítve</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">A beérkezett üzenetekben szereplő matricák itt fognak megjelenni</string>
   <string name="StickerManagementAdapter_untitled">Névtelen</string>
@@ -1475,8 +1475,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="SupportEmailUtil_filter">Szűrő:</string>
   <string name="SupportEmailUtil_device_info">Eszköz információ:</string>
   <string name="SupportEmailUtil_android_version">Android verzió:</string>
-  <string name="SupportEmailUtil_signal_version">Signal verzió:</string>
-  <string name="SupportEmailUtil_signal_package">Signal csomag:</string>
+  <string name="SupportEmailUtil_signal_version">CoolApp verzió:</string>
+  <string name="SupportEmailUtil_signal_package">CoolApp csomag:</string>
   <string name="SupportEmailUtil_registration_lock">Regisztrációs zár:</string>
   <string name="SupportEmailUtil_locale">Régió:</string>
   <!--ThreadRecord-->
@@ -1512,8 +1512,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ThreadRecord_video">Videó</string>
   <string name="ThreadRecord_chat_session_refreshed">A munkamenet alaphelyzetbe állt</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Signal frissítés</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">A Signal egy új verziója érhető el, koppints a frissítéshez</string>
+  <string name="UpdateApkReadyListener_Signal_update">CoolApp frissítés</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">A CoolApp egy új verziója érhető el, koppints a frissítéshez</string>
   <!--UntrustedSendDialog-->
   <string name="UntrustedSendDialog_send_message">Üzenet küldése?</string>
   <string name="UntrustedSendDialog_send">Küldés</string>
@@ -1538,11 +1538,11 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
     <item quantity="other">%d ismerős már elérhető Signalon!</item>
   </plurals>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">A kontaktod a Signal egy régebbi verzióját futtatja. Kérd meg, hogy frissítse azt biztonsági számotok ellenőrzése előtt!</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">A kontaktod a Signal egy újabb verzióját futtatja, amelynek QR kód formátuma nem kompatibilis a te verzióddal. Kérlek frissíts az összehasonlításhoz!</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">A kontaktod a CoolApp egy régebbi verzióját futtatja. Kérd meg, hogy frissítse azt biztonsági számotok ellenőrzése előtt!</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">A kontaktod a CoolApp egy újabb verzióját futtatja, amelynek QR kód formátuma nem kompatibilis a te verzióddal. Kérlek frissíts az összehasonlításhoz!</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">A szkennelt QR kód nem tartalmaz helyesen formázott biztonság szám ellenőrző kódot. Kérlek próbáld újraszkennelni!</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Biztonsági szám megosztása…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Signal biztonsági számunk:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">CoolApp biztonsági számunk:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Úgy néz ki, egy alkalmazásod sem alkalmas a megosztás kezeléséhez.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">A vágólapon nem található biztonsági szám, amellyel össze lehetne hasonlítani</string>
   <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">A Signalnak szüksége van a Kamera engedélyre, hogy QR kódot szkennelhessen, de ez jelenleg nincs megadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd a \"Kamera\"-t.</string>
@@ -1564,8 +1564,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ApplicationMigrationService_system_database_import_is_complete">Rendszer adatbázis importálása befejezve.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Koppints a megnyitáshoz!</string>
-  <string name="KeyCachingService_passphrase_cached">Signal feloldva</string>
-  <string name="KeyCachingService_lock">Signal zárolása</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp feloldva</string>
+  <string name="KeyCachingService_lock">CoolApp zárolása</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Te</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Nem támogatott médiatípus</string>
@@ -1587,14 +1587,14 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="MessageNotifier_failed_to_deliver_message">Nem sikerült az üzenet kézbesítése.</string>
   <string name="MessageNotifier_error_delivering_message">Hiba történt az üzenet kézbesítése során.</string>
   <string name="MessageNotifier_message_delivery_paused">Üzenetek kézbesítése felfüggesztve</string>
-  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">A Signal hálózatán történő üzenetküldéshez ellenőrzés szükséges.</string>
+  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">A CoolApp hálózatán történő üzenetküldéshez ellenőrzés szükséges.</string>
   <string name="MessageNotifier_mark_all_as_read">Összes megjelölése olvasottként</string>
   <string name="MessageNotifier_mark_read">Olvasottnak jelöl</string>
   <string name="MessageNotifier_turn_off_these_notifications">Értesítések kikapcsolása</string>
   <string name="MessageNotifier_view_once_photo">Egyszer megjelenő fotó</string>
   <string name="MessageNotifier_view_once_video">Egyszer megjelenő videó</string>
   <string name="MessageNotifier_reply">Válasz</string>
-  <string name="MessageNotifier_signal_message">Signal üzenet</string>
+  <string name="MessageNotifier_signal_message">CoolApp üzenet</string>
   <string name="MessageNotifier_unsecured_sms">Titkosítatlan SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Új üzeneteid érkezhettek</string>
   <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Nyisd meg a Signalt a legújabb értesítések megtekintéséhez!</string>
@@ -1609,7 +1609,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Reakció az egyszer megtekinthető videódra: %1$s</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">Reakció a matricádra: %1$s</string>
   <string name="MessageNotifier_this_message_was_deleted">Ez az üzenet ki lett törölve.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Kikapcsolod az új kontakt érhető el Signalon értesítést? Újra engedélyezheted a  Signal &gt; Beállítások &gt; Értesítések menüpontban.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Kikapcsolod az új kontakt érhető el Signalon értesítést? Újra engedélyezheted a  CoolApp &gt; Beállítások &gt; Értesítések menüpontban.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Üzenetek</string>
   <string name="NotificationChannel_calls">Hívások</string>
@@ -1629,7 +1629,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="NotificationChannel_call_status">Hívás státusza</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">A gyors válasz nem érhető el, ha a Signal zárolva van!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">A gyors válasz nem érhető el, ha a CoolApp zárolva van!</string>
   <string name="QuickResponseService_problem_sending_message">Probléma lépett fel az üzenet küldése során!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Mentve ide: %s</string>
@@ -1640,7 +1640,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Érvénytelen parancsikon</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Új üzenet</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Felkérés csevegésre</string>
   <string name="SingleRecipientNotificationBuilder_you">Te</string>
@@ -1656,7 +1656,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="UnauthorizedReminder_device_no_longer_registered">Az eszköz már nincs regisztrálva</string>
   <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Ez valószínűleg azért van, mert a Signalhoz tartozó telefonszámodat egy másik eszközön is regisztráltad. Koppints az újraregisztráláshoz!</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">A hívás fogadásához engedélyezd, hogy a Signal hozzáférhessen a mikrofonhoz!</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">A hívás fogadásához engedélyezd, hogy a CoolApp hozzáférhessen a mikrofonhoz!</string>
   <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Hogy felvedd a tőle érkező hívást: %s, adj engedélyt a Signalnak mikrofonod eléréséhez!</string>
   <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">A Signalnak szüksége van a Mikrofon és Kamera engedélyekre, hogy képes legyen hívások indítására és fogadására, de ez jelenleg nincs megadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd a \"Mikrofon\"-t és a \"Kamera\"-t.</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Fogadva egy társított eszközön.</string>
@@ -1697,12 +1697,12 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">A Signalnak szüksége van a Névjegyek engedélyre annak érdekében, hogy megjelenítse a névjegyeid, de ez jelenleg nincs megadva. Kérlek menj az alkalmazásbeállításokhoz, válaszd az \"Engedélyek\"-et és engedélyezd a \"Névjegyek\"-et.</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Hiba történt a névjegyek betöltése során, ellenőrizd a hálózati kapcsolatod</string>
   <string name="ContactSelectionListFragment_username_not_found">A felhasználónév nem található</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" nem Signal felhasználó. Kérlek ellenőrizd a felhasználónevet, majd próbáld újra.</string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" nem CoolApp felhasználó. Kérlek ellenőrizd a felhasználónevet, majd próbáld újra.</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">Nem szükséges saját magadat a csoporthoz adnod</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">A csoport elérte maximális taglétszámát</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">A Signal csoportok legfeljebb %1$d tagból állhatnak.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">A CoolApp csoportok legfeljebb %1$d tagból állhatnak.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">Elérted a javasolt limitet</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">A Signal csoportok akkor működnek a legjöbban, ha %1$d vagy kevesebb tagból állnak. Több tag hozzáadásával az üzenetek küldésének és fogadásának ideje megnőhet.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">A CoolApp csoportok akkor működnek a legjöbban, ha %1$d vagy kevesebb tagból állnak. Több tag hozzáadásával az üzenetek küldésének és fogadásának ideje megnőhet.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="one">%1$d tag</item>
     <item quantity="other">%1$d tag</item>
@@ -1717,7 +1717,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   </plurals>
   <!--Displays number of viewers for a story-->
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Signal üzenet</string>
+  <string name="conversation_activity__type_message_push">CoolApp üzenet</string>
   <string name="conversation_activity__type_message_sms_insecure">Titkosítatlan SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Titkosítatlan MMS</string>
   <string name="conversation_activity__from_sim_name">%1$s hálózaton</string>
@@ -1729,7 +1729,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Gyorskamera kapcsoló</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Hang melléklet felvétele és küldése</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Hangcsatolmány rögzítésének zárolása</string>
-  <string name="conversation_activity__enable_signal_for_sms">Signal engedélyezése SMS-hez</string>
+  <string name="conversation_activity__enable_signal_for_sms">CoolApp engedélyezése SMS-hez</string>
   <string name="conversation_activity__message_could_not_be_sent">Az üzenetet nem sikerült elküldeni. Ellenőrizd a hálózati kapcsolatot és próbáld újra!</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Elvetés csúsztatással</string>
@@ -1760,7 +1760,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ConversationUpdateItem_view">Megtekintés</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">Az eltűnő üzenetek időzítője %1$s értékre lesz állítva a következő üzenettől kezdve.</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Signal Löket</string>
+  <string name="ConversationUpdateItem_signal_boost">CoolApp Löket</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">Válj Fenntartóvá!</string>
   <!--audio_view-->
@@ -1782,7 +1782,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">Görgetés az aljára</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">A Buborék egy Android funkció, amit letilthatsz a Signal beszélgetések esetében.</string>
+  <string name="BubbleOptOutTooltip__description">A Buborék egy Android funkció, amit letilthatsz a CoolApp beszélgetések esetében.</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">Később</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -1868,7 +1868,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--giphy_fragment-->
   <string name="giphy_fragment__nothing_found">Nincs találat</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Szeretnéd importálni a már meglévő szöveges üzeneteidet a Signal titkosított adatbázisába?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Szeretnéd importálni a már meglévő szöveges üzeneteidet a CoolApp titkosított adatbázisába?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">Az alapértelmezett rendszer adatbázist semmilyen módon nem fogjuk megváltoztatni.</string>
   <string name="database_migration_activity__skip">Kihagyás</string>
   <string name="database_migration_activity__import">Importálás</string>
@@ -1931,7 +1931,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Adj meg egy nevet vagy telefonszámot</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ha szeretnéd ellenőrizni a titkosítás sértetlenségét %s nevű partnereddel, hasonlítsd össze a fenti számot az ő készülékén megjelenő számmal. Alternatív megoldásként beszkennelheted a kódot telefonja kijelzőjéről <a href="https://signal.org/redirect/safety-numbers">Tudj meg többet!</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ha szeretnéd ellenőrizni a titkosítás sértetlenségét %s nevű partnereddel, hasonlítsd össze a fenti számot az ő készülékén megjelenő számmal. Alternatív megoldásként beszkennelheted a kódot telefonja kijelzőjéről <a href="https://CoolApp.org/redirect/safety-numbers">Tudj meg többet!</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Koppints a szkenneléshez</string>
   <string name="verify_display_fragment__successful_match">Sikeres egyezés</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">Biztonsági azonosító ellenőrzése sikertelen</string>
@@ -1989,7 +1989,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="HelpFragment__how_do_you_feel">Hogy érzed magad? (opcionális)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">Mondd el nekünk, miért keresel minket!</string>
   <string name="HelpFragment__support_info">Támogatás információ</string>
-  <string name="HelpFragment__signal_android_support_request">Signal Android támogatási kérés</string>
+  <string name="HelpFragment__signal_android_support_request">CoolApp Android támogatási kérés</string>
   <string name="HelpFragment__debug_log">Hibakeresési napló:</string>
   <string name="HelpFragment__could_not_upload_logs">Nem sikerült feltölteni a naplót</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Hogy megérthessük a problémát, fogalmazz olyan pontosan, amennyire csak lehetséges!</string>
@@ -2001,7 +2001,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
     <item>Visszajelzés</item>
     <item>Egyéb</item>
     <item>Fizetések (MobileCoin)</item>
-    <item>Fenntartók &amp; Signal Löket</item>
+    <item>Fenntartók &amp; CoolApp Löket</item>
   </string-array>
   <!--ReactWithAnyEmojiBottomSheetDialogFragment-->
   <string name="ReactWithAnyEmojiBottomSheetDialogFragment__this_message">Jelenlegi üzenet</string>
@@ -2051,8 +2051,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences__sms_mms">SMS és MMS</string>
   <string name="preferences__pref_all_sms_title">Összes SMS fogadása</string>
   <string name="preferences__pref_all_mms_title">Összes MMS fogadása</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Signal használata minden bejövő szöveges üzenethez</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Signal használata az összes bejövő multimédia üzenethez</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">CoolApp használata minden bejövő szöveges üzenethez</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">CoolApp használata az összes bejövő multimédia üzenethez</string>
   <string name="preferences__pref_enter_sends_title">Küldés az Enter lenyomásával</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Az Enter billentyű megnyomása elküldi a szöveges üzeneteket</string>
   <string name="preferences__pref_use_address_book_photos">Profilképek használata a telefon névjegyzékéből</string>
@@ -2067,7 +2067,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Képernyő és értesítések zárolása jelmondattal</string>
   <string name="preferences__screen_security">Képernyőbiztonság</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Képernyőképek készítésének blokkolása a futó alkalmazások listájában és az alkalmazáson belül</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Signal automatikus zárolása meghatározott inaktivitási időszak után</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">CoolApp automatikus zárolása meghatározott inaktivitási időszak után</string>
   <string name="preferences__inactivity_timeout_passphrase">Inaktivitási időtúllépés jelmondat</string>
   <string name="preferences__inactivity_timeout_interval">Inaktivitási időtúllépés időköz</string>
   <string name="preferences__notifications">Értesítések</string>
@@ -2098,10 +2098,10 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences__slow">Lassú</string>
   <string name="preferences__help">Súgó</string>
   <string name="preferences__advanced">Haladó</string>
-  <string name="preferences__donate_to_signal">Adomány a Signal számára</string>
+  <string name="preferences__donate_to_signal">Adomány a CoolApp számára</string>
   <string name="preferences__subscription">Előfizetés</string>
-  <string name="preferences__become_a_signal_sustainer">Válj Signal Fenntartóvá!</string>
-  <string name="preferences__signal_boost">Signal Löket</string>
+  <string name="preferences__become_a_signal_sustainer">Válj CoolApp Fenntartóvá!</string>
+  <string name="preferences__signal_boost">CoolApp Löket</string>
   <string name="preferences__privacy">Adatvédelem</string>
   <string name="preferences__mms_user_agent">MMS User Agent</string>
   <string name="preferences__advanced_mms_access_point_names">Manuális MMS beállítások</string>
@@ -2128,13 +2128,13 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences__chat_color_and_wallpaper">Csevegés szín és háttérkép</string>
   <string name="preferences__disable_pin">PIN letiltása</string>
   <string name="preferences__enable_pin">PIN engedélyezése</string>
-  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">PIN kódod letiltásával egy esetleges újraregisztráció során az összes Signal adatod el fog veszni, kivéve ha azokat előtte külön lemented majd visszatöltöd. Letiltott PIN kóddal nem lehetséges a regisztrációs zár bekapcsolása.</string>
-  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">A PIN-nek köszönhetően a Signal által tárolt információk titkosítva lesznek, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek. Az alkalmazás megnyitásához nincs szükség a PIN kódra.</string>
+  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">PIN kódod letiltásával egy esetleges újraregisztráció során az összes CoolApp adatod el fog veszni, kivéve ha azokat előtte külön lemented majd visszatöltöd. Letiltott PIN kóddal nem lehetséges a regisztrációs zár bekapcsolása.</string>
+  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">A PIN-nek köszönhetően a CoolApp által tárolt információk titkosítva lesznek, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek. Az alkalmazás megnyitásához nincs szükség a PIN kódra.</string>
   <string name="preferences__system_default">Alapbeállítás</string>
   <string name="preferences__language">Nyelv</string>
-  <string name="preferences__signal_messages_and_calls">Signal üzenetek és hívások</string>
+  <string name="preferences__signal_messages_and_calls">CoolApp üzenetek és hívások</string>
   <string name="preferences__advanced_pin_settings">További PIN beállítások</string>
-  <string name="preferences__free_private_messages_and_calls">Ingyenes és privát üzenetek, valamint hívások Signal felhasználók részére</string>
+  <string name="preferences__free_private_messages_and_calls">Ingyenes és privát üzenetek, valamint hívások CoolApp felhasználók részére</string>
   <string name="preferences__submit_debug_log">Hibakeresési napló küldése</string>
   <string name="preferences__delete_account">Fiók törlése</string>
   <string name="preferences__support_wifi_calling">\'WiFi hívás\' kompatibilitási mód</string>
@@ -2174,8 +2174,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences_storage__s_messages">%1$s db üzenet</string>
   <string name="preferences_storage__custom">Egyéni</string>
   <string name="preferences_advanced__use_system_emoji">Rendszer emojik használata</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">A Signal beépített emoji-támogatásának letiltása</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">A hívások átjátszása a Signal szerverein annak érdekében, hogy IP címed telefonhívás során is rejtve maradjon partnered előtt. Engedélyezésével a hívások minősége gyengébb lesz.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">A CoolApp beépített emoji-támogatásának letiltása</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">A hívások átjátszása a CoolApp szerverein annak érdekében, hogy IP címed telefonhívás során is rejtve maradjon partnered előtt. Engedélyezésével a hívások minősége gyengébb lesz.</string>
   <string name="preferences_advanced__always_relay_calls">Összes hívás átjátszása</string>
   <string name="preferences_app_protection__who_can">Ki tudja…</string>
   <string name="preferences_app_protection__app_access">Hozzáférés az alkalmazáshoz</string>
@@ -2195,7 +2195,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences_notifications__calls">Hívások</string>
   <string name="preferences_notifications__ringtone">Csengőhang</string>
   <string name="preferences_chats__show_invitation_prompts">Meghívók felajánlása</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Meghívó küldésének felajánlása a Signal nélküli kontaktoknál</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Meghívó küldésének felajánlása a CoolApp nélküli kontaktoknál</string>
   <string name="preferences_chats__message_text_size">Üzenetek betűmérete</string>
   <string name="preferences_events__contact_joined_signal">Ismerős csatlakozott a Signalhoz</string>
   <string name="preferences_notifications__priority">Prioritás</string>
@@ -2203,13 +2203,13 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences_communication__category_censorship_circumvention">Cenzúramegkerülés</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention">Cenzúramegkerülés</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Ha engedélyezed, a Signal megpróbálja megkerülni a cenzúrát. Ne engedélyezd ezt a funkciót, ha tartózkodási helyeden nem cenzúrázzák a Signalt!</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Ha engedélyezed, a CoolApp megpróbálja megkerülni a cenzúrát. Ne engedélyezd ezt a funkciót, ha tartózkodási helyeden nem cenzúrázzák a Signalt!</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">Telefonszámod alapján bekapcsoltuk számodra a cenzúramegkerülés-funkciót.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Cenzúramegkerülés manuálisan letiltva.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">A cenzúramegkerülés használata nem szükséges, mert sikeresen csatlakoztál a Signal hálózatához.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">A cenzúramegkerülés használata nem szükséges, mert sikeresen csatlakoztál a CoolApp hálózatához.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">A cenzúramegkerülés csak aktív internetkapcsolat esetén aktiválható.</string>
   <string name="preferences_communication__category_sealed_sender">Rejtett feladó</string>
@@ -2243,7 +2243,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PaymentsAllActivityFragment__sent">Elküldve</string>
   <string name="PaymentsAllActivityFragment__received">Beérkezett</string>
   <string name="PaymentsHomeFragment__introducing_payments">Bemutatkozik a Fizetések (Béta)</string>
-  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Küldj és fogadj MobileCoint a Signal használatával. A MobileCoin egy új, adatvédelemre fókuszáló digitális pénznem. Aktiváld, hogy kipróbálhasd!</string>
+  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Küldj és fogadj MobileCoint a CoolApp használatával. A MobileCoin egy új, adatvédelemre fókuszáló digitális pénznem. Aktiváld, hogy kipróbálhasd!</string>
   <string name="PaymentsHomeFragment__activate_payments">Fizetések aktiválása</string>
   <string name="PaymentsHomeFragment__activating_payments">Fizetések aktiválása…</string>
   <string name="PaymentsHomeFragment__restore_payments_account">Fizetési fiók helyreállítása</string>
@@ -2277,7 +2277,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PaymentsHomeFragment__payments_deactivated">Fizetések kikapcsolva.</string>
   <string name="PaymentsHomeFragment__payment_failed">Fizetés sikertelen</string>
   <string name="PaymentsHomeFragment__details">Részletek</string>
-  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">A Signal használatával lehetőséged van MobileCoint küldeni és fogadni. Minden fizetésre a MobileCoins és a MobileCoin Wallet szolgáltatási feltételei vonatkoznak. Ez egy béta szolgáltatás, így előfordulhat, hogy hibákba futsz. Az elveszett fizetéseket és egyenlegeket nem lehet helyreállítani.</string>
+  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">A CoolApp használatával lehetőséged van MobileCoint küldeni és fogadni. Minden fizetésre a MobileCoins és a MobileCoin Wallet szolgáltatási feltételei vonatkoznak. Ez egy béta szolgáltatás, így előfordulhat, hogy hibákba futsz. Az elveszett fizetéseket és egyenlegeket nem lehet helyreállítani.</string>
   <string name="PaymentsHomeFragment__activate">Bekapcsolás</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">MobileCoin feltételek megtekintése</string>
   <string name="PaymentsHomeFragment__payments_not_available">A továbbiakban nem érhető el a Fizetések a Signalban. Az egyenlegedet továbbra is átutalhatod egy tőzsdére, de a továbbiakban már nem fogsz tudni pénzt küldeni vagy fogadni, sem pedig feltölteni az egyenlegedet.</string>
@@ -2317,10 +2317,10 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PaymentsTransferFragment__next">Tovább</string>
   <string name="PaymentsTransferFragment__invalid_address">Érvénytelen cím</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">Ellenőrizd a címzett tárcájának címét, majd próbáld újra!</string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Nem utalhatsz a saját Signal tárcád címére. Add meg egy támogatott tőzsdéhez tartozó tárca címét!</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Nem utalhatsz a saját CoolApp tárcád címére. Add meg egy támogatott tőzsdéhez tartozó tárca címét!</string>
   <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">QR kód beolvasásához a Signalnak szüksége van kamera-hozzáférésre.</string>
   <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">A Signalnak Kamera hozzáférésre van szüksége QR kódok beolvasásához. Nyisd meg a beállításokokat, válaszd ki az \"Engedélyek\" menüpontot, majd engedélyezd a \"Kamera\" hozzáférést!</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">QR kód beolvasásához engedélyezned kell, hogy a Signal hozzáférhessen kamerádhoz.</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">QR kód beolvasásához engedélyezned kell, hogy a CoolApp hozzáférhessen kamerádhoz.</string>
   <string name="PaymentsTransferFragment__settings">Beállítások</string>
   <!--PaymentsTransferQrScanFragment-->
   <string name="PaymentsTransferQrScanFragment__scan_address_qr_code">Címet tartalmazó QR kód beolvasása</string>
@@ -2378,8 +2378,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Hívás</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Signal hívás</string>
-  <string name="conversation_callable_secure__menu_video">Signal videóhívás</string>
+  <string name="conversation_callable_secure__menu_call">CoolApp hívás</string>
+  <string name="conversation_callable_secure__menu_video">CoolApp videóhívás</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2466,10 +2466,10 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Összehasonlítás vágólappal</string>
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">SMS-ek importálása</string>
-  <string name="reminder_header_sms_import_text">Koppints a telefonod SMS üzeneteinek átmásolásához a Signal titkosított adatbázisába!</string>
-  <string name="reminder_header_push_title">Signal üzenetek és hívások engedélyezése</string>
+  <string name="reminder_header_sms_import_text">Koppints a telefonod SMS üzeneteinek átmásolásához a CoolApp titkosított adatbázisába!</string>
+  <string name="reminder_header_push_title">CoolApp üzenetek és hívások engedélyezése</string>
   <string name="reminder_header_push_text">Tedd jobbá kommunikációs élményedet!</string>
-  <string name="reminder_header_service_outage_text">A Signal technikai nehézségekkel küzd. Keményen dolgozunk azért, hogy a lehető leghamarabb visszaállítsuk a szolgáltatást.</string>
+  <string name="reminder_header_service_outage_text">A CoolApp technikai nehézségekkel küzd. Keményen dolgozunk azért, hogy a lehető leghamarabb visszaállítsuk a szolgáltatást.</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Mentés</string>
@@ -2485,7 +2485,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="Insights__percent">%</string>
   <string name="Insights__title">Statisztikák</string>
   <string name="InsightsDashboardFragment__title">Statisztikák</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">A Signal protokoll az elmúlt %2$d nap során küldött üzeneteid %1$d%%-át helyezte automatikusan védelem alá. A Signal felhasználók közti üzenetek minden esetben végpontok közti titkosítással vannak ellátva. </string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">A CoolApp protokoll az elmúlt %2$d nap során küldött üzeneteid %1$d%%-át helyezte automatikusan védelem alá. A CoolApp felhasználók közti üzenetek minden esetben végpontok közti titkosítással vannak ellátva. </string>
   <string name="InsightsDashboardFragment__spread_the_word">Terjeszd a hírt!</string>
   <string name="InsightsDashboardFragment__not_enough_data">Nincs elegendő adat</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">A százalékot az elmúlt %1$d nap során küldött nem törölt és nem eltűnő üzeneteid alapján kalkuláltuk.</string>
@@ -2496,7 +2496,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="InsightsDashboardFragment__cancel">Mégse</string>
   <string name="InsightsDashboardFragment__send">Küldés</string>
   <string name="InsightsModalFragment__title">Bemutatkozik a Statisztikák</string>
-  <string name="InsightsModalFragment__description">Tudd meg, hogy hány kimenő üzeneted volt titkosítva, majd hívd meg minél több ismerősödet, hogy megnöveld Signal-százalékodat.</string>
+  <string name="InsightsModalFragment__description">Tudd meg, hogy hány kimenő üzeneted volt titkosítva, majd hívd meg minél több ismerősödet, hogy megnöveld CoolApp-százalékodat.</string>
   <string name="InsightsModalFragment__view_insights">Statisztikák megtekintése</string>
   <string name="FirstInviteReminder__title">Meghívás a Signalra</string>
   <string name="FirstInviteReminder__description">A titkosítva küldött üzeneteid számát %1$d%%-al növelhetnéd</string>
@@ -2521,7 +2521,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="CreateKbsPinFragment__create_a_new_pin">Új PIN létrehozása</string>
   <string name="CreateKbsPinFragment__you_can_choose_a_new_pin_as_long_as_this_device_is_registered">PIN kódodat mindaddig megváltoztathatod, míg ez az eszköz regisztrálva van.</string>
   <string name="CreateKbsPinFragment__create_your_pin">PIN létrehozása</string>
-  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">A PIN-nek köszönhetően a Signal által tárolt információk titkosítva lesznek, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek. Az alkalmazás megnyitásához nincs szükség a PIN kódra.</string>
+  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">A PIN-nek köszönhetően a CoolApp által tárolt információk titkosítva lesznek, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek. Az alkalmazás megnyitásához nincs szükség a PIN kódra.</string>
   <string name="CreateKbsPinFragment__choose_a_stronger_pin">Válassz egy erősebb PIN kódot!</string>
   <!--ConfirmKbsPinFragment-->
   <string name="ConfirmKbsPinFragment__pins_dont_match">A PIN kódok nem egyeznek. Próbáld újra!</string>
@@ -2533,7 +2533,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ConfirmKbsPinFragment__creating_pin">PIN létrehozása…</string>
   <!--KbsSplashFragment-->
   <string name="KbsSplashFragment__introducing_pins">A PIN kódok bemutatása</string>
-  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">A PIN-nek köszönhetően a Signal által tárolt információk titkosítva lesznek, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek. Az alkalmazás megnyitásához nincs szükség a PIN kódra.</string>
+  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">A PIN-nek köszönhetően a CoolApp által tárolt információk titkosítva lesznek, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek. Az alkalmazás megnyitásához nincs szükség a PIN kódra.</string>
   <string name="KbsSplashFragment__learn_more">Tudj meg többet!</string>
   <string name="KbsSplashFragment__registration_lock_equals_pin">Regisztrációs kód = PIN</string>
   <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">A regisztrációs zárat mostantól PIN kódnak hívják, és többet tud. Frissítsd most!</string>
@@ -2542,7 +2542,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="KbsSplashFragment__learn_more_about_pins">Bővebben a PIN kódokról</string>
   <string name="KbsSplashFragment__disable_pin">PIN letiltása</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Add meg Signal PIN kódodat</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">Add meg CoolApp PIN kódodat</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">A PIN kód megjegyzése érdekében időnként megkérünk annak begépelésére. Az idő múlásával ez egyre ritkábban fog megtörténni.</string>
   <string name="KbsReminderDialog__skip">Kihagyás</string>
   <string name="KbsReminderDialog__submit">Küldés</string>
@@ -2563,8 +2563,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="RegistrationLockFragment__incorrect_pin">Hibás PIN</string>
   <string name="RegistrationLockFragment__forgot_your_pin">Elfelejtett PIN?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">Nem maradt túl sok lehetőséged!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Signal regisztráció - Segítségkérés a PIN kód használatához Androidon (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Signal regisztráció - Segítségkérés a PIN kód használatához Androidon (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">CoolApp regisztráció - Segítségkérés a PIN kód használatához Androidon (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">CoolApp regisztráció - Segítségkérés a PIN kód használatához Androidon (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="one">Személyes adataid védelme és biztonságod érdekében nincs lehetőség a PIN kód visszaállítására. Ha nem emlékszel PIN kódodra, SMS-ben újra megerősítheted telefonszámodat %1$d nap inaktivitást követően. Ebben az esetben fiókod és az összes kapcsolódó adat törlésre kerül.</item>
     <item quantity="other">Személyes adataid védelme és biztonságod érdekében nincs lehetőség a PIN kód visszaállítására. Ha nem emlékszel PIN kódodra, SMS-ben újra megerősítheted telefonszámodat %1$d nap inaktivitást követően. Ebben az esetben fiókod és az összes kapcsolódó adat törlésre kerül.</item>
@@ -2589,7 +2589,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="CalleeMustAcceptMessageRequestDialogFragment__s_will_get_a_message_request_from_you">%1$s üzenet-felkérést fog kapni tőled. A jóváhagyást követően felhívhatod.</string>
   <!--KBS Megaphone-->
   <string name="KbsMegaphone__create_a_pin">PIN létrehozása</string>
-  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">A PIN-nek köszönhetően a Signal által tárolt információk titkosítva vannak.</string>
+  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">A PIN-nek köszönhetően a CoolApp által tárolt információk titkosítva vannak.</string>
   <string name="KbsMegaphone__create_pin">PIN létrehozása</string>
   <!--transport_selection_list_item-->
   <string name="transport_selection_list_item__transport_icon">Átvitel ikon</string>
@@ -2600,7 +2600,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="Permissions_continue">Folytatás</string>
   <string name="Permissions_not_now">Most nem</string>
   <string name="conversation_activity__enable_signal_messages">SIGNAL ÜZENETEK ENGEDÉLYEZÉSE</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">Signal adatbázis migrálása</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">CoolApp adatbázis migrálása</string>
   <string name="PushDecryptJob_new_locked_message">Új zárolt üzenet</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">Oldd fel a függő üzenetek megtekintéséhez</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">Biztonsági mentés jelmondat</string>
@@ -2618,7 +2618,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences_chats__transfer_account_to_a_new_android_device">Fiók átvitele egy másik Android eszközre</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Biztonsági mentés jelmondatának megadása</string>
   <string name="RegistrationActivity_restore">Visszaállítás</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Nem sikerült beolvasni a Signal újabb verziójából származó biztonsági mentést</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Nem sikerült beolvasni a CoolApp újabb verziójából származó biztonsági mentést</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Hibás a biztonsági mentéshez tartozó jelmondat</string>
   <string name="RegistrationActivity_checking">Ellenőrzés…</string>
   <string name="RegistrationActivity_d_messages_so_far">Eddig %d db üzenet…</string>
@@ -2640,7 +2640,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="BackupDialog_verify">Hitelesítés</string>
   <string name="BackupDialog_you_successfully_entered_your_backup_passphrase">A biztonsági mentés jelmondat megadása sikeres volt</string>
   <string name="BackupDialog_passphrase_was_not_correct">A jelmondat nem megfelelő</string>
-  <string name="LocalBackupJob_creating_signal_backup">Signal biztonsági mentés létrehozása…</string>
+  <string name="LocalBackupJob_creating_signal_backup">CoolApp biztonsági mentés létrehozása…</string>
   <string name="LocalBackupJobApi29_backup_failed">Sikertelen biztonsági mentés</string>
   <string name="LocalBackupJobApi29_your_backup_directory_has_been_deleted_or_moved">A biztonsági mentéseket tartalmazó könyvtár törölve lett, vagy át lett helyezve.</string>
   <string name="LocalBackupJobApi29_your_backup_file_is_too_large">A biztonsági mentés mérete túl nagy ahhoz, hogy itt legyen létrehozva.</string>
@@ -2649,8 +2649,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ProgressPreference_d_messages_so_far">Eddig %d db üzenet</string>
   <string name="RegistrationActivity_wrong_number">Hibás szám</string>
   <string name="RegistrationActivity_call_me_instead_available_in">Hívást kérek inkább \n (elérhető %1$02d:%2$02d múlva)</string>
-  <string name="RegistrationActivity_contact_signal_support">Kapcsolatfelvétel a Signal támogatással</string>
-  <string name="RegistrationActivity_code_support_subject">Signal regisztráció - megerősítő kód Androidhoz</string>
+  <string name="RegistrationActivity_contact_signal_support">Kapcsolatfelvétel a CoolApp támogatással</string>
+  <string name="RegistrationActivity_code_support_subject">CoolApp regisztráció - megerősítő kód Androidhoz</string>
   <string name="RegistrationActivity_incorrect_code">Helytelen kód</string>
   <string name="BackupUtil_never">Soha</string>
   <string name="BackupUtil_unknown">Ismeretlen</string>
@@ -2664,17 +2664,17 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="preferences_app_protection__screen_lock">Képernyőzár</string>
   <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Signalhoz való hozzáférés védelme Android képernyőzárral vagy ujjlenyomattal</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Inaktív képernyő lezárása előtti türelmi idő</string>
-  <string name="preferences_app_protection__signal_pin">Signal PIN</string>
+  <string name="preferences_app_protection__signal_pin">CoolApp PIN</string>
   <string name="preferences_app_protection__create_a_pin">PIN létrehozása</string>
   <string name="preferences_app_protection__change_your_pin">PIN kód megváltoztatása</string>
   <string name="preferences_app_protection__pin_reminders">PIN emlékeztetők</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">A PIN-nek köszönhetően a Signal által tárolt információk titkosítva vannak, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Növeld a biztonságot azáltal, hogy a telefonszámod regisztrációját Signal PIN kódod megadásához kötöd.</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">A PIN-nek köszönhetően a CoolApp által tárolt információk titkosítva vannak, így csak te férhetsz hozzájuk. Újratelepítés esetén profilod, beállításaid és kontaktjaid visszaállításra kerülnek.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Növeld a biztonságot azáltal, hogy a telefonszámod regisztrációját CoolApp PIN kódod megadásához kötöd.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">Az emlékeztetők a PIN kód megjegyzését segítik, ugyanis a PIN-t nem lehet visszaállítani. Az idő múlásával egyre kevesebbszer fogunk megkérni a megadására.</string>
   <string name="preferences_app_protection__turn_off">Kikapcsolás</string>
   <string name="preferences_app_protection__confirm_pin">PIN megerősítése</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Signal PIN kód megerősítése</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Bizonyosodj meg róla, hogy PIN kódodat megjegyezted vagy eltároltad egy biztonságos helyre, ugyanis a PIN kódot nem lehet visszaállítani. Amennyiben elfelejted PIN kódodat, úgy a Signal fiókod újraregisztrációja során adataid elveszhetnek.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">CoolApp PIN kód megerősítése</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Bizonyosodj meg róla, hogy PIN kódodat megjegyezted vagy eltároltad egy biztonságos helyre, ugyanis a PIN kódot nem lehet visszaállítani. Amennyiben elfelejted PIN kódodat, úgy a CoolApp fiókod újraregisztrációja során adataid elveszhetnek.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">Hibás PIN kód. Próbáld újra!</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">Nem sikerült engedélyezni a regisztrációs zárat.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">Nem sikerült kikapcsolni a regisztrációs zárat.</string>
@@ -2687,12 +2687,12 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Túl sokszor próbálkoztál. Kérlek próbáld újra később!</string>
   <string name="RegistrationActivity_error_connecting_to_service">Hiba történt a szolgáltatáshoz történő csatlakozás során</string>
   <string name="preferences_chats__backups">Biztonsági mentések</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal zárolva</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp zárolva</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">KOPPINTS A FELOLDÁSHOZ</string>
   <string name="Recipient_unknown">Ismeretlen</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">Fiók átvitele vagy helyreállítása</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Ha korábban regisztráltál Signal fiókot, átviheted vagy helyreállíthatod fiókodat és az üzeneteidet</string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Ha korábban regisztráltál CoolApp fiókot, átviheted vagy helyreállíthatod fiókodat és az üzeneteidet</string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Átvitel Android eszközről</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">A fiókod és az üzeneteid átvitele régi Android eszközödről. Ehhez hozzá kell férned a régi eszközödhöz.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">Hozzá kell férned a régi eszközödhöz.</string>
@@ -2714,7 +2714,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">A Signalnak szüksége van hely engedélyekre, hogy felderíthesse és csatlakozhasson régi Android eszközödhöz.</string>
   <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">A Signalnak szüksége van hely szolgáltatások engedélyezésére, hogy felderíthesse és csatlakozhasson régi Android eszközödhöz.</string>
   <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">A Signalnak szüksége Wi-Fi-re, hogy felderíthesse és csatlakozhasson régi Android eszközödhöz. A Wi-Finek bekapcsolva kell lennie, de nem muszáj csatlakozva lennie.</string>
-  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Sajnáljuk, de úgy tűnik, hogy ez az eszköz nem támogatja a Wi-Fi Directet. A Signal Wi-Fi Directet használ, hogy felderítse és csatlakozzon régi Android eszközödhöz. Továbbra is használhatod a biztonsági mentés által létrehozott fájlokat, hogy a fiókodat áthozd régi Android eszközödről.</string>
+  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Sajnáljuk, de úgy tűnik, hogy ez az eszköz nem támogatja a Wi-Fi Directet. A CoolApp Wi-Fi Directet használ, hogy felderítse és csatlakozzon régi Android eszközödhöz. Továbbra is használhatod a biztonsági mentés által létrehozott fájlokat, hogy a fiókodat áthozd régi Android eszközödről.</string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Biztonsági mentés visszaállítása</string>
   <string name="NewDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Váratlan hiba történt a régi Android eszközödhöz történő csatlakozás során.</string>
   <!--OldDeviceTransferSetupFragment-->
@@ -2722,7 +2722,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">A Signalnak helymeghatározás engedélyre van szüksége ahhoz, hogy felderíthesse új Android eszközödet, és csatlakozhasson hozzá.</string>
   <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">A Signalnak a helymeghatározás szolgáltatásra van szüksége ahhoz, hogy felderíthesse új Android eszközödet, és csatlakozhasson hozzá.</string>
   <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">A Signalnak Wi-Fi-re van szüksége, hogy felderíthesse új Android eszközödet és csatlakozhasson hozzá. A Wi-Finek bekapcsolt állapotban kell lennie, de nem muszáj hálózathoz csatlakoznia.</string>
-  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Sajnáljuk, de úgy tűnik, hogy ez az eszköz nem támogatja a Wi-Fi Directet. A Signal Wi-Fi Directet használ, hogy felderítse és csatlakozzon új Android eszközödhöz. Továbbra is használhatod a biztonsági mentés által létrehozott fájlokat, hogy a fiókodat áthozd új Android eszközödre.</string>
+  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Sajnáljuk, de úgy tűnik, hogy ez az eszköz nem támogatja a Wi-Fi Directet. A CoolApp Wi-Fi Directet használ, hogy felderítse és csatlakozzon új Android eszközödhöz. Továbbra is használhatod a biztonsági mentés által létrehozott fájlokat, hogy a fiókodat áthozd új Android eszközödre.</string>
   <string name="OldDeviceTransferSetup__create_a_backup">Biztonsági mentés létrehozása</string>
   <string name="OldDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Váratlan hiba történt az új Android eszközödhöz történő csatlakozás során.</string>
   <!--DeviceTransferSetupFragment-->
@@ -2773,7 +2773,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="DeviceTransfer__unable_to_transfer">Sikertelen az átvitel</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Fiók átvitele</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Átviheted a Signal fiókod, miután telepítetted a Signalt egy új Android eszközre. Mielőtt folytatnád:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Átviheted a CoolApp fiókod, miután telepítetted a Signalt egy új Android eszközre. Mielőtt folytatnád:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
   <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Töltsd le a Signalt új Android eszközödre</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
@@ -2784,7 +2784,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">Átvitel kész</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">Menj az új eszközödhöz!</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">A Signal fiókod átvitelre került az új eszközödre. Az átvitel befejezéséhez folytatnod kell az új eszközön a regisztrációt.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">A CoolApp fiókod átvitelre került az új eszközödre. Az átvitel befejezéséhez folytatnod kell az új eszközön a regisztrációt.</string>
   <string name="OldDeviceTransferComplete__close">Bezárás</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">Átvitel sikeres</string>
@@ -2801,7 +2801,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="DeviceToDeviceTransferService_status_service_connected">Fiók átvitele…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">Fejezd be a regisztrációt az új eszközödön!</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Sikerült Signal fiókod átvitelre új eszközödre, de még be kell fejezned a regisztrációt a folytatás előtt. A Signal inaktív lesz ezen az eszközön.</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Sikerült CoolApp fiókod átvitelre új eszközödre, de még be kell fejezned a regisztrációt a folytatás előtt. A CoolApp inaktív lesz ezen az eszközön.</string>
   <string name="OldDeviceTransferLockedDialog__done">Befejezés</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">Mégsem, és aktiváld ezt az eszközt</string>
   <!--AdvancedPreferenceFragment-->
@@ -2839,8 +2839,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="GroupsLearnMore_what_are_legacy_groups">Mik azok a régi típusú csoportok?</string>
   <string name="GroupsLearnMore_paragraph_1">A régi típusú csoportok olyan csoportok, amelyek nem kompatibilisek az új típusú csoportokban rendelkezésre álló újabb funkciókkal, mint amilyen pl. a csoport-adminok kijelölése vagy a részletesebb csoportfrissítések használata.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Tudom frissíteni a régi csoport típusomat újra?</string>
-  <string name="GroupsLearnMore_paragraph_2">A régi típusú csoportokat még nem lehet új típusúvá alakítani, viszont lehetőséged van egy új típusú csoport létrehozására a régivel megegyező csoporttagsággal, amennyiben a tagok rendelkeznek a Signal legújabb verziójával.</string>
-  <string name="GroupsLearnMore_paragraph_3">A Signal a jövőben lehetővé fogja tenni a régi típusú csoportok átalakítását új típusúvá.</string>
+  <string name="GroupsLearnMore_paragraph_2">A régi típusú csoportokat még nem lehet új típusúvá alakítani, viszont lehetőséged van egy új típusú csoport létrehozására a régivel megegyező csoporttagsággal, amennyiben a tagok rendelkeznek a CoolApp legújabb verziójával.</string>
+  <string name="GroupsLearnMore_paragraph_3">A CoolApp a jövőben lehetővé fogja tenni a régi típusú csoportok átalakítását új típusúvá.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">Ezzel a hivatkozással bárki megtekintheti a csoport nevét, a tagok listáját, valamint csatlakozási kérelmet nyújthat be. Csak olyan személyekkel oszd meg, akikben megbízol.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Ezzel a hivatkozással bárki megtekintheti a csoport nevét, a tagok listáját, valamint csatlakozhat a csoporthoz. Csak olyan személyekkel oszd meg, akikben megbízol.</string>
@@ -2910,7 +2910,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="DeleteAccountFragment__no_number">Nincs szám megadva</string>
   <string name="DeleteAccountFragment__the_phone_number">A megadott telefonszám nem egyezik a fiókodhoz tartozóval.</string>
   <string name="DeleteAccountFragment__are_you_sure">Biztosan törölni akarod a fiókod?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ez törölni fogja a Signal fiókod és alaphelyzetbe állítja az alkalmazást. Az app bezáródik a folyamat végeztével.</string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ez törölni fogja a CoolApp fiókod és alaphelyzetbe állítja az alkalmazást. Az app bezáródik a folyamat végeztével.</string>
   <string name="DeleteAccountFragment__failed_to_delete_account">Sikertelen a fiók törlése. Van hálózati kapcsolatod?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">Sikertelen a helyi adat törlése. Kézzel törölheted a rendszer alkalmazás-beállításai alatt.</string>
   <string name="DeleteAccountFragment__launch_app_settings">App beállítások indítása</string>
@@ -2939,7 +2939,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ShareActivity__share">Megosztás</string>
   <string name="ShareActivity__send">Küldés</string>
   <string name="ShareActivity__comma_s">, %1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">A több beszélgetésbe történő megosztás csak Signal üzenetek esetén támogatott</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">A több beszélgetésbe történő megosztás csak CoolApp üzenetek esetén támogatott</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">Néhány felhasználónak nem sikerült a küldés</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">A megosztás maximum %1$d db beszélgetéssel lehetséges</string>
@@ -3014,7 +3014,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">Helyreállítási mondat</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">Helyreállítási mondat megtekintése</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">Helyreállítási mondat megadása</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Az egyenleged automatikusan helyreáll, amikor újratelepíted a Signalt, amennyiben megadod a Signal PIN kódodat. Továbbá helyreállíthatod egyenlegedet a helyreállítási mondat használatával is, ami egy %1$d szóból álló, számodra egyedi mondat. Jegyezd fel, és tárold biztonságos helyen!</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Az egyenleged automatikusan helyreáll, amikor újratelepíted a Signalt, amennyiben megadod a CoolApp PIN kódodat. Továbbá helyreállíthatod egyenlegedet a helyreállítási mondat használatával is, ami egy %1$d szóból álló, számodra egyedi mondat. Jegyezd fel, és tárold biztonságos helyen!</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">A helyreállítási mondatod egy %1$d szóból álló mondat, amely számodra egyedi. Használd arra, hogy helyreállítsd fizetési fiókodat!</string>
   <string name="PaymentsRecoveryStartFragment__start">Kezdés</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">Kézi megadás</string>
@@ -3083,10 +3083,10 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">Fiók</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">Idővel egyre ritkábban kérünk meg rá</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Telefonszámod újraregisztrációját Signal PIN kódod megadásához kötheted</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Telefonszámod újraregisztrációját CoolApp PIN kódod megadásához kötheted</string>
   <string name="AccountSettingsFragment__change_phone_number">Telefonszám cseréje</string>
   <!--ChangeNumberFragment-->
-  <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Itt a Signal által regisztrált, aktuálisan használt telefonszámodat változtathatod meg egy másikra. Ez a művelet nem vonható vissza.\n\nKezdés előtt győződj meg róla, hogy az új számon tudsz SMS-t, vagy hívást fogadni!</string>
+  <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Itt a CoolApp által regisztrált, aktuálisan használt telefonszámodat változtathatod meg egy másikra. Ez a művelet nem vonható vissza.\n\nKezdés előtt győződj meg róla, hogy az új számon tudsz SMS-t, vagy hívást fogadni!</string>
   <string name="ChangeNumberFragment__continue">Folytatás</string>
   <!--Message shown on dialog after your number has been changed successfully.-->
   <string name="ChangeNumber__your_phone_number_has_changed_to_s">Telefonszámod megváltozott erre: %1$s</string>
@@ -3112,7 +3112,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ChangeNumberConfirmFragment__you_are_about_to_change_your_phone_number_from_s_to_s">Telefonszámod megváltoztatására készülsz erről: %1$s erre: %2$s.\n\nMielőtt nekikezdenénk, kérjük ellenőrizd, hogy a megfelelő számot adtad-e meg!</string>
   <string name="ChangeNumberConfirmFragment__edit_number">Szám szerkesztése</string>
   <!--ChangeNumberRegistrationLockFragment-->
-  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Signal telefonszám csere - Segítség PIN (v2) témában (Android)</string>
+  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">CoolApp telefonszám csere - Segítség PIN (v2) témában (Android)</string>
   <!--ChangeNumberPinDiffersFragment-->
   <string name="ChangeNumberPinDiffersFragment__pins_do_not_match">A PIN kódok nem egyeznek.</string>
   <string name="ChangeNumberPinDiffersFragment__the_pin_associated_with_your_new_number_is_different_from_the_pin_associated_with_your_old_one">Az új telefonszámodhoz rendelt PIN eltér attól, amit a régihez adtál meg. Szeretnéd az új számhoz is a régi PIN-t rendelni?</string>
@@ -3163,7 +3163,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PrivacySettingsFragment__disappearing_messages">Eltűnő üzenetek</string>
   <string name="PrivacySettingsFragment__app_security">App biztonság</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">Képernyőképek készítésének blokkolása a futó alkalmazások listájában és az alkalmazáson belül</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">Signal üzenetek és hívások, átjátszási beállítások, rejtett feladó</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">CoolApp üzenetek és hívások, átjátszási beállítások, rejtett feladó</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">Alapértelmezett időzítő új beszélgetésekhez</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">Állítsd be az alapértelmezett időzítőt újonnan indított csevegéseid eltűnő üzeneteihez.</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3194,7 +3194,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="HelpSettingsFragment__version">Verzió</string>
   <string name="HelpSettingsFragment__debug_log">Hibakeresési napló</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Feltételek &amp; Adatvédelmi irányelvek</string>
-  <string name="HelpFragment__copyright_signal_messenger">Copyright Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Copyright CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Szoftverlicenc: GPLv3 </string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Médiafájl minősége</string>
@@ -3301,7 +3301,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ConversationSettingsFragment__conversation_muted_forever">Beszélgetés némítva örökké</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">Telefonszám másolva a vágólapra.</string>
   <string name="ConversationSettingsFragment__phone_number">Telefonszám</string>
-  <string name="ConversationSettingsFragment__get_badges">Szerezz kitűzőket profilképedre a Signal anyagi támogatásával. Koppints az egyik kitűzőre a további tudnivalókért!</string>
+  <string name="ConversationSettingsFragment__get_badges">Szerezz kitűzőket profilképedre a CoolApp anyagi támogatásával. Koppints az egyik kitűzőre a további tudnivalókért!</string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">Tagok hozzáadása</string>
   <string name="PermissionsSettingsFragment__edit_group_info">Csoportinfó szerkesztése</string>
@@ -3440,9 +3440,9 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="Subscription__s_per_month">%s/hó</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/hó · Megújul: %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/hó  · Lejár: %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">A Signal egy nonprofit, hirdetők és befektetők nélküli, kizárólag felhasználók és rajongók által fenntartott alkalmazás. Indíts havi, rendszeres támogatást, és cserébe kitűzőt kapsz profilképedre, amivel láthatóvá teheted támogatásodat.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">A CoolApp egy nonprofit, hirdetők és befektetők nélküli, kizárólag felhasználók és rajongók által fenntartott alkalmazás. Indíts havi, rendszeres támogatást, és cserébe kitűzőt kapsz profilképedre, amivel láthatóvá teheted támogatásodat.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">Miért támogassam?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">A Signal csapata elkötelezett, hogy nyílt forrású fejlesztéseivel előmozdítsa a privát technológiák térnyerését, amelyek a szólásszabadságot és a biztonságos globális kommunikáció elterjedését biztosítják.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">A CoolApp csapata elkötelezett, hogy nyílt forrású fejlesztéseivel előmozdítsa a privát technológiák térnyerését, amelyek a szólásszabadságot és a biztonságos globális kommunikáció elterjedését biztosítják.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">Adományoddal hozzájárulhatsz a fejlesztés, a szerverek és a sávszélesség költségeinek fedezéséhez, amelyek a mára milliók által világszerte használt azonnali privát kommunikációt megteremtő alkalmazás működtetéséhez szükségesek. Nincs reklám. Nincs követés. Nincs trükk.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">Köszönjük a támogatásodat!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">Köszönet a Löketért!</string>
@@ -3454,8 +3454,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">Jelvény kitűzése</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">Befejezés</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">Ha egynél több jelvényed van, kiválaszthatod, hogy melyiket tűzöd ki a profilképedre.</string>
-  <string name="BecomeASustainerFragment__get_badges">Szerezz kitűzőket profilképedre a Signal anyagi támogatásával.</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">A Signal egy nonprofit, hirdetők és befektetők nélküli, kizárólag felhasználók és rajongók által fenntartott alkalmazás. </string>
+  <string name="BecomeASustainerFragment__get_badges">Szerezz kitűzőket profilképedre a CoolApp anyagi támogatásával.</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">A CoolApp egy nonprofit, hirdetők és befektetők nélküli, kizárólag felhasználók és rajongók által fenntartott alkalmazás. </string>
   <string name="ManageDonationsFragment__my_support">Támogatásaim</string>
   <string name="ManageDonationsFragment__manage_subscription">Előfizetés kezelése</string>
   <!--Label for Tax Receipts button-->
@@ -3466,7 +3466,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="BoostFragment__say_thanks_and_earn">Mondj köszönetet, és kapsz cserébe egy Löket kitűzőt %1$d napra.</string>
   <string name="Boost__enter_custom_amount">Egyedi összeg</string>
   <string name="Boost__one_time_contribution">Egyszeri hozzájárulás</string>
-  <string name="MySupportPreference__add_a_signal_boost">Új Signal Löket</string>
+  <string name="MySupportPreference__add_a_signal_boost">Új CoolApp Löket</string>
   <string name="MySupportPreference__s_per_month">%1$s/hó</string>
   <string name="MySupportPreference__renews_s">Megújul: %1$s</string>
   <string name="MySupportPreference__processing_transaction">Tranzakció folyamatban…</string>
@@ -3489,7 +3489,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Természetesen továbbra is használhatod a Signalt, de az alkalmazás támogatásához és jelvényed újraaktiválásához el kell végezned az előfizetés megújítását.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">Előfizetés megújítása</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">Nem sikerült feldolgozni a fizetési tranzakciót</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Nem sikerült feldolgozni a Signal Fenntartói előfizetésedhez kapcsolódó fizetési tranzakciót. Győződj meg róla, hogy a fizetési eszköz adatai naprakészek. Ha nem, kérlek frissítsd őket a Google Payben. A Signal néhány nap múlva újra megpróbálja végrehajtani a tranzakciót.</string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Nem sikerült feldolgozni a CoolApp Fenntartói előfizetésedhez kapcsolódó fizetési tranzakciót. Győződj meg róla, hogy a fizetési eszköz adatai naprakészek. Ha nem, kérlek frissítsd őket a Google Payben. A CoolApp néhány nap múlva újra megpróbálja végrehajtani a tranzakciót.</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">Ne jelenjen meg többet</string>
   <string name="Subscription__please_contact_support_for_more_information">Kérünk lépj kapcsolatba a Támogatási Központtal.</string>
   <string name="Subscription__contact_support">Kapcsolatfelvétel a támogatással</string>
@@ -3509,7 +3509,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">Alkalmazáson belüli adományozáshoz a Google Pay beállítása szükséges.</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">Előfizetés törlése sikertelen</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">Az előfizetés törlése internet kapcsolatot igényel.</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Az eszközöd nem támogatja a Google Pay-t, így nem tudsz előfizetést indítani kitűző elnyeréséért. Alternatívaként továbbra is adományozhatsz a Signal számára weboldalunkon.</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Az eszközöd nem támogatja a Google Pay-t, így nem tudsz előfizetést indítani kitűző elnyeréséért. Alternatívaként továbbra is adományozhatsz a CoolApp számára weboldalunkon.</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">Hálózati hiba. Ellenőrizd a hálózati kapcsolatot és próbáld újra!</string>
   <string name="NetworkFailure__retry">Újra</string>
   <!--Stripe decline code generic_failure-->
@@ -3680,8 +3680,8 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="NotificationProfilesMegaphone__not_now">Később</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">Sikertelen tallózás.</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Signal újdonságok &amp; és hírek</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">CoolApp újdonságok &amp; és hírek</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Minden tevékenység</string>
   <!--Donation receipts all tab label-->
@@ -3770,12 +3770,12 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <!--Switchable option for allowing replies and reactions on your stories-->
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <!--Note about default sharing-->
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <!--Signal connections sheet bullet point 1-->
-  <!--Signal connections sheet bullet point 2-->
-  <!--Signal connections sheet bullet point 3-->
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <!--CoolApp connections sheet bullet point 1-->
+  <!--CoolApp connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 3-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <!--Clickable option to add a viewer to a private story-->
   <!--Clickable option to delete a custom story-->
   <!--Dialog title when attempting to remove someone from a private story-->

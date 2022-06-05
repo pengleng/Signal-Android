@@ -89,9 +89,9 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">グループのメンバーはあなたをもう一度このグループに加えることができるようになります。</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">お互いにメッセージや通話ができるようになります。あなたの名前とプロフィール写真が相手と共有されます。</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">ブロックされた相手は、あなたへのメッセージ送信や通話発信ができなくなります。</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Signalのアップデート情報やニュースを受信しません。</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Signalのアップデート情報やニュースを受信します。</string>
   <string name="BlockUnblockDialog_unblock_s">%1$s のブロックを解除しますか？</string>
   <string name="BlockUnblockDialog_block">ブロックする</string>
@@ -214,7 +214,7 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">お使いの端末はダイヤル機能に対応していないようです。</string>
   <string name="ConversationActivity_transport_insecure_sms">安全でないSMS</string>
   <string name="ConversationActivity_transport_insecure_mms">安全でないMMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
   <string name="ConversationActivity_lets_switch_to_signal">メッセージアプリをSignalにしましょう %1$s</string>
   <string name="ConversationActivity_specify_recipient">連絡先を選択してください</string>
   <string name="ConversationActivity_unblock">ブロックを解除します</string>
@@ -282,7 +282,7 @@
     <item quantity="other">%1$d個の添付ファイルをストレージに保存しています…</item>
   </plurals>
   <string name="ConversationFragment_pending">保留中…</string>
-  <string name="ConversationFragment_push">データ (Signal)</string>
+  <string name="ConversationFragment_push">データ (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">削除しています</string>
@@ -789,7 +789,7 @@
   <string name="LongMessageActivity_message_from_s">%1$s からのメッセージ</string>
   <string name="LongMessageActivity_your_message">あなたのメッセージ</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">バックグラウンド通信は有効です</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">携帯電話事業者のMMS設定の読み込み中にエラーが発生しました</string>
@@ -837,7 +837,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">あなたが %1$s に送信</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">あとで通知</string>
-  <string name="Megaphones_verify_your_signal_pin">Signal PINの確認</string>
+  <string name="Megaphones_verify_your_signal_pin">CoolApp PINの確認</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">PINを忘れないよう、確認をお願いします。</string>
   <string name="Megaphones_verify_pin">PINを確認する</string>
   <string name="Megaphones_get_started">始めましょう</string>
@@ -1142,7 +1142,7 @@
   <string name="PassphrasePromptActivity_ok_button_content_description">パスフレーズを設定する</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">不正なパスフレーズです！</string>
   <string name="PassphrasePromptActivity_unlock_signal">Signalのロックを解除する</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - ロック画面</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - ロック画面</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">地図</string>
   <string name="PlacePickerActivity_drop_pin">ピンを打つ</string>
@@ -1216,7 +1216,7 @@
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">タップして動画を有効にする</string>
   <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">%1$s と通話するには、Signalにカメラへのアクセスを許可してください。</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">呼び出しています…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">グループが大きすぎるため、参加者を呼べません。</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
@@ -1302,7 +1302,7 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">あなたの電話番号はこれで合っていますか？</string>
   <string name="RegistrationActivity_edit_number">番号を編集する</string>
   <string name="RegistrationActivity_missing_google_play_services">Google Play開発者サービスがありません</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">この端末にはGoogle Play開発者サービスがありません。Signalは使用できますが、信頼性や性能は下がる可能性があります。\n\n上級者でない方や、メーカー公式のAndroidをご利用の方、何かの間違いだと思う方などは support@signal.org まで連絡してください。</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">この端末にはGoogle Play開発者サービスがありません。Signalは使用できますが、信頼性や性能は下がる可能性があります。\n\n上級者でない方や、メーカー公式のAndroidをご利用の方、何かの間違いだと思う方などは support@asia.coolapp.chat まで連絡してください。</string>
   <string name="RegistrationActivity_i_understand">分かりました</string>
   <string name="RegistrationActivity_play_services_error">Google Play開発者サービスのエラー</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play開発者サービスは更新中か一時的に使用不能です。再度試してください。</string>
@@ -1313,7 +1313,7 @@
   <string name="RegistrationActivity_unable_to_connect_to_service">サービスに接続できませんでした。ネットワークの接続を確認してから、再度試してください。</string>
   <string name="RegistrationActivity_non_standard_number_format">非標準の数字フォーマット</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">あなたが入力した数字 (%1$s) は、非標準のフォーマットのようです。\n\n%2$s を意図していすか？</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android - 電話番号フォーマット</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android - 電話番号フォーマット</string>
   <string name="RegistrationActivity_call_requested">通話を要求されました</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="other">デバッグログの提出まで、あと%dステップです。</item>
@@ -1411,8 +1411,8 @@
   <string name="SupportEmailUtil_filter">フィルタ:</string>
   <string name="SupportEmailUtil_device_info">Device info:</string>
   <string name="SupportEmailUtil_android_version">Android version:</string>
-  <string name="SupportEmailUtil_signal_version">Signal version:</string>
-  <string name="SupportEmailUtil_signal_package">Signal package:</string>
+  <string name="SupportEmailUtil_signal_version">CoolApp version:</string>
+  <string name="SupportEmailUtil_signal_package">CoolApp package:</string>
   <string name="SupportEmailUtil_registration_lock">Registration lock:</string>
   <string name="SupportEmailUtil_locale">Locale:</string>
   <!--ThreadRecord-->
@@ -1575,7 +1575,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">無効なショートカット</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">新着メッセージ</string>
   <string name="SingleRecipientNotificationBuilder_message_request">メッセージ申請</string>
   <string name="SingleRecipientNotificationBuilder_you">あなた</string>
@@ -1860,7 +1860,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>名前または番号を入力して下さい</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[%s とのエンドツーエンドの暗号化を検証するには、上記の番号が相手の端末のものと一致するか確認してください。相手の端末上のコードをスキャンするか、あなたのコードをスキャンしてもらうことでも可能です。<a href="https://signal.org/redirect/safety-numbers">詳細</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[%s とのエンドツーエンドの暗号化を検証するには、上記の番号が相手の端末のものと一致するか確認してください。相手の端末上のコードをスキャンするか、あなたのコードをスキャンしてもらうことでも可能です。<a href="https://asia.coolapp.chat/redirect/safety-numbers">詳細</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">タップしてスキャンする</string>
   <string name="verify_display_fragment__successful_match">一致しました</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">安全番号を検証できませんでした</string>
@@ -1918,7 +1918,7 @@
   <string name="HelpFragment__how_do_you_feel">どう感じていますか？ (任意)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">連絡を取りたい理由を教えてください。</string>
   <string name="HelpFragment__support_info">サポート情報</string>
-  <string name="HelpFragment__signal_android_support_request">Signal Androidサポートリクエスト</string>
+  <string name="HelpFragment__signal_android_support_request">CoolApp Androidサポートリクエスト</string>
   <string name="HelpFragment__debug_log">デバッグログ:</string>
   <string name="HelpFragment__could_not_upload_logs">ログをアップロードできませんでした</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">問題を理解するため、できるだけ詳細に記述してください。</string>
@@ -2136,7 +2136,7 @@
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">アカウントの電話番号に基づいた、検閲回避が有効になりました。</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">検閲回避を手動で無効にしました。</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
   <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">すでにSignalサービスに接続しているため、検問回避は不要です。</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">検閲回避は、インターネットに接続されている場合にのみ有効です。</string>
@@ -2467,7 +2467,7 @@
   <string name="KbsSplashFragment__learn_more_about_pins">PINに関する詳細情報</string>
   <string name="KbsSplashFragment__disable_pin">PINを無効にする</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Signal PINを入力してください</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">CoolApp PINを入力してください</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">PINを覚えていただくため、定期的に入力をお願いしています。頻度は次第に少なくなります。</string>
   <string name="KbsReminderDialog__skip">スキップ</string>
   <string name="KbsReminderDialog__submit">送信する</string>
@@ -2584,7 +2584,7 @@
   <string name="preferences_app_protection__screen_lock">画面ロック</string>
   <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">SignalをAndroidの画面ロックや指紋認証でロックします。</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">画面ロックまでの無操作時間</string>
-  <string name="preferences_app_protection__signal_pin">Signal PIN</string>
+  <string name="preferences_app_protection__signal_pin">CoolApp PIN</string>
   <string name="preferences_app_protection__create_a_pin">PINを作成する</string>
   <string name="preferences_app_protection__change_your_pin">PINを変更</string>
   <string name="preferences_app_protection__pin_reminders">PINリマインダー</string>
@@ -2593,7 +2593,7 @@
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">PINは復元できないため、リマインダーがPINを覚える手助けをします。頻度は次第に少なくなります。</string>
   <string name="preferences_app_protection__turn_off">無効にする</string>
   <string name="preferences_app_protection__confirm_pin">PINを再入力</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Signal PINの確認</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">CoolApp PINの確認</string>
   <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">PINは復元できないため、記憶するか安全に保管してください。PINを忘れると、Signalアカウントの再登録時にデータが失われる可能性があります。</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">PINが違います。もう一度試してください。</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">登録ロックを有効にすることに失敗しました。</string>
@@ -3002,7 +3002,7 @@
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">アカウント</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">確認の頻度は次第に少なくなります。</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">あなたの電話番号をSignalに再登録する際に、Signal PINを要求します。</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">あなたの電話番号をSignalに再登録する際に、CoolApp PINを要求します。</string>
   <string name="AccountSettingsFragment__change_phone_number">電話番号を変更</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">現在使用している電話番号を、新しい電話番号に変更する際に使用してください。この変更を元に戻すことはできません。続ける前に、新しい電話番号がSMSや通話を受信できることを確認してください。</string>
@@ -3113,7 +3113,7 @@
   <string name="HelpSettingsFragment__version">バージョン</string>
   <string name="HelpSettingsFragment__debug_log">デバッグログ</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">使用条件とプライバシーポリシー</string>
-  <string name="HelpFragment__copyright_signal_messenger">Copyright Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Copyright CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Licensed under the GPLv3</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">メディアの画質</string>
@@ -3372,7 +3372,7 @@
   <string name="ManageDonationsFragment__my_support">マイサポート</string>
   <string name="ManageDonationsFragment__manage_subscription">サブスクリプションの管理</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">税金受領書</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">税金受領書</string>
   <string name="ManageDonationsFragment__badges">バッジ</string>
   <string name="ManageDonationsFragment__subscription_faq">サブスクリプションのよくある質問</string>
   <string name="ManageDonationsFragment__error_getting_subscription">サブスクリプションを取得できませんでした。</string>
@@ -3594,7 +3594,7 @@
   <string name="NotificationProfilesMegaphone__not_now">今はしない</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">ファイルピッカーを開けませんでした</string>
-  <!--Description shown for the Signal Release Notes channel-->
+  <!--Description shown for the CoolApp Release Notes channel-->
   <string name="ReleaseNotes__signal_release_notes_and_news">Signalリリースノート&amp;ニュース</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">すべての活動</string>
@@ -3619,7 +3619,7 @@
   <!--Donation receipts amount title-->
   <string name="DonationReceiptDetailsFragment__amount">寄付額</string>
   <!--Donation receipts thanks-->
-  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Signalをサポートいただき、ありがとうございます。皆様のご寄付は、表現の自由を守り、世界中の何百万人もの人々に安全なグローバルコミュニケーションを可能にするオープンソースのプライバシー技術の開発というミッションの推進に役立っています。米国にお住まいの方は、この領収書を税務記録のために保管しておいてください。Signal Technology Foundationは、米国内国歳入法第501c3条に基づく非課税の非営利団体です。連邦税IDは82-4506840です。</string>
+  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Signalをサポートいただき、ありがとうございます。皆様のご寄付は、表現の自由を守り、世界中の何百万人もの人々に安全なグローバルコミュニケーションを可能にするオープンソースのプライバシー技術の開発というミッションの推進に役立っています。米国にお住まいの方は、この領収書を税務記録のために保管しておいてください。CoolApp Technology Foundationは、米国内国歳入法第501c3条に基づく非課税の非営利団体です。連邦税IDは82-4506840です。</string>
   <!--Donation receipt type-->
   <string name="DonationReceiptDetailsFragment__s_dash_s">%1$s - %2$s</string>
   <!--region "Stories Tab"-->
@@ -3727,14 +3727,14 @@
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">あなたのストーリーを閲覧可能なユーザーに返信とリアクションを許可します</string>
   <!--Note about default sharing-->
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <!--Signal connections sheet bullet point 1-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <!--CoolApp connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">チャットを開始</string>
-  <!--Signal connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 2-->
   <string name="SignalConnectionsBottomSheet__accepting_a_message_request">メッセージ申請を承認しています</string>
-  <!--Signal connections sheet bullet point 3-->
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--CoolApp connections sheet bullet point 3-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <!--Clickable option to add a viewer to a private story-->
   <string name="PrivateStorySettingsFragment__add_viewer">閲覧できる人を追加</string>
   <!--Clickable option to delete a custom story-->
@@ -3841,7 +3841,7 @@
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">無効にする</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · ストーリー</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · ストーリー</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">ストーリーにリアクションがありました</string>
   <!--endregion-->

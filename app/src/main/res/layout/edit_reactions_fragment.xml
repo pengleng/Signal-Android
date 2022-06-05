@@ -85,7 +85,7 @@
         app:layout_constraintTop_toBottomOf="@+id/edit_reactions_one_third_guideline"
         tools:ignore="UnusedAttribute">
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+        <asia.coolapp.chat.components.emoji.EmojiImageView
             android:id="@+id/reaction_1"
             android:layout_width="34dp"
             android:layout_height="34dp"
@@ -97,7 +97,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+        <asia.coolapp.chat.components.emoji.EmojiImageView
             android:id="@+id/reaction_2"
             android:layout_width="34dp"
             android:layout_height="34dp"
@@ -109,7 +109,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+        <asia.coolapp.chat.components.emoji.EmojiImageView
             android:id="@+id/reaction_3"
             android:layout_width="34dp"
             android:layout_height="34dp"
@@ -121,7 +121,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+        <asia.coolapp.chat.components.emoji.EmojiImageView
             android:id="@+id/reaction_4"
             android:layout_width="34dp"
             android:layout_height="34dp"
@@ -133,7 +133,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+        <asia.coolapp.chat.components.emoji.EmojiImageView
             android:id="@+id/reaction_5"
             android:layout_width="34dp"
             android:layout_height="34dp"
@@ -145,7 +145,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiImageView
+        <asia.coolapp.chat.components.emoji.EmojiImageView
             android:id="@+id/reaction_6"
             android:layout_width="34dp"
             android:layout_height="34dp"

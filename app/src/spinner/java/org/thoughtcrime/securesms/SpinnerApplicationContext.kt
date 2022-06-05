@@ -1,25 +1,25 @@
-package org.thoughtcrime.securesms
+package asia.coolapp.chat
 
 import android.content.ContentValues
 import android.os.Build
 import leakcanary.LeakCanary
 import org.signal.spinner.Spinner
 import org.signal.spinner.Spinner.DatabaseConfig
-import org.thoughtcrime.securesms.database.DatabaseMonitor
-import org.thoughtcrime.securesms.database.GV2Transformer
-import org.thoughtcrime.securesms.database.GV2UpdateTransformer
-import org.thoughtcrime.securesms.database.IsStoryTransformer
-import org.thoughtcrime.securesms.database.JobDatabase
-import org.thoughtcrime.securesms.database.KeyValueDatabase
-import org.thoughtcrime.securesms.database.LocalMetricsDatabase
-import org.thoughtcrime.securesms.database.LogDatabase
-import org.thoughtcrime.securesms.database.MegaphoneDatabase
-import org.thoughtcrime.securesms.database.MessageBitmaskColumnTransformer
-import org.thoughtcrime.securesms.database.QueryMonitor
-import org.thoughtcrime.securesms.database.SignalDatabase
-import org.thoughtcrime.securesms.keyvalue.SignalStore
-import org.thoughtcrime.securesms.recipients.Recipient
-import org.thoughtcrime.securesms.util.AppSignatureUtil
+import asia.coolapp.chat.database.DatabaseMonitor
+import asia.coolapp.chat.database.GV2Transformer
+import asia.coolapp.chat.database.GV2UpdateTransformer
+import asia.coolapp.chat.database.IsStoryTransformer
+import asia.coolapp.chat.database.JobDatabase
+import asia.coolapp.chat.database.KeyValueDatabase
+import asia.coolapp.chat.database.LocalMetricsDatabase
+import asia.coolapp.chat.database.LogDatabase
+import asia.coolapp.chat.database.MegaphoneDatabase
+import asia.coolapp.chat.database.MessageBitmaskColumnTransformer
+import asia.coolapp.chat.database.QueryMonitor
+import asia.coolapp.chat.database.SignalDatabase
+import asia.coolapp.chat.keyvalue.SignalStore
+import asia.coolapp.chat.recipients.Recipient
+import asia.coolapp.chat.util.AppSignatureUtil
 import shark.AndroidReferenceMatchers
 
 class SpinnerApplicationContext : ApplicationContext() {
@@ -91,15 +91,15 @@ class SpinnerApplicationContext : ApplicationContext() {
           fieldName = "mImpl"
         ) +
         AndroidReferenceMatchers.ignoredInstanceField(
-          className = "org.thoughtcrime.securesms.components.voice.VoiceNotePlaybackService",
+          className = "asia.coolapp.chat.components.voice.VoiceNotePlaybackService",
           fieldName = "mApplication"
         ) +
         AndroidReferenceMatchers.ignoredInstanceField(
-          className = "org.thoughtcrime.securesms.service.GenericForegroundService\$LocalBinder",
+          className = "asia.coolapp.chat.service.GenericForegroundService\$LocalBinder",
           fieldName = "this\$0"
         ) +
         AndroidReferenceMatchers.ignoredInstanceField(
-          className = "org.thoughtcrime.securesms.contacts.ContactsSyncAdapter",
+          className = "asia.coolapp.chat.contacts.ContactsSyncAdapter",
           fieldName = "mContext"
         )
     )

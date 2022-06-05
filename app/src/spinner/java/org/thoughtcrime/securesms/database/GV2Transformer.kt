@@ -1,4 +1,4 @@
-package org.thoughtcrime.securesms.database
+package asia.coolapp.chat.database
 
 import android.database.Cursor
 import org.signal.core.util.requireBlob

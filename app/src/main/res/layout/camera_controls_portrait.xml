@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <org.thoughtcrime.securesms.mediasend.CameraButtonView
+    <asia.coolapp.chat.mediasend.CameraButtonView
         android:id="@+id/camera_capture_button"
         android:layout_width="128dp"
         android:layout_height="128dp"
@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:recordSize="54dp" />
 
-    <org.thoughtcrime.securesms.mediasend.camerax.CameraXFlashToggleView
+    <asia.coolapp.chat.mediasend.camerax.CameraXFlashToggleView
         android:id="@+id/camera_flash_button"
         android:layout_width="36dp"
         android:layout_height="36dp"
@@ -59,7 +59,7 @@
         app:riv_border_width="1.5dp"
         app:riv_corner_radius="10dp" />
 
-    <org.thoughtcrime.securesms.mediasend.v2.MediaCountIndicatorButton
+    <asia.coolapp.chat.mediasend.v2.MediaCountIndicatorButton
         android:id="@+id/camera_review_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

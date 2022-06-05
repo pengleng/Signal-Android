@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<org.thoughtcrime.securesms.components.InsetAwareConstraintLayout
+<asia.coolapp.chat.components.InsetAwareConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -26,7 +26,7 @@
         tools:alpha="0.2f"
         tools:visibility="visible" />
 
-    <org.thoughtcrime.securesms.components.InputAwareLayout
+    <asia.coolapp.chat.components.InputAwareLayout
         android:id="@+id/layout_container"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -94,7 +94,7 @@
 
                 <include layout="@layout/conversation_search_nav" />
 
-                <org.thoughtcrime.securesms.messagerequests.MessageRequestsBottomView
+                <asia.coolapp.chat.messagerequests.MessageRequestsBottomView
                     android:id="@+id/conversation_activity_message_request_bottom_bar"
                     android:background="?android:attr/windowBackground"
                     android:visibility="gone"
@@ -160,9 +160,9 @@
 
         </LinearLayout>
 
-    </org.thoughtcrime.securesms.components.InputAwareLayout>
+    </asia.coolapp.chat.components.InputAwareLayout>
 
-    <org.thoughtcrime.securesms.util.views.DarkOverflowToolbar
+    <asia.coolapp.chat.util.views.DarkOverflowToolbar
         android:id="@+id/toolbar"
         android:layout_width="0dp"
         android:layout_height="?attr/actionBarSize"
@@ -206,7 +206,7 @@
 
         </LinearLayout>
 
-    </org.thoughtcrime.securesms.util.views.DarkOverflowToolbar>
+    </asia.coolapp.chat.util.views.DarkOverflowToolbar>
 
     <LinearLayout
         android:id="@+id/conversation_banner_container"
@@ -267,4 +267,4 @@
         android:inflatedId="@+id/conversation_reaction_scrubber"
         android:layout="@layout/conversation_reaction_scrubber" />
 
-</org.thoughtcrime.securesms.components.InsetAwareConstraintLayout>
+</asia.coolapp.chat.components.InsetAwareConstraintLayout>

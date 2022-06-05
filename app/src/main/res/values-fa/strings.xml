@@ -90,9 +90,9 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">اعضای گروه می‌توانند دوباره شما را به این گروه اضافه کنند.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">شما می‌توانید به دیگران پیام دهید و با آن‌ها تماس بگیرید و نام و عکس شما با آن‌ها به اشتراک گذاشته خواهد شد.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">افراد مسدود شده قادر به برقراری تماس با شما یا ارسال پیام به شما نخواهند بود.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">دریافت به‌روزرسانی‌ها و اخبار سیگنال را مسدود کنید.</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">دریافت به‌روزرسانی‌ها و اخبار سیگنال را از سر بگیرید.</string>
   <string name="BlockUnblockDialog_unblock_s">رفع مسدودیت %1$s؟</string>
   <string name="BlockUnblockDialog_block">مسدود کردن</string>
@@ -1364,7 +1364,7 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">آیا شماره‌تلفن شما در بالا صحیح است؟</string>
   <string name="RegistrationActivity_edit_number">ویرایش شماره</string>
   <string name="RegistrationActivity_missing_google_play_services">فاقد خدمات Google Play</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">این دستگاه فاقد خدمات Google Play است. شما می‌توانید به استفاده از سیگنال ادامه دهید، اما این پیکربندی می‌تواند باعث کاهش اطمینان‌پذیری یا عملکرد شود.\n\n اگر یک کاربر حرفه‌ای یا در حال اجرای یک ROM سفارشی اندروید نیستید یا فکر می‌کنید که این پیام به اشتباه به شما نشان داده شده است، برای دریافت کمک در فرآیند عیب‌یابی با support@signal.org تماس بگیرید.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">این دستگاه فاقد خدمات Google Play است. شما می‌توانید به استفاده از سیگنال ادامه دهید، اما این پیکربندی می‌تواند باعث کاهش اطمینان‌پذیری یا عملکرد شود.\n\n اگر یک کاربر حرفه‌ای یا در حال اجرای یک ROM سفارشی اندروید نیستید یا فکر می‌کنید که این پیام به اشتباه به شما نشان داده شده است، برای دریافت کمک در فرآیند عیب‌یابی با support@asia.coolapp.chat تماس بگیرید.</string>
   <string name="RegistrationActivity_i_understand">متوجهم</string>
   <string name="RegistrationActivity_play_services_error">خطای خدمات Play</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">خدمات Google Play در حال به‌روزرسانی است یا موقتاً در دسترس نیست. لطفاً دوباره تلاش کنید.</string>
@@ -1925,7 +1925,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>یک نام یا شماره را وارد کنید</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[ برای وارسی امنیت رمزگذاری سرتاسر خود با %s، ارقام بالا را با ارقام روی دستگاه آن‌ها مقایسه کنید. همچنین می‌توانید کد روی تلفن آن‌ها را اسکن کنید. <a href="https://signal.org/redirect/safety-numbers">بیشتر یاد بگیرید.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[ برای وارسی امنیت رمزگذاری سرتاسر خود با %s، ارقام بالا را با ارقام روی دستگاه آن‌ها مقایسه کنید. همچنین می‌توانید کد روی تلفن آن‌ها را اسکن کنید. <a href="https://asia.coolapp.chat/redirect/safety-numbers">بیشتر یاد بگیرید.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">برای اسکن کردن ضربه بزنید</string>
   <string name="verify_display_fragment__successful_match">انطباق موفق</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">وارسی شمارهٔ ایمنی ناموفق بود</string>
@@ -2202,7 +2202,7 @@
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">عبور از فیلترینگ بر اساس شماره‌تلفن شما فعال شد.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">شما عبور از فیلترینگ را به صورت دستی غیرفعال کردید.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
   <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">نیازی به دورزدن سانسور نیست؛ شما به سرویس سیگنال دسترسی مستقیم دارید.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">عبور از فیلترینگ تنها زمانی می‌تواند فعال شود که اینترنت متصل باشد.</string>
@@ -3674,7 +3674,7 @@
   <string name="NotificationProfilesMegaphone__not_now">حالا نه</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">باز کردن گزینش‌گر ناموفق بود.</string>
-  <!--Description shown for the Signal Release Notes channel-->
+  <!--Description shown for the CoolApp Release Notes channel-->
   <string name="ReleaseNotes__signal_release_notes_and_news">تازه‌ها و اخبار سیگنال</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">همهٔ فعالیت‌ها</string>
@@ -3757,12 +3757,12 @@
   <!--Switchable option for allowing replies and reactions on your stories-->
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <!--Note about default sharing-->
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <!--Signal connections sheet bullet point 1-->
-  <!--Signal connections sheet bullet point 2-->
-  <!--Signal connections sheet bullet point 3-->
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <!--CoolApp connections sheet bullet point 1-->
+  <!--CoolApp connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 3-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <!--Clickable option to add a viewer to a private story-->
   <!--Clickable option to delete a custom story-->
   <!--Dialog title when attempting to remove someone from a private story-->

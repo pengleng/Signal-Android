@@ -6,7 +6,7 @@
 
     <include layout="@layout/dsl_settings_toolbar" />
 
-    <org.thoughtcrime.securesms.components.ContactFilterView
+    <asia.coolapp.chat.components.ContactFilterView
         android:id="@+id/contact_filter_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/contact_selection_list_fragment"
-        android:name="org.thoughtcrime.securesms.ContactSelectionListFragment"
+        android:name="asia.coolapp.chat.ContactSelectionListFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginTop="12dp"

@@ -10,7 +10,7 @@
   <string name="AbstractNotificationBuilder_new_message">새 메시지</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal 업데이트 중…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp 업데이트 중…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">현재: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">암호가 설정되지 않았습니다!</string>
@@ -18,9 +18,9 @@
   <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Signal이 잠금 해제되어 메시지 알림이 표시됩니다.</string>
   <string name="ApplicationPreferencesActivity_disable">비활성화</string>
   <string name="ApplicationPreferencesActivity_unregistering">등록 해제</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Signal 메시지 및 전화 서비스 등록 해제 중…</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Signal 메시지와 전화를 비활성화하시겠습니까?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">서버에서 등록 해제하여 Signal 메시지와 전화를 비활성화합니다. 다시 사용하려면 전화번호를 입력하여 다시 등록해야 합니다.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">CoolApp 메시지 및 전화 서비스 등록 해제 중…</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">CoolApp 메시지와 전화를 비활성화하시겠습니까?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">서버에서 등록 해제하여 CoolApp 메시지와 전화를 비활성화합니다. 다시 사용하려면 전화번호를 입력하여 다시 등록해야 합니다.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">서버에 연결할 수 없습니다!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS 활성화됨</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">기본 SMS 앱을 변경하려면 터치</string>
@@ -89,8 +89,8 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">그룹 멤버는 당신을 그룹에 다시 초대 가능합니다. </string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">서로 메시지를 보내고 전화를 걸 수 있으며 이름과 사진이 공유됩니다.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">차단당한 사람들은 당신에게 전화를 걸거나 메세지를 보낼 수 없습니다.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_unblock_s">%1$s를 차단 해제할까요?</string>
   <string name="BlockUnblockDialog_block">차단</string>
   <string name="BlockUnblockDialog_block_and_leave">그룹 나가고 차단하기</string>
@@ -110,12 +110,12 @@
   <string name="CameraXFragment_open_gallery_description">갤러리 열기</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">최근 연락처</string>
-  <string name="CameraContacts_signal_contacts">Signal 연락처</string>
-  <string name="CameraContacts_signal_groups">Signal 그룹</string>
+  <string name="CameraContacts_signal_contacts">CoolApp 연락처</string>
+  <string name="CameraContacts_signal_groups">CoolApp 그룹</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">최대 %d개의 대화에서 공유할 수 있습니다.</string>
-  <string name="CameraContacts_select_signal_recipients">Signal 수신자 선택</string>
-  <string name="CameraContacts_no_signal_contacts">Signal 연락처 없음</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">카메라 버튼은 Signal 연락처에 사진을 보내는 용도로만 사용할 수 있습니다.</string>
+  <string name="CameraContacts_select_signal_recipients">CoolApp 수신자 선택</string>
+  <string name="CameraContacts_no_signal_contacts">CoolApp 연락처 없음</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">카메라 버튼은 CoolApp 연락처에 사진을 보내는 용도로만 사용할 수 있습니다.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">원하는 사람을 찾지 못하셨나요?</string>
   <string name="CameraContacts_invite_a_contact_to_join_signal">Signal에 등록하도록 연락처 초대</string>
   <string name="CameraContacts__menu_search">검색</string>
@@ -136,7 +136,7 @@
   <string name="ClientDeprecatedActivity_update">업데이트</string>
   <string name="ClientDeprecatedActivity_dont_update">업데이트하지 않음</string>
   <string name="ClientDeprecatedActivity_warning">경고</string>
-  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">Signal 버전이 만료되었습니다. 지금까지의 메세지를 읽을 수는 있지만 업데이트 하기 전까지 메세지를 보내거나 받을 수 없습니다.</string>
+  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">CoolApp 버전이 만료되었습니다. 지금까지의 메세지를 읽을 수는 있지만 업데이트 하기 전까지 메세지를 보내거나 받을 수 없습니다.</string>
   <!--CommunicationActions-->
   <string name="CommunicationActions_no_browser_found">웹 브라우저를 찾을 수 없습니다.</string>
   <string name="CommunicationActions_send_email">이메일 보내기</string>
@@ -160,7 +160,7 @@
   <!--Action for creating a new story-->
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">%s에 메시지 보내기</string>
-  <string name="ContactsDatabase_signal_call_s">%s에 Signal 전화</string>
+  <string name="ContactsDatabase_signal_call_s">%s에 CoolApp 전화</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">이름</string>
   <string name="ContactNameEditActivity_family_name">성</string>
@@ -183,7 +183,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">전송 실패, 탭하여 비보안 연결 시도</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">비보안 SMS로 바꾸시겠습니까?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">비보안 MMS로 바꾸시겠습니까?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">수신자가 이제 Signal 사용자가 아니므로 메시지가 암호화되지 <b>않습니다</b>.\n\n비보안 메시지를 보내시겠습니까?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">수신자가 이제 CoolApp 사용자가 아니므로 메시지가 암호화되지 <b>않습니다</b>.\n\n비보안 메시지를 보내시겠습니까?</string>
   <string name="ConversationItem_unable_to_open_media">미디어를 열 수 있는 앱이 없습니다.</string>
   <string name="ConversationItem_copied_text">%s 복사됨 </string>
   <string name="ConversationItem_from_s">%s에서</string>
@@ -208,7 +208,7 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">해당 기기에서는 전화를 지원하지 않는 것 같습니다.</string>
   <string name="ConversationActivity_transport_insecure_sms">비보안 SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">비보안 MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
   <string name="ConversationActivity_lets_switch_to_signal">Signal로 대화해요! %1$s</string>
   <string name="ConversationActivity_specify_recipient">연락처를 선택해 주세요.</string>
   <string name="ConversationActivity_unblock">차단 해제</string>
@@ -276,7 +276,7 @@
     <item quantity="other">첨부 파일 %1$d개를 저장 공간에 저장 중…</item>
   </plurals>
   <string name="ConversationFragment_pending">대기 중…</string>
-  <string name="ConversationFragment_push">데이터(Signal)</string>
+  <string name="ConversationFragment_push">데이터(CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">삭제 중</string>
@@ -446,7 +446,7 @@
   <string name="DozeReminder_optimize_for_missing_play_services">누락된 Play Services에 최적화</string>
   <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">기기에서는 Play Services를 지원하지 않습니다. 탭하여 시스템 배터리 최적화 기능을 사용하지 않을 수 있습니다. 해당 기능은 Signal이 비활성화된 동안에 메시지를 검색하지 못하게 합니다.</string>
   <!--ExpiredBuildReminder-->
-  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Signal 버전이 만료되었습니다. 메시지를 주고 받기 위해서 지금 업데이트 하십시오.</string>
+  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">CoolApp 버전이 만료되었습니다. 메시지를 주고 받기 위해서 지금 업데이트 하십시오.</string>
   <string name="ExpiredBuildReminder_update_now">지금 업데이트하세요.</string>
   <!--PendingGroupJoinRequestsReminder-->
   <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">
@@ -458,8 +458,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">이미지와 동영상만 여러 개 첨부할 수 있습니다.</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">이 그룹에 보낼 권한이 없음</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">영구적으로 Signal 연결에 실패했습니다!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal은 Google Play Services에 등록될 수 없습니다. Signal 메시지와 전화는 비활성화되었습니다. Signal 설정 - 고급 메뉴에서 다시 등록해 주세요.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">영구적으로 CoolApp 연결에 실패했습니다!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal은 Google Play Services에 등록될 수 없습니다. CoolApp 메시지와 전화는 비활성화되었습니다. CoolApp 설정 - 고급 메뉴에서 다시 등록해 주세요.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">고해상도 GIF 파일을 받는 중 오류 발생</string>
   <!--GiphyFragmentPageAdapter-->
@@ -597,7 +597,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">이 입력창은 필수입니다.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">그룹 생성 실패</string>
   <string name="AddGroupDetailsFragment__try_again_later">나중에 다시 시도하세요.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Signal 그룹을 지원하지 않는 연락처를 선택했으므로 이 그룹은 MMS가됩니다.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">CoolApp 그룹을 지원하지 않는 연락처를 선택했으므로 이 그룹은 MMS가됩니다.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">사용자 정의 MMS 그룹 이름과 사진은 나에게만 표시됩니다.</string>
   <string name="AddGroupDetailsFragment__remove">삭제</string>
   <string name="AddGroupDetailsFragment__sms_contact">SMS 연락</string>
@@ -719,9 +719,9 @@
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">그룹 링크를 사용하기 위해서 Signal을 업데이트하세요</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">사용 중인 Signal 버전에서는 이 그룹 링크를 지원하지 않습니다. 링크를 통해 이 그룹에 가입하려면 최신 버전으로 업데이트하세요.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">사용 중인 CoolApp 버전에서는 이 그룹 링크를 지원하지 않습니다. 링크를 통해 이 그룹에 가입하려면 최신 버전으로 업데이트하세요.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">시그널 업데이트하기</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">하나 이상의 연결된 기기에서 그룹 링크를 지원하지 않는 Signal 버전을 실행하고 있습니다. 이 그룹에 가입하려면 연결된 기기에서 Signal을 업데이트하세요.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">하나 이상의 연결된 기기에서 그룹 링크를 지원하지 않는 CoolApp 버전을 실행하고 있습니다. 이 그룹에 가입하려면 연결된 기기에서 Signal을 업데이트하세요.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">그룹 링크가 유효하지 않습니다.</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">친구 초대</string>
@@ -766,7 +766,7 @@
   <string name="LongMessageActivity_message_from_s">%1$s에게서 온 메시지</string>
   <string name="LongMessageActivity_your_message">내 메시지</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">백그라운드 연결이 활성화됨</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">이동 통신사 MMS 설정 읽기 중 오류 발생</string>
@@ -811,7 +811,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">내가 %1$s에게 보냄</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">나중에 알림</string>
-  <string name="Megaphones_verify_your_signal_pin">Signal 번호 인증</string>
+  <string name="Megaphones_verify_your_signal_pin">CoolApp 번호 인증</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">저희는 사용자가 번호를 기억하실 수 있도록 가끔 번호 인증을 요청합니다.</string>
   <string name="Megaphones_verify_pin">번호 인증</string>
   <string name="Megaphones_get_started">시작하기</string>
@@ -821,11 +821,11 @@
   <string name="Megaphones_appearance">모양</string>
   <string name="Megaphones_add_photo">사진 추가</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Signal 전화 중</string>
-  <string name="NotificationBarManager__establishing_signal_call">Signal 전화 연결 중</string>
-  <string name="NotificationBarManager__incoming_signal_call">수신 Signal 전화</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">수신 Signal 단체 통화</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">Signal 통화 서비스 중지</string>
+  <string name="NotificationBarManager_signal_call_in_progress">CoolApp 전화 중</string>
+  <string name="NotificationBarManager__establishing_signal_call">CoolApp 전화 연결 중</string>
+  <string name="NotificationBarManager__incoming_signal_call">수신 CoolApp 전화</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">수신 CoolApp 단체 통화</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">CoolApp 통화 서비스 중지</string>
   <string name="NotificationBarManager__decline_call">전화 거절</string>
   <string name="NotificationBarManager__answer_call">전화 수락</string>
   <string name="NotificationBarManager__end_call">전화 종료</string>
@@ -867,7 +867,7 @@
   <string name="MessageDecryptionUtil_tap_to_send_a_debug_log">디버그 로그를 보내려면 탭하세요.</string>
   <!--MessageRecord-->
   <string name="MessageRecord_unknown">알 수 없음</string>
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">지원하지 않는 이전 Signal 버전으로부터 암호화 메시지를 받았습니다. 발신자에게 최신 버전으로 업데이트하고 다시 보내도록 요청하세요.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">지원하지 않는 이전 CoolApp 버전으로부터 암호화 메시지를 받았습니다. 발신자에게 최신 버전으로 업데이트하고 다시 보내도록 요청하세요.</string>
   <string name="MessageRecord_left_group">그룹에서 탈퇴했습니다.</string>
   <string name="MessageRecord_you_updated_group">그룹을 업데이트했습니다.</string>
   <string name="MessageRecord_the_group_was_updated">그룹이 업데이트 되었습니다.</string>
@@ -1094,23 +1094,23 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">잘못된 QR 코드입니다.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">죄송합니다. 이미 너무 많은 기기가 연결되어 있습니다. 일부를 제거하세요.</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">죄송합니다. 올바른 기기 연결 QR 코드가 아닙니다.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Signal 기기를 연결하시겠습니까?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">제삼자 스캐너를 사용해 Signal 기기를 연결하려는 것 같습니다. 안전한 사용을 위해 Signal에서 다시 코드를 스캔해 주세요.</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">CoolApp 기기를 연결하시겠습니까?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">제삼자 스캐너를 사용해 CoolApp 기기를 연결하려는 것 같습니다. 안전한 사용을 위해 Signal에서 다시 코드를 스캔해 주세요.</string>
   <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal에서 QR 코드를 읽으려면 카메라 권한이 필요하지만 현재 거부되어 있습니다. 앱 설정 메뉴에서 \'권한\'을 선택한 후 \'카메라\' 항목을 허용해 주세요.</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">카메라 권한이 없어 QR 코드를 스캔할 수 없음</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">지금 업데이트하세요.</string>
-  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">이 Signal 버전은 오늘 만료됩니다. 최신 버전으로 업데이트하세요.</string>
+  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">이 CoolApp 버전은 오늘 만료됩니다. 최신 버전으로 업데이트하세요.</string>
   <plurals name="OutdatedBuildReminder_your_version_of_signal_will_expire_in_n_days">
-    <item quantity="other">이 Signal 버전은 %d일 후에 만료됩니다. 최신 버전으로 업데이트하세요.</item>
+    <item quantity="other">이 CoolApp 버전은 %d일 후에 만료됩니다. 최신 버전으로 업데이트하세요.</item>
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">암호 입력</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal 아이콘</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">CoolApp 아이콘</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">암호 제출</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">잘못된 암호입니다!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Signal 잠금 해제</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - 잠금 화면</string>
+  <string name="PassphrasePromptActivity_unlock_signal">CoolApp 잠금 해제</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - 잠금 화면</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">지도</string>
   <string name="PlacePickerActivity_drop_pin">고정</string>
@@ -1130,12 +1130,12 @@
   <plurals name="PinRestoreEntryFragment_you_have_d_attempt_remaining">
     <item quantity="other">%1$d번의 시도가 남아 있습니다. 시도가 부족하면 새 PIN을 만들 수 있습니다. 계정을 등록하고 사용할 수 있지만 프로필 정보와 같은 일부 저장된 설정이 손실됩니다.</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Signal 등록 - Android용 PIN에 대한 도움이 필요합니다.</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">CoolApp 등록 - Android용 PIN에 대한 도움이 필요합니다.</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">영숫자 번호 입력</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">숫자 번호 입력</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">번호 생성</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">PIN을 알아내지는 못했지만 새 PIN을 생성하여 Signal 계정에 계속 액세스할 수 있습니다. 개인 정보 및 보안을 위해 저장된 프로필 정보 또는 설정 없이 계정이 복원됩니다.</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">PIN을 알아내지는 못했지만 새 PIN을 생성하여 CoolApp 계정에 계속 액세스할 수 있습니다. 개인 정보 및 보안을 위해 저장된 프로필 정보 또는 설정 없이 계정이 복원됩니다.</string>
   <string name="PinRestoreLockedFragment_create_new_pin">새로운 PIN 만들기</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">경고</string>
@@ -1187,8 +1187,8 @@
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">재연결 중…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Signal 전화</string>
-  <string name="WebRtcCallView__signal_video_call">Signal 영상 통화</string>
+  <string name="WebRtcCallView__signal_call">CoolApp 전화</string>
+  <string name="WebRtcCallView__signal_video_call">CoolApp 영상 통화</string>
   <string name="WebRtcCallView__start_call">전화 시작하기</string>
   <string name="WebRtcCallView__join_call">전화 참여하기</string>
   <string name="WebRtcCallView__call_is_full">통화 참가자 수 최대</string>
@@ -1250,7 +1250,7 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">위의 전화번호가 올바른지 확인해 주세요.</string>
   <string name="RegistrationActivity_edit_number">전화번호 수정</string>
   <string name="RegistrationActivity_missing_google_play_services">Google Play Services가 설치되어 있지 않음</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">기기에 Google Play Services가 없습니다. Signal을 사용할 수는 있지만, 안정성이나 성능이 떨어질 수 있습니다.\n\n맞춤형 안드로이드 ROM을 사용하는 고급 사용자가 아니거나, 이 메시지가 오류라고 생각한다면 문제 해결을 위해 이메일로 support@signal.org에 문의해 주세요.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">기기에 Google Play Services가 없습니다. Signal을 사용할 수는 있지만, 안정성이나 성능이 떨어질 수 있습니다.\n\n맞춤형 안드로이드 ROM을 사용하는 고급 사용자가 아니거나, 이 메시지가 오류라고 생각한다면 문제 해결을 위해 이메일로 support@CoolApp.org에 문의해 주세요.</string>
   <string name="RegistrationActivity_i_understand">이해했습니다.</string>
   <string name="RegistrationActivity_play_services_error">Play Services 오류</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play Services가 업데이트 중이거나 잠시 제공되지 않고 있습니다. 다시 시도해 주세요.</string>
@@ -1275,7 +1275,7 @@
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">등록 잠금을 켜시겠습니까?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">등록 잠금을 끄시겠습니까?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Signal에 등록할 때 또 Signal PIN 번호을 잊어버렸다면 7일 동안 계정이 잠깁니다.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Signal에 등록할 때 또 CoolApp PIN 번호을 잊어버렸다면 7일 동안 계정이 잠깁니다.</string>
   <string name="RegistrationLockV2Dialog_turn_on">켜기</string>
   <string name="RegistrationLockV2Dialog_turn_off">끄기</string>
   <!--RevealableMessageView-->
@@ -1292,12 +1292,12 @@
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">연락처에 추가</string>
   <string name="SharedContactDetailsActivity_invite_to_signal">Signal로 초대</string>
-  <string name="SharedContactDetailsActivity_signal_message">Signal 메시지</string>
-  <string name="SharedContactDetailsActivity_signal_call">Signal 전화</string>
+  <string name="SharedContactDetailsActivity_signal_message">CoolApp 메시지</string>
+  <string name="SharedContactDetailsActivity_signal_call">CoolApp 전화</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">연락처에 추가</string>
   <string name="SharedContactView_invite_to_signal">Signal로 초대</string>
-  <string name="SharedContactView_message">Signal 메시지</string>
+  <string name="SharedContactView_message">CoolApp 메시지</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">더 보기</string>
   <!--SignalPinReminders-->
@@ -1324,7 +1324,7 @@
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">설치된 스티커</string>
   <string name="StickerManagementAdapter_stickers_you_received">받은 스티커</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Signal 아티스트 시리즈</string>
+  <string name="StickerManagementAdapter_signal_artist_series">CoolApp 아티스트 시리즈</string>
   <string name="StickerManagementAdapter_no_stickers_installed">설치된 스티커 없음</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">받은 메시지의 스티커가 여기에 표시됩니다.</string>
   <string name="StickerManagementAdapter_untitled">제목 없음</string>
@@ -1350,7 +1350,7 @@
   <string name="SupportEmailUtil_filter">필터:</string>
   <string name="SupportEmailUtil_device_info">기기 정보:</string>
   <string name="SupportEmailUtil_android_version">안드로이드 버전:</string>
-  <string name="SupportEmailUtil_signal_version">Signal 버전:</string>
+  <string name="SupportEmailUtil_signal_version">CoolApp 버전:</string>
   <string name="SupportEmailUtil_signal_package">시그널 패키지:</string>
   <string name="SupportEmailUtil_registration_lock">등록 잠금:</string>
   <string name="SupportEmailUtil_locale">언어:</string>
@@ -1387,8 +1387,8 @@
   <string name="ThreadRecord_video">동영상</string>
   <string name="ThreadRecord_chat_session_refreshed">챗 세션 새로고침됨</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Signal 업데이트</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">새 Signal 버전 출시, 탭하여 업데이트</string>
+  <string name="UpdateApkReadyListener_Signal_update">CoolApp 업데이트</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">새 CoolApp 버전 출시, 탭하여 업데이트</string>
   <!--UntrustedSendDialog-->
   <string name="UntrustedSendDialog_send_message">메시지를 보내시겠습니까?</string>
   <string name="UntrustedSendDialog_send">보내기</string>
@@ -1407,7 +1407,7 @@
   <string name="UsernameEditFragment_usernames_cannot_begin_with_a_number">사용자 이름은 숫자로 시작할 수 없습니다.</string>
   <string name="UsernameEditFragment_username_is_invalid">잘못된 사용자 이름입니다.</string>
   <string name="UsernameEditFragment_usernames_must_be_between_a_and_b_characters">사용자 이름은 %1$d~%2$d자여야 합니다. </string>
-  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Signal의 사용자 이름은 선택 사항입니다. 사용자 이름을 만들면 다른 Signal 사용자가 사용자 이름으로 나를 찾고 전화번호를 몰라도 연락할 수 있습니다.</string>
+  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Signal의 사용자 이름은 선택 사항입니다. 사용자 이름을 만들면 다른 CoolApp 사용자가 사용자 이름으로 나를 찾고 전화번호를 몰라도 연락할 수 있습니다.</string>
   <plurals name="UserNotificationMigrationJob_d_contacts_are_on_signal">
     <item quantity="other">Signal에 연락처가 %d개 있습니다!</item>
   </plurals>
@@ -1416,7 +1416,7 @@
   <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">연락처는 호환되지 않는 QR 코드 형식의 상위 버전 Signal을 사용하고 있습니다. 앱을 업데이트하세요.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">QR 코드가 올바른 안전 번호 인증 코드 형식이 아닌 것 같습니다. 다시 시도해 주세요.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">다음으로 안전 번호 공유:</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">우리 Signal 안전 번호:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">우리 CoolApp 안전 번호:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">공유에 사용할 수 있는 앱이 없습니다.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">클립보드에 비교할 수 있는 안전 번호가 없음</string>
   <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal에서 QR 코드를 읽으려면 카메라 권한이 필요하지만 현재 거부되어 있습니다. 앱 설정 메뉴에서 \'권한\'을 선택한 후 \'카메라\' 항목을 허용해 주세요.</string>
@@ -1439,7 +1439,7 @@
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">터치하여 여세요.</string>
   <string name="KeyCachingService_passphrase_cached">Signal이 잠금 해제됨</string>
-  <string name="KeyCachingService_lock">Signal 잠금</string>
+  <string name="KeyCachingService_lock">CoolApp 잠금</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">나</string>
   <string name="MediaPreviewActivity_unssuported_media_type">지원되지 않는 미디어 형식</string>
@@ -1468,7 +1468,7 @@
   <string name="MessageNotifier_view_once_photo">한 번 볼 수 있는 사진</string>
   <string name="MessageNotifier_view_once_video">한 번 볼 수 있는 동영상</string>
   <string name="MessageNotifier_reply">답장</string>
-  <string name="MessageNotifier_signal_message">Signal 메시지</string>
+  <string name="MessageNotifier_signal_message">CoolApp 메시지</string>
   <string name="MessageNotifier_unsecured_sms">비보안 SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">새 메시지가 있을 수 있음</string>
   <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Signal을 열어 최근 알림을 확인하세요.</string>
@@ -1482,7 +1482,7 @@
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">조회 수 1회인 미디어에 %1$s으(로) 리액션했습니다.</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">스티커에 대해 %1$s로 리액션했습니다.</string>
   <string name="MessageNotifier_this_message_was_deleted">이 메시지는 삭제되었습니다.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">연락처 인물이 Signal에 가입했다는 알림을 끄시겠습니까? Signal &gt; 설정 &gt; 알림에서 다시 활성화할 수 있습니다.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">연락처 인물이 Signal에 가입했다는 알림을 끄시겠습니까? CoolApp &gt; 설정 &gt; 알림에서 다시 활성화할 수 있습니다.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">메시지</string>
   <string name="NotificationChannel_calls">전화</string>
@@ -1511,7 +1511,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">잘못된 단축키</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">새 메시지</string>
   <string name="SingleRecipientNotificationBuilder_message_request">메시지 요청</string>
   <string name="SingleRecipientNotificationBuilder_you">나</string>
@@ -1566,12 +1566,12 @@
   <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal에서 연락처 정보를 표시하려면 연락처 권한이 필요하지만 현재 거부되어 있습니다. 앱 설정 메뉴에서 \'권한\'을 선택한 후 \'연락처\' 항목을 허용해 주세요.</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">연락처를 가져오는 중 오류 발생, 네트워크 연결 확인</string>
   <string name="ContactSelectionListFragment_username_not_found">사용자 이름을 찾을 수 없음</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\'%1$s\' 님은 Signal 사용자가 아닙니다. 사용자 이름 확인 후 다시 시도해 주세요.</string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\'%1$s\' 님은 CoolApp 사용자가 아닙니다. 사용자 이름 확인 후 다시 시도해 주세요.</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">나 자신을 그룹에 추가할 필요가 없습니다.</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">최대 그룹 규모에 도달했습니다.</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Signal 그룹에는 최대 %1$d명의 멤버가 있을 수 있습니다.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">CoolApp 그룹에는 최대 %1$d명의 멤버가 있을 수 있습니다.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">권장 멤버 수 한도에 도달했습니다.</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Signal 그룹은 %1$d명 이하의 멤버가 있을 때 가장 잘 작동합니다. 멤버를 더 많이 추가하면 메시지 송수신이 지연됩니다.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">CoolApp 그룹은 %1$d명 이하의 멤버가 있을 때 가장 잘 작동합니다. 멤버를 더 많이 추가하면 메시지 송수신이 지연됩니다.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="other">멤버 %1$d명</item>
   </plurals>
@@ -1584,7 +1584,7 @@
   </plurals>
   <!--Displays number of viewers for a story-->
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Signal 메시지</string>
+  <string name="conversation_activity__type_message_push">CoolApp 메시지</string>
   <string name="conversation_activity__type_message_sms_insecure">비보안 SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">비보안 MMS</string>
   <string name="conversation_activity__from_sim_name">%1$s에서</string>
@@ -1837,7 +1837,7 @@
   <string name="HelpFragment__how_do_you_feel">기분이 어떠세요? (선택사항)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">연락하는 이유를 알려주세요.</string>
   <string name="HelpFragment__support_info">지원 정보</string>
-  <string name="HelpFragment__signal_android_support_request">Signal Android 지원 요청</string>
+  <string name="HelpFragment__signal_android_support_request">CoolApp Android 지원 요청</string>
   <string name="HelpFragment__debug_log">디버그 로그:</string>
   <string name="HelpFragment__could_not_upload_logs">로그를 업로드할 수 없습니다.</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">저희가 문제를 해결할 수 있도록 최대한으로 설명해 주세요.</string>
@@ -1904,7 +1904,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">암호로 화면 및 알림 금기</string>
   <string name="preferences__screen_security">화면 보안</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">최근 사용 목록/개요 및 앱 내 스크린샷 차단</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">설정된 비활동 기간 후 Signal 잠금</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">설정된 비활동 기간 후 CoolApp 잠금</string>
   <string name="preferences__inactivity_timeout_passphrase">비활동 시간 초과</string>
   <string name="preferences__inactivity_timeout_interval">비활동 시간 초과 간격</string>
   <string name="preferences__notifications">알림</string>
@@ -1966,9 +1966,9 @@
   <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN 번호는 Signal에 저장된 정보를 암호화하여 오직 나만 접근할 수 있게 만듭니다. 내 프로필, 설정, 그리고 연락처는 Signal을 다시 설치할 때 복원됩니다.</string>
   <string name="preferences__system_default">시스템 기본값</string>
   <string name="preferences__language">언어</string>
-  <string name="preferences__signal_messages_and_calls">Signal 메시지 및 전화</string>
+  <string name="preferences__signal_messages_and_calls">CoolApp 메시지 및 전화</string>
   <string name="preferences__advanced_pin_settings">PIN 고급 설정</string>
-  <string name="preferences__free_private_messages_and_calls">Signal 사용자에게 무료 보안 메시지 및 전화 걸기</string>
+  <string name="preferences__free_private_messages_and_calls">CoolApp 사용자에게 무료 보안 메시지 및 전화 걸기</string>
   <string name="preferences__submit_debug_log">디버그 로그 제출</string>
   <string name="preferences__delete_account">계정 삭제</string>
   <string name="preferences__support_wifi_calling">\'Wi-Fi 전화\' 호환 모드</string>
@@ -2008,8 +2008,8 @@
   <string name="preferences_storage__s_messages">%1$s 메시지</string>
   <string name="preferences_storage__custom">맞춤</string>
   <string name="preferences_advanced__use_system_emoji">시스템 이모지 사용</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Signal 내장 이모지 지원 비활성화</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">연락처에게 IP 주소가 표시되지 않도록 모든 전화를 Signal 서버로 릴레이합니다. 전화 품질이 떨어질 수 있습니다.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">CoolApp 내장 이모지 지원 비활성화</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">연락처에게 IP 주소가 표시되지 않도록 모든 전화를 CoolApp 서버로 릴레이합니다. 전화 품질이 떨어질 수 있습니다.</string>
   <string name="preferences_advanced__always_relay_calls">향상 전화 릴레이</string>
   <string name="preferences_app_protection__who_can">누가…</string>
   <string name="preferences_app_protection__app_access">앱 액세스</string>
@@ -2040,8 +2040,8 @@
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">검열 우회가 계정의 휴대전화에서 활성화되습니다.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">사용자는 수동으로 검열 우회 기능을 멈출 수 있습니다.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">검열 우회는 필수가 아닙니다. Signal 서비스에 연결되어 있다면 필요하지 않습니다.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">검열 우회는 필수가 아닙니다. CoolApp 서비스에 연결되어 있다면 필요하지 않습니다.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">검열 우회는 인터넷에 연결되었을 때만 활성화할 수 있습니다.</string>
   <string name="preferences_communication__category_sealed_sender">발신자 암호화</string>
@@ -2112,7 +2112,7 @@
   <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Signal을 사용하여 MobileCoin을 보내고 받을 수 있습니다. 모든 지불은 MobileCoin 및 MobileCoin 지갑에 대한 사용 약관의 적용을 받습니다. 이는 베타 기능이므로 몇 가지 문제가 발생할 수 있으며 손실된 지불이나 잔액은 복구할 수 없습니다. </string>
   <string name="PaymentsHomeFragment__activate">활성화</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">MobileCoin 용어 보기</string>
-  <string name="PaymentsHomeFragment__payments_not_available">Signal 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.</string>
+  <string name="PaymentsHomeFragment__payments_not_available">CoolApp 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.</string>
   <!--PaymentsAddMoneyFragment-->
   <string name="PaymentsAddMoneyFragment__add_funds">자금 추가</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">지갑 주소</string>
@@ -2149,7 +2149,7 @@
   <string name="PaymentsTransferFragment__next">다음</string>
   <string name="PaymentsTransferFragment__invalid_address">유효하지 않은 주소</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">이체하려는 지갑 주소를 확인하고 다시 시도하세요.</string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">내 Signal 지갑 주소로 이체할 수 없습니다. 지원되는 거래소에서 귀하의 계정에서 지갑 주소를 입력하세요.</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">내 CoolApp 지갑 주소로 이체할 수 없습니다. 지원되는 거래소에서 귀하의 계정에서 지갑 주소를 입력하세요.</string>
   <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">QR 코드를 스캔하려면 Signal이 카메라에 액세스할 수 있어야 합니다.</string>
   <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">Signal이 QR 코드를 캡처하려면 카메라 권한이 필요합니다. 설정으로 이동하여 \'권한\'을 선택하고 \'카메라\'를 활성화하세요.</string>
   <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">QR 코드를 스캔하려면 Signal이 카메라에 액세스할 수 있어야 합니다.</string>
@@ -2210,8 +2210,8 @@
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">전화</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Signal 전화</string>
-  <string name="conversation_callable_secure__menu_video">Signal 영상 통화</string>
+  <string name="conversation_callable_secure__menu_call">CoolApp 전화</string>
+  <string name="conversation_callable_secure__menu_video">CoolApp 영상 통화</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <!--conversation_context_image-->
@@ -2294,7 +2294,7 @@
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">시스템 SMS 가져오기</string>
   <string name="reminder_header_sms_import_text">탭하여 휴대 전화의 SMS 메시지를 Signal의 암호화된 데이터베이스에 가져오세요.</string>
-  <string name="reminder_header_push_title">Signal 메시지 및 전화 활성화</string>
+  <string name="reminder_header_push_title">CoolApp 메시지 및 전화 활성화</string>
   <string name="reminder_header_push_text">대화 경험을 업그레이드해 보세요.</string>
   <string name="reminder_header_service_outage_text">Signal에 기술적 문제가 발생했습니다. 최대한 신속하게 처리하겠습니다.</string>
   <string name="reminder_header_progress">%1$d%%</string>
@@ -2312,7 +2312,7 @@
   <string name="Insights__percent">%</string>
   <string name="Insights__title">인사이트</string>
   <string name="InsightsDashboardFragment__title">인사이트</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Signal 프로토콜이 지난 %2$d일 동안 발신된 메시지 중 %1$d%%를 발견했습니다. Signal 사용자 간의 대화는 항상 단대단 암호화됩니다.</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">CoolApp 프로토콜이 지난 %2$d일 동안 발신된 메시지 중 %1$d%%를 발견했습니다. CoolApp 사용자 간의 대화는 항상 단대단 암호화됩니다.</string>
   <string name="InsightsDashboardFragment__not_enough_data">데이터가 충분하지 않음</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">인사이트 백분율은 최근 %1$d일 동안 사라졌거나 삭제되지 않은 발신 메시지에 대해 산정됩니다.</string>
   <string name="InsightsDashboardFragment__start_a_conversation">대화 시작</string>
@@ -2322,11 +2322,11 @@
   <string name="InsightsDashboardFragment__cancel">취소</string>
   <string name="InsightsDashboardFragment__send">전송</string>
   <string name="InsightsModalFragment__title">인사이트를 소개합니다.</string>
-  <string name="InsightsModalFragment__description">내 발신 메시지 중 얼마나 많은 메시지가 안전하게 전송되었는지 알아보고, 새 연락처를 손쉽게 초대하여 내 Signal 백분율을 부스트해 보세요.</string>
+  <string name="InsightsModalFragment__description">내 발신 메시지 중 얼마나 많은 메시지가 안전하게 전송되었는지 알아보고, 새 연락처를 손쉽게 초대하여 내 CoolApp 백분율을 부스트해 보세요.</string>
   <string name="InsightsModalFragment__view_insights">인사이트 보기</string>
   <string name="FirstInviteReminder__title">Signal로 초대</string>
   <string name="FirstInviteReminder__description">내가 보낸 암호화 메시지 수를 %1$d%%나 올릴 수 있습니다. </string>
-  <string name="SecondInviteReminder__title">Signal 부스트</string>
+  <string name="SecondInviteReminder__title">CoolApp 부스트</string>
   <string name="SecondInviteReminder__description">%1$s 초대</string>
   <string name="InsightsReminder__view_insights">인사이트 보기</string>
   <string name="InsightsReminder__invite">초대</string>
@@ -2366,7 +2366,7 @@
   <string name="KbsSplashFragment__learn_more_about_pins">PIN에 대해 더 알아보기</string>
   <string name="KbsSplashFragment__disable_pin">PIN 비활성화</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Signal 번호 입력</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">CoolApp 번호 입력</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">주기적으로 번호를 입력하면 외우는 데 도움이 됩니다. 가끔씩만 여쭤보겠습니다.</string>
   <string name="KbsReminderDialog__skip">건너뛰기</string>
   <string name="KbsReminderDialog__submit">제출</string>
@@ -2387,8 +2387,8 @@
   <string name="RegistrationLockFragment__incorrect_pin">잘못된 번호</string>
   <string name="RegistrationLockFragment__forgot_your_pin">번호를 잊으셨나요?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">얼마 남지 않았습니다!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Signal 등록 - Android용 PIN 설정에 도움이 필요합니다 (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Signal 등록 - Android용 PIN 설정에 도움이 필요합니다 (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">CoolApp 등록 - Android용 PIN 설정에 도움이 필요합니다 (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">CoolApp 등록 - Android용 PIN 설정에 도움이 필요합니다 (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="other">개인 정보 보호와 보안을 위해 번호를 복원할 수는 없습니다. 번호를 잊었다면 계정을 사용하지 않은 지 %1$d일 후 SMS로 다시 인증할 수 있습니다. 해당 경우, 계정이 정리되어 모든 내용이 삭제됩니다.</item>
   </plurals>
@@ -2418,8 +2418,8 @@
   <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal에서 SMS를 보내려면 SMS 권한이 필요하지만 현재 거부되어 있습니다. 앱 설정 메뉴에서 \'권한\'을 선택한 후 \'SMS\' 항목을 허용해 주세요.</string>
   <string name="Permissions_continue">확인</string>
   <string name="Permissions_not_now">나중에</string>
-  <string name="conversation_activity__enable_signal_messages">Signal 메시지 켜기</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">Signal 데이터베이스 이전 중</string>
+  <string name="conversation_activity__enable_signal_messages">CoolApp 메시지 켜기</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">CoolApp 데이터베이스 이전 중</string>
   <string name="PushDecryptJob_new_locked_message">새 잠금 메세지</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">잠금 해제하여 보류 중인 메시지 보기</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">암호 백업</string>
@@ -2467,8 +2467,8 @@
   <string name="ProgressPreference_d_messages_so_far">현재 메시지 %d개 처리됨</string>
   <string name="RegistrationActivity_wrong_number">잘못된 번호</string>
   <string name="RegistrationActivity_call_me_instead_available_in">전화로 인증\n(%1$02d:%2$02d 이후 이용 가능)</string>
-  <string name="RegistrationActivity_contact_signal_support">Signal 지원 팀에 문의</string>
-  <string name="RegistrationActivity_code_support_subject">Signal 등록 - 안드로이드용 인증 코드</string>
+  <string name="RegistrationActivity_contact_signal_support">CoolApp 지원 팀에 문의</string>
+  <string name="RegistrationActivity_code_support_subject">CoolApp 등록 - 안드로이드용 인증 코드</string>
   <string name="BackupUtil_never">없음</string>
   <string name="BackupUtil_unknown">알 수 없음</string>
   <string name="preferences_app_protection__see_my_phone_number">내 전화번호 보기</string>
@@ -2477,21 +2477,21 @@
   <string name="PhoneNumberPrivacy_my_contacts">내 연락처</string>
   <string name="PhoneNumberPrivacy_nobody">아무도</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">내 전화번호는 메시지를 보내는 모든 사람과 그룹에 표시됩니다.</string>
-  <string name="PhoneNumberPrivacy_everyone_find_description">연락처에 내 전화번호가 있는 사람은 누구나 나를 Signal 연락처로 볼 수 있습니다. 다른 사람들이 검색으로 나를 찾을 수 있습니다.</string>
+  <string name="PhoneNumberPrivacy_everyone_find_description">연락처에 내 전화번호가 있는 사람은 누구나 나를 CoolApp 연락처로 볼 수 있습니다. 다른 사람들이 검색으로 나를 찾을 수 있습니다.</string>
   <string name="preferences_app_protection__screen_lock">화면 잠금</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">안드로이드 화면 잠금 또는 지문으로 Signal 잠금</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">안드로이드 화면 잠금 또는 지문으로 CoolApp 잠금</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">다음 시간만큼 사용하지 않을 때 화면 잠금</string>
-  <string name="preferences_app_protection__signal_pin">Signal 번호</string>
+  <string name="preferences_app_protection__signal_pin">CoolApp 번호</string>
   <string name="preferences_app_protection__create_a_pin">번호 생성</string>
   <string name="preferences_app_protection__change_your_pin">PIN 번호 바꾸기</string>
   <string name="preferences_app_protection__pin_reminders">PIN 알림</string>
   <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN 번호는 정보를 Signal에서 암호화하여 저장하므로 사용자만 액세스할 수 있습니다. 프로필, 설정과 연락처는 Signal을 다시 설치할 때 복원됩니다.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Signal에 전화번호를 다시 등록하려면 Signal PIN을 요구하여 보안을 강화하세요.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Signal에 전화번호를 다시 등록하려면 CoolApp PIN을 요구하여 보안을 강화하세요.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">PIN을 복구할 수는 없으므로 알림은 PIN을 기억하는 데 도움이 됩니다. 시간이 지남에 따라 질문을 덜 자주 받게 됩니다.</string>
   <string name="preferences_app_protection__turn_off">끄기</string>
   <string name="preferences_app_protection__confirm_pin">번호 확인</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Signal PIN 번호 확인</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">PIN은 복구할 수 없으므로 외우거나 안전하게 보관하세요. PIN을 잊어버린 경우 Signal 계정을 다시 등록할 때 데이터가 손실될 수 있습니다.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">CoolApp PIN 번호 확인</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">PIN은 복구할 수 없으므로 외우거나 안전하게 보관하세요. PIN을 잊어버린 경우 CoolApp 계정을 다시 등록할 때 데이터가 손실될 수 있습니다.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">잘못된 번호입니다. 다시 시도해 주세요.</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">등록 잠금을 활성화하지 못했습니다.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">등록 잠금을 비활성화하지 못했습니다.</string>
@@ -2509,7 +2509,7 @@
   <string name="Recipient_unknown">알 수 없음</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">계정 이전 또는 복원</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">이전에 Signal 계정을 등록한 경우 계정 및 메시지를 이전하거나 복원할 수 있습니다.</string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">이전에 CoolApp 계정을 등록한 경우 계정 및 메시지를 이전하거나 복원할 수 있습니다.</string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Android 장치에서 전송</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">이전 Android 장치에서 계정과 메시지를 전송하세요. 이전 장치에 액세스해야 합니다.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">이전 장치에 액세스해야 합니다.</string>
@@ -2589,7 +2589,7 @@
   <string name="DeviceTransfer__unable_to_transfer">전송할 수 없음</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">계정 이동</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">새 Android 장치에서 Signal을 설정할 때 Signal 계정을 이전할 수 있습니다. 계속하기 전에:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">새 Android 장치에서 Signal을 설정할 때 CoolApp 계정을 이전할 수 있습니다. 계속하기 전에:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
   <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">새 Android 장치에서 Signal을 다운로드하세요.</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
@@ -2600,7 +2600,7 @@
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">전송 완료</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">새 장치로 이동</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Signal 데이터가 새 장치로 전송되었습니다. 이전 절차를 완료하려면 새 장치에서 계속 등록해야 합니다.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">CoolApp 데이터가 새 장치로 전송되었습니다. 이전 절차를 완료하려면 새 장치에서 계속 등록해야 합니다.</string>
   <string name="OldDeviceTransferComplete__close">닫기</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">전송 성공</string>
@@ -2617,7 +2617,7 @@
   <string name="DeviceToDeviceTransferService_status_service_connected">계정 이전 중…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">새 장치에서 등록 완료</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Signal 계정이 새 장치로 이전되었지만 계속하려면 등록을 완료해야 합니다. 이 장치에서 신호가 비활성화됩니다.</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">CoolApp 계정이 새 장치로 이전되었지만 계속하려면 등록을 완료해야 합니다. 이 장치에서 신호가 비활성화됩니다.</string>
   <string name="OldDeviceTransferLockedDialog__done">확인</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">이 장치를 취소하고 활성화하세요.</string>
   <!--AdvancedPreferenceFragment-->
@@ -2723,7 +2723,7 @@
   <string name="DeleteAccountFragment__no_number">지정된 전화번호가 없습니다.</string>
   <string name="DeleteAccountFragment__the_phone_number">입력한 전화번호가 내 계정과 일치하지 않습니다.</string>
   <string name="DeleteAccountFragment__are_you_sure">계정을 삭제하시겠습니까?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">이후 Signal 계정이 삭제되고 애플리케이션이 재설정됩니다. 프로세스가 완료되면 앱이 종료됩니다.</string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">이후 CoolApp 계정이 삭제되고 애플리케이션이 재설정됩니다. 프로세스가 완료되면 앱이 종료됩니다.</string>
   <string name="DeleteAccountFragment__failed_to_delete_account">계정을 삭제하지 못했습니다. 네트워크에 연결되어 있습니까?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">로컬 데이터를 삭제하지 못했습니다. 시스템 애플리케이션 설정에서 수동으로 제거할 수 있습니다.</string>
   <string name="DeleteAccountFragment__launch_app_settings">앱 설정 시작</string>
@@ -2745,7 +2745,7 @@
   <string name="ShareActivity__share">공유</string>
   <string name="ShareActivity__send">보내기</string>
   <string name="ShareActivity__comma_s">, %1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">여러 개의 채팅방에 공유하기는 Signal 메시지에서만 지원됩니다</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">여러 개의 채팅방에 공유하기는 CoolApp 메시지에서만 지원됩니다</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">일부 사용자에 대한 보내기가 실패했습니다</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">%1$d개의 채팅방과만 공유할 수 있습니다</string>
@@ -2820,7 +2820,7 @@
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">복구 문구</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">복구 문구 보기</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">복구 코드를 입력하기</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Signal PIN을 확인하면 Signal을 다시 설치할 때 잔액이 자동으로 복원됩니다. 또한 귀하에게 고유한 %1$d개 단어 문구인 복구 문구를 사용하여 잔액을 복원할 수 있습니다. 적어 놓고 안전한 장소에 보관하세요.</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">CoolApp PIN을 확인하면 Signal을 다시 설치할 때 잔액이 자동으로 복원됩니다. 또한 귀하에게 고유한 %1$d개 단어 문구인 복구 문구를 사용하여 잔액을 복원할 수 있습니다. 적어 놓고 안전한 장소에 보관하세요.</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">귀하의 복구 문구는 귀하에게 고유한 %1$d개 단어의 문구입니다. 이 문구를 사용하여 균형을 회복하세요.</string>
   <string name="PaymentsRecoveryStartFragment__start">시작</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">수동으로 입력</string>
@@ -2889,7 +2889,7 @@
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">계정</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">시간이 지남에 따라 질문 빈도가 줄어듭니다.</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Signal에 전화번호를 다시 등록하려면 Signal PIN이 필요합니다.</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Signal에 전화번호를 다시 등록하려면 CoolApp PIN이 필요합니다.</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__continue">계속</string>
   <!--Message shown on dialog after your number has been changed successfully.-->
@@ -2968,7 +2968,7 @@
   <string name="HelpSettingsFragment__version">버전</string>
   <string name="HelpSettingsFragment__debug_log">디버그 로그</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">이용 약관 &amp; 개인 정보 보호 정책</string>
-  <string name="HelpFragment__copyright_signal_messenger">Signal Messenger 저작권</string>
+  <string name="HelpFragment__copyright_signal_messenger">CoolApp Messenger 저작권</string>
   <string name="HelpFragment__licenced_under_the_gplv3">GPLv3에 따라 라이선스가 부여됨</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__high">높음</string>
@@ -3253,7 +3253,7 @@
   <!--Button to dismiss notification profile megaphone-->
   <string name="NotificationProfilesMegaphone__not_now">나중에</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
-  <!--Description shown for the Signal Release Notes channel-->
+  <!--Description shown for the CoolApp Release Notes channel-->
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">모든 활동</string>
   <!--Donation receipts all tab label-->
@@ -3334,12 +3334,12 @@
   <!--Switchable option for allowing replies and reactions on your stories-->
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <!--Note about default sharing-->
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <!--Signal connections sheet bullet point 1-->
-  <!--Signal connections sheet bullet point 2-->
-  <!--Signal connections sheet bullet point 3-->
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <!--CoolApp connections sheet bullet point 1-->
+  <!--CoolApp connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 3-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <!--Clickable option to add a viewer to a private story-->
   <!--Clickable option to delete a custom story-->
   <!--Dialog title when attempting to remove someone from a private story-->

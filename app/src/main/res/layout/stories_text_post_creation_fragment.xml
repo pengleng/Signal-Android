@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <org.thoughtcrime.securesms.stories.StoryTextPostView
+    <asia.coolapp.chat.stories.StoryTextPostView
         android:id="@+id/story_text_post"
         android:layout_width="0dp"
         android:layout_height="0dp"

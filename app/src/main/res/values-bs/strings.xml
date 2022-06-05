@@ -10,22 +10,22 @@
   <string name="AbstractNotificationBuilder_new_message">Nova poruka</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal se ažurira …</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp se ažurira …</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Trenutno: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Još niste zadali lozinku!</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Isključiti lozinku?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Ovo će trajno otključati Signal i obavještenja o porukama.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Ovo će trajno otključati CoolApp i obavještenja o porukama.</string>
   <string name="ApplicationPreferencesActivity_disable">Onemogući</string>
   <string name="ApplicationPreferencesActivity_unregistering">Odjavljivanje</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Odjavljivanje iz Signal poruka i poziva …</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Onemogućiti Signal poruke i pozive?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Onemogućite Signal poruke i pozive tako što ćete se odjaviti sa servera. Morate ponovo registrovati svoj broj telefona da biste ih koristili u budućnosti.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Odjavljivanje iz CoolApp poruka i poziva …</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Onemogućiti CoolApp poruke i pozive?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Onemogućite CoolApp poruke i pozive tako što ćete se odjaviti sa servera. Morate ponovo registrovati svoj broj telefona da biste ih koristili u budućnosti.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Greška pri povezivanju sa serverom!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS aktivan</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Pritisnite ovdje da biste promijenili svoju glavnu aplikaciju za slanje SMS poruka</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS neaktivan</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Pritisnite ovdje da Signal učinite svojom glavnom aplikacijom za slanje SMS poruka</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Pritisnite ovdje da CoolApp učinite svojom glavnom aplikacijom za slanje SMS poruka</string>
   <string name="ApplicationPreferencesActivity_on">uključeno</string>
   <string name="ApplicationPreferencesActivity_On">Uključeno</string>
   <string name="ApplicationPreferencesActivity_off">isključeno</string>
@@ -91,9 +91,9 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">Članovi grupe moći će Vas ponovo uvrstiti u grupu.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Moći ćete razmjenjivati poruke i pozive, a sa sagovornikom će biti podijeljeni i Vaše ime i slika.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">Blokirane osobe neće Vas više moći zvati niti Vam slati poruke.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Blokiraj primanje ažuriranja Signala i novosti.</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Nastavi primati ažuriranja Signala i novosti.</string>
   <string name="BlockUnblockDialog_unblock_s">Deblokirati %1$s?</string>
   <string name="BlockUnblockDialog_block">Blokiraj</string>
@@ -114,14 +114,14 @@
   <string name="CameraXFragment_open_gallery_description">Otvori galeriju</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Nedavni kontakti</string>
-  <string name="CameraContacts_signal_contacts">Signal kontakti</string>
-  <string name="CameraContacts_signal_groups">Signal grupe</string>
+  <string name="CameraContacts_signal_contacts">CoolApp kontakti</string>
+  <string name="CameraContacts_signal_groups">CoolApp grupe</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Možete dijeliti sa najviše %d konverzacija.</string>
-  <string name="CameraContacts_select_signal_recipients">Odaberite Signal primaoce</string>
-  <string name="CameraContacts_no_signal_contacts">Nema Signal kontakata</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">Okidač kamere možete koristiti samo za slanje fotografija Signal kontaktima.</string>
+  <string name="CameraContacts_select_signal_recipients">Odaberite CoolApp primaoce</string>
+  <string name="CameraContacts_no_signal_contacts">Nema CoolApp kontakata</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">Okidač kamere možete koristiti samo za slanje fotografija CoolApp kontaktima.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Ne možete pronaći koga tražite?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Pozovite osobu da koristi Signal</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Pozovite osobu da koristi CoolApp</string>
   <string name="CameraContacts__menu_search">Traži</string>
   <!--Censorship Circumvention Megaphone-->
   <!--Title for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
@@ -137,7 +137,7 @@
   <string name="ClearProfileActivity_remove_profile_photo">Ukloni fotografiju profila?</string>
   <string name="ClearProfileActivity_remove_group_photo">Ukloni sliku grupe</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">Ažurirajte Signal</string>
+  <string name="ClientDeprecatedActivity_update_signal">Ažurirajte CoolApp</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">Ova verzija aplikacije više nije podržana. Da biste mogli slati i primati poruke, instalirajte zadnju verziju.</string>
   <string name="ClientDeprecatedActivity_update">Ažuriraj</string>
   <string name="ClientDeprecatedActivity_dont_update">Ne ažuriraj</string>
@@ -153,7 +153,7 @@
   <string name="CommunicationActions_insecure_call">Nezaštićen poziv</string>
   <string name="CommunicationActions_carrier_charges_may_apply">Može doći do troškova. Broj koji pozivate nije registrovan na Signalu. Poziv će biti usmjeren preko Vašeg mobilnog operatera, ne preko interneta.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Promijenjen je Vaš sigurnosni broj %1$s. To može značiti da neko pokušava presresti Vašu komunikaciju ili da je %2$s iznova instalirao/la Signal.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Promijenjen je Vaš sigurnosni broj %1$s. To može značiti da neko pokušava presresti Vašu komunikaciju ili da je %2$s iznova instalirao/la CoolApp.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Trebali biste provjeriti svoj sigurnosni broj s ovom osobom.</string>
   <string name="ConfirmIdentityDialog_accept">Prihvati</string>
   <!--ContactsCursorLoader-->
@@ -168,7 +168,7 @@
   <string name="ContactsCursorLoader_new_story">Nova priča</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Poruka %s</string>
-  <string name="ContactsDatabase_signal_call_s">Signal poziv %s</string>
+  <string name="ContactsDatabase_signal_call_s">CoolApp poziv %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Ime</string>
   <string name="ContactNameEditActivity_family_name">Prezime</string>
@@ -191,7 +191,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Slanje nije uspjelo. Dodirnite za nešifriranu alternativu.</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Koristiti nešifrirani SMS?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Koristiti nešifrirani MMS?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Poruka <b>neće</b> biti šifrirana jer primalac više ne koristi Signal.\n\nPoslati nezaštićenu poruku?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Poruka <b>neće</b> biti šifrirana jer primalac više ne koristi CoolApp.\n\nPoslati nezaštićenu poruku?</string>
   <string name="ConversationItem_unable_to_open_media">Nije pronađena aplikacija koja može otvoriti ovu datoteku.</string>
   <string name="ConversationItem_copied_text">Kopirano %s</string>
   <string name="ConversationItem_from_s">od %s</string>
@@ -216,8 +216,8 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Ovaj uređaj možda ne podržava pozivanje.</string>
   <string name="ConversationActivity_transport_insecure_sms">Nezaštićen SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Nezaštićen MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Pređimo na Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Pređimo na CoolApp %1$s</string>
   <string name="ConversationActivity_specify_recipient">Molimo odaberite kontakt</string>
   <string name="ConversationActivity_unblock">Deblokiraj</string>
   <string name="ConversationActivity_attachment_exceeds_size_limits">Veličina priloga veća je od dopuštene za vrstu poruke koju šaljete.</string>
@@ -241,7 +241,7 @@
   <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signalu je potrebno dopuštenje da pristupi mikrofonu kako bi mogao snimati video, ali je ono uskraćeno. Molimo nastavite do postavki aplikacije, odaberite \"Dozvole\" i aktivirajte stavke \"Mikrofon\" i \"Kamera\".</string>
   <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signalu je potrebno dopuštenje da pristupi mikrofonu kako bi mogao snimati videozapise.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal ne može slati SMS/MMS poruke zato što nije Vaša glavna SMS aplikacija. Želite li ovo promijeniti u postavkama Androida?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp ne može slati SMS/MMS poruke zato što nije Vaša glavna SMS aplikacija. Želite li ovo promijeniti u postavkama Androida?</string>
   <string name="ConversationActivity_yes">Da</string>
   <string name="ConversationActivity_no">Ne</string>
   <string name="ConversationActivity_search_position">%1$d od %2$d</string>
@@ -296,7 +296,7 @@
     <item quantity="other">Pohranjujem %1$d priloga u memoriju uređaja…</item>
   </plurals>
   <string name="ConversationFragment_pending">U obradi…</string>
-  <string name="ConversationFragment_push">Internet (Signal)</string>
+  <string name="ConversationFragment_push">Internet (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Brisanje</string>
@@ -311,16 +311,16 @@
   <string name="ConversationFragment_you_can_swipe_to_the_left_reply">Na svaku poruku možete brzo odgovoriti tako što ćete je povući ulijevo</string>
   <string name="ConversationFragment_outgoing_view_once_media_files_are_automatically_removed">Jednokratne multimedijske datoteke automatski će se izbrisati nakon što su poslane</string>
   <string name="ConversationFragment_you_already_viewed_this_message">Već ste vidjeli ovu poruku</string>
-  <string name="ConversationFragment__you_can_add_notes_for_yourself_in_this_conversation">U ovoj konverzaciji možete dodati bilješke za sebe.\nAko Signal koristite na više uređaja, ove će bilješke biti sinhronizovane među njima.</string>
+  <string name="ConversationFragment__you_can_add_notes_for_yourself_in_this_conversation">U ovoj konverzaciji možete dodati bilješke za sebe.\nAko CoolApp koristite na više uređaja, ove će bilješke biti sinhronizovane među njima.</string>
   <string name="ConversationFragment__d_group_members_have_the_same_name">%1$d člana grupe imaju isto ime.</string>
   <string name="ConversationFragment__tap_to_review">Dotaknite da provjerite</string>
   <string name="ConversationFragment__review_requests_carefully">Pažljivo pregledajte zahtjeve</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">Signal je među kontaktima pronašao još jednu osobu s istim imenom.</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">CoolApp je među kontaktima pronašao još jednu osobu s istim imenom.</string>
   <string name="ConversationFragment_contact_us">Kontaktirajte nas</string>
   <string name="ConversationFragment_verify">Verifikuj</string>
   <string name="ConversationFragment_not_now">Ne sada</string>
   <string name="ConversationFragment_your_safety_number_with_s_changed">Vaš je sigurnosni broj sa %s promijenjen</string>
-  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Vaš je sigurnosni broj sa %s promijenjen, vjerovatno zbog toga što su on ili ona iznova instalirali Signal ili promijenili uređaj. Pritisnite Verifikuj da potvrdite novi sigurnosni broj. Ova radnja nije obavezna.</string>
+  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">Vaš je sigurnosni broj sa %s promijenjen, vjerovatno zbog toga što su on ili ona iznova instalirali CoolApp ili promijenili uređaj. Pritisnite Verifikuj da potvrdite novi sigurnosni broj. Ova radnja nije obavezna.</string>
   <!--Message shown to indicate which notification profile is on/active-->
   <string name="ConversationFragment__s_on">%1$s uključen</string>
   <!--Dialog title for block group link join requests-->
@@ -460,7 +460,7 @@
   <string name="BackupsPreferenceFragment__test_your_backup_passphrase">Provjerite svoju lozinku za rezervne kopije i potvrdite da je tačna</string>
   <string name="BackupsPreferenceFragment__turn_on">Uključi</string>
   <string name="BackupsPreferenceFragment__turn_off">Isključi</string>
-  <string name="BackupsPreferenceFragment__to_restore_a_backup">Da biste vratili podatke, instalirajte Signal iznova. Otvorite aplikaciju i odaberite \"Vrati podatke\", a potom pronađite rezervnu kopiju. %1$s</string>
+  <string name="BackupsPreferenceFragment__to_restore_a_backup">Da biste vratili podatke, instalirajte CoolApp iznova. Otvorite aplikaciju i odaberite \"Vrati podatke\", a potom pronađite rezervnu kopiju. %1$s</string>
   <string name="BackupsPreferenceFragment__learn_more">Saznajte više</string>
   <string name="BackupsPreferenceFragment__in_progress">U toku…</string>
   <string name="BackupsPreferenceFragment__d_so_far">%1$d do sada…</string>
@@ -485,7 +485,7 @@
   <string name="DateUtils_yesterday">Jučer</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">Konverzacija je osvježena</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">Signal koristi enkripciju s kraja na kraj (end-to-end) i možda će ponekad biti potrebno konverzaciju/sesiju osvježiti. Ovo ne utječe na sigurnost konverzacije, ali se može dogoditi da propustite poruku koju Vam je kontakt poslao. Možete ga zamoliti da Vam poruku pošalje ponovo.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">CoolApp koristi enkripciju s kraja na kraj (end-to-end) i možda će ponekad biti potrebno konverzaciju/sesiju osvježiti. Ovo ne utječe na sigurnost konverzacije, ali se može dogoditi da propustite poruku koju Vam je kontakt poslao. Možete ga zamoliti da Vam poruku pošalje ponovo.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Prekinuti vezu sa \'%s\'?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Ako prekinete vezu s ovim uređajem, preko njega više nećete moći slati i primati poruke.</string>
@@ -503,7 +503,7 @@
   <string name="DocumentView_unnamed_file">Datoteka bez naziva</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Optimizuj za nepostojanje Play Services</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ovaj uređaj ne podržava Play Services. Pritisnite ovdje kako biste onemogućili sistemske optimizacije korištenja baterije koje sprečavaju Signal da prima poruke dok je aplikacija zatvorena.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ovaj uređaj ne podržava Play Services. Pritisnite ovdje kako biste onemogućili sistemske optimizacije korištenja baterije koje sprečavaju CoolApp da prima poruke dok je aplikacija zatvorena.</string>
   <!--ExpiredBuildReminder-->
   <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Ova verzija Signala je istekla. Ažurirajte aplikaciju sada da biste mogli slati i primati poruke.</string>
   <string name="ExpiredBuildReminder_update_now">Ažuriraj sada</string>
@@ -690,7 +690,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">Ovo se polje mora ispuniti.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">Neuspjelo kreiranje grupe.</string>
   <string name="AddGroupDetailsFragment__try_again_later">Pokušajte ponovo kasnije.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Odabrali ste kontakt koji ne podržava Signal grupe, stoga će ovo biti MMS grupa.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Odabrali ste kontakt koji ne podržava CoolApp grupe, stoga će ovo biti MMS grupa.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Vlastiti nazivi dodijeljeni MMS grupama i slike bit će vidljivi samo Vama.</string>
   <string name="AddGroupDetailsFragment__remove">Ukloni</string>
   <string name="AddGroupDetailsFragment__sms_contact">SMS kontakt</string>
@@ -725,7 +725,7 @@
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">Samo administratori mogu kreirati novi link za pristup grupi.</string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">Niste ovlašteni za to</string>
   <string name="ManageGroupActivity_not_capable">Neko koga ste uvrstili ne podržava nove grupe i treba ažurirati verziju Signala</string>
-  <string name="ManageGroupActivity_not_announcement_capable">Neko koga ste uvrstili nema podrške za proglasne grupe i treba ažurirati Signal</string>
+  <string name="ManageGroupActivity_not_announcement_capable">Neko koga ste uvrstili nema podrške za proglasne grupe i treba ažurirati CoolApp</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">Neuspjelo ažuriranje grupe</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">Niste član ove grupe</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">Neuspjelo ažuriranje grupe, molimo, pokušajte kasnije</string>
@@ -736,7 +736,7 @@
   <string name="ManageGroupActivity_legacy_group_upgrade">Ovo je stara grupa. Da biste mogli koristiti opcije poput @spomena i administracije grupe,</string>
   <string name="ManageGroupActivity_legacy_group_too_large">Ova grupa ne može se preinačiti u novu grupu jer je prevelika. Maksimum za grupu iznosi %1$d.</string>
   <string name="ManageGroupActivity_upgrade_this_group">nadogradi ovu grupu.</string>
-  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Ovo je nezaštićena MMS grupa. Da biste razgovarali u privatnosti, pozovite svoje kontakte da koriste Signal.</string>
+  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Ovo je nezaštićena MMS grupa. Da biste razgovarali u privatnosti, pozovite svoje kontakte da koriste CoolApp.</string>
   <string name="ManageGroupActivity_invite_now">Pozovi odmah</string>
   <string name="ManageGroupActivity_more">više</string>
   <string name="ManageGroupActivity_add_group_description">Unesite opis grupe…</string>
@@ -825,10 +825,10 @@
     <item quantity="other">Grupa · %1$d članova</item>
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Ažurirajte Signal da biste mogli koristiti grupne linkove</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Ažurirajte CoolApp da biste mogli koristiti grupne linkove</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Verzija Signala koju koristite ne podržava ovaj link za grupu. Instalirajte zadnju verziju da biste se mogli priključiti ovoj grupi putem linka.</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Ažurirajte Signal</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Jedan ili više Vaših povezanih uređaja koriste verziju Signala koja ne podržava linkove za grupe. Ažurirajte Signal na svojim povezanim uređajima da biste pristupili ovoj grupi.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Ažurirajte CoolApp</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Jedan ili više Vaših povezanih uređaja koriste verziju Signala koja ne podržava linkove za grupe. Ažurirajte CoolApp na svojim povezanim uređajima da biste pristupili ovoj grupi.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">Link za grupu nije ispravan</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Pozovi prijatelje</string>
@@ -860,14 +860,14 @@
   <string name="InviteActivity_cancel">Otkaži</string>
   <string name="InviteActivity_sending">Šaljem…</string>
   <string name="InviteActivity_invitations_sent">Pozivnica poslana!</string>
-  <string name="InviteActivity_invite_to_signal">Pozovite na Signal</string>
+  <string name="InviteActivity_invite_to_signal">Pozovite na CoolApp</string>
   <string name="InviteActivity_send_sms">Pošalji SMS (%d)</string>
   <plurals name="InviteActivity_send_sms_invites">
     <item quantity="one">Poslati %d SMS pozivnicu?</item>
     <item quantity="few">Poslati %d SMS pozivnice?</item>
     <item quantity="other">Poslati %d SMS pozivnica?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Pređimo na Signal: %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Pređimo na CoolApp: %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Izgleda da nemate nijednu aplikaciju s kojom je moguće dijeljenje.</string>
   <!--LearnMoreTextView-->
   <string name="LearnMoreTextView_learn_more">Saznajte više</string>
@@ -877,7 +877,7 @@
   <string name="LongMessageActivity_message_from_s">Poruka od %1$s</string>
   <string name="LongMessageActivity_your_message">Vaša poruka</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Aktivirana konekcija u pozadini</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Greška prilikom čitanja operaterovih MMS postavki</string>
@@ -935,7 +935,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">Vi ste poslali za %1$s</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">Podsjeti me kasnije</string>
-  <string name="Megaphones_verify_your_signal_pin">Potvrdite svoj Signal PIN</string>
+  <string name="Megaphones_verify_your_signal_pin">Potvrdite svoj CoolApp PIN</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">Povremeno ćemo od Vas tražiti da potvrdite svoj PIN kako biste ga zapamtili.</string>
   <string name="Megaphones_verify_pin">Potvrdi PIN</string>
   <string name="Megaphones_get_started">Krenite</string>
@@ -945,11 +945,11 @@
   <string name="Megaphones_appearance">Izgled</string>
   <string name="Megaphones_add_photo">Dodaj fotografiju</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Signal poziv u toku</string>
-  <string name="NotificationBarManager__establishing_signal_call">Uspostavljam Signal poziv</string>
-  <string name="NotificationBarManager__incoming_signal_call">Dolazni Signal poziv</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">Dolazni grupni Signal poziv</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">Zaustavljam servis za Signal pozive</string>
+  <string name="NotificationBarManager_signal_call_in_progress">CoolApp poziv u toku</string>
+  <string name="NotificationBarManager__establishing_signal_call">Uspostavljam CoolApp poziv</string>
+  <string name="NotificationBarManager__incoming_signal_call">Dolazni CoolApp poziv</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">Dolazni grupni CoolApp poziv</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">Zaustavljam servis za CoolApp pozive</string>
   <string name="NotificationBarManager__decline_call">Odbij poziv</string>
   <string name="NotificationBarManager__answer_call">Odgovori na poziv</string>
   <string name="NotificationBarManager__end_call">Završi razgovor</string>
@@ -1175,7 +1175,7 @@
   <!--Update item message shown in the release channel when someone is already a sustainer so we ask them if they want to boost.-->
   <string name="MessageRecord_like_this_new_feature_say_thanks_with_a_boost">Sviđa Vam se nova mogućnost aplikacije? Kažite \"hvala\" putem Podsticaja.</string>
   <!--Update item message shown in the release channel when someone is not a sustainer so we ask them to consider becoming one-->
-  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">Signal postoji zahvaljujući osobama poput Vas. Postanite pokrovitelj danas.</string>
+  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">CoolApp postoji zahvaljujući osobama poput Vas. Postanite pokrovitelj danas.</string>
   <!--Group Calling update messages-->
   <string name="MessageRecord_s_started_a_group_call_s">%1$s je započeo/la grupni poziv · %2$s</string>
   <string name="MessageRecord_s_is_in_the_group_call_s">%1$s učestvuje u grupnom pozivu · %2$s</string>
@@ -1253,8 +1253,8 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Nevažeći QR kōd.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Povezali ste previše uređaja, molimo pokušajte ukloniti neke od njih</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Ovo nije ispravan QR kōd za povezivanje uređaja.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Povezati Signal uređaj?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Izgleda da ste pokušali povezati Signal uređaj koristeći neki eksterni skener. Radi vlastite sigurnosti, molimo ponovo skenirajte kōd, ali kroz Signal.</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">Povezati CoolApp uređaj?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Izgleda da ste pokušali povezati CoolApp uređaj koristeći neki eksterni skener. Radi vlastite sigurnosti, molimo ponovo skenirajte kōd, ali kroz CoolApp.</string>
   <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signalu je potrebno dopuštenje da pristupi kameri kako bi mogao skenirati QR kōd, ali je ono trajno uskraćeno. Molimo nastavite do postavki aplikacije, odaberite \"Dozvole\" i aktivirajte stavku \"Kamera\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Nije moguće skenirati QR kōd bez dopuštenja za pristup kameri.</string>
   <!--OutdatedBuildReminder-->
@@ -1267,11 +1267,11 @@
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Unesite lozinku</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal sličica</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">CoolApp sličica</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Unesite lozinku</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Pogrešna lozinka!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Otključajte Signal</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android – Zaključan ekran</string>
+  <string name="PassphrasePromptActivity_unlock_signal">Otključajte CoolApp</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android – Zaključan ekran</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Karta</string>
   <string name="PlacePickerActivity_drop_pin">Stavite pribadaču</string>
@@ -1293,16 +1293,16 @@
     <item quantity="few">Preostala su Vam %1$d pokušaja. Ako svi Vaši pokušaji budu neuspješni, možete kreirati novi PIN. Moći ćete registrovati i koristiti svoj račun, ali će neke postavke računa, poput informacija o profilu, biti poništene.</item>
     <item quantity="other">Preostalo Vam je %1$d pokušaja. Ako svi Vaši pokušaji budu neuspješni, možete kreirati novi PIN. Moći ćete registrovati i koristiti svoj račun, ali će neke postavke računa, poput informacija o profilu, biti poništene.</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Signal registracija – trebate pomoć u vezi s PIN-om za Android</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">CoolApp registracija – trebate pomoć u vezi s PIN-om za Android</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">Unesite alfanumerički PIN</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">Unesite numerički PIN</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">Kreirajte svoj PIN</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Iskoristili ste sve pokušaje za unošenje PIN-a, ali i dalje možete pristupiti svom Signal računu kreiranjem novog PIN-a. Radi zaštite privatnosti i sigurnosti, Vaš će račun biti obnovljen, ali neće sadržavati stare informacije o profilu ili podešavanja.</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Iskoristili ste sve pokušaje za unošenje PIN-a, ali i dalje možete pristupiti svom CoolApp računu kreiranjem novog PIN-a. Radi zaštite privatnosti i sigurnosti, Vaš će račun biti obnovljen, ali neće sadržavati stare informacije o profilu ili podešavanja.</string>
   <string name="PinRestoreLockedFragment_create_new_pin">Kreiraj novi PIN</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Upozorenje</string>
-  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Ako isključite PIN, svi Vaši podaci bit će izbrisani kada se ponovo registrujete na Signal, izuzev ako ručno kreirate rezervnu kopiju i koristite je za povrat podataka. Nećete moći aktivirati zaključavanje registracije dok god je PIN isključen.</string>
+  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Ako isključite PIN, svi Vaši podaci bit će izbrisani kada se ponovo registrujete na CoolApp, izuzev ako ručno kreirate rezervnu kopiju i koristite je za povrat podataka. Nećete moći aktivirati zaključavanje registracije dok god je PIN isključen.</string>
   <string name="PinOptOutDialog_disable_pin">Isključi PIN</string>
   <!--RatingManager-->
   <string name="RatingManager_rate_this_app">Ocijenite ovu aplikaciju</string>
@@ -1343,18 +1343,18 @@
   <!--Title text for the Valentine\'s Day donation megaphone. The placeholder will always be a heart emoji. Needs to be a placeholder for Android reasons.-->
   <string name="ValentinesDayMegaphone_happy_heart_day">Sretan dan 💜!</string>
   <!--Body text for the Valentine\'s Day donation megaphone.-->
-  <string name="ValentinesDayMegaphone_show_your_affection">Pokažite svoju privrženost postavši Signal pokrovitelj.</string>
+  <string name="ValentinesDayMegaphone_show_your_affection">Pokažite svoju privrženost postavši CoolApp pokrovitelj.</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Pritisnite ovdje da uključite video</string>
   <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Da biste nazvali %1$s, Signalu je potreban pristup Vašoj kameri</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Pozivam…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">Grupa je prevelika za zazvoniti učesnicima.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">Povezujem iznova…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Signal poziv</string>
-  <string name="WebRtcCallView__signal_video_call">Signal videopoziv</string>
+  <string name="WebRtcCallView__signal_call">CoolApp poziv</string>
+  <string name="WebRtcCallView__signal_video_call">CoolApp videopoziv</string>
   <string name="WebRtcCallView__start_call">Nazovi</string>
   <string name="WebRtcCallView__join_call">Pridruži se pozivu</string>
   <string name="WebRtcCallView__call_is_full">Poziv je popunjen</string>
@@ -1364,12 +1364,12 @@
   <string name="WebRtcCallView__reconnecting">Povezujem iznova…</string>
   <string name="WebRtcCallView__joining">Pristupam…</string>
   <string name="WebRtcCallView__disconnected">Prekinuta veza</string>
-  <string name="WebRtcCallView__signal_will_ring_s">Signal će zazvoniti %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">Signal će zazvoniti %1$s i %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">CoolApp će zazvoniti %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">CoolApp će zazvoniti %1$s i %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="one">Signal će zazvoniti %1$s, %2$s i još %3$d osobi</item>
-    <item quantity="few">Signal će zazvoniti %1$s, %2$s i %3$d drugih</item>
-    <item quantity="other">Signal će zazvoniti %1$s, %2$s i %3$d drugih</item>
+    <item quantity="one">CoolApp će zazvoniti %1$s, %2$s i još %3$d osobi</item>
+    <item quantity="few">CoolApp će zazvoniti %1$s, %2$s i %3$d drugih</item>
+    <item quantity="other">CoolApp će zazvoniti %1$s, %2$s i %3$d drugih</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s će biti obaviješten/a</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s i %2$s bit će obaviješteni</string>
@@ -1451,18 +1451,18 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">Je li gore navedeni broj Vašega telefona tačan?</string>
   <string name="RegistrationActivity_edit_number">Ispravite broj</string>
   <string name="RegistrationActivity_missing_google_play_services">Nedostaju Google Play Services</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Na ovom uređaju nisu instalirani Google Play Services. I dalje ćete moći koristiti Signal, ali ova konfiguracija može dovesti do manje pouzdanosti i lošijih performansi.\n\nAko niste napredni korisnik, ako nemate ručno instaliranu verziju Android ROM-a ili smatrate da je ova poruka greška, molimo kontaktirajte support@signal.org za pomoć.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Na ovom uređaju nisu instalirani Google Play Services. I dalje ćete moći koristiti CoolApp, ali ova konfiguracija može dovesti do manje pouzdanosti i lošijih performansi.\n\nAko niste napredni korisnik, ako nemate ručno instaliranu verziju Android ROM-a ili smatrate da je ova poruka greška, molimo kontaktirajte support@asia.coolapp.chat za pomoć.</string>
   <string name="RegistrationActivity_i_understand">Razumijem</string>
   <string name="RegistrationActivity_play_services_error">Play Services greška</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play Services se ažuriraju ili su privremeno nedostupni. Pokušajte ponovo.</string>
   <string name="RegistrationActivity_terms_and_privacy">Sporazum o korištenju i privatnosti</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signalu je potrebno dopuštenje da pristupi kontaktima i multimediji kako bi Vam pomogao u povezivanju s prijateljima i slanju poruka. Vaši su kontakti preneseni na Signal server putem Signalovog privatnog uvezivanja kontakata, što znači da su šifrirani s kraja na kraj i nisu nikada vidljivi Signal servisu.</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">Signalu je potrebno dopuštenje da pristupi kontaktima kako bi Vam pomogao u povezivanju s prijateljima. Vaši su kontakti preneseni na Signal server putem Signalovog privatnog uvezivanja kontakata, što znači da su šifrirani s kraja na kraj i nisu nikada vidljivi Signal servisu.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signalu je potrebno dopuštenje da pristupi kontaktima i multimediji kako bi Vam pomogao u povezivanju s prijateljima i slanju poruka. Vaši su kontakti preneseni na CoolApp server putem Signalovog privatnog uvezivanja kontakata, što znači da su šifrirani s kraja na kraj i nisu nikada vidljivi CoolApp servisu.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">Signalu je potrebno dopuštenje da pristupi kontaktima kako bi Vam pomogao u povezivanju s prijateljima. Vaši su kontakti preneseni na CoolApp server putem Signalovog privatnog uvezivanja kontakata, što znači da su šifrirani s kraja na kraj i nisu nikada vidljivi CoolApp servisu.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Pokušali ste previše puta registrovati ovaj broj. Molimo pokušajte ponovo kasnije.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Povezivanje nije uspjelo. Molimo provjerite internet-konekciju i pokušajte ponovo.</string>
   <string name="RegistrationActivity_non_standard_number_format">Nestandardni oblik broja</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">Broj koji ste unijeli (%1$s) izgleda nije standardnog oblika.\n\nJeste li mislili na %2$s?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android – oblik telefonskog broja</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android – oblik telefonskog broja</string>
   <string name="RegistrationActivity_call_requested">Zahtijevan poziv</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Preostao je %d korak da pošaljete izvještaj o greškama.</item>
@@ -1484,7 +1484,7 @@
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">Uključiti zaključavanje registracije?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">Isključiti zaključavanje registracije?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Ako zaboravite svoj Signal PIN kad se budete ponovo registrovali na Signalu, Vaš račun bit će Vam nedostupan 7 dana.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Ako zaboravite svoj CoolApp PIN kad se budete ponovo registrovali na Signalu, Vaš račun bit će Vam nedostupan 7 dana.</string>
   <string name="RegistrationLockV2Dialog_turn_on">Uključi</string>
   <string name="RegistrationLockV2Dialog_turn_off">Isključi</string>
   <!--RevealableMessageView-->
@@ -1500,13 +1500,13 @@
   <!--ShakeToReport-->
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Dodaj među kontakte</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">Pozovite na Signal</string>
-  <string name="SharedContactDetailsActivity_signal_message">Signal poruke</string>
-  <string name="SharedContactDetailsActivity_signal_call">Signal poziv</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">Pozovite na CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_message">CoolApp poruke</string>
+  <string name="SharedContactDetailsActivity_signal_call">CoolApp poziv</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Dodaj među kontakte</string>
-  <string name="SharedContactView_invite_to_signal">Pozovite na Signal</string>
-  <string name="SharedContactView_message">Signal poruka</string>
+  <string name="SharedContactView_invite_to_signal">Pozovite na CoolApp</string>
+  <string name="SharedContactView_message">CoolApp poruka</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">Više</string>
   <!--SignalPinReminders-->
@@ -1532,14 +1532,14 @@
   <string name="SmsMessageRecord_secure_session_reset">Pokrenuli ste iznova zaštićenu sesiju.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s je iznova pokrenuo/la zaštićenu sesiju.</string>
   <string name="SmsMessageRecord_duplicate_message">Dvostruka poruka.</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Poruka nije mogla biti obrađena jer je poslata putem novije verzije Signala. Nakon što ažurirate Signal, možete zamoliti sagovornika da Vam poruku pošalje ponovo.</string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Poruka nije mogla biti obrađena jer je poslata putem novije verzije Signala. Nakon što ažurirate CoolApp, možete zamoliti sagovornika da Vam poruku pošalje ponovo.</string>
   <string name="SmsMessageRecord_error_handling_incoming_message">Greška u obradi dolazne poruke.</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Naljepnice</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Instalirane naljepnice</string>
   <string name="StickerManagementAdapter_stickers_you_received">Primljene naljepnice</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Signal umjetnički serijal</string>
+  <string name="StickerManagementAdapter_signal_artist_series">CoolApp umjetnički serijal</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Nema instaliranih naljepnica</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">Naljepnice iz primljenih poruka bit će prikazane ovdje</string>
   <string name="StickerManagementAdapter_untitled">Bez naziva</string>
@@ -1566,7 +1566,7 @@
   <string name="SupportEmailUtil_device_info">Podaci o uređaju:</string>
   <string name="SupportEmailUtil_android_version">Verzija Androida:</string>
   <string name="SupportEmailUtil_signal_version">Verzija Signala:</string>
-  <string name="SupportEmailUtil_signal_package">Signal paket:</string>
+  <string name="SupportEmailUtil_signal_package">CoolApp paket:</string>
   <string name="SupportEmailUtil_registration_lock">Zaključavanje registracije:</string>
   <string name="SupportEmailUtil_locale">Region:</string>
   <!--ThreadRecord-->
@@ -1630,10 +1630,10 @@
   </plurals>
   <!--VerifyIdentityActivity-->
   <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Ova osoba koristi stariju verziju Signala. Molimo tražite da instalira novu verziju prije verifikacije sigurnosnog broja.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Ova osoba koristi noviju verziju Signala, sa nekompatibilnim QR kōdom. Molimo nadogradite Signal da uporedite.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Ova osoba koristi noviju verziju Signala, sa nekompatibilnim QR kōdom. Molimo nadogradite CoolApp da uporedite.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Skenirani QR kōd nije ispravno oblikovan kōd za provjeru sigurnosnog broja. Molimo pokušajte skenirati ponovo.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Podijeli sigurnosni broj putem…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Naš Signal sigurnosni broj:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Naš CoolApp sigurnosni broj:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Izgleda da nemate nijednu aplikaciju s kojom je moguće dijeljenje.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">U spremniku nije pronađen sigurnosni broj za upoređivanje</string>
   <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signalu je potrebno dopuštenje da pristupi kameri kako bi mogao skenirati QR kōd, ali je ono trajno uskraćeno. Molimo nastavite do postavki aplikacije, odaberite \"Dozvole\" i aktivirajte stavku \"Kamera\".</string>
@@ -1655,8 +1655,8 @@
   <string name="ApplicationMigrationService_system_database_import_is_complete">Završeno je unošenje sistemske baze podataka.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Dotaknite da otvorite.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal je otključan</string>
-  <string name="KeyCachingService_lock">Zaključaj Signal</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp je otključan</string>
+  <string name="KeyCachingService_lock">Zaključaj CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vi</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Nepodržana vrsta datoteke</string>
@@ -1680,17 +1680,17 @@
   <string name="MessageNotifier_failed_to_deliver_message">Neuspjelo isporučenje poruke.</string>
   <string name="MessageNotifier_error_delivering_message">Greška u isporučenju poruke.</string>
   <string name="MessageNotifier_message_delivery_paused">Pauzirana isporuka poruke.</string>
-  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Potvrdite da biste nastavili slanje poruka kroz Signal.</string>
+  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Potvrdite da biste nastavili slanje poruka kroz CoolApp.</string>
   <string name="MessageNotifier_mark_all_as_read">Sve označi kao pročitano</string>
   <string name="MessageNotifier_mark_read">Označi kao pročitano</string>
   <string name="MessageNotifier_turn_off_these_notifications">Isključi ova obavještenja</string>
   <string name="MessageNotifier_view_once_photo">Jednokratna fotografija</string>
   <string name="MessageNotifier_view_once_video">Jednokratni videozapis</string>
   <string name="MessageNotifier_reply">Odgovori</string>
-  <string name="MessageNotifier_signal_message">Signal poruka</string>
+  <string name="MessageNotifier_signal_message">CoolApp poruka</string>
   <string name="MessageNotifier_unsecured_sms">Nezaštićen SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Možda imate novih poruka</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Otvorite Signal da provjerite zadnja obavještenja.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Otvorite CoolApp da provjerite zadnja obavještenja.</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Kontakt</string>
   <string name="MessageNotifier_reacted_s_to_s">Reagovao/la je sa %1$s na: \"%2$s\".</string>
@@ -1702,7 +1702,7 @@
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Reagovao/la je sa %1$s na Vaš jednokratni zapis.</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">Reagovao/la je sa %1$s na Vašu naljepnicu.</string>
   <string name="MessageNotifier_this_message_was_deleted">Ova je poruka izbrisana.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Isključiti obavještenja o tome da se kontakt prijavio na Signal? Možete ih ponovo aktivirati kroz Signal &gt; Podešavanja &gt; Obavještenja.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Isključiti obavještenja o tome da se kontakt prijavio na CoolApp? Možete ih ponovo aktivirati kroz CoolApp &gt; Podešavanja &gt; Obavještenja.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Poruke</string>
   <string name="NotificationChannel_calls">Pozivi</string>
@@ -1714,7 +1714,7 @@
   <string name="NotificationChannel_group_chats">Konverzacije</string>
   <string name="NotificationChannel_missing_display_name">Nepoznato</string>
   <string name="NotificationChannel_voice_notes">Glasovne bilješke</string>
-  <string name="NotificationChannel_contact_joined_signal">Kontakt je počeo koristiti Signal</string>
+  <string name="NotificationChannel_contact_joined_signal">Kontakt je počeo koristiti CoolApp</string>
   <string name="NotificationChannels__no_activity_available_to_open_notification_channel_settings">Nema aktivnosti za otvaranje postavki obavještenjā.</string>
   <!--Notification channel name for showing persistent background connection on devices without push notifications-->
   <string name="NotificationChannel_background_connection">Konekcija u pozadini</string>
@@ -1722,7 +1722,7 @@
   <string name="NotificationChannel_call_status">Status poziva</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Brzi odgovori nisu dostupni kada je Signal zaključan!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Brzi odgovori nisu dostupni kada je CoolApp zaključan!</string>
   <string name="QuickResponseService_problem_sending_message">Problem prilikom slanja poruke!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Pohranjeno u %s</string>
@@ -1733,7 +1733,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Nevažeća kratica</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Nova poruka</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Zahtjev za komunikaciju</string>
   <string name="SingleRecipientNotificationBuilder_you">Vi</string>
@@ -1776,7 +1776,7 @@
   <string name="change_passphrase_activity__repeat_new_passphrase">Ponovite novu lozinku</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">Unesite ime ili broj</string>
-  <string name="contact_selection_activity__invite_to_signal">Pozovite u Signal</string>
+  <string name="contact_selection_activity__invite_to_signal">Pozovite u CoolApp</string>
   <string name="contact_selection_activity__new_group">Nova grupa</string>
   <!--contact_filter_toolbar-->
   <string name="contact_filter_toolbar__clear_entered_text_description">Ukloni uneseni tekst</string>
@@ -1791,12 +1791,12 @@
   <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signalu je potrebno dopuštenje da pristupi kontaktima kako bi mogao prikazati Vaše kontakte, ali je ono trajno uskraćeno. Molimo nastavite do postavki aplikacije, odaberite \"Dozvole\" i aktivirajte stavku \"Kontakti\".</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Greška prilikom preuzimanja kontakta, provjerite internet-konekciju</string>
   <string name="ContactSelectionListFragment_username_not_found">Korisničko ime nije pronađeno</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" ne koristi Signal. Provjerite korisničko ime i pokušajte ponovo.</string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" ne koristi CoolApp. Provjerite korisničko ime i pokušajte ponovo.</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">Nema potrebe da sebe uvrštavate u grupu</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">Dostignuta je maksimalna veličina grupe</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Signal grupe mogu imati maksimalno %1$d članova.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">CoolApp grupe mogu imati maksimalno %1$d članova.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">Dostignut je preporučljiv broj članova</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Signal grupe najbolje funkcionišu sa %1$d ili manje članova. Uvrštavanje novih članova dovest će do usporenog slanja i primanja poruka.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">CoolApp grupe najbolje funkcionišu sa %1$d ili manje članova. Uvrštavanje novih članova dovest će do usporenog slanja i primanja poruka.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="one">%1$d član</item>
     <item quantity="few">%1$d člana</item>
@@ -1818,7 +1818,7 @@
     <item quantity="other">%1$d posmatrača</item>
   </plurals>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Signal poruka</string>
+  <string name="conversation_activity__type_message_push">CoolApp poruka</string>
   <string name="conversation_activity__type_message_sms_insecure">Nezaštićen SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Nezaštićen MMS</string>
   <string name="conversation_activity__from_sim_name">Od %1$s</string>
@@ -1861,7 +1861,7 @@
   <string name="ConversationUpdateItem_view">Pregled</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">Vrijeme za nestajanje poruka bit će podešeno na %1$s kad im pošaljete poruku.</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Signal Pojačivač</string>
+  <string name="ConversationUpdateItem_signal_boost">CoolApp Pojačivač</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">Postanite pokrovitelj</string>
   <!--audio_view-->
@@ -1886,7 +1886,7 @@
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">Spusti do dna</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">Balončići su opcija Androida koju možete isključiti u Signal-porukama.</string>
+  <string name="BubbleOptOutTooltip__description">Balončići su opcija Androida koju možete isključiti u CoolApp-porukama.</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">Ne sada</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -1899,7 +1899,7 @@
   <string name="safety_number_change_dialog__join_call">Pridruži se pozivu</string>
   <string name="safety_number_change_dialog__continue_call">Nastavi s pozivom</string>
   <string name="safety_number_change_dialog__leave_call">Završi poziv</string>
-  <string name="safety_number_change_dialog__the_following_people_may_have_reinstalled_or_changed_devices">Ove su osobe možda iznova instalirale Signal ili promijenile uređaj. Potvrdite svoj sigurnosni broj s njima da osigurate privatnost.</string>
+  <string name="safety_number_change_dialog__the_following_people_may_have_reinstalled_or_changed_devices">Ove su osobe možda iznova instalirale CoolApp ili promijenile uređaj. Potvrdite svoj sigurnosni broj s njima da osigurate privatnost.</string>
   <string name="safety_number_change_dialog__view">Pregled</string>
   <string name="safety_number_change_dialog__previous_verified">Ranije potvrđeno</string>
   <!--EnableCallNotificationSettingsDialog__call_notifications_checklist-->
@@ -1962,9 +1962,9 @@
   <string name="IdentityUtil_unverified_banner_one">Vaš je sigurnosni broj sa %s promijenjen i više nije potvrđen</string>
   <string name="IdentityUtil_unverified_banner_two">Vaši sigurnosni brojevi sa %1$s i %2$s više nisu potvrđeni</string>
   <string name="IdentityUtil_unverified_banner_many">Vaši sigurnosni brojevi sa %1$s, %2$s i %3$s više nisu potvrđeni</string>
-  <string name="IdentityUtil_unverified_dialog_one">Vaš je sigurnosni broj sa %1$s promijenjen i više nije potvrđen. Ovo može značiti da neko pokušava presresti Vašu komunikaciju ili da je %1$s iznova instalirao/la Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_two">Vaši sigurnosni brojevi sa %1$s i %2$s više nisu potvrđeni. Ovo može značiti da neko pokušava presresti Vašu komunikaciju ili da su oni iznova instalirali Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_many">Vaši sigurnosni brojevi sa %1$s, %2$s i %3$s više nisu potvrđeni. Ovo može značiti da neko pokušava presresti Vašu komunikaciju ili da su oni iznova instalirali Signal.</string>
+  <string name="IdentityUtil_unverified_dialog_one">Vaš je sigurnosni broj sa %1$s promijenjen i više nije potvrđen. Ovo može značiti da neko pokušava presresti Vašu komunikaciju ili da je %1$s iznova instalirao/la CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_two">Vaši sigurnosni brojevi sa %1$s i %2$s više nisu potvrđeni. Ovo može značiti da neko pokušava presresti Vašu komunikaciju ili da su oni iznova instalirali CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_many">Vaši sigurnosni brojevi sa %1$s, %2$s i %3$s više nisu potvrđeni. Ovo može značiti da neko pokušava presresti Vašu komunikaciju ili da su oni iznova instalirali CoolApp.</string>
   <string name="IdentityUtil_untrusted_dialog_one">Vaš sigurnosni broj sa %s upravo je promijenjen.</string>
   <string name="IdentityUtil_untrusted_dialog_two">Vaši sigurnosno brojevi sa %1$s i %2$s upravo su promijenjeni.</string>
   <string name="IdentityUtil_untrusted_dialog_many">Vaši sigurnosni brojevi sa %1$s, %2$s i %3$s upravo su promijenjeni.</string>
@@ -2002,7 +2002,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Otključaj</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal zahtijeva MMS postavke da bi dostavio multimedijalne i grupne poruke putem Vaše bežične konekcije. Vaš uređaj nije omogućio pristup ovim informacijama, što se povremeno dešava na zaključanim uređajima i u slučaju ograničavajućih podešavanja.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">CoolApp zahtijeva MMS postavke da bi dostavio multimedijalne i grupne poruke putem Vaše bežične konekcije. Vaš uređaj nije omogućio pristup ovim informacijama, što se povremeno dešava na zaključanim uređajima i u slučaju ograničavajućih podešavanja.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Da biste slali multimedijalne i grupne poruke, pritisnite \'Uredu\' i popunite tražene postavke. MMS postavke za Vašeg operatera obično se mogu saznati tražeći \'APN Vašeg operatera\'. Ovo je potrebno učiniti samo jednom.</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">Problem s isporukom</string>
@@ -2042,7 +2042,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Unesite ime ili broj</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[ Ako želite provjeriti sigurnost šifriranja s kraja na kraj između Vas i %s, uporedite gore navedene brojeve s onim na uređaju sagovornika. Također možete skenirati broj s njegovog ili njenog telefona. <a href="https://signal.org/redirect/safety-numbers">Saznajte više.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[ Ako želite provjeriti sigurnost šifriranja s kraja na kraj između Vas i %s, uporedite gore navedene brojeve s onim na uređaju sagovornika. Također možete skenirati broj s njegovog ili njenog telefona. <a href="https://asia.coolapp.chat/redirect/safety-numbers">Saznajte više.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Pritisnite da skenirate</string>
   <string name="verify_display_fragment__successful_match">Podudara se</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">Provjera sigurnosnog broja nije uspjela</string>
@@ -2100,7 +2100,7 @@
   <string name="HelpFragment__how_do_you_feel">Kako se osjećate u vezi s ovim? (neobavezno)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">Kažite nam zašto tražite pomoć.</string>
   <string name="HelpFragment__support_info">Informacije o podršci</string>
-  <string name="HelpFragment__signal_android_support_request">Zahtjev za pomoć (Signal Android)</string>
+  <string name="HelpFragment__signal_android_support_request">Zahtjev za pomoć (CoolApp Android)</string>
   <string name="HelpFragment__debug_log">Zapis za ispravljanje grešaka:</string>
   <string name="HelpFragment__could_not_upload_logs">Neuspješan prenos zapisa</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Molimo budite što detaljniji kako biste nam pomogli u razumijevanju problema.</string>
@@ -2163,8 +2163,8 @@
   <string name="preferences__sms_mms">SMS i MMS</string>
   <string name="preferences__pref_all_sms_title">Primi sve SMS poruke</string>
   <string name="preferences__pref_all_mms_title">Primi sve MMS poruke</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Koristiti Signal za sve dolazne tekstualne poruke</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Koristiti Signal za sve dolazne multimedijalne poruke</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Koristiti CoolApp za sve dolazne tekstualne poruke</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Koristiti CoolApp za sve dolazne multimedijalne poruke</string>
   <string name="preferences__pref_enter_sends_title">Tipka Enter šalje</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Pritiskom na tipku Enter poslat će se tekstualna poruka</string>
   <string name="preferences__pref_use_address_book_photos">Koristi fotografije iz adresara</string>
@@ -2179,7 +2179,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Zaključaj ekran i obavještenja lozinkom</string>
   <string name="preferences__screen_security">Sigurnost ekrana</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Onemogući slikanje ekrana u popisu nedavno korištenih aplikacija i unutar Signala</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Automatski zaključaj Signal nakon određenog intervala neaktivnosti</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Automatski zaključaj CoolApp nakon određenog intervala neaktivnosti</string>
   <string name="preferences__inactivity_timeout_passphrase">Lozinka nakon neaktivnosti</string>
   <string name="preferences__inactivity_timeout_interval">Interval neaktivnosti</string>
   <string name="preferences__notifications">Obavještenja</string>
@@ -2210,10 +2210,10 @@
   <string name="preferences__slow">Spora</string>
   <string name="preferences__help">Pomoć</string>
   <string name="preferences__advanced">Napredno</string>
-  <string name="preferences__donate_to_signal">Donirajte za Signal</string>
+  <string name="preferences__donate_to_signal">Donirajte za CoolApp</string>
   <string name="preferences__subscription">Pretplata</string>
   <string name="preferences__become_a_signal_sustainer">Postanite pokrovitelj Signala</string>
-  <string name="preferences__signal_boost">Signal Pojačivač</string>
+  <string name="preferences__signal_boost">CoolApp Pojačivač</string>
   <string name="preferences__privacy">Privatnost</string>
   <string name="preferences__mms_user_agent">MMS User Agent</string>
   <string name="preferences__advanced_mms_access_point_names">Ručna MMS podešavanja</string>
@@ -2240,11 +2240,11 @@
   <string name="preferences__chat_color_and_wallpaper">Boja poruka i pozadina</string>
   <string name="preferences__disable_pin">Isključi PIN</string>
   <string name="preferences__enable_pin">Uključi PIN</string>
-  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Ako isključite PIN, svi Vaši podaci bit će izbrisani kada se ponovo registrujete na Signal, izuzev ako ručno kreirate rezervnu kopiju i koristite je za povrat podataka. Nećete moći aktivirati zaključavanje registracije dok god je PIN isključen.</string>
-  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate Signal. PIN Vam neće trebati da otvorite aplikaciju.</string>
+  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Ako isključite PIN, svi Vaši podaci bit će izbrisani kada se ponovo registrujete na CoolApp, izuzev ako ručno kreirate rezervnu kopiju i koristite je za povrat podataka. Nećete moći aktivirati zaključavanje registracije dok god je PIN isključen.</string>
+  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate CoolApp. PIN Vam neće trebati da otvorite aplikaciju.</string>
   <string name="preferences__system_default">Sistemske postavke</string>
   <string name="preferences__language">Jezik</string>
-  <string name="preferences__signal_messages_and_calls">Signal poruke i pozivi</string>
+  <string name="preferences__signal_messages_and_calls">CoolApp poruke i pozivi</string>
   <string name="preferences__advanced_pin_settings">Napredna podešavanja PIN-a</string>
   <string name="preferences__free_private_messages_and_calls">Besplatne privatne poruke i pozivi za korisnike Signala</string>
   <string name="preferences__submit_debug_log">Pošaljite zapis za ispravljanje grešaka</string>
@@ -2287,7 +2287,7 @@
   <string name="preferences_storage__custom">Drugo</string>
   <string name="preferences_advanced__use_system_emoji">Koristi sistemske emoji sličice</string>
   <string name="preferences_advanced__disable_signal_built_in_emoji_support">Isključi Signalovu ugrađenu podršku za emoji sličice</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Preusmjeri sve pozive na Signal server kako bi Vaša IP adresa bila skrivena od sagovornika. Aktiviranjem ove opcije smanjit će se kvalitet poziva.</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Preusmjeri sve pozive na CoolApp server kako bi Vaša IP adresa bila skrivena od sagovornika. Aktiviranjem ove opcije smanjit će se kvalitet poziva.</string>
   <string name="preferences_advanced__always_relay_calls">Uvijek preusmjeri pozive</string>
   <string name="preferences_app_protection__who_can">Ko može…</string>
   <string name="preferences_app_protection__app_access">Pristup aplikaciji</string>
@@ -2307,21 +2307,21 @@
   <string name="preferences_notifications__calls">Pozivi</string>
   <string name="preferences_notifications__ringtone">Zvono</string>
   <string name="preferences_chats__show_invitation_prompts">Prikaži upite za pozivnice</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Prikaži sugestije za slanje pozivnice kontaktima koji ne koriste Signal</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Prikaži sugestije za slanje pozivnice kontaktima koji ne koriste CoolApp</string>
   <string name="preferences_chats__message_text_size">Veličina slova u poruci</string>
-  <string name="preferences_events__contact_joined_signal">Kontakt je počeo koristiti Signal</string>
+  <string name="preferences_events__contact_joined_signal">Kontakt je počeo koristiti CoolApp</string>
   <string name="preferences_notifications__priority">Prioritet</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <string name="preferences_communication__category_censorship_circumvention">Zaobilazak cenzure</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention">Zaobilazak cenzure</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Ako je omogućeno, Signal će pokušati zaobići cenzuru. Nemojte omogućiti ovu funkciju osim ako niste na mjestu gdje je Signal cenzuriran.</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Ako je omogućeno, CoolApp će pokušati zaobići cenzuru. Nemojte omogućiti ovu funkciju osim ako niste na mjestu gdje je CoolApp cenzuriran.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">Korištenje cenzure je aktivirano na temelju telefonskog broja vašeg računa.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Ručno ste isključili zaobilazak cenzure.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Zaobilazak cenzure nije potreban; već ste spojeni na uslugu Signal.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Zaobilazak cenzure nije potreban; već ste spojeni na uslugu CoolApp.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">Korištenje cenzure može se aktivirati samo ako ste povezani na internet.</string>
   <string name="preferences_communication__category_sealed_sender">Zapečaćeni pošiljalac</string>
@@ -2355,7 +2355,7 @@
   <string name="PaymentsAllActivityFragment__sent">Poslano</string>
   <string name="PaymentsAllActivityFragment__received">Primljeno</string>
   <string name="PaymentsHomeFragment__introducing_payments">Novo: plaćanja (Beta)</string>
-  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Koristite Signal za slanje i primanje MobileCoina, nove digitalne valute s fokusom na privatnost. Aktivirajte da započnete.</string>
+  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Koristite CoolApp za slanje i primanje MobileCoina, nove digitalne valute s fokusom na privatnost. Aktivirajte da započnete.</string>
   <string name="PaymentsHomeFragment__activate_payments">Aktiviraj plaćanja</string>
   <string name="PaymentsHomeFragment__activating_payments">Aktiviram plaćanja…</string>
   <string name="PaymentsHomeFragment__restore_payments_account">Obnovi račun s uplatama i isplatama</string>
@@ -2389,7 +2389,7 @@
   <string name="PaymentsHomeFragment__payments_deactivated">Plaćanja su deaktivirana.</string>
   <string name="PaymentsHomeFragment__payment_failed">Plaćanje nije uspjelo</string>
   <string name="PaymentsHomeFragment__details">Detalji</string>
-  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Možete koristiti Signal za slanje i primanje MobileCoina. Sve uplate i isplate podliježu Uslovima korištenja MobileCoina i MobileCoin novčanika. Ovo je probna verzija i možete se susresti s greškama i situacijom da izgubljene uplate/isplate ili raspoloživa sredstva nije moguće vratiti.</string>
+  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Možete koristiti CoolApp za slanje i primanje MobileCoina. Sve uplate i isplate podliježu Uslovima korištenja MobileCoina i MobileCoin novčanika. Ovo je probna verzija i možete se susresti s greškama i situacijom da izgubljene uplate/isplate ili raspoloživa sredstva nije moguće vratiti.</string>
   <string name="PaymentsHomeFragment__activate">Aktiviraj</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">Pregledaj uslove korištenja MobileCoina</string>
   <string name="PaymentsHomeFragment__payments_not_available">Plaćanja preko Signala više nisu dostupna. Još uvijek možete prenijeti sredstva na berzu, ali više ne možete vršiti isplate i uplate niti dodavati sredstva.</string>
@@ -2429,7 +2429,7 @@
   <string name="PaymentsTransferFragment__next">Dalje</string>
   <string name="PaymentsTransferFragment__invalid_address">Adresa nije valjana</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">Provjerite adresu novčanika na koju pokušavate prenijeti sredstva i pokušajte ponovo.</string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Ne možete izvršiti prenos sredstava na adresu vlastitog Signal novčanika. Unesite adresu novčanika sa svoga računa na podržanoj berzi.</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Ne možete izvršiti prenos sredstava na adresu vlastitog CoolApp novčanika. Unesite adresu novčanika sa svoga računa na podržanoj berzi.</string>
   <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Da bi mogao skenirati QR kōd, Signalu je potreban pristup kameri.</string>
   <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">Signalu je potrebno odobrenje za pristup kameri kako bi mogao skenirati QR kōd. Idite na sistemska podešavanja, izaberite \"Dopuštenja\" i uključite \"Kamera\".</string>
   <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Da bi mogao skenirati QR kōd, Signalu je potreban pristup kameri.</string>
@@ -2490,8 +2490,8 @@
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Poziv</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Signal poziv</string>
-  <string name="conversation_callable_secure__menu_video">Signal videopoziv</string>
+  <string name="conversation_callable_secure__menu_call">CoolApp poziv</string>
+  <string name="conversation_callable_secure__menu_video">CoolApp videopoziv</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2580,9 +2580,9 @@
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">Unesi sistemske SMS poruke</string>
   <string name="reminder_header_sms_import_text">Pritisnite da kopirate SMS poruke na telefonu u Signalovu šifriranu bazu podataka.</string>
-  <string name="reminder_header_push_title">Aktivirajte Signal poruke i pozive</string>
+  <string name="reminder_header_push_title">Aktivirajte CoolApp poruke i pozive</string>
   <string name="reminder_header_push_text">Poboljšajte svoje iskustvo u komunikaciji.</string>
-  <string name="reminder_header_service_outage_text">Signal ima tehničkih poteškoća. Trudimo se da što prije uslugu ponovo osposobimo.</string>
+  <string name="reminder_header_service_outage_text">CoolApp ima tehničkih poteškoća. Trudimo se da što prije uslugu ponovo osposobimo.</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Pohrani</string>
@@ -2598,22 +2598,22 @@
   <string name="Insights__percent">%</string>
   <string name="Insights__title">Statistika</string>
   <string name="InsightsDashboardFragment__title">Statistika</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Signal protokol automatski je zaštitio %1$d%% poruka koje ste poslali u zadnjih %2$d dana. Komunikacija između korisnika Signala uvijek je šifrirana od uređaja pošiljaoca do uređaja primaoca.</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">CoolApp protokol automatski je zaštitio %1$d%% poruka koje ste poslali u zadnjih %2$d dana. Komunikacija između korisnika Signala uvijek je šifrirana od uređaja pošiljaoca do uređaja primaoca.</string>
   <string name="InsightsDashboardFragment__spread_the_word">Razglasi</string>
   <string name="InsightsDashboardFragment__not_enough_data">Nedovoljno podataka</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">Procenat prikazan ovdje izračunava se na temelju poslatih poruka u zadnjih %1$d dana, a koje nisu istekle ili izbrisane.</string>
   <string name="InsightsDashboardFragment__start_a_conversation">Započnite komunikaciju</string>
-  <string name="InsightsDashboardFragment__invite_your_contacts">Započnite sigurnu komunikaciju i imajte na raspolaganju mogućnosti koje su izvan ograničenja nezaštićenih SMS-poruka tako što ćete pozvati druge da koriste Signal.</string>
+  <string name="InsightsDashboardFragment__invite_your_contacts">Započnite sigurnu komunikaciju i imajte na raspolaganju mogućnosti koje su izvan ograničenja nezaštićenih SMS-poruka tako što ćete pozvati druge da koriste CoolApp.</string>
   <string name="InsightsDashboardFragment__this_stat_was_generated_locally">Prikazani statistički podaci kreirani su na Vašem uređaju i dostupni su samo Vama. Ovi se podaci nikada nigdje ne šalju.</string>
   <string name="InsightsDashboardFragment__encrypted_messages">Šifrirane poruke</string>
   <string name="InsightsDashboardFragment__cancel">Otkaži</string>
   <string name="InsightsDashboardFragment__send">Šalji</string>
   <string name="InsightsModalFragment__title">Novo: statistika</string>
-  <string name="InsightsModalFragment__description">Saznajte koliko je poruka koje ste poslali zaštićeno, a potom pozovite druge da koriste Signal i tako povećate učešće Signal-poruka.</string>
+  <string name="InsightsModalFragment__description">Saznajte koliko je poruka koje ste poslali zaštićeno, a potom pozovite druge da koriste CoolApp i tako povećate učešće CoolApp-poruka.</string>
   <string name="InsightsModalFragment__view_insights">Pogledajte statistiku</string>
-  <string name="FirstInviteReminder__title">Pozovite na Signal</string>
+  <string name="FirstInviteReminder__title">Pozovite na CoolApp</string>
   <string name="FirstInviteReminder__description">Broj šifriranih poruka koje šaljete možete povećati za %1$d%%</string>
-  <string name="SecondInviteReminder__title">Osnažite svoj Signal</string>
+  <string name="SecondInviteReminder__title">Osnažite svoj CoolApp</string>
   <string name="SecondInviteReminder__description">Pozovite %1$s</string>
   <string name="InsightsReminder__view_insights">Pogledajte statistiku</string>
   <string name="InsightsReminder__invite">Pozovi</string>
@@ -2636,7 +2636,7 @@
   <string name="CreateKbsPinFragment__create_a_new_pin">Kreirajte novi PIN</string>
   <string name="CreateKbsPinFragment__you_can_choose_a_new_pin_as_long_as_this_device_is_registered">Možete promijeniti PIN sve dok je ovaj uređaj registrovan.</string>
   <string name="CreateKbsPinFragment__create_your_pin">Kreirajte svoj PIN</string>
-  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate Signal. PIN Vam neće trebati da otvorite aplikaciju.</string>
+  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate CoolApp. PIN Vam neće trebati da otvorite aplikaciju.</string>
   <string name="CreateKbsPinFragment__choose_a_stronger_pin">Izaberite snažniji PIN</string>
   <!--ConfirmKbsPinFragment-->
   <string name="ConfirmKbsPinFragment__pins_dont_match">PIN-ovi se ne podudaraju. Pokušajte ponovo.</string>
@@ -2648,7 +2648,7 @@
   <string name="ConfirmKbsPinFragment__creating_pin">Kreiram PIN…</string>
   <!--KbsSplashFragment-->
   <string name="KbsSplashFragment__introducing_pins">Novo: PIN-ovi</string>
-  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate Signal. PIN Vam neće trebati da otvorite aplikaciju.</string>
+  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate CoolApp. PIN Vam neće trebati da otvorite aplikaciju.</string>
   <string name="KbsSplashFragment__learn_more">Saznaj više</string>
   <string name="KbsSplashFragment__registration_lock_equals_pin">Zaključavanje registracije = PIN</string>
   <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">Vaš ključ za zaključavanje registracije sada se naziva PIN i on vrši dodatne funkcije. Izvršite nadogradnju odmah.</string>
@@ -2657,7 +2657,7 @@
   <string name="KbsSplashFragment__learn_more_about_pins">Saznajte više o PIN-ovima</string>
   <string name="KbsSplashFragment__disable_pin">Isključi PIN</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Unesite svoj Signal PIN</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">Unesite svoj CoolApp PIN</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">Kako bismo Vam pomogli da upamtite svoj PIN, povremeno ćemo od Vas tražiti da ga ponovo unesete. Vremenom ćemo Vas rjeđe podsjećati.</string>
   <string name="KbsReminderDialog__skip">Preskoči</string>
   <string name="KbsReminderDialog__submit">Šalji</string>
@@ -2678,8 +2678,8 @@
   <string name="RegistrationLockFragment__incorrect_pin">Netačan PIN</string>
   <string name="RegistrationLockFragment__forgot_your_pin">Zaboravili ste svoj PIN?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">Preostalo je svega nekoliko pokušaja!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Signal registracija – trebate pomoć u vezi s PIN-om za Android (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Signal registracija – trebate pomoć u vezi s PIN-om za Android (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">CoolApp registracija – trebate pomoć u vezi s PIN-om za Android (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">CoolApp registracija – trebate pomoć u vezi s PIN-om za Android (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="one">Radi zaštite Vaše privatnosti i sigurnosti, PIN je nemoguće obnoviti. Ako se ne možete sjetiti svog PIN-a, moći ćete ponovo verifikovati telefonski broj putem SMS-a nakon %1$d dana neaktivnosti. U ovom slučaju, Vaš će račun biti počišćen i sav raniji sadržaj izbrisan.</item>
     <item quantity="few">Radi zaštite Vaše privatnosti i sigurnosti, PIN je nemoguće obnoviti. Ako se ne možete sjetiti svog PIN-a, moći ćete ponovo verifikovati telefonski broj putem SMS-a nakon %1$d dana neaktivnosti. U ovom slučaju, Vaš će račun biti počišćen i sav raniji sadržaj izbrisan.</item>
@@ -2770,7 +2770,7 @@
   <string name="RegistrationActivity_wrong_number">Pogrešan broj</string>
   <string name="RegistrationActivity_call_me_instead_available_in">Radije me pozovite \n (Dostupni u %1$02d:%2$02d)</string>
   <string name="RegistrationActivity_contact_signal_support">Kontaktirajte Signalovu podršku</string>
-  <string name="RegistrationActivity_code_support_subject">Signal registracija – potvrda kōda za Android</string>
+  <string name="RegistrationActivity_code_support_subject">CoolApp registracija – potvrda kōda za Android</string>
   <string name="RegistrationActivity_incorrect_code">Pogrešan kôd</string>
   <string name="BackupUtil_never">Nikad</string>
   <string name="BackupUtil_unknown">Nepoznato</string>
@@ -2784,17 +2784,17 @@
   <string name="preferences_app_protection__screen_lock">Zaključavanje ekrana</string>
   <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Zaključaj pristup Signalu pomoću Androidovog zaključavanja ekrana ili otiska prsta</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Zaključavanje ekrana nakon neaktivnosti</string>
-  <string name="preferences_app_protection__signal_pin">Signal PIN</string>
+  <string name="preferences_app_protection__signal_pin">CoolApp PIN</string>
   <string name="preferences_app_protection__create_a_pin">Kreiraj PIN</string>
   <string name="preferences_app_protection__change_your_pin">Promijenite svoj PIN</string>
   <string name="preferences_app_protection__pin_reminders">PIN podsjetnici</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate Signal.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Povećajte sigurnost tako što ćete svoj Signal PIN učiniti obaveznim prilikom ponovne registracije Vašeg telefonskog broja na Signalu.</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN služi za šifriranje informacija na Signalu tako da im samo Vi možete pristupiti. Vaš profil, podešavanja i kontakti bit će sačuvani i učitani kad ponovo instalirate CoolApp.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Povećajte sigurnost tako što ćete svoj CoolApp PIN učiniti obaveznim prilikom ponovne registracije Vašeg telefonskog broja na Signalu.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">Podsjetnici Vam pomažu da se prisjetite svog PIN-a, jer se on ne može vratiti na drugi način. Vremenom ćete biti podsjećani sve rjeđe.</string>
   <string name="preferences_app_protection__turn_off">Isključi</string>
   <string name="preferences_app_protection__confirm_pin">Potvrdite PIN</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Potvrdite svoj Signal PIN</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Budite sigurni da ste svoj PIN zapamtili ili pohranili na sigurno mjesto, jer se on ne može vratiti. Ako zaboravite PIN, može se dogoditi da izgubite stare podatke prilikom ponovne registracije na Signal.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">Potvrdite svoj CoolApp PIN</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Budite sigurni da ste svoj PIN zapamtili ili pohranili na sigurno mjesto, jer se on ne može vratiti. Ako zaboravite PIN, može se dogoditi da izgubite stare podatke prilikom ponovne registracije na CoolApp.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">Netačan PIN. Pokušajte ponovo.</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">Neuspjelo aktiviranje zaključavanja registracije.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">Neuspjelo deaktiviranje zaključavanja registracije.</string>
@@ -2807,19 +2807,19 @@
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Pokušali ste previše puta. Molimo pokušajte ponovo kasnije.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Greška pri povezivanju sa uslugom</string>
   <string name="preferences_chats__backups">Rezervne kopije</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal je zaključan</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp je zaključan</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">PRITISNITE DA OTKLJUČATE</string>
   <string name="Recipient_unknown">Nepoznato</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">Prenesi ili vrati račun</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Ako imate odranije registrovan Signal račun, možete prenijeti ili vratiti svoj račun i poruke</string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Ako imate odranije registrovan CoolApp račun, možete prenijeti ili vratiti svoj račun i poruke</string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Prenesi sa Android uređaja</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">Prenesite svoj račun i poruke sa starog Android uređaja. Morate imati pristup tom svom starom uređaju.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">Trebate pristup svom starom uređaju.</string>
   <string name="TransferOrRestoreFragment__restore_from_backup">Vrati iz rezervne kopije</string>
   <string name="TransferOrRestoreFragment__restore_your_messages_from_a_local_backup">Vratite svoje poruke iz lokalne rezervne kopije. Ako to ne učinite sada, nećete biti u mogućnosti vratiti poruke kasnije.</string>
   <!--NewDeviceTransferInstructionsFragment-->
-  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Otvorite Signal na svom starom Android telefonu</string>
+  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Otvorite CoolApp na svom starom Android telefonu</string>
   <string name="NewDeviceTransferInstructions__continue">Nastavi</string>
   <string name="NewDeviceTransferInstructions__first_bullet">1.</string>
   <string name="NewDeviceTransferInstructions__tap_on_your_profile_photo_in_the_top_left_to_open_settings">Pritisnite sliku svog profila gore lijevo da otvorite Podešavanja</string>
@@ -2834,7 +2834,7 @@
   <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">Signalu je potrebno dopuštenje za pristup lokaciji kako bi pronašao i povezao se s Vašim starim Android uređajem.</string>
   <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Signalu je potrebno da lokacija na telefonu bude aktivna kako bi mogao pronaći i povezati se s Vašim starim Android uređajem.</string>
   <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">Signalu je potrebno da Wi-Fi konekcija bude aktivna kako bi mogao pronaći i povezati se sa Vašim starim Android uređajem. Wi-Fi treba biti uključen, ali ne mora biti povezan na Wi-Fi mrežu.</string>
-  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Nažalost, izgleda da ovaj uređaj ne podržava Wi-Fi Direct. Signal koristi Wi-Fi Direct da pronađe i poveže se s Vašim starim Android uređajem. I dalje možete vratiti podatke iz rezervne kopije kako biste prenijeli račun sa svog starog Android uređaja.</string>
+  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Nažalost, izgleda da ovaj uređaj ne podržava Wi-Fi Direct. CoolApp koristi Wi-Fi Direct da pronađe i poveže se s Vašim starim Android uređajem. I dalje možete vratiti podatke iz rezervne kopije kako biste prenijeli račun sa svog starog Android uređaja.</string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Vrati podatke iz rezervne kopije</string>
   <string name="NewDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Došlo je do neočekivane greške prilikom pokušaja da se poveže s Vašim starim Android uređajem.</string>
   <!--OldDeviceTransferSetupFragment-->
@@ -2844,7 +2844,7 @@
   <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">Signalu je potrebno da Wi-Fi konekcija bude aktivna kako bi mogao 
 pronaći i povezati se sa Vašim novim Android uređajem. Wi-Fi treba biti
  uključen, ali ne mora biti povezan na Wi-Fi mrežu.</string>
-  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Nažalost, izgleda da ovaj uređaj ne podržava Wi-Fi Direct. Signal 
+  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Nažalost, izgleda da ovaj uređaj ne podržava Wi-Fi Direct. CoolApp 
 koristi Wi-Fi Direct da pronađe i poveže se s Vašim novim Android 
 uređajem. I dalje možete kreirati rezervnu kopiju podataka kako biste 
 prenijeli račun na svoj novi Android uređaj.</string>
@@ -2885,7 +2885,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Nije moguće prenijeti sa novije verzije Signala</string>
   <!--DeviceTransferFragment-->
   <string name="DeviceTransfer__transferring_data">Prenos podataka</string>
-  <string name="DeviceTransfer__keep_both_devices_near_each_other">Držite oba uređaja u blizini. Ne isključujte uređaje i držite Signal otvorenim. Prenos podataka je šifriran.</string>
+  <string name="DeviceTransfer__keep_both_devices_near_each_other">Držite oba uređaja u blizini. Ne isključujte uređaje i držite CoolApp otvorenim. Prenos podataka je šifriran.</string>
   <string name="DeviceTransfer__d_messages_so_far">%1$d poruka do sada…</string>
   <!--Filled in with total percentage of messages transferred-->
   <string name="DeviceTransfer__s_of_messages_so_far">%1$s%% poruka do sada…</string>
@@ -2898,9 +2898,9 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="DeviceTransfer__unable_to_transfer">Prenos nije moguć</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Prenesi račun</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Svoj Signal račun možete prenijeti prilikom podešavanja Signala na novom Android uređaju. Prije nego što nastavite:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Svoj CoolApp račun možete prenijeti prilikom podešavanja Signala na novom Android uređaju. Prije nego što nastavite:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
-  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Instalirajte Signal na svoj novi Android uređaj</string>
+  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Instalirajte CoolApp na svoj novi Android uređaj</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
   <string name="OldDeviceTransferInstructions__tap_on_transfer_or_restore_account">Pritisnite \"Prenesi ili vrati račun\"</string>
   <string name="OldDeviceTransferInstructions__third_bullet">3.</string>
@@ -2909,7 +2909,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">Prenos je završen</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">Otvorite svoj novi uređaj</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Vaši Signal podaci preneseni su na Vaš novi uređaj. Da biste okončali prenos, morate nastaviti s registracijom na svom novom uređaju.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Vaši CoolApp podaci preneseni su na Vaš novi uređaj. Da biste okončali prenos, morate nastaviti s registracijom na svom novom uređaju.</string>
   <string name="OldDeviceTransferComplete__close">Zatvori</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">Prenos je uspio</string>
@@ -2926,7 +2926,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="DeviceToDeviceTransferService_status_service_connected">Prenos računa…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">Dovršite registraciju na svom novom uređaju</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Vaš Signal račun prenesen je na Vaš novi uređaj, ali morate na njemu dovršiti registraciju da biste nastavili dalje. Signal će biti neaktivan na ovom uređaju.</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">Vaš CoolApp račun prenesen je na Vaš novi uređaj, ali morate na njemu dovršiti registraciju da biste nastavili dalje. CoolApp će biti neaktivan na ovom uređaju.</string>
   <string name="OldDeviceTransferLockedDialog__done">Uredu</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">Prekini i aktiviraj ovaj uređaj</string>
   <!--AdvancedPreferenceFragment-->
@@ -2966,7 +2966,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="GroupsLearnMore_paragraph_1">Stare su one grupe koje nisu kompatibilne s novim grupnim opcijama poput administratora i detaljnih grupnih izvještaja.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Mogu li nadograditi staru grupu?</string>
   <string name="GroupsLearnMore_paragraph_2">Stare grupe ne mogu se još uvijek nadograditi u nove, ali možete oformiti novu grupu sa istim članovima, ako oni koriste posljednju verziju Signala.</string>
-  <string name="GroupsLearnMore_paragraph_3">Signal će u budućnosti nuditi mogućnost za nadogradnju starih grupa.</string>
+  <string name="GroupsLearnMore_paragraph_3">CoolApp će u budućnosti nuditi mogućnost za nadogradnju starih grupa.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">Svako ko dobije ovaj link može vidjeti naziv i sliku grupe, kao i zatražiti da se pridruži grupi. Podijelite ga samo s osobama u koje imate povjerenja.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Svako ko dobije ovaj link može vidjeti naziv i sliku grupe, a može se i pridružiti grupi. Podijelite ga samo s osobama u koje imate povjerenja.</string>
@@ -3038,7 +3038,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="DeleteAccountFragment__no_number">Nije naveden broj</string>
   <string name="DeleteAccountFragment__the_phone_number">Broj telefona koji ste unijeli ne podudara se s onim na Vašem računu.</string>
   <string name="DeleteAccountFragment__are_you_sure">Da li ste sigurni da želite izbrisati vaš račun?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ovo će izbrisati Vaš Signal račun i poništiti sve ranije postavke aplikacije. Kad se proces okonča, aplikacija će se zatvoriti.</string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Ovo će izbrisati Vaš CoolApp račun i poništiti sve ranije postavke aplikacije. Kad se proces okonča, aplikacija će se zatvoriti.</string>
   <string name="DeleteAccountFragment__failed_to_delete_account">Brisanje računa nije uspjelo. Je li Vam aktivna internet-konekcija?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">Neuspjelo brisanje lokalnih podataka. Možete ih ručno izbrisati kroz sistemska podešavanja aplikacija.</string>
   <string name="DeleteAccountFragment__launch_app_settings">Pokreni podešavanja aplikacije</string>
@@ -3144,7 +3144,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">Fraza za obnavljanje</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">Vidi frazu za obnavljanje</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">Unesite frazu za obnavljanje</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Stanje na Vašem računu automatski će Vam biti na raspolaganju ako potvrdite svoj Signal PIN. Sredstvima također možete pristupiti koristeći jedinstvenu zadatu frazu za obnavljanje, koja se sastoji od %1$d riječi. Zapišite je i pohranite na sigurno mjesto.</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">Stanje na Vašem računu automatski će Vam biti na raspolaganju ako potvrdite svoj CoolApp PIN. Sredstvima također možete pristupiti koristeći jedinstvenu zadatu frazu za obnavljanje, koja se sastoji od %1$d riječi. Zapišite je i pohranite na sigurno mjesto.</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">Vaša fraza za obnavljanje jedinstvena je i sastoji se od %1$d riječi. Koristite je za ponovni pristup svojim sredstvima.</string>
   <string name="PaymentsRecoveryStartFragment__start">Započni</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">Unesite ručno</string>
@@ -3213,7 +3213,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">Račun</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">Bit ćete podsjećani sve rjeđe i rjeđe</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Zahtijevajte svoj Signal PIN da bi se Vaš telefonski broj mogao ponovo registrovati na Signal</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Zahtijevajte svoj CoolApp PIN da bi se Vaš telefonski broj mogao ponovo registrovati na CoolApp</string>
   <string name="AccountSettingsFragment__change_phone_number">Promijeni broj telefona</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Ovdje možete trenutni broj svog telefona zamijeniti novim. Ne možete poništiti ovu izmjenu.\n\nPrije nego što nastavite, provjerite i potvrdite da na svoj novi broj možete primati SMS-poruke ili pozive.</string>
@@ -3242,7 +3242,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="ChangeNumberConfirmFragment__you_are_about_to_change_your_phone_number_from_s_to_s">Promijenit ćete broj svog telefona iz %1$s u %2$s.\n\nPrije nego što nastavite, molimo provjerite i potvrdite da je dolje navedeni broj tačan.</string>
   <string name="ChangeNumberConfirmFragment__edit_number">Ispravite broj</string>
   <!--ChangeNumberRegistrationLockFragment-->
-  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Signal promjena broja – trebate pomoć u vezi s PIN-om za Android (v2 PIN)</string>
+  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">CoolApp promjena broja – trebate pomoć u vezi s PIN-om za Android (v2 PIN)</string>
   <!--ChangeNumberPinDiffersFragment-->
   <string name="ChangeNumberPinDiffersFragment__pins_do_not_match">PIN-ovi se ne podudaraju</string>
   <string name="ChangeNumberPinDiffersFragment__the_pin_associated_with_your_new_number_is_different_from_the_pin_associated_with_your_old_one">PIN koji je dodijeljen Vašem novom broju razlikuje se od PIN-a dodijeljenog starom. Želite li zadržati svoj stari PIN ili ga želite ažurirati?</string>
@@ -3274,7 +3274,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="NotificationsSettingsFragment__messages">Poruke</string>
   <string name="NotificationsSettingsFragment__calls">Pozivi</string>
   <string name="NotificationsSettingsFragment__notify_when">Obavijesti kad…</string>
-  <string name="NotificationsSettingsFragment__contact_joins_signal">Kontakt je počeo koristiti Signal</string>
+  <string name="NotificationsSettingsFragment__contact_joins_signal">Kontakt je počeo koristiti CoolApp</string>
   <!--Notification preference header-->
   <string name="NotificationsSettingsFragment__notification_profiles">Profili obavještenja</string>
   <!--Notification preference option header-->
@@ -3293,7 +3293,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="PrivacySettingsFragment__disappearing_messages">Nestajuće poruke</string>
   <string name="PrivacySettingsFragment__app_security">Sigurnost aplikacije</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">Onemogući slikanje ekrana u popisu nedavno korištenih aplikacija i unutar Signala</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">Signal poruke i pozivi, preusmjeravanje poziva i zapečaćeni pošiljalac</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">CoolApp poruke i pozivi, preusmjeravanje poziva i zapečaćeni pošiljalac</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">Predefinisani rok za nove konverzacije</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">Podesite vrijeme za nestajanje poruka koje će se automatski primijeniti na sve nove konverzacije kada ih Vi započnete.</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3324,7 +3324,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="HelpSettingsFragment__version">Verzija</string>
   <string name="HelpSettingsFragment__debug_log">Zapis za ispravljanje grešaka</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Sporazum o korištenju i privatnosti</string>
-  <string name="HelpFragment__copyright_signal_messenger">Prava: Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Prava: CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Licenca: GPLv3</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Kvalitet zapisa</string>
@@ -3382,7 +3382,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="AddAProfilePhotoMegaphone__add_photo">Dodaj fotografiju</string>
   <!--BecomeASustainerMegaphone-->
   <string name="BecomeASustainerMegaphone__become_a_sustainer">Postanite pokrovitelj</string>
-  <string name="BecomeASustainerMegaphone__signal_is_powered">Signal postoji zahvaljujući osobama poput Vas. Pretplatite se i primite značku za profil.</string>
+  <string name="BecomeASustainerMegaphone__signal_is_powered">CoolApp postoji zahvaljujući osobama poput Vas. Pretplatite se i primite značku za profil.</string>
   <string name="BecomeASustainerMegaphone__no_thanks">Ne, hvala</string>
   <string name="BecomeASustainerMegaphone__contribute">Pretplatite se</string>
   <!--KeyboardPagerFragment-->
@@ -3433,7 +3433,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="ConversationSettingsFragment__conversation_muted_forever">Konverzacije zastalno stišane</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">Telefonski broj kopiran je u međuspremnik.</string>
   <string name="ConversationSettingsFragment__phone_number">Broj telefona</string>
-  <string name="ConversationSettingsFragment__get_badges">Nabavite značke za svoj profil podržavši Signal. Pritisnite značku kako biste saznali više.</string>
+  <string name="ConversationSettingsFragment__get_badges">Nabavite značke za svoj profil podržavši CoolApp. Pritisnite značku kako biste saznali više.</string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">Uvrštavanje članova</string>
   <string name="PermissionsSettingsFragment__edit_group_info">Izmjene informacija o grupi</string>
@@ -3557,9 +3557,9 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="SelectFeaturedBadgeFragment__failed_to_update_profile">Neuspjelo ažuriranje profila</string>
   <string name="ViewBadgeBottomSheetDialogFragment__become_a_sustainer">Postanite pokrovitelj</string>
   <string name="ImageView__badge">Značka</string>
-  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">Signal postoji zbog osoba poput Vas.</string>
+  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">CoolApp postoji zbog osoba poput Vas.</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you">Podržite tehnologiju koja je kreirana radi Vas – ne radi Vaših podataka – pridruživši se zajednici koja je održava.</string>
-  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Podržite tehnologiju koja je kreirana radi Vas, ne radi Vaših podataka, pridruživši se zajednici koja održava Signal.</string>
+  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Podržite tehnologiju koja je kreirana radi Vas, ne radi Vaših podataka, pridruživši se zajednici koja održava CoolApp.</string>
   <string name="SubscribeFragment__currency">Valuta</string>
   <string name="SubscribeFragment__more_payment_options">Više opcija za plaćanje</string>
   <string name="SubscribeFragment__cancel_subscription">Otkaži pretplatu</string>
@@ -3576,9 +3576,9 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="Subscription__s_per_month">%s/mjesecu</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/mjesecu · obnavlja se %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/mjesecu · Ističe %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">Signal je neprofitna organizacija koja se ne finansira reklamama i investicijama, već je održavaju osobe koje koriste aplikaciju i cijene je. Dajte mjesečni doprinos i primite značku za svoj profil koja pokazuje Vašu podršku.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">CoolApp je neprofitna organizacija koja se ne finansira reklamama i investicijama, već je održavaju osobe koje koriste aplikaciju i cijene je. Dajte mjesečni doprinos i primite značku za svoj profil koja pokazuje Vašu podršku.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">Zašto se pretplatiti?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">Signal je posvećen razvoju tehnologije za zaštitu privatnosti slijedeći model otvorenog kōda a koja štiti slobodu izražavanja i omogućava sigurnu globalnu komunikaciju.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">CoolApp je posvećen razvoju tehnologije za zaštitu privatnosti slijedeći model otvorenog kōda a koja štiti slobodu izražavanja i omogućava sigurnu globalnu komunikaciju.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">Vaš doprinos održava taj razvoj i finansira razvoj i funkcionisanje aplikacije za privatnu komunikaciju koju koriste milioni ljudi. Bez reklama. Bez praćenja. Bez zezanja.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">Hvala Vam za Vašu podršku!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">Hvala za Podsticaj!</string>
@@ -3590,20 +3590,20 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">Odredi za odabranu značku</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">Uredu</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">Kad posjedujete više od jedne značke, možete birati koju od njih želite prezentovati drugima na svom profilu.</string>
-  <string name="BecomeASustainerFragment__get_badges">Nabavite značke za svoj profil podržavši Signal.</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">Signal je neprofitna organizacija iza koje ne stoje oglašivači i investitori već je održavaju ljudi poput Vas.</string>
+  <string name="BecomeASustainerFragment__get_badges">Nabavite značke za svoj profil podržavši CoolApp.</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">CoolApp je neprofitna organizacija iza koje ne stoje oglašivači i investitori već je održavaju ljudi poput Vas.</string>
   <string name="ManageDonationsFragment__my_support">Moja podrška</string>
   <string name="ManageDonationsFragment__manage_subscription">Upravljaj pretplatom</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">Izvještaj o porezu</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">Izvještaj o porezu</string>
   <string name="ManageDonationsFragment__badges">Značke</string>
   <string name="ManageDonationsFragment__subscription_faq">Česta pitanja o pretplati</string>
   <string name="ManageDonationsFragment__error_getting_subscription">Greška u obradi pretplate.</string>
-  <string name="BoostFragment__give_signal_a_boost">Pojačajte Signal</string>
+  <string name="BoostFragment__give_signal_a_boost">Pojačajte CoolApp</string>
   <string name="BoostFragment__say_thanks_and_earn">Recite \"Hvala!\" i zaslužit ćete značku podrške na %1$d dana.</string>
   <string name="Boost__enter_custom_amount">Unesite iznos</string>
   <string name="Boost__one_time_contribution">Jednokratni doprinos</string>
-  <string name="MySupportPreference__add_a_signal_boost">Pojačajte Signal</string>
+  <string name="MySupportPreference__add_a_signal_boost">Pojačajte CoolApp</string>
   <string name="MySupportPreference__s_per_month">%1$s/mjesecu</string>
   <string name="MySupportPreference__renews_s">Obnavlja se %1$s</string>
   <string name="MySupportPreference__processing_transaction">Obrađujem transakciju…</string>
@@ -3626,7 +3626,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Možete nastaviti s korištenjem Signala, ali ako želite pružiti podršku aplikaciji i ponovo aktivirati svoju značku, obnovite pretplatu.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">Obnovi pretplatu</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">Ne možemo obraditi uplatu</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Imamo problem s naplatom Vaše pretplate. Provjerite i potvrdite da je metod koji koristite za plaćanje ažuriran. Ukoliko nije, ažurirajte ga na Google Payu. Signal će pokušati ponovo obraditi uplatu za nekoliko dana.</string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Imamo problem s naplatom Vaše pretplate. Provjerite i potvrdite da je metod koji koristite za plaćanje ažuriran. Ukoliko nije, ažurirajte ga na Google Payu. CoolApp će pokušati ponovo obraditi uplatu za nekoliko dana.</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">Ne prikazuj ovo ponovo</string>
   <string name="Subscription__please_contact_support_for_more_information">Molimo kontaktirajte podršku za više informacija.</string>
   <string name="Subscription__contact_support">Kontaktirajte podršku</string>
@@ -3646,7 +3646,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">Morate podesiti Google Pay da biste donirali kroz aplikaciju.</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">Neuspjelo otkazivanje pretplate</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">Otkazivanje pretplate traži internet-konekciju.</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Vaš uređaj ne podržava Google Pay i zato se ne možete pretplatiti i zaslužiti značku. I dalje možete podržati Signal kroz donaciju na našoj internet-stranici.</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Vaš uređaj ne podržava Google Pay i zato se ne možete pretplatiti i zaslužiti značku. I dalje možete podržati CoolApp kroz donaciju na našoj internet-stranici.</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">Mrežna greška. Provjerite svoju internet-konekciju i pokušajte ponovo.</string>
   <string name="NetworkFailure__retry">Pokušaj</string>
   <!--Stripe decline code generic_failure-->
@@ -3817,8 +3817,8 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="NotificationProfilesMegaphone__not_now">Ne sada</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">Neuspjelo otvaranje birača.</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Signal napomene o novoobjavljenoj verziji i novosti</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">CoolApp napomene o novoobjavljenoj verziji i novosti</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Aktivnosti</string>
   <!--Donation receipts all tab label-->
@@ -3838,13 +3838,13 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <!--Donation receipts share PNG-->
   <string name="DonationReceiptDetailsFragment__share_receipt">Podijeli priznanicu</string>
   <!--Donation receipts list end note-->
-  <string name="DonationReceiptListFragment__if_you_have">Ako ste iznova instalirali Signal, priznanice za prethodne donacije neće biti dostupne.</string>
+  <string name="DonationReceiptListFragment__if_you_have">Ako ste iznova instalirali CoolApp, priznanice za prethodne donacije neće biti dostupne.</string>
   <!--Donation receipts document title-->
   <string name="DonationReceiptDetailsFragment__donation_receipt">Priznanica za donaciju</string>
   <!--Donation receipts amount title-->
   <string name="DonationReceiptDetailsFragment__amount">Iznos</string>
   <!--Donation receipts thanks-->
-  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Hvala Vam za podršku Signalu. Vaš doprinos pomaže u održavanju misije kreiranja tehnologije otvorenog kōda za zaštitu privatnosti i slobode izražavanja, i omogućava sigurnu komunikaciju na globalnom nivou za milione ljudi širom svijeta. Ako živite u Sjedinjenim Američkim Državama, sačuvajte ovu priznanicu za svoju poresku prijavu. Signal Technology Foundation je oslobođena poreza i registrovana je kao neprofitna organizacija u Sjedinjenim Američkim Državama pod stavkom 501c3 zakon o oporezivanju (Internal Revenue Code). Naš federalni poreski broj glasi: 82–4506840.</string>
+  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Hvala Vam za podršku Signalu. Vaš doprinos pomaže u održavanju misije kreiranja tehnologije otvorenog kōda za zaštitu privatnosti i slobode izražavanja, i omogućava sigurnu komunikaciju na globalnom nivou za milione ljudi širom svijeta. Ako živite u Sjedinjenim Američkim Državama, sačuvajte ovu priznanicu za svoju poresku prijavu. CoolApp Technology Foundation je oslobođena poreza i registrovana je kao neprofitna organizacija u Sjedinjenim Američkim Državama pod stavkom 501c3 zakon o oporezivanju (Internal Revenue Code). Naš federalni poreski broj glasi: 82–4506840.</string>
   <!--Donation receipt type-->
   <string name="DonationReceiptDetailsFragment__s_dash_s">%1$s – %2$s</string>
   <!--region "Stories Tab"-->
@@ -3859,7 +3859,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <!--Subtitle for "My Stories" row item when user has not added stories-->
   <string name="StoriesLandingFragment__add_a_story">Ispričaj priču</string>
   <!--Displayed when there are no stories to display-->
-  <!-- Removed by excludeNonTranslatables <string name="StoriesLandingFragment__no_recent_updates">Trenutno nema novina za prikazati.</string> -->
+  <string name="StoriesLandingFragment__no_recent_updates">Trenutno nema novina za prikazati.</string>
   <!--Context menu option to hide a story-->
   <string name="StoriesLandingItem__hide_story">Sakrij priču</string>
   <!--Context menu option to unhide a story-->
@@ -3964,17 +3964,17 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">Dopustiti osobama koje mogu vidjeti Vašu priču da reaguju i odgovore</string>
   <!--Note about default sharing-->
   <string name="MyStorySettingsFragment__hide_your_story_from">Sakrijte svoju priču od određenih osoba. Inicijalno, Vaša priča bit će podijeljena sa Vašim %1$s</string>
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <string name="MyStorySettingsFragment__signal_connections">Signal veze.</string>
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>Signal veze</strong> jesu osobe koje ste odabrali kao povjerljive, zbog toga što:</string>
-  <!--Signal connections sheet bullet point 1-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <string name="MyStorySettingsFragment__signal_connections">CoolApp veze.</string>
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>CoolApp veze</strong> jesu osobe koje ste odabrali kao povjerljive, zbog toga što:</string>
+  <!--CoolApp connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">Započinjem konverzaciju</string>
-  <!--Signal connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 2-->
   <string name="SignalConnectionsBottomSheet__accepting_a_message_request">Prihvatam zahtjev za komunikaciju</string>
-  <!--Signal connections sheet bullet point 3-->
+  <!--CoolApp connections sheet bullet point 3-->
   <string name="SignalConnectionsBottomSheet__having_them_in_your_system_contacts">Imate ih u svojim kontaktima na telefonu</string>
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <string name="SignalConnectionsBottomSheet__your_connections_can_see_your_name">Vaše veze mogu vidjeti Vaše ime i fotografiju, a mogu vidjeti i ono što napišete u \"Moja priča\", izuzev ako to ne sakrijete od njih.</string>
   <!--Clickable option to add a viewer to a private story-->
   <string name="PrivateStorySettingsFragment__add_viewer">Dodaj posmatrača</string>
@@ -4021,7 +4021,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <!--Dialog title for first time adding something to a story-->
   <string name="StoryDialogs__add_to_story_q">Dodati u priču?</string>
   <!--Dialog message for first time adding something to a story-->
-  <string name="StoryDialogs__adding_content">Dodavši sadržaj svojoj priči omogućavate svojim Signal vezama da ga vide narednih 24 sata. U Podešavanjima možete odrediti ko će vidjeti Vašu priču.</string>
+  <string name="StoryDialogs__adding_content">Dodavši sadržaj svojoj priči omogućavate svojim CoolApp vezama da ga vide narednih 24 sata. U Podešavanjima možete odrediti ko će vidjeti Vašu priču.</string>
   <!--First time share to story dialog: Positive action to go ahead and add to story-->
   <string name="StoryDialogs__add_to_story">Dodaj u priču</string>
   <!--First time share to story dialog: Neutral action to edit who can view "My Story"-->
@@ -4089,7 +4089,7 @@ prenijeli račun na svoj novi Android uređaj.</string>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">Isključi</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · Priča</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · Priča</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">Reagovao/la na priču</string>
   <!--endregion-->

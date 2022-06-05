@@ -14,7 +14,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <org.thoughtcrime.securesms.components.camera.CameraView
+        <asia.coolapp.chat.components.camera.CameraView
             android:id="@+id/scanner"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -27,7 +27,7 @@
             android:orientation="vertical"
             android:weightSum="2">
 
-            <org.thoughtcrime.securesms.components.ShapeScrim
+            <asia.coolapp.chat.components.ShapeScrim
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />

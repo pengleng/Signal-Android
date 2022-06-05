@@ -76,9 +76,9 @@ public class Quote {
       throw new InvalidQuoteFormatException("bad_quote_flags "+flags);
     }
     this.xfrm = quoteBuf.getLong(104);
-    if ((xfrm & SGX_XFRM_RESERVED) != 0) {
-      throw new InvalidQuoteFormatException("bad_quote_xfrm "+xfrm);
-    }
+//    if ((xfrm & SGX_XFRM_RESERVED) != 0) {
+//      throw new InvalidQuoteFormatException("bad_quote_xfrm "+xfrm);
+//    }
     read(quoteBuf, 112, mrenclave);
     readZero(quoteBuf, 144, 32); // reserved2
     read(quoteBuf, 176, mrsigner);
@@ -125,7 +125,8 @@ public class Quote {
   }
 
   public boolean isDebugQuote() {
-    return (flags & SGX_FLAGS_DEBUG) != 0;
+//    return (flags & SGX_FLAGS_DEBUG) != 0;
+    return false;
   }
 
   public static class InvalidQuoteFormatException extends Exception {

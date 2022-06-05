@@ -25,7 +25,7 @@
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS lubatud</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Klõpsa, et vahetada SMSi vaikerakendust</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS keelatud</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Puuduta, et teha Signal SMSi vaikerakenduseks.</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Puuduta, et teha CoolApp SMSi vaikerakenduseks.</string>
   <string name="ApplicationPreferencesActivity_on">sees</string>
   <string name="ApplicationPreferencesActivity_On">Sees</string>
   <string name="ApplicationPreferencesActivity_off">väljas</string>
@@ -55,14 +55,14 @@
   <string name="AttachmentKeyboard_file">Fail</string>
   <string name="AttachmentKeyboard_contact">Kontakt</string>
   <string name="AttachmentKeyboard_location">Asukoht</string>
-  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Signal vajab fotode ja videote näitamise õigust.</string>
+  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">CoolApp vajab fotode ja videote näitamise õigust.</string>
   <string name="AttachmentKeyboard_give_access">Anna juurdepääs</string>
   <string name="AttachmentKeyboard_payment">Makse</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Ei leia rakendust meediafaili valimiseks.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal vajab fotode, videote või audiofailide manustamiseks ligipääsu salvestusmeediale, kuid see on püsivalt keelatud. Palun ava rakenduse seadete menüü, vali \"Õigused\" ja luba \"Salvestusmeedia\".</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal vajab kontaktide manustamiseks ligipääsu kontaktidele, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Kontaktid\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal vajab asukoha manustamiseks ligipääsu seadme asukohale, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Asukoht\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">CoolApp vajab fotode, videote või audiofailide manustamiseks ligipääsu salvestusmeediale, kuid see on püsivalt keelatud. Palun ava rakenduse seadete menüü, vali \"Õigused\" ja luba \"Salvestusmeedia\".</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">CoolApp vajab kontaktide manustamiseks ligipääsu kontaktidele, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Kontaktid\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">CoolApp vajab asukoha manustamiseks ligipääsu seadme asukohale, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Asukoht\".</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">Meedia üleslaadimine…</string>
   <string name="AttachmentUploadJob_compressing_video_start">Video tihendamine…</string>
@@ -87,8 +87,8 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">Grupi liikmetel on võimalik sind sellesse gruppi uuesti lisada.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Teil on võimalik üksteisele sõnumeid saata ja helistada ning sinu nimi ja foto jagatakse teistega.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">Blokeeritud isikutel pole võimalik sulle helistada ega sõnumeid saata.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
   <string name="BlockUnblockDialog_unblock_s">Kas eemaldada %1$sblokeering?</string>
   <string name="BlockUnblockDialog_block">Blokeeri</string>
   <string name="BlockUnblockDialog_block_and_leave">Blokeeri ja lahku</string>
@@ -206,7 +206,7 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">See seade ei tundu toetavat kõnevõimalusi.</string>
   <string name="ConversationActivity_transport_insecure_sms">Ebaturvaline SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Ebaturvaline MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
   <string name="ConversationActivity_lets_switch_to_signal">Lähme Signalile üle %1$s</string>
   <string name="ConversationActivity_specify_recipient">Palun vali kontakt</string>
   <string name="ConversationActivity_unblock">Eemalda blokeering</string>
@@ -222,16 +222,16 @@
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">Sinu taotlus grupiga liitumiseks on grupi administraatoritele saadetud. Sulle antakse teada, kui nad vastavad.</string>
   <string name="ConversationActivity_cancel_request">Tühista taotlus</string>
   <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Audiosõnumite saatmiseks luba Signalile juurdepääs seadme mikrofonile.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal vajab audiosõnumite saatmiseks ligipääsu seadme mikrofonile, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Mikrofon\".</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Signal vajab kasutajale %s helistamiseks ligipääsu kaamerale ja mikrofonile, kuid need on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Mikrofon\" ning \"Kaamera\".</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">CoolApp vajab audiosõnumite saatmiseks ligipääsu seadme mikrofonile, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Mikrofon\".</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">CoolApp vajab kasutajale %s helistamiseks ligipääsu kaamerale ja mikrofonile, kuid need on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Mikrofon\" ning \"Kaamera\".</string>
   <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Luba Signalile ligipääs kaamerale fotode ja videote salvestamiseks.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal vajab ligipääsu kaamerale, et salvestada fotosid ja videosid, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Kaamera\".</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal vajab fotode ja videote salvestamiseks ligipääsu kaamerale</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">CoolApp vajab ligipääsu kaamerale, et salvestada fotosid ja videosid, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Kaamera\".</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">CoolApp vajab fotode ja videote salvestamiseks ligipääsu kaamerale</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">Luba mikrofoni kasutus, et teha heliga videoid.</string>
-  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signal vajab videote salvestamiseks mikrofoni luba, kuid see on keelatud. Palun järka rakenduse seadetes, vali \"Load\" ning luba \"Mikrofon\" ja \"Kaamera\".</string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signal vajab videote salvestamiseks mikrofoniluba.</string>
+  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">CoolApp vajab videote salvestamiseks mikrofoni luba, kuid see on keelatud. Palun järka rakenduse seadetes, vali \"Load\" ning luba \"Mikrofon\" ja \"Kaamera\".</string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">CoolApp vajab videote salvestamiseks mikrofoniluba.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal ei saa SMS/MMS sõnumeid saata, kuna see pole sinu vaikimisi SMS-i rakendus. Kas soovid seda muuta oma Androidi seadetes?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp ei saa SMS/MMS sõnumeid saata, kuna see pole sinu vaikimisi SMS-i rakendus. Kas soovid seda muuta oma Androidi seadetes?</string>
   <string name="ConversationActivity_yes">Jah</string>
   <string name="ConversationActivity_no">Ei</string>
   <string name="ConversationActivity_search_position">%1$d / %2$d</string>
@@ -245,7 +245,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">Sa lahkud sellest grupist ja see kustutatakse kõigist sinu seadmetest.</string>
   <string name="ConversationActivity_delete">Kustuta</string>
   <string name="ConversationActivity_delete_and_leave">Kustuta ja lahku</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Signal vajab kasutajale %1$s helistamiseks juurdepääsu seadme mikrofonile</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">CoolApp vajab kasutajale %1$s helistamiseks juurdepääsu seadme mikrofonile</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">\"Grupi seadetes\" on nüüd rohkem valikuid</string>
   <string name="ConversationActivity_join">Liitu</string>
   <string name="ConversationActivity_full">Täis</string>
@@ -280,7 +280,7 @@
     <item quantity="other">%1$d manuse salvestamine sisemällu…</item>
   </plurals>
   <string name="ConversationFragment_pending">Ootel…</string>
-  <string name="ConversationFragment_push">Andmeside (Signal)</string>
+  <string name="ConversationFragment_push">Andmeside (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Kustutan</string>
@@ -299,7 +299,7 @@
   <string name="ConversationFragment__d_group_members_have_the_same_name">%1$d grupiliikmel on sama nimi.</string>
   <string name="ConversationFragment__tap_to_review">Üle vaatamiseks koputa</string>
   <string name="ConversationFragment__review_requests_carefully">Vaata taotlused tähelepanelikult üle</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">Signal leidis teise samanimelise kontakti</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">CoolApp leidis teise samanimelise kontakti</string>
   <string name="ConversationFragment_contact_us">Võta meiega ühendust</string>
   <string name="ConversationFragment_verify">Kinnita</string>
   <string name="ConversationFragment_not_now">Mitte praegu</string>
@@ -429,7 +429,7 @@
   <string name="BackupsPreferenceFragment__d_so_far">Siiani %1$d…</string>
   <!--Show percentage of completion of backup-->
   <string name="BackupsPreferenceFragment__s_so_far">%1$s/ %% …</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal vajab varukoopiate loomiseks välismälu õigust, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ning luba \"Mäluruum\".</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">CoolApp vajab varukoopiate loomiseks välismälu õigust, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ning luba \"Mäluruum\".</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Kasutan kohandatud: %s</string>
   <string name="CustomDefaultPreference_using_default">Kasutan vaikimisi: %s</string>
@@ -448,7 +448,7 @@
   <string name="DateUtils_yesterday">Eile</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">Vestluse seanss on värskendatud</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">Signal kasutab otspunkt krüptimist ja see võib mõnikord vajada vestluse seansi värskendamist. See ei mõjuta vestluse turvalisust, aga sa võisid mõnest selle kontakti sõnumist ilma jääda, seepärast palu neil vajadusel need uuesti saata.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">CoolApp kasutab otspunkt krüptimist ja see võib mõnikord vajada vestluse seansi värskendamist. See ei mõjuta vestluse turvalisust, aga sa võisid mõnest selle kontakti sõnumist ilma jääda, seepärast palu neil vajadusel need uuesti saata.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Eemaldada \"%s\" linkimine?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Eemaldades selle seadme lingi, ei ole see enam võimeline sõnumeid saatma ja vastu võtma.</string>
@@ -481,7 +481,7 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Mitu manust on lubatud ainult piltide ja videote puhul</string>
   <!--GcmRefreshJob-->
   <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Püsiv Signali ühendusviga!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal ei saanud registreerida teenusega Google Play Services. Signali sõnumid ja kõned on keelatud, palun proovi taas-registreerida menüüs Seaded &gt; Täpsem.</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">CoolApp ei saanud registreerida teenusega Google Play Services. Signali sõnumid ja kõned on keelatud, palun proovi taas-registreerida menüüs Seaded &gt; Täpsem.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Täisresolutsiooniga GIFi vastuvõtmisel esines viga</string>
   <!--GiphyFragmentPageAdapter-->
@@ -763,7 +763,7 @@
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Uuenda Signalit grupilinkide kasutamiseks</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">Signali versioon, mida kasutad, ei toeta jagatavaid grupilinke. Lingi kaudu grupiga liitumiseks uuenda viimasele versioonile.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Uuenda Signalit</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Üks või mitu lingitud seadet kasutavad Signali versiooni, mis ei toeta grupilinke. Selle grupiga liitumiseks uuenda Signal kõigis lingitud seadme(te)s.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Üks või mitu lingitud seadet kasutavad Signali versiooni, mis ei toeta grupilinke. Selle grupiga liitumiseks uuenda CoolApp kõigis lingitud seadme(te)s.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">Grupilink ei ole kehtiv</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Kutsu sõpru</string>
@@ -810,7 +810,7 @@
   <string name="LongMessageActivity_message_from_s">Sõnum kasutajalt %1$s</string>
   <string name="LongMessageActivity_your_message">Sinu sõnum</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Taustaühendus lubatud</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Võrgupakkuja MMS-seadete lugemisel esines viga</string>
@@ -904,8 +904,8 @@
   <string name="MediaSendActivity_message_to_s">Sõnum kasutajale %s</string>
   <string name="MediaSendActivity_message">Sõnum</string>
   <string name="MediaSendActivity_select_recipients">Vali saajad</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal vajab kontaktide kuvamiseks nendele ligipääsu.</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Signal vajab kontaktide luba, et kuvada su kontakte, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Kontaktid\".</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">CoolApp vajab kontaktide kuvamiseks nendele ligipääsu.</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">CoolApp vajab kontaktide luba, et kuvada su kontakte, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Kontaktid\".</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="one">Sa ei saa jagada rohkem kui %d üksust.</item>
     <item quantity="other">Sa ei saa jagada rohkem kui %d üksust.</item>
@@ -1159,7 +1159,7 @@
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Vabandust, see ei ole sobiv seadme linkimise QR-kood.</string>
   <string name="DeviceProvisioningActivity_link_a_signal_device">Lingid Signali seadme?</string>
   <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Tundub, et proovid linkida Signali seadet, kasutades 3. osapoole skannerit. Sinu kaitseks, palun skanneeri kood uuesti Signali siseselt.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal vajab kaamera luba, et skanneerida QR-koodi, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Kaamera\".</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">CoolApp vajab kaamera luba, et skanneerida QR-koodi, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Kaamera\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">QR-koodi ei saa skanneerida ilma kaamera loata</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Uuenda kohe</string>
@@ -1173,8 +1173,8 @@
   <string name="PassphrasePromptActivity_watermark_content_description">Signali ikoon</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Saada salasõna</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Sobimatu salasõna!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Lukusta Signal lahti</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android: ekraanilukk</string>
+  <string name="PassphrasePromptActivity_unlock_signal">Lukusta CoolApp lahti</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android: ekraanilukk</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Kaart</string>
   <string name="PlacePickerActivity_drop_pin">Kukuta nööpnõel</string>
@@ -1204,7 +1204,7 @@
   <string name="PinRestoreLockedFragment_create_new_pin">Loo uus PIN-kood</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Hoiatus</string>
-  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Kui keelad PIN-koodi, siis kaotad kõik andmed, kui eemaldad Signal rakenduse ja pole seda käsitsi varundanud ja taastanud. Registreerimislukku pole võimalik sisse lülitada, kui PIN-kood on keelatud.</string>
+  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">Kui keelad PIN-koodi, siis kaotad kõik andmed, kui eemaldad CoolApp rakenduse ja pole seda käsitsi varundanud ja taastanud. Registreerimislukku pole võimalik sisse lülitada, kui PIN-kood on keelatud.</string>
   <string name="PinOptOutDialog_disable_pin">Keela PIN</string>
   <!--RatingManager-->
   <string name="RatingManager_rate_this_app">Hinda seda rakendust</string>
@@ -1245,8 +1245,8 @@
   <!--Body text for the Valentine\'s Day donation megaphone.-->
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Klõpsa siia enda video käivitamiseks</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Signal vajab kasutajale %1$s helistamiseks juurdepääsu seadme kaamerale</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">CoolApp vajab kasutajale %1$s helistamiseks juurdepääsu seadme kaamerale</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">Helistamine…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">Grupp on liikmetele helistamiseks liiga suur.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
@@ -1263,11 +1263,11 @@
   <string name="WebRtcCallView__reconnecting">Ühenduse taastamine…</string>
   <string name="WebRtcCallView__joining">Liitumine…</string>
   <string name="WebRtcCallView__disconnected">Ühendus katkestatud</string>
-  <string name="WebRtcCallView__signal_will_ring_s">Signal helistab isikule %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">Signal helistab isikutele %1$s ja %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">CoolApp helistab isikule %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">CoolApp helistab isikutele %1$s ja %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="one">Signal helistab isikutele %1$s, %2$s ja %3$d muule</item>
-    <item quantity="other">Signal helistab isikutele %1$s, %2$s ja %3$d muule</item>
+    <item quantity="one">CoolApp helistab isikutele %1$s, %2$s ja %3$d muule</item>
+    <item quantity="other">CoolApp helistab isikutele %1$s, %2$s ja %3$d muule</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$ssaab teavituse</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s ja %2$s saavad teavituse</string>
@@ -1333,7 +1333,7 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">Kas sinu telefoninumber ülevalpool on korrektne?</string>
   <string name="RegistrationActivity_edit_number">Muuda numbrit</string>
   <string name="RegistrationActivity_missing_google_play_services">Puuduvad Google Play teenused</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Seadmest puuduvad Google Play teenused. Sa saad siiski Signalit kasutada, kuid see konfiguratsioon võib põhjustada vähendatud stabiilsust või jõudlust.\n\nKui sa pole edasijõudnud kasutaja, ei käita järelturu Androidi ROMi või arvad, et see on viga, palun kontakteeru support@signal.org, et saada abi probleemi lahendamisel.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Seadmest puuduvad Google Play teenused. Sa saad siiski Signalit kasutada, kuid see konfiguratsioon võib põhjustada vähendatud stabiilsust või jõudlust.\n\nKui sa pole edasijõudnud kasutaja, ei käita järelturu Androidi ROMi või arvad, et see on viga, palun kontakteeru support@asia.coolapp.chat, et saada abi probleemi lahendamisel.</string>
   <string name="RegistrationActivity_i_understand">Saan aru</string>
   <string name="RegistrationActivity_play_services_error">Play teenuste viga</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play teenused uuenevad või pole hetkel saadaval. Palun proovi uuesti.</string>
@@ -1360,7 +1360,7 @@
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">Kas lülitada registreerimislukk sisse?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">Kas lülitada registreerimislukk välja?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Kui unustad Signaliga uuesti registreerumisel oma Signal PIN-koodi, lukustatakse sind 7 päevaks oma kontolt.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Kui unustad Signaliga uuesti registreerumisel oma CoolApp PIN-koodi, lukustatakse sind 7 päevaks oma kontolt.</string>
   <string name="RegistrationLockV2Dialog_turn_on">Lülita sisse</string>
   <string name="RegistrationLockV2Dialog_turn_off">Lülita välja</string>
   <!--RevealableMessageView-->
@@ -1504,7 +1504,7 @@
   <string name="VerifyIdentityActivity_our_signal_safety_number">Meie Signali turvanumber:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Tundub, et sul pole ühtegi rakendust, kuhu jagada.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">Lõikelaualt ei leitud turvanumbrit, millega võrrelda</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal vajab kaamera luba, et skanneerida QR-koodi, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Kaamera\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">CoolApp vajab kaamera luba, et skanneerida QR-koodi, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Kaamera\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">QR-koodi ei saa skanneerida ilma kaamera loata</string>
   <string name="VerifyIdentityActivity_you_must_first_exchange_messages_in_order_to_view">Kasutaja %1$s turvanumbri nägemiseks pead kõigepealt temaga sõnumeid vahetama.</string>
   <!--ViewOnceMessageActivity-->
@@ -1523,13 +1523,13 @@
   <string name="ApplicationMigrationService_system_database_import_is_complete">Süsteemi andmebaasi import on lõpetatud.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Koputa avamiseks.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal on avatud</string>
-  <string name="KeyCachingService_lock">Lukusta Signal</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp on avatud</string>
+  <string name="KeyCachingService_lock">Lukusta CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Sina</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Mittetoetatud meediatüüp</string>
   <string name="MediaPreviewActivity_draft">Mustand</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal vajab mäluruumi luba, et salvestada välismällu, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Mäluruum\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">CoolApp vajab mäluruumi luba, et salvestada välismällu, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Mäluruum\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Õiguste puudumise tõttu pole võimalik välisele andmekandjale salvestada.</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Kustutad sõnumi?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">See kustutab püsivalt valitud sõnumi.</string>
@@ -1556,7 +1556,7 @@
   <string name="MessageNotifier_signal_message">Signali sõnum</string>
   <string name="MessageNotifier_unsecured_sms">Turvamata SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Sul võib olla uusi sõnumeid</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Ava Signal, et kontrollida viimaseid teavitusi.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Ava CoolApp, et kontrollida viimaseid teavitusi.</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Kontakt</string>
   <string name="MessageNotifier_reacted_s_to_s">Reageeris %1$s sõnumile: \"%2$s\".</string>
@@ -1568,7 +1568,7 @@
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Reageeris %1$s sinu ühekordsele meediale</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">Reageeris %1$s sinu kleepsule.</string>
   <string name="MessageNotifier_this_message_was_deleted">See sõnum kustutati.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Kas lülitada Signaliga liitumise teavitused välja? Neid saab uuesti lubada, valides Signal &gt; Seaded &gt; Teavitused.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Kas lülitada Signaliga liitumise teavitused välja? Neid saab uuesti lubada, valides CoolApp &gt; Seaded &gt; Teavitused.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Sõnumid</string>
   <string name="NotificationChannel_calls">Kõned</string>
@@ -1586,7 +1586,7 @@
   <!--Notification channel name for showing call status information (like connection, ongoing, etc.) Not ringing.-->
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Kiirvastus pole saadaval, kui Signal on lukustatud!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Kiirvastus pole saadaval, kui CoolApp on lukustatud!</string>
   <string name="QuickResponseService_problem_sending_message">Sõnumi saatmisel esines probleem!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Salvestatud kohta %s</string>
@@ -1597,7 +1597,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Sobimatu otsetee</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Uus sõnum</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Sõnumitaotlus</string>
   <string name="SingleRecipientNotificationBuilder_you">Sina</string>
@@ -1615,7 +1615,7 @@
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Kõnele vastamiseks anna Signalile juurdepääs mikrofonile.</string>
   <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Et vastata %s kõnele, anna Signalile juurdepääs oma mikrofonile.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal vajab mikrofoni ja kaamera lubasid, et teha ja vastu võtta kõnesid, ent need on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Mikrofon\" ning \"Kaamera\".</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">CoolApp vajab mikrofoni ja kaamera lubasid, et teha ja vastu võtta kõnesid, ent need on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"Mikrofon\" ning \"Kaamera\".</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Vastatud ühendatud seadmes.</string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">Keeldutud ühendatud seadmes.</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">Hõivatud ühendatud seadmes.</string>
@@ -1651,7 +1651,7 @@
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Kontakti pilt</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal vajab kontaktide kuvamiseks neile ligipääsu, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Kontaktid\".</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">CoolApp vajab kontaktide kuvamiseks neile ligipääsu, kuid see on püsivalt keelatud. Palun ava rakenduse sätete menüü, vali \"Õigused\" ja luba \"Kontaktid\".</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Kontaktide laadimisel tekkis tõrge. Kontrolli võrguühendust.</string>
   <string name="ContactSelectionListFragment_username_not_found">Kasutajanime ei leitud</string>
   <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" ei ole Signali kasutaja. Palun kontrolli kasutajanime ja proovi uuesti.</string>
@@ -1665,7 +1665,7 @@
     <item quantity="other">%1$d liiget</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal vajab kontaktide kuvamiseks nendele ligipääsu.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">CoolApp vajab kontaktide kuvamiseks nendele ligipääsu.</string>
   <string name="contact_selection_list_fragment__show_contacts">Näita kontakte</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1686,7 +1686,7 @@
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Lülita kiire kaamera manuse sahtel sisse või välja</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Salvesta ja saada helimanus</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Lukusta helimanuse salvestamine</string>
-  <string name="conversation_activity__enable_signal_for_sms">Luba Signal SMSide jaoks</string>
+  <string name="conversation_activity__enable_signal_for_sms">Luba CoolApp SMSide jaoks</string>
   <string name="conversation_activity__message_could_not_be_sent">Sõnumi saatmine ei õnnestunud. Kontrolli internetiühendust ja proovi uuesti.</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Libista tühistamiseks</string>
@@ -1845,7 +1845,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Eemalda blokeering</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal vajab MMS-seadeid, et edastada meediat ja grupisõnumeid läbi sinu võrguteenuse pakkuja. Sinu seade ei tee seda informatsiooni saadavaks, mis esineb mõnikord lukustatud seadmete ja piiravate konfiguratsioonide puhul.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">CoolApp vajab MMS-seadeid, et edastada meediat ja grupisõnumeid läbi sinu võrguteenuse pakkuja. Sinu seade ei tee seda informatsiooni saadavaks, mis esineb mõnikord lukustatud seadmete ja piiravate konfiguratsioonide puhul.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Meedia- ja grupisõnumite saatmiseks klõpsa nupul \"OK\" ja lõpeta taotletud seaded. MMS-seaded sinu teenusepakkuja jaoks võib tavaliselt leida, otsides \"sinu teenusepakkuja APN\". Sa pead seda tegema ainult ühe korra.</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">Edastustõrge</string>
@@ -2006,7 +2006,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Lukusta ekraan ja teavitused salasõnaga</string>
   <string name="preferences__screen_security">Kuva turvamine</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Blokeeri kuvatõmmised viimatiste nimekirjas ja rakenduse sees</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Lukusta Signal automaatselt pärast määratud ebaaktiivsuse ajaintervalli</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Lukusta CoolApp automaatselt pärast määratud ebaaktiivsuse ajaintervalli</string>
   <string name="preferences__inactivity_timeout_passphrase">Mitteaktiivsuse aegumise salasõna</string>
   <string name="preferences__inactivity_timeout_interval">Ebaaktiivsuse ajalõpu pikkus</string>
   <string name="preferences__notifications">Teavitused</string>
@@ -2066,7 +2066,7 @@
   <string name="preferences__chat_color_and_wallpaper">Vestluse värv ja taustapilt</string>
   <string name="preferences__disable_pin">Keela PIN</string>
   <string name="preferences__enable_pin">Luba PIN</string>
-  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Kui keelad PIN-koodi, siis kaotad kõik andmed, kui eemaldad Signal rakenduse ja pole seda käsitsi varundanud ja taastanud. Registreerimislukku pole võimalik sisse lülitada, kui PIN-kood on keelatud.</string>
+  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Kui keelad PIN-koodi, siis kaotad kõik andmed, kui eemaldad CoolApp rakenduse ja pole seda käsitsi varundanud ja taastanud. Registreerimislukku pole võimalik sisse lülitada, kui PIN-kood on keelatud.</string>
   <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN-koodid hoiavad Signalis salvestatud teabe krüptituna, seega ainult sinul on sellele juurdepääs. Kui paigaldad Signali uuesti, siis sinu profiil, sätted ja kontaktid taastatakse. Rakenduse avamiseks pole PIN-koodi vaja.</string>
   <string name="preferences__system_default">Süsteemi vaikeväärtus</string>
   <string name="preferences__language">Keel</string>
@@ -2137,12 +2137,12 @@
   <string name="preferences_notifications__priority">Prioriteet</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <!--Title of the \'censorship circumvention\' toggle switch-->
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Kui on lubatud, siis püüab Signal tsenseerimisest mööda hiilida. Luba see funktsioon vaid siis, kui oled kohas, kus Signal on tsenseeritud.</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Kui on lubatud, siis püüab CoolApp tsenseerimisest mööda hiilida. Luba see funktsioon vaid siis, kui oled kohas, kus CoolApp on tsenseeritud.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">Tsenseerimisest möödahiilimine on aktiveeritud sinu konto telefoninumbri järgi.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Sa oled käsitsi keelanud tsenseerimisest möödahiilimise</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
   <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">Tsenseerimisest möödahiilimine pole vajalik, sa oled juba Signali teenusega ühendatud.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">Tsenseerimisest möödahiilimist saab aktiveerida ainult Internetis olles.</string>
@@ -2495,7 +2495,7 @@
   <string name="ConversationListFragment_loading">Laadimine…</string>
   <string name="CallNotificationBuilder_connecting">Ühendumine…</string>
   <string name="Permissions_permission_required">Luba on vajalik</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal vajab SMS-uba, et saata SMSi, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">CoolApp vajab SMS-uba, et saata SMSi, ent see on püsivalt keelatud. Palun jätka rakenduse seadetes, vali \"Load\" ja luba \"SMS\".</string>
   <string name="Permissions_continue">Jätka</string>
   <string name="Permissions_not_now">Mitte praegu</string>
   <string name="conversation_activity__enable_signal_messages">LUBA SIGNALI SÕNUMID</string>
@@ -2586,7 +2586,7 @@
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Oled sooritanud liiga palju katseid. Palun proovi hiljem uuesti.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Teenusega ühendamisel esines viga</string>
   <string name="preferences_chats__backups">Varukoopiad</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal on lukus</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp on lukus</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">KOPUTA AVAMISEKS</string>
   <string name="Recipient_unknown">Tundmatu</string>
   <!--TransferOrRestoreFragment-->
@@ -2598,7 +2598,7 @@
   <string name="TransferOrRestoreFragment__restore_from_backup">Taasta varukoopiast</string>
   <string name="TransferOrRestoreFragment__restore_your_messages_from_a_local_backup">Taasta sõnumid lokaalsest varukoopiast. Kui sa nüüd ei taasta, siis sa ei saa ka hiljem taastada.</string>
   <!--NewDeviceTransferInstructionsFragment-->
-  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Ava Signal vanas Android-seadmes</string>
+  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Ava CoolApp vanas Android-seadmes</string>
   <string name="NewDeviceTransferInstructions__continue">Jätka</string>
   <string name="NewDeviceTransferInstructions__first_bullet">1.</string>
   <string name="NewDeviceTransferInstructions__tap_on_your_profile_photo_in_the_top_left_to_open_settings">Sätete avamiseks klõpsa enda profiilifotol üleval vasakul</string>
@@ -2610,14 +2610,14 @@
   <string name="NewDeviceTransferSetup__preparing_to_connect_to_old_android_device">Valmistun ühenduma vanasse Android-seadmesse…</string>
   <string name="NewDeviceTransferSetup__take_a_moment_should_be_ready_soon">See võtab hetke aega, peaks varsti valmis olema</string>
   <string name="NewDeviceTransferSetup__waiting_for_old_device_to_connect">Ootan vana Android-seadme ühendumist…</string>
-  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">Signal vajab vana Android-seadme leidmiseks ja ühendamiseks juurdepääsu asukohainfole.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">Signal vajab sinu eelmise Android-seadme leidmiseks ja ühendumiseks ligipääsu asukohateenustele.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">Signal vajab sinu eelmise Android-seadme leidmiseks ja ühendumiseks WiFi-t. WiFi peab olema sees, aga ei pea olema ühtegi WiFi võrku ühendatud.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">CoolApp vajab vana Android-seadme leidmiseks ja ühendamiseks juurdepääsu asukohainfole.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">CoolApp vajab sinu eelmise Android-seadme leidmiseks ja ühendumiseks ligipääsu asukohateenustele.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">CoolApp vajab sinu eelmise Android-seadme leidmiseks ja ühendumiseks WiFi-t. WiFi peab olema sees, aga ei pea olema ühtegi WiFi võrku ühendatud.</string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Taasta varukoopia</string>
   <!--OldDeviceTransferSetupFragment-->
   <string name="OldDeviceTransferSetup__searching_for_new_android_device">Uue Android-seadme otsimine…</string>
-  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">Signal vajab sinu uue Android-seadme leidmiseks ja ühendumiseks ligipääsu asukohateenustele.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">Signal vajab sinu uue Android-seadme leidmiseks ja ühendumiseks WiFi-t. WiFi peab olema sees, aga ei pea olema ühtegi WiFi võrku ühendatud.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">CoolApp vajab sinu uue Android-seadme leidmiseks ja ühendumiseks ligipääsu asukohateenustele.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">CoolApp vajab sinu uue Android-seadme leidmiseks ja ühendumiseks WiFi-t. WiFi peab olema sees, aga ei pea olema ühtegi WiFi võrku ühendatud.</string>
   <string name="OldDeviceTransferSetup__create_a_backup">Loo varukoopia</string>
   <!--DeviceTransferSetupFragment-->
   <string name="DeviceTransferSetup__unable_to_open_wifi_settings">WiFi sätete avamine ei õnnestunud. Palun lülita WiFi käsitsi sisse.</string>
@@ -2657,7 +2657,7 @@
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Kanna konto üle</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
-  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Laadi Signal alla uues Android-seadmes</string>
+  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Laadi CoolApp alla uues Android-seadmes</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
   <string name="OldDeviceTransferInstructions__third_bullet">3.</string>
   <string name="OldDeviceTransferInstructions__continue">Jätka</string>
@@ -2708,7 +2708,7 @@
   <string name="GroupsLearnMore_paragraph_1">Vanad grupid on need grupid, mis pole ühilduvad uute gruppide funktsionaalsustega nagu administraatorid ja rohkem kirjeldavad grupi muudatused.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Kas saan vana gruppi uuendada?</string>
   <string name="GroupsLearnMore_paragraph_2">Vanu gruppe ei saa veel uuteks gruppideks uuendada, aga sa saad luua samade liikmetega uue grupi, kui need liikmed kasutavad uusimat Signali versiooni.</string>
-  <string name="GroupsLearnMore_paragraph_3">Tulevikus pakub Signal võimalust vanu gruppe uuteks uuendada.</string>
+  <string name="GroupsLearnMore_paragraph_3">Tulevikus pakub CoolApp võimalust vanu gruppe uuteks uuendada.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">Igaüks saab selle lingi kaudu näha grupi nime ja fotot ning saata taotluse liitumiseks. Jaga seda isikutega, keda usaldad.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Igaüks saab selle lingi kaudu näha grupi nime ja fotot ning liituda grupiga. Jaga seda isikutega, keda usaldad.</string>
@@ -3015,7 +3015,7 @@
   <string name="HelpSettingsFragment__version">Versioon</string>
   <string name="HelpSettingsFragment__debug_log">Silumisinfo</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Tingimused ja privaatsuspoliitika</string>
-  <string name="HelpFragment__copyright_signal_messenger">Autoriõigus Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Autoriõigus CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Litsentsitud GPLv3 litsentsiga</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Meedia kvaliteet</string>
@@ -3392,7 +3392,7 @@
   <!--Button to dismiss notification profile megaphone-->
   <string name="NotificationProfilesMegaphone__not_now">Mitte praegu</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
-  <!--Description shown for the Signal Release Notes channel-->
+  <!--Description shown for the CoolApp Release Notes channel-->
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Kõik toimingud</string>
   <!--Donation receipts all tab label-->
@@ -3473,12 +3473,12 @@
   <!--Switchable option for allowing replies and reactions on your stories-->
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <!--Note about default sharing-->
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <!--Signal connections sheet bullet point 1-->
-  <!--Signal connections sheet bullet point 2-->
-  <!--Signal connections sheet bullet point 3-->
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <!--CoolApp connections sheet bullet point 1-->
+  <!--CoolApp connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 3-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <!--Clickable option to add a viewer to a private story-->
   <!--Clickable option to delete a custom story-->
   <!--Dialog title when attempting to remove someone from a private story-->

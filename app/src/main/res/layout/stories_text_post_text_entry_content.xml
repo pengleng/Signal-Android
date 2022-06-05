@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <org.thoughtcrime.securesms.components.emoji.EmojiEditText
+        <asia.coolapp.chat.components.emoji.EmojiEditText
             android:id="@+id/input"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
             tools:text="THIS IS SOME TEXT THAT I AM ENTERING" />
     </FrameLayout>
 
-    <org.thoughtcrime.securesms.mediasend.v2.text.TextAlignmentButton
+    <asia.coolapp.chat.mediasend.v2.text.TextAlignmentButton
         android:id="@+id/alignment_button"
         android:layout_width="48dp"
         android:layout_height="48dp"
@@ -53,7 +53,7 @@
         tools:srcCompat="@drawable/ic_text_start"
         tools:visibility="visible" />
 
-    <org.thoughtcrime.securesms.mediasend.v2.text.TextColorStyleButton
+    <asia.coolapp.chat.mediasend.v2.text.TextColorStyleButton
         android:id="@+id/background_button"
         android:layout_width="48dp"
         android:layout_height="48dp"
@@ -77,7 +77,7 @@
         app:layout_constraintTop_toTopOf="@id/color_bar"
         app:srcCompat="@drawable/ic_done_button" />
 
-    <org.thoughtcrime.securesms.mediasend.v2.text.TextFontButton
+    <asia.coolapp.chat.mediasend.v2.text.TextFontButton
         android:id="@+id/font_button"
         android:layout_width="48dp"
         android:layout_height="48dp"

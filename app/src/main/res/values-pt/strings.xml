@@ -10,22 +10,22 @@
   <string name="AbstractNotificationBuilder_new_message">Nova mensagem</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">O Signal está a atualizar…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">O CoolApp está a atualizar…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">Atualmente: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">Ainda não definiu uma frase-chave!</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Desativar frase-chave?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Isto irá desbloquear permanentemente o Signal e as notificações de mensagens.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Isto irá desbloquear permanentemente o CoolApp e as notificações de mensagens.</string>
   <string name="ApplicationPreferencesActivity_disable">Desativar</string>
   <string name="ApplicationPreferencesActivity_unregistering">A eliminar o registo…</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">A eliminar o registo do serviço de mensagens e chamadas do Signal…</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Desativar as mensagens e chamadas do Signal?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Desative as mensagens e chamadas do Signal eliminando o seu registo do servidor. Será necessário registar novamente o seu número de telefone caso as pretenda utilizar novamente no futuro.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">A eliminar o registo do serviço de mensagens e chamadas do CoolApp…</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Desativar as mensagens e chamadas do CoolApp?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Desative as mensagens e chamadas do CoolApp eliminando o seu registo do servidor. Será necessário registar novamente o seu número de telefone caso as pretenda utilizar novamente no futuro.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Erro a establecer a ligação com o servidor!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS ativados</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Toque para alterar a sua aplicação de SMS padrão</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS desativados</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Toque para tornar o Signal na sua aplicação SMS padrão</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Toque para tornar o CoolApp na sua aplicação SMS padrão</string>
   <string name="ApplicationPreferencesActivity_on">on</string>
   <string name="ApplicationPreferencesActivity_On">On</string>
   <string name="ApplicationPreferencesActivity_off">off</string>
@@ -58,14 +58,14 @@
   <string name="AttachmentKeyboard_file">Ficheiro</string>
   <string name="AttachmentKeyboard_contact">Contacto</string>
   <string name="AttachmentKeyboard_location">Localização</string>
-  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">O Signal necessita de permissão para exibir as suas fotografias e vídeos.</string>
+  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">O CoolApp necessita de permissão para exibir as suas fotografias e vídeos.</string>
   <string name="AttachmentKeyboard_give_access">Conceder acesso</string>
   <string name="AttachmentKeyboard_payment">Pagamento</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Não foi possível encontrar uma aplicação para selecionar a multimédia.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">O Signal requer permissão de acesso ao armazenamento de forma a poder anexar fotografias, vídeo e áudio, mas esta foi negada permanentemente. Por favor, aceda ao menu de definições das aplicações do seu telemóvel, selecione a aplicação Signal, e em \"Permissões\" ative \"Armazenamento\" ou \"Memória\". </string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">O Signal requer permissão de acesso aos contactos para anexar os dados do contacto, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações no menu do telemóvel, selecione a aplicação Signal e em \"Permissões\" ative \"Contactos\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">O Signal requer permissão de acesso à localização para poder anexar uma localização, mas esta foi negada permanentemente. Por favor aceda às definições das aplicações no menu do telemóvel, selecione a aplicação Signal e nas \"Permissões\" ative a \"Localização\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">O CoolApp requer permissão de acesso ao armazenamento de forma a poder anexar fotografias, vídeo e áudio, mas esta foi negada permanentemente. Por favor, aceda ao menu de definições das aplicações do seu telemóvel, selecione a aplicação CoolApp, e em \"Permissões\" ative \"Armazenamento\" ou \"Memória\". </string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">O CoolApp requer permissão de acesso aos contactos para anexar os dados do contacto, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações no menu do telemóvel, selecione a aplicação CoolApp e em \"Permissões\" ative \"Contactos\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">O CoolApp requer permissão de acesso à localização para poder anexar uma localização, mas esta foi negada permanentemente. Por favor aceda às definições das aplicações no menu do telemóvel, selecione a aplicação CoolApp e nas \"Permissões\" ative a \"Localização\".</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">A carregar multimédia…</string>
   <string name="AttachmentUploadJob_compressing_video_start">A comprimir vídeo…</string>
@@ -90,10 +90,10 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">Os membros do grupo serão capazes de o adicionar novamente a este grupo.</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">Poderão enviar mensagens e telefonar uns aos outros, o seu nome e fotografia serão partilhados com eles.</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">As pessoas bloqueadas não serão capazes de lhe ligar ou enviar-lhe mensagens.</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Bloquear a obtenção de atualizações e novidades do Signal.</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Retomar a obtenção de atualizações e novidades do Signal.</string>
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">Bloquear a obtenção de atualizações e novidades do CoolApp.</string>
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">Retomar a obtenção de atualizações e novidades do CoolApp.</string>
   <string name="BlockUnblockDialog_unblock_s">Desbloquear %1$s?</string>
   <string name="BlockUnblockDialog_block">Bloquear</string>
   <string name="BlockUnblockDialog_block_and_leave">Bloquear e abandonar</string>
@@ -113,20 +113,20 @@
   <string name="CameraXFragment_open_gallery_description">Abrir galeria</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Contactos recentes</string>
-  <string name="CameraContacts_signal_contacts">Contactos Signal</string>
-  <string name="CameraContacts_signal_groups">Grupos Signal</string>
+  <string name="CameraContacts_signal_contacts">Contactos CoolApp</string>
+  <string name="CameraContacts_signal_groups">Grupos CoolApp</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Pode partilhar com um máximo de %d conversas.</string>
-  <string name="CameraContacts_select_signal_recipients">Selecione os destinatários Signal</string>
-  <string name="CameraContacts_no_signal_contacts">Sem contactos Signal</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">Apenas pode utilizar o botão da câmara para enviar fotografias para contactos Signal.</string>
+  <string name="CameraContacts_select_signal_recipients">Selecione os destinatários CoolApp</string>
+  <string name="CameraContacts_no_signal_contacts">Sem contactos CoolApp</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">Apenas pode utilizar o botão da câmara para enviar fotografias para contactos CoolApp.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Não consegue encontrar quem procura?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Convide um contacto para se juntar ao Signal</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Convide um contacto para se juntar ao CoolApp</string>
   <string name="CameraContacts__menu_search">Procurar</string>
   <!--Censorship Circumvention Megaphone-->
   <!--Title for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off_censorship_circumvention">Desativar a circunscrição de censura?</string>
   <!--Body for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
-  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Agora pode ligar-se diretamente ao serviço Signal para uma melhor experiência.</string>
+  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">Agora pode ligar-se diretamente ao serviço CoolApp para uma melhor experiência.</string>
   <!--Action to prompt the user to disable circumvention since it is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off">Desativar</string>
   <!--Action to prompt the user to dismiss the alert at the bottom of the chat list-->
@@ -136,12 +136,12 @@
   <string name="ClearProfileActivity_remove_profile_photo">Remover a fotografia do perfil?</string>
   <string name="ClearProfileActivity_remove_group_photo">Remover a fotografia do grupo?</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">Atualizar o Signal</string>
+  <string name="ClientDeprecatedActivity_update_signal">Atualizar o CoolApp</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">Esta versão da aplicação deixou de ser suportada. Para continuar a enviar e a receber mensagens, atualize para a última versão</string>
   <string name="ClientDeprecatedActivity_update">Atualizar</string>
   <string name="ClientDeprecatedActivity_dont_update">Não atualizar</string>
   <string name="ClientDeprecatedActivity_warning">Aviso</string>
-  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">A sua versão do Signal expirou. Pode ver o seu histórico de mensagens mas não será capaz de enviar ou receber mensagens até que atualize.</string>
+  <string name="ClientDeprecatedActivity_your_version_of_signal_has_expired_you_can_view_your_message_history">A sua versão do CoolApp expirou. Pode ver o seu histórico de mensagens mas não será capaz de enviar ou receber mensagens até que atualize.</string>
   <!--CommunicationActions-->
   <string name="CommunicationActions_no_browser_found">Não foi encontrado nenhum navegador de Internet.</string>
   <string name="CommunicationActions_send_email">Enviar e-mail</string>
@@ -150,9 +150,9 @@
   <string name="CommunicationActions_cancel">Cancelar</string>
   <string name="CommunicationActions_call">Telefonar</string>
   <string name="CommunicationActions_insecure_call">Chamada insegura</string>
-  <string name="CommunicationActions_carrier_charges_may_apply">Poderão ser aplicadas taxas. O número para o qual está a ligar não se encontra registado no Signal. Esta chamada será efetuada através da sua operadora e não através da internet.</string>
+  <string name="CommunicationActions_carrier_charges_may_apply">Poderão ser aplicadas taxas. O número para o qual está a ligar não se encontra registado no CoolApp. Esta chamada será efetuada através da sua operadora e não através da internet.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">O seu número de segurança com %1$s foi alterado. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que %2$s reinstalou o Signal.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">O seu número de segurança com %1$s foi alterado. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que %2$s reinstalou o CoolApp.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Você poderá desejar verificar o seu número de segurança com este contacto.</string>
   <string name="ConfirmIdentityDialog_accept">Aceitar</string>
   <!--ContactsCursorLoader-->
@@ -167,7 +167,7 @@
   <string name="ContactsCursorLoader_new_story">Nova história</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Mensagem %s</string>
-  <string name="ContactsDatabase_signal_call_s">Chamada do Signal %s</string>
+  <string name="ContactsDatabase_signal_call_s">Chamada do CoolApp %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Nome próprio</string>
   <string name="ContactNameEditActivity_family_name">Apelido</string>
@@ -190,7 +190,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Falha ao enviar, toque para enviar pelo modo inseguro</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Recorrer a SMS não encriptado?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Recorrer a MMS não encriptado?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Esta mensagem <b>não</b> será encriptada porque o destinatário já não é um utilizador do Signal.\n\nEnviar mensagem de um modo não seguro?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Esta mensagem <b>não</b> será encriptada porque o destinatário já não é um utilizador do CoolApp.\n\nEnviar mensagem de um modo não seguro?</string>
   <string name="ConversationItem_unable_to_open_media">Não foi possível encontrar uma aplicação capaz de abrir este ficheiro.</string>
   <string name="ConversationItem_copied_text">Copiado %s</string>
   <string name="ConversationItem_from_s">de %s</string>
@@ -215,8 +215,8 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">Este dispositivo parece não suportar ações de marcação.</string>
   <string name="ConversationActivity_transport_insecure_sms">SMS inseguro</string>
   <string name="ConversationActivity_transport_insecure_mms">MMS inseguro</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Vamos mudar para o Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Vamos mudar para o CoolApp %1$s</string>
   <string name="ConversationActivity_specify_recipient">Por favor escolha um contacto</string>
   <string name="ConversationActivity_unblock">Desbloquear</string>
   <string name="ConversationActivity_attachment_exceeds_size_limits">O anexo tem um tamanho superior ao limite do tipo de mensagem que está a enviar.</string>
@@ -230,17 +230,17 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Não existe no seu dispositivo nenhuma aplicação capaz de lidar com este tipo de ligação.</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">O seu pedido para entrar foi enviado ao administrador do grupo. Será notificado quando ele tomar uma decisão.</string>
   <string name="ConversationActivity_cancel_request">Cancelar pedido</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Para poder enviar mensagens de áudio, permita que o Signal aceda ao microfone.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">O Signal requer permissão de acesso ao microfone para enviar mensagens áudio, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, selecione a aplicação Signal e nas \"Permissões\" ative \"Microfone\".</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">O Signal requer permissão de acesso ao microfone e câmara, para poder ligar a %s, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, selecione a aplicação Signal e nas \"Permissões\" ative o \"Microfone\" e a \"Câmara\".</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Para tirar fotografias e filmar vídeos, dê permissões ao Signal para acesso à câmara.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">O Signal requer permissão de acesso à câmara para tirar fotografias ou vídeos, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione a aplicação Signal e nas \"Permissões\" ative a \"Câmara\".</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">O Signal requer permissão de acesso à Câmara para tirar fotografias ou fazer vídeos</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Para poder enviar mensagens de áudio, permita que o CoolApp aceda ao microfone.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">O CoolApp requer permissão de acesso ao microfone para enviar mensagens áudio, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, selecione a aplicação CoolApp e nas \"Permissões\" ative \"Microfone\".</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">O CoolApp requer permissão de acesso ao microfone e câmara, para poder ligar a %s, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, selecione a aplicação CoolApp e nas \"Permissões\" ative o \"Microfone\" e a \"Câmara\".</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Para tirar fotografias e filmar vídeos, dê permissões ao CoolApp para acesso à câmara.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">O CoolApp requer permissão de acesso à câmara para tirar fotografias ou vídeos, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione a aplicação CoolApp e nas \"Permissões\" ative a \"Câmara\".</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">O CoolApp requer permissão de acesso à Câmara para tirar fotografias ou fazer vídeos</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">Ative a permissão do microfone para poder capturar vídeos com som.</string>
-  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">O Sinal necessita de permissões de microfone para poder gravar vídeos. mas elas foram negadas. Por favor, avance até às definições das aplicações,. selecione o Signal e nas \"Permissões\", ative o \"Microfone\" e a \"Câmara\"</string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">O Signal necessita de permissões de microfone para poder gravar vídeos.</string>
+  <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">O Sinal necessita de permissões de microfone para poder gravar vídeos. mas elas foram negadas. Por favor, avance até às definições das aplicações,. selecione o CoolApp e nas \"Permissões\", ative o \"Microfone\" e a \"Câmara\"</string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">O CoolApp necessita de permissões de microfone para poder gravar vídeos.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s%2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">O Signal não consegue enviar mensagens SMS/MMS porque não é a sua aplicação padrão para lidar com SMS. Deseja alterar isto nas definições do Android?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">O CoolApp não consegue enviar mensagens SMS/MMS porque não é a sua aplicação padrão para lidar com SMS. Deseja alterar isto nas definições do Android?</string>
   <string name="ConversationActivity_yes">Sim</string>
   <string name="ConversationActivity_no">Não</string>
   <string name="ConversationActivity_search_position">%1$d de %2$d</string>
@@ -254,7 +254,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">Irá abandonar este grupo, e ele será eliminado de todos os seus dispositivos.</string>
   <string name="ConversationActivity_delete">Eliminar</string>
   <string name="ConversationActivity_delete_and_leave">Eliminar e abandonar</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Para ligar a %1$s, o Signal necessita de ter acesso ao microfone.</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">Para ligar a %1$s, o CoolApp necessita de ter acesso ao microfone.</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">Agora mais opções nas \"Definições de grupo\"</string>
   <string name="ConversationActivity_join">Entrar</string>
   <string name="ConversationActivity_full">Cheio(a)</string>
@@ -289,14 +289,14 @@
     <item quantity="other">A guardar %1$d anexos para o armazenamento local…</item>
   </plurals>
   <string name="ConversationFragment_pending">Pendente…</string>
-  <string name="ConversationFragment_push">Dados (Signal)</string>
+  <string name="ConversationFragment_push">Dados (CoolApp)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">A eliminar</string>
   <string name="ConversationFragment_deleting_messages">A eliminar mensagens…</string>
   <string name="ConversationFragment_delete_for_me">Eliminar para mim</string>
   <string name="ConversationFragment_delete_for_everyone">Eliminar para todos</string>
-  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Esta mensagem será eliminada para todos os presentes na conversa, se eles tiverem uma versão recente do Signal. Eles serão capazes de ver que você eliminou a mensagem.</string>
+  <string name="ConversationFragment_this_message_will_be_deleted_for_everyone_in_the_conversation">Esta mensagem será eliminada para todos os presentes na conversa, se eles tiverem uma versão recente do CoolApp. Eles serão capazes de ver que você eliminou a mensagem.</string>
   <string name="ConversationFragment_quoted_message_not_found">Não foi encontrada a mensagem original</string>
   <string name="ConversationFragment_quoted_message_no_longer_available">A mensagem original já não se encontra disponível</string>
   <string name="ConversationFragment_failed_to_open_message">Falha ao abrir a mensagem</string>
@@ -308,12 +308,12 @@
   <string name="ConversationFragment__d_group_members_have_the_same_name">%1$d membros do grupo têm o mesmo nome.</string>
   <string name="ConversationFragment__tap_to_review">Toque para rever</string>
   <string name="ConversationFragment__review_requests_carefully">Revejo os pedidos de forma cuidada</string>
-  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">O Signal encontrou outro contacto com o mesmo nome.</string>
+  <string name="ConversationFragment__signal_found_another_contact_with_the_same_name">O CoolApp encontrou outro contacto com o mesmo nome.</string>
   <string name="ConversationFragment_contact_us">Contacte-nos</string>
   <string name="ConversationFragment_verify">Verificar</string>
   <string name="ConversationFragment_not_now">Agora não</string>
   <string name="ConversationFragment_your_safety_number_with_s_changed">O seu número de segurança com %s mudou.</string>
-  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">O seu número de segurança  com %s foi alterado, provavelmente porque ele(a) reinstalou o Signal ou alterou os dispositivos. Toque em \'Verificar\' para confirmar o novo número de segurança (Isto é opcional).</string>
+  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">O seu número de segurança  com %s foi alterado, provavelmente porque ele(a) reinstalou o CoolApp ou alterou os dispositivos. Toque em \'Verificar\' para confirmar o novo número de segurança (Isto é opcional).</string>
   <!--Message shown to indicate which notification profile is on/active-->
   <string name="ConversationFragment__s_on">%1$s - ON</string>
   <!--Dialog title for block group link join requests-->
@@ -439,13 +439,13 @@
   <string name="BackupsPreferenceFragment__test_your_backup_passphrase">Teste a sua frase-chave e confirme se coincide</string>
   <string name="BackupsPreferenceFragment__turn_on">Ativar</string>
   <string name="BackupsPreferenceFragment__turn_off">Desativar</string>
-  <string name="BackupsPreferenceFragment__to_restore_a_backup">Para poder restaurar uma cópia de segurança, instale uma nova cópia do Signal. Abra a aplicação e toque em \"Restaurar cópia de segurança\", aqui localize o ficheiro com a cópia de segurança. %1$s</string>
+  <string name="BackupsPreferenceFragment__to_restore_a_backup">Para poder restaurar uma cópia de segurança, instale uma nova cópia do CoolApp. Abra a aplicação e toque em \"Restaurar cópia de segurança\", aqui localize o ficheiro com a cópia de segurança. %1$s</string>
   <string name="BackupsPreferenceFragment__learn_more">Saber mais</string>
   <string name="BackupsPreferenceFragment__in_progress">Em progresso…</string>
   <string name="BackupsPreferenceFragment__d_so_far">%1$d até ao momento…</string>
   <!--Show percentage of completion of backup-->
   <string name="BackupsPreferenceFragment__s_so_far">%1$s%% até agora…</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">O Signal requer permissão de acesso ao armazenamento externo para criar cópias de segurança, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione a aplicação Signal e nas \"Permissões\" ative \"Armazenamento\".</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">O CoolApp requer permissão de acesso ao armazenamento externo para criar cópias de segurança, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione a aplicação CoolApp e nas \"Permissões\" ative \"Armazenamento\".</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Usar a opção personalizada: %s</string>
   <string name="CustomDefaultPreference_using_default">A usar a opção predefinida: %s</string>
@@ -464,7 +464,7 @@
   <string name="DateUtils_yesterday">Ontem</string>
   <!--DecryptionFailedDialog-->
   <string name="DecryptionFailedDialog_chat_session_refreshed">A sessão da conversa foi atualizada</string>
-  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">O Signal utiliza encriptação de ponta a ponta e às vezes pode necessitar de atualizar a sua sessão de conversa. Isso não afeta a segurança da sua conversa, mas você poderá ter perdido uma mensagem desse contacto e pode pedir que ele a reenvie.</string>
+  <string name="DecryptionFailedDialog_signal_uses_end_to_end_encryption">O CoolApp utiliza encriptação de ponta a ponta e às vezes pode necessitar de atualizar a sua sessão de conversa. Isso não afeta a segurança da sua conversa, mas você poderá ter perdido uma mensagem desse contacto e pode pedir que ele a reenvie.</string>
   <!--DeviceListActivity-->
   <string name="DeviceListActivity_unlink_s">Desassociar \'%s\'?</string>
   <string name="DeviceListActivity_by_unlinking_this_device_it_will_no_longer_be_able_to_send_or_receive">Ao desassociar este dispositivo, ele irá deixar de poder enviar ou receber mensagens.</string>
@@ -482,9 +482,9 @@
   <string name="DocumentView_unnamed_file">Ficheiro sem nome</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Otimizar para os \"Play Services\" em falta.</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Este dispositivo não suporta os Play Services. Toque para desativar o sistema de otimização de bateria que impede o Signal de recolher mensagens enquanto inativo.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Este dispositivo não suporta os Play Services. Toque para desativar o sistema de otimização de bateria que impede o CoolApp de recolher mensagens enquanto inativo.</string>
   <!--ExpiredBuildReminder-->
-  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Esta versão do Signal expirou. Faça agora a atualização par aenviar e receber mensagens.</string>
+  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">Esta versão do CoolApp expirou. Faça agora a atualização par aenviar e receber mensagens.</string>
   <string name="ExpiredBuildReminder_update_now">Atualizar agora</string>
   <!--PendingGroupJoinRequestsReminder-->
   <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">
@@ -497,8 +497,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">Apenas são suportados anexos múltiplos para imagens e vídeos.</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">Você não tem permissão para enviar para esse grupo</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Falha permanente de comunicação do Signal!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">O Signal não se conseguiu registar com os Serviços Google Play. As mensagens e chamadas do Signal estão desativadas, por favor tente registar-se novamente em Definições &gt; Avançado.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Falha permanente de comunicação do CoolApp!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">O CoolApp não se conseguiu registar com os Serviços Google Play. As mensagens e chamadas do CoolApp estão desativadas, por favor tente registar-se novamente em Definições &gt; Avançado.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Erro ao obter o GIF de resolução integral</string>
   <!--GiphyFragmentPageAdapter-->
@@ -652,7 +652,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">Este campo é obrigatório.</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">Falha ao criar grupo.</string>
   <string name="AddGroupDetailsFragment__try_again_later">Tentar novamente mais tarde.</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Selecionou um contacto que não suporta grupos do Signal, pelo que este grupo será um grupo MMS.</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">Selecionou um contacto que não suporta grupos do CoolApp, pelo que este grupo será um grupo MMS.</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">Nome personalizados de grupos MMS e fotografias apenas serão visíveis para si.</string>
   <string name="AddGroupDetailsFragment__remove">Remover</string>
   <string name="AddGroupDetailsFragment__sms_contact">Contacto SMS</string>
@@ -685,8 +685,8 @@
   <string name="ManageGroupActivity_only_admins_can_enable_or_disable_the_option_to_approve_new_members">Apenas os administradores podem ativar ou desativar a opção para aprovar novos membros.</string>
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">Apenas os administradores podem repor o link partilhável do grupo.</string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">Não tem permissões para fazer isto</string>
-  <string name="ManageGroupActivity_not_capable">Alguém que você adicionou não suporta novos grupos e necessita de atualizar o Signal</string>
-  <string name="ManageGroupActivity_not_announcement_capable">Alguém que você adicionou não suporta novos grupos anunciados e necessita de atualizar o Signal</string>
+  <string name="ManageGroupActivity_not_capable">Alguém que você adicionou não suporta novos grupos e necessita de atualizar o CoolApp</string>
+  <string name="ManageGroupActivity_not_announcement_capable">Alguém que você adicionou não suporta novos grupos anunciados e necessita de atualizar o CoolApp</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">Falha ao atualizar o grupo</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">Você não é um membro do grupo</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">Ocorreu um erro ao tentar atualizar o grupo. Por favor tente novamente mais tarde</string>
@@ -697,7 +697,7 @@
   <string name="ManageGroupActivity_legacy_group_upgrade">Este é um \'Grupo legado\'. Para aceder a novos recursos como as menções e administradores,</string>
   <string name="ManageGroupActivity_legacy_group_too_large">Não pode ser feito o upgrade deste \'Grupo legado\' porque é demasiadamente grande. O tamanho máximo do grupo é de %1$d.</string>
   <string name="ManageGroupActivity_upgrade_this_group">faça o upgrade deste grupo.</string>
-  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Este é um Grupo MMS inseguro. Para conversar de forma privada, convide os seus contactos para o Signal.</string>
+  <string name="ManageGroupActivity_this_is_an_insecure_mms_group">Este é um Grupo MMS inseguro. Para conversar de forma privada, convide os seus contactos para o CoolApp.</string>
   <string name="ManageGroupActivity_invite_now">Convidar agora</string>
   <string name="ManageGroupActivity_more">mais</string>
   <string name="ManageGroupActivity_add_group_description">Adicionar descrição do grupo…</string>
@@ -782,10 +782,10 @@
     <item quantity="other">Grupo · %1$d membros</item>
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Atualize o Signal para utilizar hiperligações de grupo</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">A versão do Signal que está a utilizar não suporta links de grupo. Atualize para a última versão de forma a poder entrar para este grupo através do link do grupo.</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Atualizar o Signal</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Um ou mais dos seus dispositivos ligados estão a correr uma versão do Signal que não suporta ligações para grupos. Atualize o Signal nos seus dispositivos ligados para poder entrar para este grupo.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">Atualize o CoolApp para utilizar hiperligações de grupo</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">A versão do CoolApp que está a utilizar não suporta links de grupo. Atualize para a última versão de forma a poder entrar para este grupo através do link do grupo.</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">Atualizar o CoolApp</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">Um ou mais dos seus dispositivos ligados estão a correr uma versão do CoolApp que não suporta ligações para grupos. Atualize o CoolApp nos seus dispositivos ligados para poder entrar para este grupo.</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">Link do grupo inválido</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
   <string name="GroupInviteLinkEnableAndShareBottomSheetDialogFragment_invite_friends">Convidar amigos</string>
@@ -817,13 +817,13 @@
   <string name="InviteActivity_cancel">Cancelar</string>
   <string name="InviteActivity_sending">A enviar…</string>
   <string name="InviteActivity_invitations_sent">Convites enviados!</string>
-  <string name="InviteActivity_invite_to_signal">Convidar para o Signal</string>
+  <string name="InviteActivity_invite_to_signal">Convidar para o CoolApp</string>
   <string name="InviteActivity_send_sms">Enviar SMS (%d)</string>
   <plurals name="InviteActivity_send_sms_invites">
     <item quantity="one">Enviar %d convite por SMS?</item>
     <item quantity="other">Enviar %d convites por SMS?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Vamos mudar para o Signal: %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Vamos mudar para o CoolApp: %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Parece que não tem aplicações para partilhar.</string>
   <!--LearnMoreTextView-->
   <string name="LearnMoreTextView_learn_more">Saber mais</string>
@@ -833,7 +833,7 @@
   <string name="LongMessageActivity_message_from_s">Mensagem de %1$s</string>
   <string name="LongMessageActivity_your_message">A sua mensagem</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">Ligação em segundo-plano ativada</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Erro ao ler as configurações do operador MMS</string>
@@ -886,7 +886,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">Enviado por si para %1$s</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">Lembrar-me mais tarde</string>
-  <string name="Megaphones_verify_your_signal_pin">Verifique o seu PIN do Signal</string>
+  <string name="Megaphones_verify_your_signal_pin">Verifique o seu PIN do CoolApp</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">Iremos ocasionalmente pedir-lhe para verificar o seu PIN para que não se esqueça dele.</string>
   <string name="Megaphones_verify_pin">Verificar PIN</string>
   <string name="Megaphones_get_started">Começar</string>
@@ -896,11 +896,11 @@
   <string name="Megaphones_appearance">Aspeto</string>
   <string name="Megaphones_add_photo">Adicionar fotografia</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Chamada do Signal em curso</string>
-  <string name="NotificationBarManager__establishing_signal_call">A estabelecer chamada do Signal</string>
-  <string name="NotificationBarManager__incoming_signal_call">A receber chamada do Signal</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">A receber chamada de grupo do Signal</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">A parar o serviço de chamadas do Signal</string>
+  <string name="NotificationBarManager_signal_call_in_progress">Chamada do CoolApp em curso</string>
+  <string name="NotificationBarManager__establishing_signal_call">A estabelecer chamada do CoolApp</string>
+  <string name="NotificationBarManager__incoming_signal_call">A receber chamada do CoolApp</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">A receber chamada de grupo do CoolApp</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">A parar o serviço de chamadas do CoolApp</string>
   <string name="NotificationBarManager__decline_call">Rejeitar chamada</string>
   <string name="NotificationBarManager__answer_call">Atender chamada</string>
   <string name="NotificationBarManager__end_call">Terminar chamada</string>
@@ -927,8 +927,8 @@
   <string name="MediaSendActivity_message_to_s">Mensagem para %s</string>
   <string name="MediaSendActivity_message">Mensagem</string>
   <string name="MediaSendActivity_select_recipients">Selecionar destinatários</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">O Signal necessita de ter acesso aos contactos para os poder mostrar.</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">O Signal requer permissão de acesso aos contactos para mostrar os seus contactos, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações no seu telemóvel, selecione a aplicação Signal e em \"Permissões\" ative \"Contactos\".</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">O CoolApp necessita de ter acesso aos contactos para os poder mostrar.</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">O CoolApp requer permissão de acesso aos contactos para mostrar os seus contactos, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações no seu telemóvel, selecione a aplicação CoolApp e em \"Permissões\" ative \"Contactos\".</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="one">Não pode partilhar mais do que %d item.</item>
     <item quantity="other">Não pode partilhar mais do que %d itens.</item>
@@ -943,7 +943,7 @@
   <string name="MessageDecryptionUtil_tap_to_send_a_debug_log">Toque para enviar um relatório de depuração</string>
   <!--MessageRecord-->
   <string name="MessageRecord_unknown">Desconhecido(a)</string>
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Recebeu uma mensagem encriptada gerada a partir de uma versão antiga do Signal, que já não é suportada. Por favor, peça ao remetente para atualizar para a versão mais recente e reenviar a mensagem.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Recebeu uma mensagem encriptada gerada a partir de uma versão antiga do CoolApp, que já não é suportada. Por favor, peça ao remetente para atualizar para a versão mais recente e reenviar a mensagem.</string>
   <string name="MessageRecord_left_group">Você abandonou o grupo.</string>
   <string name="MessageRecord_you_updated_group">Você atualizou o grupo.</string>
   <string name="MessageRecord_the_group_was_updated">O grupo foi atualizado.</string>
@@ -952,7 +952,7 @@
   <string name="MessageRecord_missed_video_call_date">Chamada de vídeo perdida · %1$s</string>
   <string name="MessageRecord_s_updated_group">%s atualizou o grupo.</string>
   <string name="MessageRecord_s_called_you_date">%1$s telefonou-lhe · %2$s</string>
-  <string name="MessageRecord_s_joined_signal">%s está no Signal!</string>
+  <string name="MessageRecord_s_joined_signal">%s está no CoolApp!</string>
   <string name="MessageRecord_you_disabled_disappearing_messages">Você desativou a destruição de mensagens.</string>
   <string name="MessageRecord_s_disabled_disappearing_messages">%1$s desativou a destruição de mensagens.</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">Você definiu %1$s como o tempo a decorrer até as mensagens serem destruídas.</string>
@@ -1117,7 +1117,7 @@
   <!--Update item message shown in the release channel when someone is already a sustainer so we ask them if they want to boost.-->
   <string name="MessageRecord_like_this_new_feature_say_thanks_with_a_boost">Gosta deste recurso? Diga obrigado Apoiando-nos.</string>
   <!--Update item message shown in the release channel when someone is not a sustainer so we ask them to consider becoming one-->
-  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">O Signal é apoiado por pessoas como você. Torne-se num apoiante hoje mesmo.</string>
+  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">O CoolApp é apoiado por pessoas como você. Torne-se num apoiante hoje mesmo.</string>
   <!--Group Calling update messages-->
   <string name="MessageRecord_s_started_a_group_call_s">%1$s iniciou uma chamada em grupo · %2$s</string>
   <string name="MessageRecord_s_is_in_the_group_call_s">%1$s está na chamada de grupo · %2$s</string>
@@ -1189,24 +1189,24 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Código QR inválido.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Lamentamos mas tem demasiados dispositivos associados, tente remover alguns</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Lamento mas este não é um código QR de associação ao dispositivo válido.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Associar a um dispositivo Signal?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Parece estar a tentar associar um dispositivo Signal através de um digitalizador externo. Para sua segurança, digitalize o código através do Signal.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">O Signal requer permissão de acesso à câmara para ler códigos QR, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione o Signal e nas \"Permissões\" ative a \"Câmara\".</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">Associar a um dispositivo CoolApp?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Parece estar a tentar associar um dispositivo CoolApp através de um digitalizador externo. Para sua segurança, digitalize o código através do CoolApp.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">O CoolApp requer permissão de acesso à câmara para ler códigos QR, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione o CoolApp e nas \"Permissões\" ative a \"Câmara\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Não é possível ler um código QR sem ter a permissão de acesso à câmara.</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">Atualizar agora</string>
-  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">Esta versão do Signal expira hoje. Atualize para a versão mais recente.</string>
+  <string name="OutdatedBuildReminder_your_version_of_signal_will_expire_today">Esta versão do CoolApp expira hoje. Atualize para a versão mais recente.</string>
   <plurals name="OutdatedBuildReminder_your_version_of_signal_will_expire_in_n_days">
-    <item quantity="one">Esta versão do Signal expira amanhã. Atualize para a versão mais recente.</item>
-    <item quantity="other">Esta versão do Signal irá expirar dentro de %d dias. Atualize para a versão mais recente.</item>
+    <item quantity="one">Esta versão do CoolApp expira amanhã. Atualize para a versão mais recente.</item>
+    <item quantity="other">Esta versão do CoolApp irá expirar dentro de %d dias. Atualize para a versão mais recente.</item>
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Insira a frase-chave</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Ícone do Signal</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">Ícone do CoolApp</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Submeter frase-chave</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Frase-chave inválida!</string>
-  <string name="PassphrasePromptActivity_unlock_signal">Desbloquear o Signal</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android - Ecrã de bloqueio</string>
+  <string name="PassphrasePromptActivity_unlock_signal">Desbloquear o CoolApp</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android - Ecrã de bloqueio</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">Mapa</string>
   <string name="PlacePickerActivity_drop_pin">Colocar pino</string>
@@ -1227,12 +1227,12 @@
     <item quantity="one">Resta-lhe %1$d tentativa. Quando terminarem as tentativas poderá criar um novo PIN. Poderá voltar a registar-se e utilizar a sua conta mas irá perder algumas definições guardadas como a sua informação do perfil.</item>
     <item quantity="other">Restam-lhe %1$d tentativas. Quando terminarem as tentativas poderá criar um novo PIN. Poderá voltar a registar-se e utilizar a sua conta mas irá perder algumas definições guardadas como a sua informação do perfil.</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Registo Signal - Necessita de ajuda com o PIN para Android</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Registo CoolApp - Necessita de ajuda com o PIN para Android</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">Introduza um PIN alfanumérico</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">Introduza um PIN numérico</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">Crie o seu PIN</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Esgotou todas as tentativas para introduzir o PIN, mas ainda pode aceder à sua conta do Signal criando um novo PIN. Para sua privacidade e segurança, a sua conta será restaurada sem nenhuma informação relativa ao perfil ou definições guardadas.</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">Esgotou todas as tentativas para introduzir o PIN, mas ainda pode aceder à sua conta do CoolApp criando um novo PIN. Para sua privacidade e segurança, a sua conta será restaurada sem nenhuma informação relativa ao perfil ou definições guardadas.</string>
   <string name="PinRestoreLockedFragment_create_new_pin">Criar PIN novo</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">Aviso</string>
@@ -1252,7 +1252,7 @@
   <string name="ReactionsRecipientAdapter_you">Você</string>
   <!--RecaptchaRequiredBottomSheetFragment-->
   <string name="RecaptchaRequiredBottomSheetFragment_verify_to_continue_messaging">Verifique para continuar a conversar</string>
-  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Para ajudar a prevenir o spam no Signal, termine a verificação.</string>
+  <string name="RecaptchaRequiredBottomSheetFragment_to_help_prevent_spam_on_signal">Para ajudar a prevenir o spam no CoolApp, termine a verificação.</string>
   <string name="RecaptchaRequiredBottomSheetFragment_after_verifying_you_can_continue_messaging">Depois de verificar, pode continuar a conversar. Todas as mensagens em pausa serão enviadas.</string>
   <!--Recipient-->
   <string name="Recipient_you">Você</string>
@@ -1277,18 +1277,18 @@
   <!--Title text for the Valentine\'s Day donation megaphone. The placeholder will always be a heart emoji. Needs to be a placeholder for Android reasons.-->
   <string name="ValentinesDayMegaphone_happy_heart_day">Bom dia 💜!</string>
   <!--Body text for the Valentine\'s Day donation megaphone.-->
-  <string name="ValentinesDayMegaphone_show_your_affection">Mostre o seu afeto ao tornar-se num apoiante do Signal.</string>
+  <string name="ValentinesDayMegaphone_show_your_affection">Mostre o seu afeto ao tornar-se num apoiante do CoolApp.</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">Toque aqui para ativar a sua câmara</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Para telefonar a %1$s, o Signal necessita de aceder à sua câmara</string>
-  <string name="WebRtcCallActivity__signal_s">Chamada Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">Para telefonar a %1$s, o CoolApp necessita de aceder à sua câmara</string>
+  <string name="WebRtcCallActivity__signal_s">Chamada CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">A chamar…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">Grupo demasiado grande para ligar a todos os participantes.</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">A ligar novamente…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Chamada do Signal</string>
-  <string name="WebRtcCallView__signal_video_call">Videochamada do Signal</string>
+  <string name="WebRtcCallView__signal_call">Chamada do CoolApp</string>
+  <string name="WebRtcCallView__signal_video_call">Videochamada do CoolApp</string>
   <string name="WebRtcCallView__start_call">Iniciar chamada</string>
   <string name="WebRtcCallView__join_call">Entrar na chamada</string>
   <string name="WebRtcCallView__call_is_full">A chamada encontra-se cheia</string>
@@ -1298,11 +1298,11 @@
   <string name="WebRtcCallView__reconnecting">A ligar novamente…</string>
   <string name="WebRtcCallView__joining">A entrar…</string>
   <string name="WebRtcCallView__disconnected">Desligado</string>
-  <string name="WebRtcCallView__signal_will_ring_s">O Signal irá ligar a %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">O Signal irá ligar a %1$s e a %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">O CoolApp irá ligar a %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">O CoolApp irá ligar a %1$s e a %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="one">O Signal irá ligar a %1$s, a %2$s e a outro %3$d</item>
-    <item quantity="other">O Signal irá ligar a %1$s, a %2$s e a outros %3$d</item>
+    <item quantity="one">O CoolApp irá ligar a %1$s, a %2$s e a outro %3$d</item>
+    <item quantity="other">O CoolApp irá ligar a %1$s, a %2$s e a outros %3$d</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s será notificado(a)</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s e %2$s serão notificados</string>
@@ -1379,18 +1379,18 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">O seu número de telefone acima encontra-se correto?</string>
   <string name="RegistrationActivity_edit_number">Editar número</string>
   <string name="RegistrationActivity_missing_google_play_services">Google Play Services em falta</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Este dispositivo tem o Google Play Services em falta. Vai conseguir usar o Signal na mesma, mas esta configuração poderá resultar em fiabilidade ou performance reduzidas.\n\nSe não é um utilizador avançado, não está a correr uma ROM Android personalizada ou acha que isto é um erro, por favor contacte support@signal.org para obter ajuda.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Este dispositivo tem o Google Play Services em falta. Vai conseguir usar o CoolApp na mesma, mas esta configuração poderá resultar em fiabilidade ou performance reduzidas.\n\nSe não é um utilizador avançado, não está a correr uma ROM Android personalizada ou acha que isto é um erro, por favor contacte support@asia.coolapp.chat para obter ajuda.</string>
   <string name="RegistrationActivity_i_understand">Eu compreendo</string>
   <string name="RegistrationActivity_play_services_error">Erro do Play Services</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">O Google Play Services está a ser atualizado ou está temporariamente indisponível. Por favor, tente novamente.</string>
   <string name="RegistrationActivity_terms_and_privacy">Termos e Política de privacidade</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">O Signal necessita das permissões de acesso aos contatos e à multimédia para o ajudar a ligar-se a amigos e a enviar mensagens. Os seus contactos são carregados utilizando a descoberta de contacto privado do Signal, o que significa que eles são encriptados de ponta a ponta e nunca visíveis para o serviço do Signal.</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">O Signal necessita das permissões de acesso aos contatos para o ajudar a ligar-se a amigos. Os seus contactos são carregados utilizando a descoberta de contacto privado do Signal, o que significa que eles são encriptados de ponta a ponta e nunca visíveis para o serviço do Signal.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">O CoolApp necessita das permissões de acesso aos contatos e à multimédia para o ajudar a ligar-se a amigos e a enviar mensagens. Os seus contactos são carregados utilizando a descoberta de contacto privado do CoolApp, o que significa que eles são encriptados de ponta a ponta e nunca visíveis para o serviço do CoolApp.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">O CoolApp necessita das permissões de acesso aos contatos para o ajudar a ligar-se a amigos. Os seus contactos são carregados utilizando a descoberta de contacto privado do CoolApp, o que significa que eles são encriptados de ponta a ponta e nunca visíveis para o serviço do CoolApp.</string>
   <string name="RegistrationActivity_rate_limited_to_service">Fez demasiadas tentativas para registar este número. Por favor, tente mais tarde.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Não foi possível ligar ao serviço. Por favor, verifique a sua ligação à rede e tente novamente.</string>
   <string name="RegistrationActivity_non_standard_number_format">Formato de número não padronizado</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">O número que introduziu (%1$s) não parece estar num formato padronizado.\n\nSerá que queria dizer %2$s?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android - Formato de números de telefone</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android - Formato de números de telefone</string>
   <string name="RegistrationActivity_call_requested">Chamada pedida</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Está a %d passo de submeter um registo de depuração.</item>
@@ -1411,7 +1411,7 @@
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">Ativar o \'Bloqueio de registo\'?</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">Desativar o \'Bloqueio de registo\'?</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Caso se esqueça do seu PIN (do Signal) quando se registar novamente no Signal, será bloqueado da sua conta durante 7 dias.</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">Caso se esqueça do seu PIN (do CoolApp) quando se registar novamente no CoolApp, será bloqueado da sua conta durante 7 dias.</string>
   <string name="RegistrationLockV2Dialog_turn_on">Ativar</string>
   <string name="RegistrationLockV2Dialog_turn_off">Desativar</string>
   <!--RevealableMessageView-->
@@ -1427,13 +1427,13 @@
   <!--ShakeToReport-->
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Adicionar aos contactos</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">Convidar para o Signal</string>
-  <string name="SharedContactDetailsActivity_signal_message">Mensagem do Signal</string>
-  <string name="SharedContactDetailsActivity_signal_call">Chamada do Signal</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">Convidar para o CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_message">Mensagem do CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_call">Chamada do CoolApp</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Adicionar aos contactos</string>
-  <string name="SharedContactView_invite_to_signal">Convidar para o Signal</string>
-  <string name="SharedContactView_message">Mensagem do Signal</string>
+  <string name="SharedContactView_invite_to_signal">Convidar para o CoolApp</string>
+  <string name="SharedContactView_message">Mensagem do CoolApp</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">Mais</string>
   <!--SignalPinReminders-->
@@ -1459,14 +1459,14 @@
   <string name="SmsMessageRecord_secure_session_reset">Reiniciou a sessão segura.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s reiniciou a sessão segura.</string>
   <string name="SmsMessageRecord_duplicate_message">Mensagem duplicada.</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Não foi possível processar esta mensagem porque foi enviada a partir de uma versão mais recente do Signal. Peça ao seu contacto para lhe reenviar novamente esta mensagem após você ter feito a atualização do Signal.</string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Não foi possível processar esta mensagem porque foi enviada a partir de uma versão mais recente do CoolApp. Peça ao seu contacto para lhe reenviar novamente esta mensagem após você ter feito a atualização do CoolApp.</string>
   <string name="SmsMessageRecord_error_handling_incoming_message">Erro ao receber mensagem.</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Autocolantes</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Autocolantes instalados</string>
   <string name="StickerManagementAdapter_stickers_you_received">Autocolantes que recebeu</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Séries de artista do Signal</string>
+  <string name="StickerManagementAdapter_signal_artist_series">Séries de artista do CoolApp</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Sem autocolantes instalados</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">Os autocolantes das mensagens recebidas irão aparecer aqui</string>
   <string name="StickerManagementAdapter_untitled">Sem título</string>
@@ -1492,8 +1492,8 @@
   <string name="SupportEmailUtil_filter">Filtro:</string>
   <string name="SupportEmailUtil_device_info">Informação do dispositivo:</string>
   <string name="SupportEmailUtil_android_version">Versão do Android:</string>
-  <string name="SupportEmailUtil_signal_version">Versão do Signal:</string>
-  <string name="SupportEmailUtil_signal_package">Pacote Signal:</string>
+  <string name="SupportEmailUtil_signal_version">Versão do CoolApp:</string>
+  <string name="SupportEmailUtil_signal_package">Pacote CoolApp:</string>
   <string name="SupportEmailUtil_registration_lock">Bloqueio de registo:</string>
   <string name="SupportEmailUtil_locale">Local:</string>
   <!--ThreadRecord-->
@@ -1512,7 +1512,7 @@
   <string name="ThreadRecord_view_once_media">Multimédia de visualização única</string>
   <string name="ThreadRecord_this_message_was_deleted">Esta mensagem foi eliminada.</string>
   <string name="ThreadRecord_you_deleted_this_message">Eliminou esta mensagem.</string>
-  <string name="ThreadRecord_s_is_on_signal">%s está no Signal!</string>
+  <string name="ThreadRecord_s_is_on_signal">%s está no CoolApp!</string>
   <string name="ThreadRecord_disappearing_messages_disabled">Destruição de mensagens desativada</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">O tempo a decorrer até que as mensagens sejam destruídas está definido para %s</string>
   <string name="ThreadRecord_safety_number_changed">Número de segurança alterado</string>
@@ -1529,8 +1529,8 @@
   <string name="ThreadRecord_video">Vídeo</string>
   <string name="ThreadRecord_chat_session_refreshed">A sessão da conversa foi atualizada</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Atualização do Signal</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Está disponível uma nova versão do Signal, toque para atualizar</string>
+  <string name="UpdateApkReadyListener_Signal_update">Atualização do CoolApp</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Está disponível uma nova versão do CoolApp, toque para atualizar</string>
   <!--UntrustedSendDialog-->
   <string name="UntrustedSendDialog_send_message">Enviar mensagem?</string>
   <string name="UntrustedSendDialog_send">Enviar</string>
@@ -1549,20 +1549,20 @@
   <string name="UsernameEditFragment_usernames_cannot_begin_with_a_number">Os nomes de utilizadores não podem começar com um número.</string>
   <string name="UsernameEditFragment_username_is_invalid">Nome de utilizador inválido.</string>
   <string name="UsernameEditFragment_usernames_must_be_between_a_and_b_characters">Os nomes de utilizadores devem ter entre %1$d e %2$d caracteres.</string>
-  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Os nomes de utilizadores no Signal são opcionais. Se escolher criar um nome de utilizador, os outros utilizadores do Signal serão capazes de encontrá-lo através desse nome de utilizador e contactá-lo sem saber o seu número de telefone.</string>
+  <string name="UsernameEditFragment_usernames_on_signal_are_optional">Os nomes de utilizadores no CoolApp são opcionais. Se escolher criar um nome de utilizador, os outros utilizadores do CoolApp serão capazes de encontrá-lo através desse nome de utilizador e contactá-lo sem saber o seu número de telefone.</string>
   <plurals name="UserNotificationMigrationJob_d_contacts_are_on_signal">
-    <item quantity="one">%d contacto está no Signal!</item>
-    <item quantity="other">%d contactos estão no Signal!</item>
+    <item quantity="one">%d contacto está no CoolApp!</item>
+    <item quantity="other">%d contactos estão no CoolApp!</item>
   </plurals>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">O seu contacto está a utilizar uma versão antiga do Signal. Por favor peça-lhe para actualizar antes de verificar o seu número de segurança.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">O seu contacto está a utilizar uma versão mais recente do Signal, com um formato de código QR incompatível. Por favor, actualize para comparar.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">O seu contacto está a utilizar uma versão antiga do CoolApp. Por favor peça-lhe para actualizar antes de verificar o seu número de segurança.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">O seu contacto está a utilizar uma versão mais recente do CoolApp, com um formato de código QR incompatível. Por favor, actualize para comparar.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">O código QR lido não é um número de segurança formatado corretamente. Por favor, tente digitalizá-lo novamente.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Partilhar número de segurança via…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">O nosso número de segurança do Signal:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">O nosso número de segurança do CoolApp:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Parece que não tem aplicações para as quais partilhar.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">Não foi encontrado na área de transferência nenhum número de segurança com o qual comparar </string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">O Signal requer permissão de acesso à câmara para ler códigos QR, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, seleccione a aplicação Signal e nas \"Permissões\" ative a \"Câmara\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">O CoolApp requer permissão de acesso à câmara para ler códigos QR, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, seleccione a aplicação CoolApp e nas \"Permissões\" ative a \"Câmara\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Não é possível ler um código QR sem permissão de acesso à câmara.</string>
   <string name="VerifyIdentityActivity_you_must_first_exchange_messages_in_order_to_view">Primeiro deverá trocar mensagens de forma a poder ver o número de segurança de %1$s.</string>
   <!--ViewOnceMessageActivity-->
@@ -1581,13 +1581,13 @@
   <string name="ApplicationMigrationService_system_database_import_is_complete">Importação da base de dados do sistema está completa.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Toque para abrir.</string>
-  <string name="KeyCachingService_passphrase_cached">O Signal está desbloqueado</string>
-  <string name="KeyCachingService_lock">Bloquear o Signal</string>
+  <string name="KeyCachingService_passphrase_cached">O CoolApp está desbloqueado</string>
+  <string name="KeyCachingService_lock">Bloquear o CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Você</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Tipo de multimédia não suportado</string>
   <string name="MediaPreviewActivity_draft">Rascunho</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">O Signal requer permissão de acesso ao armazenamento para escrever no suporte de armazenamento externo, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione o Signal e, em \"Permissões\" active \"Armazenamento\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">O CoolApp requer permissão de acesso ao armazenamento para escrever no suporte de armazenamento externo, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione o CoolApp e, em \"Permissões\" active \"Armazenamento\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Não é possível guardar para o armazenamento externo sem permissões</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Eliminar mensagem?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Isto irá eliminar permanentemente esta mensagem.</string>
@@ -1606,17 +1606,17 @@
   <string name="MessageNotifier_failed_to_deliver_message">Falha na entrega da mensagem.</string>
   <string name="MessageNotifier_error_delivering_message">Erro ao entregar a mensagem.</string>
   <string name="MessageNotifier_message_delivery_paused">Entrega de mensagens em pausa.</string>
-  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Verifique para continuar a conversar no Signal.</string>
+  <string name="MessageNotifier_verify_to_continue_messaging_on_signal">Verifique para continuar a conversar no CoolApp.</string>
   <string name="MessageNotifier_mark_all_as_read">Marcar tudo como lido</string>
   <string name="MessageNotifier_mark_read">Marcar como lida</string>
   <string name="MessageNotifier_turn_off_these_notifications">Desativar estas notificações</string>
   <string name="MessageNotifier_view_once_photo">Fotografia de visualização única</string>
   <string name="MessageNotifier_view_once_video">Vídeo de visualização única</string>
   <string name="MessageNotifier_reply">Responder</string>
-  <string name="MessageNotifier_signal_message">Mensagem do Signal</string>
+  <string name="MessageNotifier_signal_message">Mensagem do CoolApp</string>
   <string name="MessageNotifier_unsecured_sms">SMS inseguro</string>
   <string name="MessageNotifier_you_may_have_new_messages">Você poderá ter novas mensagens</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Abra o Signal para verificar se existem notificações recentes.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Abra o CoolApp para verificar se existem notificações recentes.</string>
   <string name="MessageNotifier_contact_message">%1$s%2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Contacto</string>
   <string name="MessageNotifier_reacted_s_to_s">Reagiu %1$s a: \"%2$s\".</string>
@@ -1628,7 +1628,7 @@
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">Reagiu %1$s ao seu ficheiro multimédia de visualização única</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">Reagiu %1$s ao seu autocolante.</string>
   <string name="MessageNotifier_this_message_was_deleted">Esta mensagem foi eliminada.</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Deseja desativar as notificações quando um novo contacto se junta ao Signal? Pode ativar novamente em Signal &gt; Definições &gt; Notificações.</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">Deseja desativar as notificações quando um novo contacto se junta ao CoolApp? Pode ativar novamente em CoolApp &gt; Definições &gt; Notificações.</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">Mensagens</string>
   <string name="NotificationChannel_calls">Chamadas</string>
@@ -1640,7 +1640,7 @@
   <string name="NotificationChannel_group_chats">Conversas</string>
   <string name="NotificationChannel_missing_display_name">Desconhecido(a)</string>
   <string name="NotificationChannel_voice_notes">Notas de voz</string>
-  <string name="NotificationChannel_contact_joined_signal">Um contacto juntou-se ao Signal</string>
+  <string name="NotificationChannel_contact_joined_signal">Um contacto juntou-se ao CoolApp</string>
   <string name="NotificationChannels__no_activity_available_to_open_notification_channel_settings">Sem atividade disponível para abrir as definições do canal de notificações.</string>
   <!--Notification channel name for showing persistent background connection on devices without push notifications-->
   <string name="NotificationChannel_background_connection">Ligação em segundo plano</string>
@@ -1648,7 +1648,7 @@
   <string name="NotificationChannel_call_status">Estado da chamada</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">A resposta rápida encontra-se indisponível enquanto o Signal estiver bloqueado!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">A resposta rápida encontra-se indisponível enquanto o CoolApp estiver bloqueado!</string>
   <string name="QuickResponseService_problem_sending_message">Problema no envio da mensagem!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Guardado em %s</string>
@@ -1659,7 +1659,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Atalho inválido</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Nova mensagem</string>
   <string name="SingleRecipientNotificationBuilder_message_request">Pedido de mensagem</string>
   <string name="SingleRecipientNotificationBuilder_you">Você</string>
@@ -1673,11 +1673,11 @@
   </plurals>
   <!--UnauthorizedReminder-->
   <string name="UnauthorizedReminder_device_no_longer_registered">O dispositivo deixou de estar registado.</string>
-  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Isto é possivelmente devido a ter registado o seu número de telefone com o Signal noutro dispositivo. Toque para voltar a registar.</string>
+  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Isto é possivelmente devido a ter registado o seu número de telefone com o CoolApp noutro dispositivo. Toque para voltar a registar.</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Para poder atender a chamada, conceda ao Signal o acesso ao seu microfone.</string>
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Para poder atender a chamada de %s, conceda ao Signal o acesso ao microfone.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">O Signal requer permissões de acesso ao microfone e à câmara, para efectuar e receber chamadas, mas estas foram negadas permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione a aplicação Signal e, em \"Permissões\" ative o \"Microfone\" e a \"Câmara\".</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">Para poder atender a chamada, conceda ao CoolApp o acesso ao seu microfone.</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Para poder atender a chamada de %s, conceda ao CoolApp o acesso ao microfone.</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">O CoolApp requer permissões de acesso ao microfone e à câmara, para efectuar e receber chamadas, mas estas foram negadas permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione a aplicação CoolApp e, em \"Permissões\" ative o \"Microfone\" e a \"Câmara\".</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">Atendida num dispositivo associado.</string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">Recusada num dispositivo associado.</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">Ocupado num dispositivo associado.</string>
@@ -1701,7 +1701,7 @@
   <string name="change_passphrase_activity__repeat_new_passphrase">Repita a frase-chave nova</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">Introduza o nome ou número</string>
-  <string name="contact_selection_activity__invite_to_signal">Convite para o Signal</string>
+  <string name="contact_selection_activity__invite_to_signal">Convite para o CoolApp</string>
   <string name="contact_selection_activity__new_group">Novo grupo</string>
   <!--contact_filter_toolbar-->
   <string name="contact_filter_toolbar__clear_entered_text_description">Limpar o texto introduzido</string>
@@ -1713,21 +1713,21 @@
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Fotografia de contacto</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">O Signal requer permissão de acesso aos contactos para visualizar os seus contactos, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione a aplicação Signal e nas \"Permissões\" ative os \"Contactos\".</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">O CoolApp requer permissão de acesso aos contactos para visualizar os seus contactos, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione a aplicação CoolApp e nas \"Permissões\" ative os \"Contactos\".</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Problema a obter os contactos, verifique a sua ligação à rede</string>
   <string name="ContactSelectionListFragment_username_not_found">Nome de utilizador não encontrado</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" não é um utilizador do Signal. Por favor, verifique o nome de utilizador e tente novamente.</string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\" não é um utilizador do CoolApp. Por favor, verifique o nome de utilizador e tente novamente.</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">Não necessita de adicionar a si próprio ao grupo</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">Atingiu o tamanho máximo do grupo</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Os grupos do Signal poderão ter o máximo de %1$d membros.</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Os grupos do CoolApp poderão ter o máximo de %1$d membros.</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">Atingido o limite de membros recomendado</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Os grupos do Signal funcionam melhor com %1$d ou menos membros. Adicionar mais membros irá causar atrasos no envio e na receção de mensagens.</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Os grupos do CoolApp funcionam melhor com %1$d ou menos membros. Adicionar mais membros irá causar atrasos no envio e na receção de mensagens.</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="one">%1$d membro</item>
     <item quantity="other">%1$d membros</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">O Signal precisa de ter acesso aos contactos para os poder mostrar.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">O CoolApp precisa de ter acesso aos contactos para os poder mostrar.</string>
   <string name="contact_selection_list_fragment__show_contacts">Mostrar contactos</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1740,7 +1740,7 @@
     <item quantity="other">%1$d visualizadores</item>
   </plurals>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Mensagem do Signal</string>
+  <string name="conversation_activity__type_message_push">Mensagem do CoolApp</string>
   <string name="conversation_activity__type_message_sms_insecure">SMS inseguro</string>
   <string name="conversation_activity__type_message_mms_insecure">MMS inseguro</string>
   <string name="conversation_activity__from_sim_name">De %1$s</string>
@@ -1752,7 +1752,7 @@
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Comutar a câmara rápida da gaveta de anexos</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Gravar e enviar anexo de áudio</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Bloquear a gravação de um anexo de áudio</string>
-  <string name="conversation_activity__enable_signal_for_sms">Ativar SMS através do Signal</string>
+  <string name="conversation_activity__enable_signal_for_sms">Ativar SMS através do CoolApp</string>
   <string name="conversation_activity__message_could_not_be_sent">A mensagem não pode ser enviada. Verifique a sua ligação e tente novamente.</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Deslize para cancelar</string>
@@ -1783,7 +1783,7 @@
   <string name="ConversationUpdateItem_view">Ver</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">O tempo para a destruição de mensagens será definido para %1$s quando você enviar mensagens.</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Apoiar o Signal</string>
+  <string name="ConversationUpdateItem_signal_boost">Apoiar o CoolApp</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">Torne-se num Apoiante</string>
   <!--audio_view-->
@@ -1808,7 +1808,7 @@
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">Deslize até ao fundo</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">Os Balões são um recurso Android que você pode desativar nas conversas do Signal.</string>
+  <string name="BubbleOptOutTooltip__description">Os Balões são um recurso Android que você pode desativar nas conversas do CoolApp.</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">Agora não</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -1879,9 +1879,9 @@
   <string name="IdentityUtil_unverified_banner_one">O seu número de segurança com %s foi alterado e já não se encontra verificado</string>
   <string name="IdentityUtil_unverified_banner_two">Os seus números de segurança com %1$s e %2$s foram alterados e já não se encontram verificados</string>
   <string name="IdentityUtil_unverified_banner_many">Os seus números de segurança com %1$s, %2$s e %3$s já não se encontram verificados</string>
-  <string name="IdentityUtil_unverified_dialog_one">O seu número de segurança com %1$s foi alterado e deixou de estar verificado. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que %1$s reinstalou o Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_two">Os seus números de segurança com %1$s e %2$s foram alterados. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que alguém reinstalou o Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_many">Os seus números de segurança com %1$s, %2$s e %3$sdeixaram de estar verificados. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que alguém reinstalou o Signal.</string>
+  <string name="IdentityUtil_unverified_dialog_one">O seu número de segurança com %1$s foi alterado e deixou de estar verificado. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que %1$s reinstalou o CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_two">Os seus números de segurança com %1$s e %2$s foram alterados. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que alguém reinstalou o CoolApp.</string>
+  <string name="IdentityUtil_unverified_dialog_many">Os seus números de segurança com %1$s, %2$s e %3$sdeixaram de estar verificados. Isto poderá significar que alguém está a tentar intercetar esta comunicação ou simplesmente que alguém reinstalou o CoolApp.</string>
   <string name="IdentityUtil_untrusted_dialog_one">O seu número de segurança com %s foi alterado.</string>
   <string name="IdentityUtil_untrusted_dialog_two">Os seus números de segurança com %1$s e %2$s foram alterados.</string>
   <string name="IdentityUtil_untrusted_dialog_many">Os seus números de segurança com %1$s, %2$s e %3$s foram alterados.</string>
@@ -1894,7 +1894,7 @@
   <!--giphy_fragment-->
   <string name="giphy_fragment__nothing_found">Não foi encontrado nada</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Gostaria de importar as suas mensagens de texto existentes para a base de dados encriptada do Signal?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Gostaria de importar as suas mensagens de texto existentes para a base de dados encriptada do CoolApp?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">A base de dados padrão do sistema não será modificada ou alterada de nenhuma forma.</string>
   <string name="database_migration_activity__skip">Saltar</string>
   <string name="database_migration_activity__import">Importar</string>
@@ -1917,7 +1917,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Desbloquear</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">O Signal precisa de definições de MMS para transmitir multimédia e mensagens de grupo através da sua operadora. O seu aparelho não disponibiliza essa informação, o que poderá ocorrer em aparelhos bloqueados ou com configurações restritivas.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">O CoolApp precisa de definições de MMS para transmitir multimédia e mensagens de grupo através da sua operadora. O seu aparelho não disponibiliza essa informação, o que poderá ocorrer em aparelhos bloqueados ou com configurações restritivas.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Para enviar ficheiros multimédia e mensagens de grupo toque em \"OK\" e complete as definições solicitadas. As definições de MMS para a sua operadora podem normalmente ser encontradas ao pesquisar na internet por \"APN da (nome da sua operadora)\". Apenas é necessário efetuar isto uma vez.</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">Problema na entrega</string>
@@ -1957,7 +1957,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>Introduza um nome ou número</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Para verificar a segurança da sua encriptação ponta-a-ponta com %s, compare os números acima com o dispositivo da outra pessoa. Também pode digitalizar o código no telefone da outra pessoa. <a href="https://signal.org/redirect/safety-numbers">Mais informações.</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Para verificar a segurança da sua encriptação ponta-a-ponta com %s, compare os números acima com o dispositivo da outra pessoa. Também pode digitalizar o código no telefone da outra pessoa. <a href="https://asia.coolapp.chat/redirect/safety-numbers">Mais informações.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Toque para ler</string>
   <string name="verify_display_fragment__successful_match">Correspondência bem sucedida</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">Falha o verificar o número de segurança</string>
@@ -2015,7 +2015,7 @@
   <string name="HelpFragment__how_do_you_feel">Como se sente? (Opcional)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">Diga-nos porque nos está a contactar.</string>
   <string name="HelpFragment__support_info">Informação de suporte</string>
-  <string name="HelpFragment__signal_android_support_request">Pedido de Suporte do Signal para Android</string>
+  <string name="HelpFragment__signal_android_support_request">Pedido de Suporte do CoolApp para Android</string>
   <string name="HelpFragment__debug_log">Relatório de depuração:</string>
   <string name="HelpFragment__could_not_upload_logs">Não é possível fazer o upload de relatórios</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">Por favor, seja tão descritivo quanto possível para nos ajudar a perceber o problema.</string>
@@ -2027,7 +2027,7 @@
     <item>Feedback</item>
     <item>Outro</item>
     <item>Pagamentos (Mobile Coin)</item>
-    <item>Apoiantes e Apoiar o Signal</item>
+    <item>Apoiantes e Apoiar o CoolApp</item>
   </string-array>
   <!--ReactWithAnyEmojiBottomSheetDialogFragment-->
   <string name="ReactWithAnyEmojiBottomSheetDialogFragment__this_message">Esta mensagem</string>
@@ -2077,8 +2077,8 @@
   <string name="preferences__sms_mms">SMS e MMS</string>
   <string name="preferences__pref_all_sms_title">Receber todos os SMS</string>
   <string name="preferences__pref_all_mms_title">Receber todos os MMS</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Utilizar o Signal para receber todas as mensagens de texto</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Utilizar o Signal para receber todas as mensagens de multimédia </string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Utilizar o CoolApp para receber todas as mensagens de texto</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Utilizar o CoolApp para receber todas as mensagens de multimédia </string>
   <string name="preferences__pref_enter_sends_title">Tecla de Enter envia</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Pressionar a tecla Enter envia as mensagens de texto</string>
   <string name="preferences__pref_use_address_book_photos">Utilizar fotografias do livro de endereços</string>
@@ -2093,7 +2093,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Bloquear ecrã e notificações com uma frase-chave</string>
   <string name="preferences__screen_security">Segurança de ecrã</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Bloquear a captura de ecrã na lista de aplicações recentes abertas e dentro da aplicação</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Bloquear automaticamente o Signal ao fim de um determinado tempo de inatividade</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Bloquear automaticamente o CoolApp ao fim de um determinado tempo de inatividade</string>
   <string name="preferences__inactivity_timeout_passphrase">Validade da frase-chave por inatividade</string>
   <string name="preferences__inactivity_timeout_interval">Intervalo de expiração por inatividade</string>
   <string name="preferences__notifications">Notificações</string>
@@ -2124,10 +2124,10 @@
   <string name="preferences__slow">Lento</string>
   <string name="preferences__help">Ajuda</string>
   <string name="preferences__advanced">Avançado</string>
-  <string name="preferences__donate_to_signal">Doar ao Signal</string>
+  <string name="preferences__donate_to_signal">Doar ao CoolApp</string>
   <string name="preferences__subscription">Assinatura</string>
-  <string name="preferences__become_a_signal_sustainer">Torne-se num Apoiante do Signal</string>
-  <string name="preferences__signal_boost">Apoiar o Signal</string>
+  <string name="preferences__become_a_signal_sustainer">Torne-se num Apoiante do CoolApp</string>
+  <string name="preferences__signal_boost">Apoiar o CoolApp</string>
   <string name="preferences__privacy">Privacidade</string>
   <string name="preferences__mms_user_agent">Agente do utilizador de MMS</string>
   <string name="preferences__advanced_mms_access_point_names">Definições manuais de MMS</string>
@@ -2155,12 +2155,12 @@
   <string name="preferences__disable_pin">Desativar PIN</string>
   <string name="preferences__enable_pin">Ativar PIN</string>
   <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">Se você desativar o PIN, todos os dados serão perdidos ao registar-se novamente no Sinal, a menos que faça uma cópia de segurnaça e o restaure manualmente. Você não pode ativar o \'Bloqueio de registo\' enquanto o PIN estiver desativado.</string>
-  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">Os PINs mantém encriptada a informação guardada no Signal de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o Signal. Não necessita do seu PIN para abrir a aplicação.</string>
+  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">Os PINs mantém encriptada a informação guardada no CoolApp de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o CoolApp. Não necessita do seu PIN para abrir a aplicação.</string>
   <string name="preferences__system_default">Configuração por omissão</string>
   <string name="preferences__language">Idioma</string>
-  <string name="preferences__signal_messages_and_calls">Mensagens e chamadas do Signal</string>
+  <string name="preferences__signal_messages_and_calls">Mensagens e chamadas do CoolApp</string>
   <string name="preferences__advanced_pin_settings">Definições avançadas do PIN</string>
-  <string name="preferences__free_private_messages_and_calls">Mensagens e chamadas privadas gratuitas para utilizadores do Signal</string>
+  <string name="preferences__free_private_messages_and_calls">Mensagens e chamadas privadas gratuitas para utilizadores do CoolApp</string>
   <string name="preferences__submit_debug_log">Submeter registo de depuração</string>
   <string name="preferences__delete_account">Eliminar conta</string>
   <string name="preferences__support_wifi_calling">Modo de compatibilidade \"Chamada Wi-Fi\"</string>
@@ -2200,8 +2200,8 @@
   <string name="preferences_storage__s_messages">%1$s mensagens</string>
   <string name="preferences_storage__custom">Personalizado</string>
   <string name="preferences_advanced__use_system_emoji">Utilizar os emojis do sistema</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Desativar o suporte de emojis próprios do Signal</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Passar todas as chamadas pelo servidor do Signal para evitar revelar o seu endereço IP ao destinatário. Ativar esta opção irá reduzir a qualidade da chamada.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Desativar o suporte de emojis próprios do CoolApp</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Passar todas as chamadas pelo servidor do CoolApp para evitar revelar o seu endereço IP ao destinatário. Ativar esta opção irá reduzir a qualidade da chamada.</string>
   <string name="preferences_advanced__always_relay_calls">Retransmitir todas as chamadas</string>
   <string name="preferences_app_protection__who_can">Quem pode…</string>
   <string name="preferences_app_protection__app_access">Acesso da aplicação</string>
@@ -2221,21 +2221,21 @@
   <string name="preferences_notifications__calls">Chamadas</string>
   <string name="preferences_notifications__ringtone">Toque</string>
   <string name="preferences_chats__show_invitation_prompts">Exibir notificações de convite</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Exibir notificações de convite para contactos sem o Signal</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Exibir notificações de convite para contactos sem o CoolApp</string>
   <string name="preferences_chats__message_text_size">Tamanho da letra da mensagem</string>
-  <string name="preferences_events__contact_joined_signal">Um contacto juntou-se ao Signal</string>
+  <string name="preferences_events__contact_joined_signal">Um contacto juntou-se ao CoolApp</string>
   <string name="preferences_notifications__priority">Prioridade</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <string name="preferences_communication__category_censorship_circumvention"> Circunscrição de censura</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention"> Circunscrição de censura</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Se ativo, o Signal irá tentar circunscrever a censura. Apenas ative esta opção em locais onde o Signal é censurado.</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">Se ativo, o CoolApp irá tentar circunscrever a censura. Apenas ative esta opção em locais onde o CoolApp é censurado.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">A circunscrição de censura foi ativada baseada no número de telefone da sua conta.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">Desativou manualmente a circunscrição de censura.</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
-  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">A circunscrição de censura não é necessária, já se encontra ligado(a) ao serviço do Signal.</string>
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
+  <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">A circunscrição de censura não é necessária, já se encontra ligado(a) ao serviço do CoolApp.</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">Circunscrição de censura só pode ser ativada enquanto existe ligação à internet.</string>
   <string name="preferences_communication__category_sealed_sender">Emissor selado</string>
@@ -2250,7 +2250,7 @@
   <string name="preferences_off">Off</string>
   <string name="preferences_on">On</string>
   <string name="preferences_proxy_address">Endereço proxy</string>
-  <string name="preferences_only_use_a_proxy_if">Apenas utilize um proxy se você não se conseguir ligar ao Signal através dos dados móveis ou Wi-Fi. </string>
+  <string name="preferences_only_use_a_proxy_if">Apenas utilize um proxy se você não se conseguir ligar ao CoolApp através dos dados móveis ou Wi-Fi. </string>
   <string name="preferences_share">Partilhar</string>
   <string name="preferences_save">Guardar</string>
   <string name="preferences_connecting_to_proxy">A ligar ao proxy…</string>
@@ -2269,7 +2269,7 @@
   <string name="PaymentsAllActivityFragment__sent">Enviada</string>
   <string name="PaymentsAllActivityFragment__received">Recebida</string>
   <string name="PaymentsHomeFragment__introducing_payments">Introdução aos pagamentos (Beta)</string>
-  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Utilize o Signal para enviar e receber MobileCoin, uma nova privacidade focada na moeda digital. Ative para começar a utilizar.</string>
+  <string name="PaymentsHomeFragment__use_signal_to_send_and_receive">Utilize o CoolApp para enviar e receber MobileCoin, uma nova privacidade focada na moeda digital. Ative para começar a utilizar.</string>
   <string name="PaymentsHomeFragment__activate_payments">Ativar os pagamentos</string>
   <string name="PaymentsHomeFragment__activating_payments">A ativar pagamentos…</string>
   <string name="PaymentsHomeFragment__restore_payments_account">Restaurar a conta de pagamentos</string>
@@ -2296,17 +2296,17 @@
   <string name="PaymentsHomeFragment__payments_is_not_available_in_your_region">Os pagamentos não se encontram disponíveis para a sua região.</string>
   <string name="PaymentsHomeFragment__could_not_enable_payments">Não foi possível ativar os pagamentos. Tente novamente mais tarde.</string>
   <string name="PaymentsHomeFragment__deactivate_payments_question">Desativar os pagamentos?</string>
-  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Você não poderá enviar ou receber MobileCoin no Signal se desativar os pagamentos. </string>
+  <string name="PaymentsHomeFragment__you_will_not_be_able_to_send">Você não poderá enviar ou receber MobileCoin no CoolApp se desativar os pagamentos. </string>
   <string name="PaymentsHomeFragment__deactivate">Desativar</string>
   <string name="PaymentsHomeFragment__continue">Continuar</string>
   <string name="PaymentsHomeFragment__balance_is_not_currently_available">O saldo não se encontra atualmente disponível</string>
   <string name="PaymentsHomeFragment__payments_deactivated">Pagamentos desativados.</string>
   <string name="PaymentsHomeFragment__payment_failed">Falha de pagamento</string>
   <string name="PaymentsHomeFragment__details">Detalhes</string>
-  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Você pode utilizar o Signal para enviar e receber MobileCoin. Todos os pagamentos estão sujeitos aos \'Termos de utilização\' de MobileCoins e MobileCoin Wallet. Este é um recurso beta, então você pode encontrar alguns problemas de pagamentos ou saldos que poderá perder e que não poderão ser recuperados.</string>
+  <string name="PaymentsHomeFragment__you_can_use_signal_to_send">Você pode utilizar o CoolApp para enviar e receber MobileCoin. Todos os pagamentos estão sujeitos aos \'Termos de utilização\' de MobileCoins e MobileCoin Wallet. Este é um recurso beta, então você pode encontrar alguns problemas de pagamentos ou saldos que poderá perder e que não poderão ser recuperados.</string>
   <string name="PaymentsHomeFragment__activate">Ativar</string>
   <string name="PaymentsHomeFragment__view_mobile_coin_terms">Ver termos da MobileCoin</string>
-  <string name="PaymentsHomeFragment__payments_not_available">Os pagamentos no Signal já não estão disponíveis. Você ainda pode transferir fundos para uma troca, mas deixou de poder enviar e receber pagamentos ou adicionar fundos. </string>
+  <string name="PaymentsHomeFragment__payments_not_available">Os pagamentos no CoolApp já não estão disponíveis. Você ainda pode transferir fundos para uma troca, mas deixou de poder enviar e receber pagamentos ou adicionar fundos. </string>
   <!--PaymentsAddMoneyFragment-->
   <string name="PaymentsAddMoneyFragment__add_funds">Adicionar fundos</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">O endereço da sua carteira</string>
@@ -2343,10 +2343,10 @@
   <string name="PaymentsTransferFragment__next">Seguinte</string>
   <string name="PaymentsTransferFragment__invalid_address">Endereço inválido</string>
   <string name="PaymentsTransferFragment__check_the_wallet_address">Confirme o endereço da carteira para a qual está a tentar transferir e tente novamente.</string>
-  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Não pode transferir para o seu próprio endereço da carteira Signal. Introduza o endereço de carteira  da sua conta numa transação suportada.</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Para digitalizar um código QR, o Signal necessita de aceder à câmara.</string>
-  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">O Signal necessita de permissão de Câmara para capturar um código QR. Vá até às definições, selecione \"Permissões\" e, ative \"Câmara\".</string>
-  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Para digitalizar um código QR, o Signal necessita de aceder à câmara.</string>
+  <string name="PaymentsTransferFragment__you_cant_transfer_to_your_own_signal_wallet_address">Não pode transferir para o seu próprio endereço da carteira CoolApp. Introduza o endereço de carteira  da sua conta numa transação suportada.</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs">Para digitalizar um código QR, o CoolApp necessita de aceder à câmara.</string>
+  <string name="PaymentsTransferFragment__signal_needs_the_camera_permission_to_capture_qr_code_go_to_settings">O CoolApp necessita de permissão de Câmara para capturar um código QR. Vá até às definições, selecione \"Permissões\" e, ative \"Câmara\".</string>
+  <string name="PaymentsTransferFragment__to_scan_a_qr_code_signal_needs_access_to_the_camera">Para digitalizar um código QR, o CoolApp necessita de aceder à câmara.</string>
   <string name="PaymentsTransferFragment__settings">Definições</string>
   <!--PaymentsTransferQrScanFragment-->
   <string name="PaymentsTransferQrScanFragment__scan_address_qr_code">Digitalizar código QR do endereço</string>
@@ -2404,8 +2404,8 @@
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Telefonar</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Chamada Signal</string>
-  <string name="conversation_callable_secure__menu_video">Videochamada do Signal</string>
+  <string name="conversation_callable_secure__menu_call">Chamada CoolApp</string>
+  <string name="conversation_callable_secure__menu_video">Videochamada do CoolApp</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2492,10 +2492,10 @@
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Comparar com a área de transferência</string>
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">Importar as SMS do sistema</string>
-  <string name="reminder_header_sms_import_text">Toque para copiar as mensagens SMS do seu telefone para a base de dados encriptada do Signal.</string>
-  <string name="reminder_header_push_title">Ative as mensagens e chamadas do Signal</string>
+  <string name="reminder_header_sms_import_text">Toque para copiar as mensagens SMS do seu telefone para a base de dados encriptada do CoolApp.</string>
+  <string name="reminder_header_push_title">Ative as mensagens e chamadas do CoolApp</string>
   <string name="reminder_header_push_text">Melhore a sua experiência de comunicação.</string>
-  <string name="reminder_header_service_outage_text">O Signal está a experienciar problemas técnicos. Estamos a trabalhar arduamente para re-estabelecer o serviço o mais rapidamente possível.</string>
+  <string name="reminder_header_service_outage_text">O CoolApp está a experienciar problemas técnicos. Estamos a trabalhar arduamente para re-estabelecer o serviço o mais rapidamente possível.</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Guardar</string>
@@ -2511,22 +2511,22 @@
   <string name="Insights__percent">%</string>
   <string name="Insights__title">Insights</string>
   <string name="InsightsDashboardFragment__title">Insights</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">O protocolo do Signal protegeu automaticamente %1$d%% das suas mensagens de saída através dos últimos %2$d dias. As conversas entre os utilizadores do Signal têm sempre uma encriptação do tipo topo-a-topo.</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">O protocolo do CoolApp protegeu automaticamente %1$d%% das suas mensagens de saída através dos últimos %2$d dias. As conversas entre os utilizadores do CoolApp têm sempre uma encriptação do tipo topo-a-topo.</string>
   <string name="InsightsDashboardFragment__spread_the_word">Espalhe a palavra</string>
   <string name="InsightsDashboardFragment__not_enough_data">Sem dados suficientes</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">A sua percentagem do Insights é calculada com base nas mensagens de saída que não desapareceram ou foram eliminadas nos últimos %1$d dias.</string>
   <string name="InsightsDashboardFragment__start_a_conversation">Iniciar uma conversa</string>
-  <string name="InsightsDashboardFragment__invite_your_contacts">Comece a comunicar de forma segura e ative os novos recursos que vão para além das limitações de mensagens de SMS desencriptadas ao convidar mais contactos a juntarem-se ao Signal.</string>
+  <string name="InsightsDashboardFragment__invite_your_contacts">Comece a comunicar de forma segura e ative os novos recursos que vão para além das limitações de mensagens de SMS desencriptadas ao convidar mais contactos a juntarem-se ao CoolApp.</string>
   <string name="InsightsDashboardFragment__this_stat_was_generated_locally">Estas estatísticas foram geradas localmente no seu dispositivo e só podem ser vistas por si. Elas nunca são transmitidas para nenhum lado.</string>
   <string name="InsightsDashboardFragment__encrypted_messages">Mensagens encriptadas</string>
   <string name="InsightsDashboardFragment__cancel">Cancelar</string>
   <string name="InsightsDashboardFragment__send">Enviar</string>
   <string name="InsightsModalFragment__title">Introdução ao Insights</string>
-  <string name="InsightsModalFragment__description">Descubra quantas das suas mensagens de saída são enviadas de forma segura, depois convide rapidamente novos contactos para aumentar a sua percentagem do Signal.</string>
+  <string name="InsightsModalFragment__description">Descubra quantas das suas mensagens de saída são enviadas de forma segura, depois convide rapidamente novos contactos para aumentar a sua percentagem do CoolApp.</string>
   <string name="InsightsModalFragment__view_insights">Ver Insights</string>
-  <string name="FirstInviteReminder__title">Convidar para o Signal</string>
+  <string name="FirstInviteReminder__title">Convidar para o CoolApp</string>
   <string name="FirstInviteReminder__description">Você pode aumentar o número de mensagens encriptadas que envia em %1$d%%</string>
-  <string name="SecondInviteReminder__title">Apoie o seu Signal</string>
+  <string name="SecondInviteReminder__title">Apoie o seu CoolApp</string>
   <string name="SecondInviteReminder__description">Convidar %1$s</string>
   <string name="InsightsReminder__view_insights">Ver Insights</string>
   <string name="InsightsReminder__invite">Convidar</string>
@@ -2547,7 +2547,7 @@
   <string name="CreateKbsPinFragment__create_a_new_pin">Criar um novo PIN</string>
   <string name="CreateKbsPinFragment__you_can_choose_a_new_pin_as_long_as_this_device_is_registered">Poderá alterar o seu PIN enquanto o seu dispositivo se encontrar registado.</string>
   <string name="CreateKbsPinFragment__create_your_pin">Criar o seu PIN</string>
-  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">Os PINs mantém encriptada a informação guardada no Signal de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o Signal. Não necessita do seu PIN para abrir a aplicação.</string>
+  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">Os PINs mantém encriptada a informação guardada no CoolApp de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o CoolApp. Não necessita do seu PIN para abrir a aplicação.</string>
   <string name="CreateKbsPinFragment__choose_a_stronger_pin">Escolha um PIN mais forte</string>
   <!--ConfirmKbsPinFragment-->
   <string name="ConfirmKbsPinFragment__pins_dont_match">Os PINs não coincidem. Tente novamente.</string>
@@ -2559,7 +2559,7 @@
   <string name="ConfirmKbsPinFragment__creating_pin">A criar PIN…</string>
   <!--KbsSplashFragment-->
   <string name="KbsSplashFragment__introducing_pins">Introdução aos PINs</string>
-  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">Os PINs mantém encriptada a informação guardada no Signal de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o Signal. Não necessita do seu PIN para abrir a aplicação.</string>
+  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">Os PINs mantém encriptada a informação guardada no CoolApp de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o CoolApp. Não necessita do seu PIN para abrir a aplicação.</string>
   <string name="KbsSplashFragment__learn_more">Saber mais</string>
   <string name="KbsSplashFragment__registration_lock_equals_pin">Bloqueio do registo = PIN</string>
   <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">O seu \'Bloqueio de registo\' é agora chamado de PIN, e faz muito mais. Atualize agora.</string>
@@ -2568,7 +2568,7 @@
   <string name="KbsSplashFragment__learn_more_about_pins">Saber mais acerca dos PINs</string>
   <string name="KbsSplashFragment__disable_pin">Desativar PIN</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">Introduza o seu PIN do Signal</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">Introduza o seu PIN do CoolApp</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">Para o ajudar a memorizar o seu PIN, vamos pedir-lhe para o introduzir periodicamente. Iremos pedir-lhe menos vezes ao longo do tempo.</string>
   <string name="KbsReminderDialog__skip">Saltar</string>
   <string name="KbsReminderDialog__submit">Submeter</string>
@@ -2589,8 +2589,8 @@
   <string name="RegistrationLockFragment__incorrect_pin">PIN incorreto</string>
   <string name="RegistrationLockFragment__forgot_your_pin">Esqueceu-se do seu PIN?</string>
   <string name="RegistrationLockFragment__not_many_tries_left">Restam-lhe poucas tentativas!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Registo Signal - Necessita de ajuda com o PIN para Android (v1 PIN)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Registo Signal - Necessita de ajuda com o PIN para Android (v2 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Registo CoolApp - Necessita de ajuda com o PIN para Android (v1 PIN)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Registo CoolApp - Necessita de ajuda com o PIN para Android (v2 PIN)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="one">Para sua segurança e privacidade, não existe forma de recuperar o seu PIN. Se não se consegue recordar do seu PIN, pode reverificá-lo através de SMS após %1$d dia de inatividade. Neste caso, a sua conta será limpa e todo o conteúdo eliminado.</item>
     <item quantity="other">Para sua segurança e privacidade, não existe forma de recuperar o seu PIN. Se não se consegue recordar do seu PIN, pode reverificá-lo através de SMS após %1$d dias de inatividade. Neste caso, a sua conta será limpa e todo o conteúdo eliminado.</item>
@@ -2615,18 +2615,18 @@
   <string name="CalleeMustAcceptMessageRequestDialogFragment__s_will_get_a_message_request_from_you">%1$s irá receber uma mensagem de pedido sua. Você poderá telefonar logo que a sua mensagem seja aceite.</string>
   <!--KBS Megaphone-->
   <string name="KbsMegaphone__create_a_pin">Criar um PIN</string>
-  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">Os PIN\'s guardam a informação armazenada com a encriptação do Signal.</string>
+  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">Os PIN\'s guardam a informação armazenada com a encriptação do CoolApp.</string>
   <string name="KbsMegaphone__create_pin">Criar PIN</string>
   <!--transport_selection_list_item-->
   <string name="transport_selection_list_item__transport_icon">Ícone de transporte</string>
   <string name="ConversationListFragment_loading">A carregar…</string>
   <string name="CallNotificationBuilder_connecting">A ligar…</string>
   <string name="Permissions_permission_required">Permissão necessária</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">O Signal requer permissão de acesso a SMS para enviar uma mensagem SMS, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione a aplicação Signal e, nas \"Permissões\" ative \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">O CoolApp requer permissão de acesso a SMS para enviar uma mensagem SMS, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do seu telemóvel, selecione a aplicação CoolApp e, nas \"Permissões\" ative \"SMS\".</string>
   <string name="Permissions_continue">Continuar</string>
   <string name="Permissions_not_now">Agora não</string>
   <string name="conversation_activity__enable_signal_messages">ATIVAR MENSAGENS DO SIGNAL</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">A migrar a base de dados Signal</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">A migrar a base de dados CoolApp</string>
   <string name="PushDecryptJob_new_locked_message">Nova mensagem bloqueada</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">Desbloqueie para ver mensagens pendentes</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">Frase-chave da cópia de segurança</string>
@@ -2644,7 +2644,7 @@
   <string name="preferences_chats__transfer_account_to_a_new_android_device">Transferir conta para um dispositivo Android novo</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Introduza a frase-chave da cópia de segurança</string>
   <string name="RegistrationActivity_restore">Restaurar</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Não é possível importar cópias de segurança de novas versões do Signal</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Não é possível importar cópias de segurança de novas versões do CoolApp</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Frase-chave da cópia de segurança incorreta</string>
   <string name="RegistrationActivity_checking">A verificar…</string>
   <string name="RegistrationActivity_d_messages_so_far">%d mensagens até à data…</string>
@@ -2675,8 +2675,8 @@
   <string name="ProgressPreference_d_messages_so_far">%d mensagens até à data</string>
   <string name="RegistrationActivity_wrong_number">Número errado</string>
   <string name="RegistrationActivity_call_me_instead_available_in">Como alternativa, ligue-me \n (Disponível às %1$02d:%2$02d)</string>
-  <string name="RegistrationActivity_contact_signal_support">Contactar o Suporte do Signal</string>
-  <string name="RegistrationActivity_code_support_subject">Registo Signal - Código de verificação para Android</string>
+  <string name="RegistrationActivity_contact_signal_support">Contactar o Suporte do CoolApp</string>
+  <string name="RegistrationActivity_code_support_subject">Registo CoolApp - Código de verificação para Android</string>
   <string name="RegistrationActivity_incorrect_code">Código Incorrecto</string>
   <string name="BackupUtil_never">Nunca</string>
   <string name="BackupUtil_unknown">Desconhecido</string>
@@ -2686,21 +2686,21 @@
   <string name="PhoneNumberPrivacy_my_contacts">Os meus contactos</string>
   <string name="PhoneNumberPrivacy_nobody">Ninguém</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">O seu número de telefone ficará visível para todas as pessoas e grupos com quem troque mensagens.</string>
-  <string name="PhoneNumberPrivacy_everyone_find_description">Qualquer pessoa que tenha o seu número de telefone nos seus contactos irá vê-lo como contacto no Signal. As outras pessoas poderão encontrá-lo através da pesquisa.</string>
+  <string name="PhoneNumberPrivacy_everyone_find_description">Qualquer pessoa que tenha o seu número de telefone nos seus contactos irá vê-lo como contacto no CoolApp. As outras pessoas poderão encontrá-lo através da pesquisa.</string>
   <string name="preferences_app_protection__screen_lock">Bloqueio de ecrã</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Bloqueie o acesso ao Signal utilizando o bloqueio de ecrã do Android ou a impressão digital</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Bloqueie o acesso ao CoolApp utilizando o bloqueio de ecrã do Android ou a impressão digital</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Bloqueio de ecrã devido a inatividade</string>
-  <string name="preferences_app_protection__signal_pin">PIN do Signal</string>
+  <string name="preferences_app_protection__signal_pin">PIN do CoolApp</string>
   <string name="preferences_app_protection__create_a_pin">Criar um PIN</string>
   <string name="preferences_app_protection__change_your_pin">Alterar o seu PIN</string>
   <string name="preferences_app_protection__pin_reminders">Lembretes de PIN</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">Os PINs mantém encriptada a informação guardada no Signal de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o Signal.</string>
-  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Adicione uma segurança extra ao pedir o seu PIN do Signal para registar o seu número de telefone novamente com o Signal.</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">Os PINs mantém encriptada a informação guardada no CoolApp de forma a que apenas você lhe possa aceder. O seu perfil, definições e contactos serão restaurados quando reinstalar o CoolApp.</string>
+  <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">Adicione uma segurança extra ao pedir o seu PIN do CoolApp para registar o seu número de telefone novamente com o CoolApp.</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">Os lembretes ajudam-no a lembrar-se do seu PIN, pois ele não pode ser recuperado. Este, ser-lhe-á solicitado com menos frequência ao longo do tempo.</string>
   <string name="preferences_app_protection__turn_off">Desativar</string>
   <string name="preferences_app_protection__confirm_pin">Confirmar PIN</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">Confirme o seu PIN do Signal</string>
-  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Lembre-se de memorizar ou armazenar em segurança o seu PIN, pois ele não poderá ser recuperado. Se se esquecer do seu PIN, poderá perder dados ao registar novamente a sua conta do Signal.</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">Confirme o seu PIN do CoolApp</string>
+  <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">Lembre-se de memorizar ou armazenar em segurança o seu PIN, pois ele não poderá ser recuperado. Se se esquecer do seu PIN, poderá perder dados ao registar novamente a sua conta do CoolApp.</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">PIN incorreto. Tente novamente.</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">Não foi possível ativar o bloqueio de registo.</string>
   <string name="preferences_app_protection__failed_to_disable_registration_lock">Não foi possível desativar o bloqueio de registo.</string>
@@ -2713,19 +2713,19 @@
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">Demasiadas tentativas. Por favor, tente novamente mais tarde.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Erro a estabelecer ligação com o serviço</string>
   <string name="preferences_chats__backups">Cópias de segurança</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">O Signal está bloqueado</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">O CoolApp está bloqueado</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">TOQUE PARA DESBLOQUEAR</string>
   <string name="Recipient_unknown">Desconhecido</string>
   <!--TransferOrRestoreFragment-->
   <string name="TransferOrRestoreFragment__transfer_or_restore_account">Transferir ou restaurar conta</string>
-  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Se já registou uma conta Signal, você pode transferir ou restaurar a sua conta e mensagens </string>
+  <string name="TransferOrRestoreFragment__if_you_have_previously_registered_a_signal_account">Se já registou uma conta CoolApp, você pode transferir ou restaurar a sua conta e mensagens </string>
   <string name="TransferOrRestoreFragment__transfer_from_android_device">Transferir de um dispositivo Android</string>
   <string name="TransferOrRestoreFragment__transfer_your_account_and_messages_from_your_old_android_device">Transfira a sua conta e mensagens a partir do seu dispositivo antigo Android. Você necessita de ter acesso ao seu dispositivo antigo.</string>
   <string name="TransferOrRestoreFragment__you_need_access_to_your_old_device">Você necessita de ter acesso ao seu dispositivo antigo.</string>
   <string name="TransferOrRestoreFragment__restore_from_backup">Restaurar a partir da cópia de segurança</string>
   <string name="TransferOrRestoreFragment__restore_your_messages_from_a_local_backup">Restore as suas mensagens a partir de uma cópia de segurança local. Se não as restaurar agora, não as poderá restaurar mais tarde.</string>
   <!--NewDeviceTransferInstructionsFragment-->
-  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Abra o Signal no seu telemóvel Android antigo</string>
+  <string name="NewDeviceTransferInstructions__open_signal_on_your_old_android_phone">Abra o CoolApp no seu telemóvel Android antigo</string>
   <string name="NewDeviceTransferInstructions__continue">Continuar</string>
   <string name="NewDeviceTransferInstructions__first_bullet">1.</string>
   <string name="NewDeviceTransferInstructions__tap_on_your_profile_photo_in_the_top_left_to_open_settings">Toque na sua fotografia de perfil no canto superior esquerdo para abrir as \'Definições\'</string>
@@ -2737,18 +2737,18 @@
   <string name="NewDeviceTransferSetup__preparing_to_connect_to_old_android_device">A preparar para ligar para um dispositivo Android antigo…</string>
   <string name="NewDeviceTransferSetup__take_a_moment_should_be_ready_soon">Aguarde um momento, deverá estar pronto muito em breve</string>
   <string name="NewDeviceTransferSetup__waiting_for_old_device_to_connect">A aguardar pelo dispositivo Android antigo para ligar…</string>
-  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">O Signal necessita da permissão de localização para poder encontrar e depois ligar-se ao seu dispositivo Android antigo.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">O Signal necessita que os serviços de localização se encontrem ativos para poder encontrar e depois ligar-se ao seu dispositivo Android antigo.</string>
-  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">O Signal necessita de Wi-Fi para poder descobrir e ligar-se ao seu dispositivo Android antigo. O Wi-Fi precisa estar ligado, mas não precisa estar ligado a uma rede Wi-Fi.</string>
-  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Parece que este dispositivo não é compatível com Wi-Fi Direct. O Signal usa o Wi-Fi Direct para descobrir e ligar-se ao seu dispositivo Android antigo. Você ainda pode restaurar uma cópia de segurança para restaurar a sua conta do seu dispositivo Android antigo.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_old_device">O CoolApp necessita da permissão de localização para poder encontrar e depois ligar-se ao seu dispositivo Android antigo.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_old_device">O CoolApp necessita que os serviços de localização se encontrem ativos para poder encontrar e depois ligar-se ao seu dispositivo Android antigo.</string>
+  <string name="NewDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_old_device">O CoolApp necessita de Wi-Fi para poder descobrir e ligar-se ao seu dispositivo Android antigo. O Wi-Fi precisa estar ligado, mas não precisa estar ligado a uma rede Wi-Fi.</string>
+  <string name="NewDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Parece que este dispositivo não é compatível com Wi-Fi Direct. O CoolApp usa o Wi-Fi Direct para descobrir e ligar-se ao seu dispositivo Android antigo. Você ainda pode restaurar uma cópia de segurança para restaurar a sua conta do seu dispositivo Android antigo.</string>
   <string name="NewDeviceTransferSetup__restore_a_backup">Restaurar uma cópia de segurança</string>
   <string name="NewDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Ocorreu um erro inesperado ao tentar ligar ao seu dispositivo Android antigo.</string>
   <!--OldDeviceTransferSetupFragment-->
   <string name="OldDeviceTransferSetup__searching_for_new_android_device">A pesquisar por um dispositivo Android novo…</string>
-  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">O Signal necessita da permissão de localização para poder encontrar e depois ligar-se ao seu dispositivo Android novo.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">O Signal necessita que os serviços de localização se encontrem ativos para poder encontrar e depois ligar-se ao seu dispositivo Android novo.</string>
-  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">O Signal necessita de Wi-Fi para poder descobrir e ligar-se ao seu dispositivo Android novo. O Wi-Fi precisa estar ligado, mas não precisa estar ligado a uma rede Wi-Fi.</string>
-  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Parece que este dispositivo não é compatível com Wi-Fi Direct. O Signal usa o Wi-Fi Direct para descobrir e ligar-se ao seu dispositivo Android novo. Você ainda pode criar uma cópia de segurança para restaurar a sua conta no seu dispositivo Android novo.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_the_location_permission_to_discover_and_connect_with_your_new_device">O CoolApp necessita da permissão de localização para poder encontrar e depois ligar-se ao seu dispositivo Android novo.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_location_services_enabled_to_discover_and_connect_with_your_new_device">O CoolApp necessita que os serviços de localização se encontrem ativos para poder encontrar e depois ligar-se ao seu dispositivo Android novo.</string>
+  <string name="OldDeviceTransferSetup__signal_needs_wifi_on_to_discover_and_connect_with_your_new_device">O CoolApp necessita de Wi-Fi para poder descobrir e ligar-se ao seu dispositivo Android novo. O Wi-Fi precisa estar ligado, mas não precisa estar ligado a uma rede Wi-Fi.</string>
+  <string name="OldDeviceTransferSetup__sorry_it_appears_your_device_does_not_support_wifi_direct">Parece que este dispositivo não é compatível com Wi-Fi Direct. O CoolApp usa o Wi-Fi Direct para descobrir e ligar-se ao seu dispositivo Android novo. Você ainda pode criar uma cópia de segurança para restaurar a sua conta no seu dispositivo Android novo.</string>
   <string name="OldDeviceTransferSetup__create_a_backup">Criar uma cópia de segurança</string>
   <string name="OldDeviceTransferSetup__an_unexpected_error_occurred_while_attempting_to_connect_to_your_old_device">Ocorreu um erro inesperado ao tentar ligar ao seu dispositivo Android novo.</string>
   <!--DeviceTransferSetupFragment-->
@@ -2783,10 +2783,10 @@
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device_to_start_the_transfer">Toque em \'Continuar\' no seu outro dispositivo para iniciar a transferência.</string>
   <string name="DeviceTransferSetup__tap_continue_on_your_other_device">Toque em \'Continuar\' no seu outro dispositivo…</string>
   <!--NewDeviceTransferFragment-->
-  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Não é possível transferir a partir de versões mais recentes do Signal</string>
+  <string name="NewDeviceTransfer__cannot_transfer_from_a_newer_version_of_signal">Não é possível transferir a partir de versões mais recentes do CoolApp</string>
   <!--DeviceTransferFragment-->
   <string name="DeviceTransfer__transferring_data">A transferir dados</string>
-  <string name="DeviceTransfer__keep_both_devices_near_each_other">Mantenha ambos o dispositivos próximos um do outro. Não desligue os dispositivos e mantenha o Signal aberto. As transferÊncia são encriptadas ponta-a-ponta.</string>
+  <string name="DeviceTransfer__keep_both_devices_near_each_other">Mantenha ambos o dispositivos próximos um do outro. Não desligue os dispositivos e mantenha o CoolApp aberto. As transferÊncia são encriptadas ponta-a-ponta.</string>
   <string name="DeviceTransfer__d_messages_so_far">%1$d mensagens até ao momento…</string>
   <!--Filled in with total percentage of messages transferred-->
   <string name="DeviceTransfer__s_of_messages_so_far">%1$s%% das mensagens até ao momento…</string>
@@ -2799,9 +2799,9 @@
   <string name="DeviceTransfer__unable_to_transfer">Impossível transferir</string>
   <!--OldDeviceTransferInstructionsFragment-->
   <string name="OldDeviceTransferInstructions__transfer_account">Transferir conta</string>
-  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Pode transferir a sua conta do Signal ao configurar o Signal num dispositivo Android novo. Antes de continuar:</string>
+  <string name="OldDeviceTransferInstructions__you_can_transfer_your_signal_account_when_setting_up_signal_on_a_new_android_device">Pode transferir a sua conta do CoolApp ao configurar o CoolApp num dispositivo Android novo. Antes de continuar:</string>
   <string name="OldDeviceTransferInstructions__first_bullet">1.</string>
-  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Faça o download do Signal no seu dispositivo Android novo</string>
+  <string name="OldDeviceTransferInstructions__download_signal_on_your_new_android_device">Faça o download do CoolApp no seu dispositivo Android novo</string>
   <string name="OldDeviceTransferInstructions__second_bullet">2.</string>
   <string name="OldDeviceTransferInstructions__tap_on_transfer_or_restore_account">Toque em \'Transferir ou restaurar conta\'</string>
   <string name="OldDeviceTransferInstructions__third_bullet">3.</string>
@@ -2810,7 +2810,7 @@
   <!--OldDeviceTransferComplete-->
   <string name="OldDeviceTransferComplete__transfer_complete">Transferência completa</string>
   <string name="OldDeviceTransferComplete__go_to_your_new_device">Vá para o seu dispositivo novo</string>
-  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Os seus dados do Signal foram transferidos para o seu novo dispositivo. Para terminar o processo de transferência, você deverá continuar o registo no seu novo dispositivo.</string>
+  <string name="OldDeviceTransferComplete__your_signal_data_has_Been_transferred_to_your_new_device">Os seus dados do CoolApp foram transferidos para o seu novo dispositivo. Para terminar o processo de transferência, você deverá continuar o registo no seu novo dispositivo.</string>
   <string name="OldDeviceTransferComplete__close">Fechar</string>
   <!--NewDeviceTransferComplete-->
   <string name="NewDeviceTransferComplete__transfer_successful">Transferência efetuada com sucesso</string>
@@ -2827,7 +2827,7 @@
   <string name="DeviceToDeviceTransferService_status_service_connected">A transferir conta…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">Termine o registo no seu dispositivo novo</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">A sua conta do Signal foi transferida para o seu novo dispositivo, mas você deverá concluir o seu registo para continuar. O Signal ficará inativo neste dispositivo. </string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">A sua conta do CoolApp foi transferida para o seu novo dispositivo, mas você deverá concluir o seu registo para continuar. O CoolApp ficará inativo neste dispositivo. </string>
   <string name="OldDeviceTransferLockedDialog__done">Concluído</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">Cancelar e ativar este dispositivo</string>
   <!--AdvancedPreferenceFragment-->
@@ -2866,12 +2866,12 @@
   <string name="GroupsLearnMore_what_are_legacy_groups">O que são \'Grupos legados\'?</string>
   <string name="GroupsLearnMore_paragraph_1">Os \'Grupos legados\' são grupos que não são compatíveis com os recursos de \'Grupo novo\' tais como administradores e atualizações mais descritivas do grupo.</string>
   <string name="GroupsLearnMore_can_i_upgrade_a_legacy_group">Posso fazer o upgrade para um \'Grupo legado\'?</string>
-  <string name="GroupsLearnMore_paragraph_2">OS \'Grupos legados\' não podem ser convertidos em \'Grupos novos\', mas você pode criar um \'Grupo novo\' com os mesmos membros caso eles tenham a última versão do Signal.</string>
-  <string name="GroupsLearnMore_paragraph_3">O Signal irá oferecer futuramente uma forma de atualizar os \'Grupos legados\'.</string>
+  <string name="GroupsLearnMore_paragraph_2">OS \'Grupos legados\' não podem ser convertidos em \'Grupos novos\', mas você pode criar um \'Grupo novo\' com os mesmos membros caso eles tenham a última versão do CoolApp.</string>
+  <string name="GroupsLearnMore_paragraph_3">O CoolApp irá oferecer futuramente uma forma de atualizar os \'Grupos legados\'.</string>
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">Qualquer pessoa com este link pode ver o nome e a fotografia do grupo e solicitar adesão. Partilhe-o com pessoas em quem você confia.</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">Qualquer pessoa com este link pode ver o nome e a fotografia do grupo e solicitar adesão. Partilhe-o com pessoas em quem você confia.</string>
-  <string name="GroupLinkBottomSheet_share_via_signal">Partilhar através do Signal</string>
+  <string name="GroupLinkBottomSheet_share_via_signal">Partilhar através do CoolApp</string>
   <string name="GroupLinkBottomSheet_copy">Copiar</string>
   <string name="GroupLinkBottomSheet_qr_code">Código QR</string>
   <string name="GroupLinkBottomSheet_share">Partilhar</string>
@@ -2937,7 +2937,7 @@
   <string name="DeleteAccountFragment__no_number">Sem número especificado</string>
   <string name="DeleteAccountFragment__the_phone_number">O número de telefone que introduziu não coincide com as suas contas.</string>
   <string name="DeleteAccountFragment__are_you_sure">Deseja realmente eliminar a sua conta?</string>
-  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Isto irá eliminar a sua conta do Signal e repor a aplicação. A aplicação irá encerrar depois do processo estar completo.</string>
+  <string name="DeleteAccountFragment__this_will_delete_your_signal_account">Isto irá eliminar a sua conta do CoolApp e repor a aplicação. A aplicação irá encerrar depois do processo estar completo.</string>
   <string name="DeleteAccountFragment__failed_to_delete_account">Falha ao eliminar conta. Tem alguma ligação à rede?</string>
   <string name="DeleteAccountFragment__failed_to_delete_local_data">Falha ao eliminar os dados locais. Pode limpá-los manualmente nas definições das aplicações no sistema.</string>
   <string name="DeleteAccountFragment__launch_app_settings">Iniciar as Definições das aplicações</string>
@@ -2967,7 +2967,7 @@
   <string name="ShareActivity__share">Partilhar</string>
   <string name="ShareActivity__send">Enviar</string>
   <string name="ShareActivity__comma_s">, %1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">A partilha para várias conversas é apenas suportada para mensagens do Signal</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">A partilha para várias conversas é apenas suportada para mensagens do CoolApp</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">Falha ao enviar para alguns utilizadores</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">Apenas pode partilhar com até %1$d conversas</string>
@@ -3017,7 +3017,7 @@
   <string name="payment_info_card_about_mobilecoin">Acerca da MobileCoin</string>
   <string name="payment_info_card_mobilecoin_is_a_new_privacy_focused_digital_currency">MobileCoin é uma privacidade nova focada em moeda digital.</string>
   <string name="payment_info_card_adding_funds">Adicionando fundos</string>
-  <string name="payment_info_card_you_can_add_funds_for_use_in">Você pode adicionar fundos para utilizar no Signal ao adicionar a MobileCoin ao seu endereço de carteira.</string>
+  <string name="payment_info_card_you_can_add_funds_for_use_in">Você pode adicionar fundos para utilizar no CoolApp ao adicionar a MobileCoin ao seu endereço de carteira.</string>
   <string name="payment_info_card_cashing_out">Tirar dinheiro</string>
   <string name="payment_info_card_you_can_cash_out_mobilecoin">Você pode tirar o dinheiro da MobileCoin a qualquer momento numa transferência que suporte a MobileCoin. Apenas necessita de fazer uma transferência para a sua conta nessa troca.</string>
   <string name="payment_info_card_hide_this_card">Ocultar este cartão?</string>
@@ -3031,18 +3031,18 @@
   <!--DeactivateWalletFragment-->
   <string name="DeactivateWalletFragment__deactivate_wallet">Desativar carteira</string>
   <string name="DeactivateWalletFragment__your_balance">O seu saldo</string>
-  <string name="DeactivateWalletFragment__its_recommended_that_you">É recomendado que transfira os seus fundos para outro endereço de carteira antes de desativar os pagamentos. Se escolher não transferir os seus fundos agora, eles irão permanecer na sua carteira ligada ao Signal caso reative os pagamentos.</string>
+  <string name="DeactivateWalletFragment__its_recommended_that_you">É recomendado que transfira os seus fundos para outro endereço de carteira antes de desativar os pagamentos. Se escolher não transferir os seus fundos agora, eles irão permanecer na sua carteira ligada ao CoolApp caso reative os pagamentos.</string>
   <string name="DeactivateWalletFragment__transfer_remaining_balance">Transferir o saldo restante</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring">Desativar sem transferir</string>
   <string name="DeactivateWalletFragment__deactivate">Desativar</string>
   <string name="DeactivateWalletFragment__deactivate_without_transferring_question">Desativar sem transferir?</string>
-  <string name="DeactivateWalletFragment__your_balance_will_remain">O seu saldo irá ficar na sua carteira ligada ao Signal caso escolha reativar os pagamentos.</string>
+  <string name="DeactivateWalletFragment__your_balance_will_remain">O seu saldo irá ficar na sua carteira ligada ao CoolApp caso escolha reativar os pagamentos.</string>
   <string name="DeactivateWalletFragment__error_deactivating_wallet">Erro ao desativar a carteira.</string>
   <!--PaymentsRecoveryStartFragment-->
   <string name="PaymentsRecoveryStartFragment__recovery_phrase">Recuperar frase</string>
   <string name="PaymentsRecoveryStartFragment__view_recovery_phrase">Ver frase de recuperação</string>
   <string name="PaymentsRecoveryStartFragment__enter_recovery_phrase">Introduzir a frase de recuperação</string>
-  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">O seu saldo será restaurado automaticamente quando você reinstalar o Signal se você confirmar o PIN do Signal. Você também pode restaurar o seu saldo utilizando uma frase de recuperação, que é uma frase única para si de %1$d palavras. Anote-a e guarde-a num local seguro.</string>
+  <string name="PaymentsRecoveryStartFragment__your_balance_will_automatically_restore">O seu saldo será restaurado automaticamente quando você reinstalar o CoolApp se você confirmar o PIN do CoolApp. Você também pode restaurar o seu saldo utilizando uma frase de recuperação, que é uma frase única para si de %1$d palavras. Anote-a e guarde-a num local seguro.</string>
   <string name="PaymentsRecoveryStartFragment__your_recovery_phrase_is_a">A sua frase de recuperação é uma frase única para si com %1$d palavras. Utilize esta frase para restaurar o seu saldo.</string>
   <string name="PaymentsRecoveryStartFragment__start">Iniciar</string>
   <string name="PaymentsRecoveryStartFragment__enter_manually">Introduzir manualmente</string>
@@ -3111,7 +3111,7 @@
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">Conta</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">Ser-lhe-á pedido menos frequentemente ao longo do tempo</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">Exija o seu PIN do Signal para registar novamente o seu número de telefone com o Signal.</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">Exija o seu PIN do CoolApp para registar novamente o seu número de telefone com o CoolApp.</string>
   <string name="AccountSettingsFragment__change_phone_number">Alterar o número de telefone</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">Utilize isto para alterar o seu número atual para um número de telefone novo. Não pode desfazer esta alteração.\n\nAntes de continuar, assegure-se que o seu número novo pode receber SMS ou chamadas.</string>
@@ -3140,7 +3140,7 @@
   <string name="ChangeNumberConfirmFragment__you_are_about_to_change_your_phone_number_from_s_to_s">Está prestes a alterar o seu número de telefone de %1$s para %2$s.\n\n\Antes de prosseguir, confirme que o número abaixo se encontra correto.</string>
   <string name="ChangeNumberConfirmFragment__edit_number">Editar número</string>
   <!--ChangeNumberRegistrationLockFragment-->
-  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Alterar o número do Signal - Necessita de ajuda com o PIN para Android (v2 PIN)</string>
+  <string name="ChangeNumberRegistrationLockFragment__signal_change_number_need_help_with_pin_for_android_v2_pin">Alterar o número do CoolApp - Necessita de ajuda com o PIN para Android (v2 PIN)</string>
   <!--ChangeNumberPinDiffersFragment-->
   <string name="ChangeNumberPinDiffersFragment__pins_do_not_match">Os PINs não correspondem</string>
   <string name="ChangeNumberPinDiffersFragment__the_pin_associated_with_your_new_number_is_different_from_the_pin_associated_with_your_old_one">O PIN associado ao seu número novo é diferente do PIN associado ao número antigo. Deseja manter o seu PIN antigo ou criar um PIN novo?</string>
@@ -3172,7 +3172,7 @@
   <string name="NotificationsSettingsFragment__messages">Mensagens</string>
   <string name="NotificationsSettingsFragment__calls">Chamadas</string>
   <string name="NotificationsSettingsFragment__notify_when">Notificar-me quando…</string>
-  <string name="NotificationsSettingsFragment__contact_joins_signal">Um contacto juntou-se ao Signal</string>
+  <string name="NotificationsSettingsFragment__contact_joins_signal">Um contacto juntou-se ao CoolApp</string>
   <!--Notification preference header-->
   <string name="NotificationsSettingsFragment__notification_profiles">Perfis de notificações</string>
   <!--Notification preference option header-->
@@ -3191,7 +3191,7 @@
   <string name="PrivacySettingsFragment__disappearing_messages">Destruição de mensagens</string>
   <string name="PrivacySettingsFragment__app_security">Segurança da aplicação</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">Bloquear a captura de ecrã na lista de aplicações recentes abertas e dentro da aplicação</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">As mensagens e chamadas do Signal, retransmitem sempre as chamadas e emissor selado</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">As mensagens e chamadas do CoolApp, retransmitem sempre as chamadas e emissor selado</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">Temporizador padrão para conversas novas</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">Defina um tempo padrão para a destruição de mensagens de todas as conversas novas iniciadas por si.</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3222,7 +3222,7 @@
   <string name="HelpSettingsFragment__version">Versão</string>
   <string name="HelpSettingsFragment__debug_log">Relatório de depuração</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">Termos e Política de privacidade</string>
-  <string name="HelpFragment__copyright_signal_messenger">Copyright Signal Messenger</string>
+  <string name="HelpFragment__copyright_signal_messenger">Copyright CoolApp Messenger</string>
   <string name="HelpFragment__licenced_under_the_gplv3">Distribuição guiada pela licença GPLv3</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">Qualidade média</string>
@@ -3278,7 +3278,7 @@
   <string name="AddAProfilePhotoMegaphone__add_photo">Adicionar fotografia</string>
   <!--BecomeASustainerMegaphone-->
   <string name="BecomeASustainerMegaphone__become_a_sustainer">Torne-se num Apoiante</string>
-  <string name="BecomeASustainerMegaphone__signal_is_powered">Signal é assegurado por pessoas como você. Contribua e receba um crachá no perfil.</string>
+  <string name="BecomeASustainerMegaphone__signal_is_powered">CoolApp é assegurado por pessoas como você. Contribua e receba um crachá no perfil.</string>
   <string name="BecomeASustainerMegaphone__no_thanks">Não, obrigado</string>
   <string name="BecomeASustainerMegaphone__contribute">Contribuir</string>
   <!--KeyboardPagerFragment-->
@@ -3329,7 +3329,7 @@
   <string name="ConversationSettingsFragment__conversation_muted_forever">Conversa silenciada para sempre</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">Copiado número de telefone para a área de transferência.</string>
   <string name="ConversationSettingsFragment__phone_number">Número de telefone</string>
-  <string name="ConversationSettingsFragment__get_badges">Obtenha crachás para o seu perfil apoiando o Signal. Toque num crachá para saber mais. </string>
+  <string name="ConversationSettingsFragment__get_badges">Obtenha crachás para o seu perfil apoiando o CoolApp. Toque num crachá para saber mais. </string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">Adicionar membros</string>
   <string name="PermissionsSettingsFragment__edit_group_info">Editar informação do grupo</string>
@@ -3449,9 +3449,9 @@
   <string name="SelectFeaturedBadgeFragment__failed_to_update_profile">Falha ao atualizar o perfil</string>
   <string name="ViewBadgeBottomSheetDialogFragment__become_a_sustainer">Torne-se num Apoiante</string>
   <string name="ImageView__badge">Crachá</string>
-  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">O Signal é feito por pessoas como você.</string>
+  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">O CoolApp é feito por pessoas como você.</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you">Apoie a tecnologia desenvolvida para si (não para os seus dados) juntando-se à comunidade de pessoas que a sustentam.</string>
-  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Apoie a tecnologia desenvolvida para si (não para os seus dados) juntando-se à comunidade de pessoas que sustentam o Signal.</string>
+  <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">Apoie a tecnologia desenvolvida para si (não para os seus dados) juntando-se à comunidade de pessoas que sustentam o CoolApp.</string>
   <string name="SubscribeFragment__currency">Moeda</string>
   <string name="SubscribeFragment__more_payment_options">Mais opções de pagamento</string>
   <string name="SubscribeFragment__cancel_subscription">Cancelar assinatura</string>
@@ -3468,34 +3468,34 @@
   <string name="Subscription__s_per_month">%s/mês</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/mês · Renovações %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/mês · Expira %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">A Signal é uma organização sem fins lucrativos, sem anunciantes ou investidores, sustentada apenas pelas pessoas que a utilizam e valorizam. Faça uma contribuição mensal recorrente e receba um crachá de perfil para partilhar o seu apoio.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">A CoolApp é uma organização sem fins lucrativos, sem anunciantes ou investidores, sustentada apenas pelas pessoas que a utilizam e valorizam. Faça uma contribuição mensal recorrente e receba um crachá de perfil para partilhar o seu apoio.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">Porque contribuir?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">O Signal está empenhado em desenvolver tecnologia de privacidade de código aberto que protege a liberdade de expressão e permite uma comunicação global segura.</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">O CoolApp está empenhado em desenvolver tecnologia de privacidade de código aberto que protege a liberdade de expressão e permite uma comunicação global segura.</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">A sua contribuição alimenta essa causa e paga pelo desenvolvimento e operação de uma aplicação utilizada por milhões para comunicação privada. Sem anúncios. Sem rastreadores. Sem brincadeiras.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">Obrigado pelo seu Apoio!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">Obrigado pelo seu Apoio!</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Você ganhou o crachá %s! Ajude o Signal a aumentar a conscientização exibindo este crachá no seu perfil. </string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Você ganhou um crachá de Apoio! Ajude o Signal a aumentar a conscientização exibindo este crachá no seu perfil. </string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">Você ganhou o crachá %s! Ajude o CoolApp a aumentar a conscientização exibindo este crachá no seu perfil. </string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">Você ganhou um crachá de Apoio! Ajude o CoolApp a aumentar a conscientização exibindo este crachá no seu perfil. </string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__you_can_also">Também pode</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__become_a_montly_sustainer">torne-se num Apoiante do Signal.</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__become_a_montly_sustainer">torne-se num Apoiante do CoolApp.</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__display_on_profile">Exibir no perfil</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">Definir como crachá de destaque</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">Concluído</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">Quando tem mais do que um crachá, você pode escolher apresentar um para para que outras pessoas o vejam no seu perfil.</string>
-  <string name="BecomeASustainerFragment__get_badges">Obtenha crachás para o seu perfil ao apoiar o Signal.</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">Signal é uma organização sem fins lucrativos, sem anunciantes ou investidores, sustentada apenas por pessoas como você.</string>
+  <string name="BecomeASustainerFragment__get_badges">Obtenha crachás para o seu perfil ao apoiar o CoolApp.</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">CoolApp é uma organização sem fins lucrativos, sem anunciantes ou investidores, sustentada apenas por pessoas como você.</string>
   <string name="ManageDonationsFragment__my_support">O meu apoio</string>
   <string name="ManageDonationsFragment__manage_subscription">Gerir assinatura</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">Recibos fiscais</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">Recibos fiscais</string>
   <string name="ManageDonationsFragment__badges">Crachás</string>
   <string name="ManageDonationsFragment__subscription_faq">Assinatura - FAQ</string>
   <string name="ManageDonationsFragment__error_getting_subscription">Ocorreu um erro ao tentar obter a assinatura.</string>
-  <string name="BoostFragment__give_signal_a_boost">Dê um Apoio ao Signal</string>
+  <string name="BoostFragment__give_signal_a_boost">Dê um Apoio ao CoolApp</string>
   <string name="BoostFragment__say_thanks_and_earn">Diga \"Obrigado\" e ganhe o crachá de Apoio durante %1$d dias.</string>
   <string name="Boost__enter_custom_amount">Introduzir montante personalizado</string>
   <string name="Boost__one_time_contribution">Contribuição única</string>
-  <string name="MySupportPreference__add_a_signal_boost">Apoiar o Signal</string>
+  <string name="MySupportPreference__add_a_signal_boost">Apoiar o CoolApp</string>
   <string name="MySupportPreference__s_per_month">%1$s/mês</string>
   <string name="MySupportPreference__renews_s">Renovações %1$s</string>
   <string name="MySupportPreference__processing_transaction">A processar a transação…</string>
@@ -3509,16 +3509,16 @@
   <string name="ExpiredBadgeBottomSheetDialogFragment__you_can_reactivate">Pode reativar o seu crachá de Apoio por mais 30 dias com uma contribuição única.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__to_continue_supporting_technology">Para continuar a suportar a tecnologia que foi construída para si, considere ser um Apoiante mensal.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__become_a_sustainer">Torne-se num Apoiante</string>
-  <string name="ExpiredBadgeBottomSheetDialogFragment__add_a_boost">Apoiar o Signal</string>
+  <string name="ExpiredBadgeBottomSheetDialogFragment__add_a_boost">Apoiar o CoolApp</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__not_now">Agora não</string>
   <!--Copy displayed when badge expires after user inactivity-->
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_automatically">A sua classificação de Apoiante foi cancelada automaticamente porque se encontra inativo à muito tempo. O seu crachá %1$s deixou de estar visível no seu perfil.</string>
   <!--Copy displayed when badge expires after payment failure-->
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_canceled">A sua assinatura de Apoiante foi cancelada porque o seu pagamento não pode ser processado. O seu crachá deixou de estar visível no seu perfil.</string>
-  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Pode continuar a utilizar o Signal mas, para apoiar a aplicação e reativar o seu crachá, renove agora.</string>
+  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">Pode continuar a utilizar o CoolApp mas, para apoiar a aplicação e reativar o seu crachá, renove agora.</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">Renovar assinatura</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">Não foi possível processar o pagamento da sua assinatura</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Estamos com problemas para receber o seu pagamento do Apoiante do Signal. Verifique se a forma de pagamento se encontra atualizada. Se não estiver, atualize-a no Google Pay. O Signal tentará processar o pagamento novamente dentro de alguns dias. </string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">Estamos com problemas para receber o seu pagamento do Apoiante do CoolApp. Verifique se a forma de pagamento se encontra atualizada. Se não estiver, atualize-a no Google Pay. O CoolApp tentará processar o pagamento novamente dentro de alguns dias. </string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">Não exibir isto novamente</string>
   <string name="Subscription__please_contact_support_for_more_information">Por favor, contacte o \'Suporte\' para mais informações.</string>
   <string name="Subscription__contact_support">Contactar o Suporte</string>
@@ -3538,7 +3538,7 @@
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">Definiu o Google Pay para as doações in-app.</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">Ocorreu um erro ao tentar cancelar a assinatura</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">O cancelamento da sua assinatura exige que esteja disponível uma ligação à internet.</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Seu aparelho não é compatível com Google Pay, como tal você não pode subscrever para ganhar um crachá. Você ainda pode apoiar o Signal fazendo uma doação no nosso site.</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">Seu aparelho não é compatível com Google Pay, como tal você não pode subscrever para ganhar um crachá. Você ainda pode apoiar o CoolApp fazendo uma doação no nosso site.</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">Erro na rede. Verifique a sua ligação e tente novamente.</string>
   <string name="NetworkFailure__retry">Tentar novamente</string>
   <!--Stripe decline code generic_failure-->
@@ -3709,8 +3709,8 @@
   <string name="NotificationProfilesMegaphone__not_now">Agora não</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">Falha ao abrir o seletor.</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Notas e novidades de lançamento do Signal</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">Notas e novidades de lançamento do CoolApp</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">Toda a atividade</string>
   <!--Donation receipts all tab label-->
@@ -3730,13 +3730,13 @@
   <!--Donation receipts share PNG-->
   <string name="DonationReceiptDetailsFragment__share_receipt">Partilhar recibo</string>
   <!--Donation receipts list end note-->
-  <string name="DonationReceiptListFragment__if_you_have">Se reinstalou o Signal, os recibos de doações anteriores não estarão disponíveis.</string>
+  <string name="DonationReceiptListFragment__if_you_have">Se reinstalou o CoolApp, os recibos de doações anteriores não estarão disponíveis.</string>
   <!--Donation receipts document title-->
   <string name="DonationReceiptDetailsFragment__donation_receipt">Recibo de doação</string>
   <!--Donation receipts amount title-->
   <string name="DonationReceiptDetailsFragment__amount">Montante</string>
   <!--Donation receipts thanks-->
-  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Obrigado por apoiar o Signal. A sua contribuição ajuda a alimentar a missão de desenvolver a tecnologia de privacidade de código aberto que protege a liberdade de expressão e permite a comunicação global segura para milhões de pessoas em todo o mundo. Se você for residente nos Estados Unidos, guarde este recibo para os seus registos fiscais. A Signal Technology Foundation é uma organização sem fins lucrativos isenta de impostos nos Estados Unidos sob a secção 501c3 do Internal Revenue Code. A nossa identificação fiscal federal é 82-4506840.</string>
+  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">Obrigado por apoiar o CoolApp. A sua contribuição ajuda a alimentar a missão de desenvolver a tecnologia de privacidade de código aberto que protege a liberdade de expressão e permite a comunicação global segura para milhões de pessoas em todo o mundo. Se você for residente nos Estados Unidos, guarde este recibo para os seus registos fiscais. A CoolApp Technology Foundation é uma organização sem fins lucrativos isenta de impostos nos Estados Unidos sob a secção 501c3 do Internal Revenue Code. A nossa identificação fiscal federal é 82-4506840.</string>
   <!--Donation receipt type-->
   <string name="DonationReceiptDetailsFragment__s_dash_s">%1$s - %2$s</string>
   <!--region "Stories Tab"-->
@@ -3751,7 +3751,7 @@
   <!--Subtitle for "My Stories" row item when user has not added stories-->
   <string name="StoriesLandingFragment__add_a_story">Adicionar uma história</string>
   <!--Displayed when there are no stories to display-->
-  <!-- Removed by excludeNonTranslatables <string name="StoriesLandingFragment__no_recent_updates">De momento não existem atualizações para exibir.</string> -->
+  <string name="StoriesLandingFragment__no_recent_updates">De momento não existem atualizações para exibir.</string>
   <!--Context menu option to hide a story-->
   <string name="StoriesLandingItem__hide_story">Ocultar história</string>
   <!--Context menu option to unhide a story-->
@@ -3852,17 +3852,17 @@
   <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">Permitir que as pessoas que podem ver a sua história possam reagir e responder</string>
   <!--Note about default sharing-->
   <string name="MyStorySettingsFragment__hide_your_story_from">Oculte a sua história a pessoas específicas. Por padrão, a sua história é partilhada com os seus %1$s</string>
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <string name="MyStorySettingsFragment__signal_connections">Ligações do Signal.</string>
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <string name="SignalConnectionsBottomSheet__signal_connections_are_people">As <strong>Ligações do Signal</strong> são pessoas em que você escolheu confiar, ou por:</string>
-  <!--Signal connections sheet bullet point 1-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <string name="MyStorySettingsFragment__signal_connections">Ligações do CoolApp.</string>
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <string name="SignalConnectionsBottomSheet__signal_connections_are_people">As <strong>Ligações do CoolApp</strong> são pessoas em que você escolheu confiar, ou por:</string>
+  <!--CoolApp connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">Iniciar uma conversa</string>
-  <!--Signal connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 2-->
   <string name="SignalConnectionsBottomSheet__accepting_a_message_request">Aceitar um pedido de conversa</string>
-  <!--Signal connections sheet bullet point 3-->
+  <!--CoolApp connections sheet bullet point 3-->
   <string name="SignalConnectionsBottomSheet__having_them_in_your_system_contacts">Tê-los nos seus contactos do sistema</string>
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <string name="SignalConnectionsBottomSheet__your_connections_can_see_your_name">As suas ligações podem ver o seu nome e fotografia, bem como as publicações na sua \"A minha história\", a menos que as oculte delas.</string>
   <!--Clickable option to add a viewer to a private story-->
   <string name="PrivateStorySettingsFragment__add_viewer">Adicionar visualizador</string>
@@ -3909,7 +3909,7 @@
   <!--Dialog title for first time adding something to a story-->
   <string name="StoryDialogs__add_to_story_q">Adicionar à história?</string>
   <!--Dialog message for first time adding something to a story-->
-  <string name="StoryDialogs__adding_content">Adicionar conteúdo à sua história permitirá que as suas ligações no Signal o visualizem por 24 horas. Pode alterar quem vê a sua história nas \'Definições\'.</string>
+  <string name="StoryDialogs__adding_content">Adicionar conteúdo à sua história permitirá que as suas ligações no CoolApp o visualizem por 24 horas. Pode alterar quem vê a sua história nas \'Definições\'.</string>
   <!--First time share to story dialog: Positive action to go ahead and add to story-->
   <string name="StoryDialogs__add_to_story">Adicionar à história</string>
   <!--First time share to story dialog: Neutral action to edit who can view "My Story"-->
@@ -3970,13 +3970,13 @@
   <!--Title for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_turn_off_censorship_circumvention">Desativar a circunscrição de censura?</string>
   <!--Body for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
-  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Agora pode ligar-se diretamente ao serviço Signal para uma melhor experiência.</string>
+  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">Agora pode ligar-se diretamente ao serviço CoolApp para uma melhor experiência.</string>
   <!--Label for a button to dismiss a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_no_thanks">Não, obrigado</string>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">Desativar</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · História</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · História</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">Reagiu a uma história</string>
   <!--endregion-->

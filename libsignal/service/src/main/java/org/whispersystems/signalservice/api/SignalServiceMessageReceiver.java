@@ -32,6 +32,7 @@ import org.whispersystems.signalservice.internal.util.Util;
 import org.whispersystems.signalservice.internal.util.concurrent.FutureTransformers;
 import org.whispersystems.signalservice.internal.util.concurrent.ListenableFuture;
 
+import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -155,7 +156,8 @@ public class SignalServiceMessageReceiver {
       throws IOException, InvalidMessageException
   {
     byte[] data = socket.retrieveSticker(packId, stickerId);
-    return AttachmentCipherInputStream.createForStickerData(data, packKey);
+    return new ByteArrayInputStream(data);
+    //return AttachmentCipherInputStream.createForStickerData(data, packKey);
   }
 
   /**

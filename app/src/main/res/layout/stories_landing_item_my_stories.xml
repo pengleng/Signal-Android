@@ -6,25 +6,25 @@
     android:layout_marginStart="@dimen/dsl_settings_gutter"
     android:layout_marginEnd="@dimen/dsl_settings_gutter">
 
-    <org.thoughtcrime.securesms.avatar.view.AvatarView
+    <asia.coolapp.chat.avatar.view.AvatarView
         android:id="@+id/avatar"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <org.thoughtcrime.securesms.badges.BadgeImageView
+    <asia.coolapp.chat.badges.BadgeImageView
         android:id="@+id/badge"
         android:layout_width="24dp"
         android:layout_height="24dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="36dp"
         app:badge_size="medium"
         app:layout_constraintStart_toStartOf="@id/avatar"
         app:layout_constraintTop_toTopOf="@id/avatar" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiTextView
+    <asia.coolapp.chat.components.emoji.EmojiTextView
         android:id="@+id/sender"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -54,18 +54,17 @@
 
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/story"
-        android:layout_width="@dimen/stories_landing_item_thumb_width"
-        android:layout_height="@dimen/stories_landing_item_thumb_height"
+        android:layout_width="56dp"
+        android:layout_height="84dp"
         android:layout_marginTop="12dp"
-        android:layout_marginEnd="2dp"
         android:layout_marginBottom="12dp"
+        android:layout_marginEnd="2dp"
         android:background="@color/signal_background_secondary"
         android:scaleType="centerInside"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:shapeAppearance="@style/ShapeAppearanceOverlay.Signal.Story.Preview"
-        app:srcCompat="@drawable/ic_plus_24"
-        app:tint="@color/signal_inverse_primary" />
+        app:srcCompat="@drawable/ic_plus_24" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

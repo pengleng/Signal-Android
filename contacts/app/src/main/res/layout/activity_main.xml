@@ -7,34 +7,13 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/contact_list_button"
+        android:id="@+id/permission_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Contact List"
-        app:layout_constraintBottom_toTopOf="@id/link_contacts_button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_chainStyle="packed"/>
-
-    <Button
-        android:id="@+id/link_contacts_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Link Contacts"
-        app:layout_constraintBottom_toTopOf="@id/unlink_contact_button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/contact_list_button" />
-
-    <Button
-        android:id="@+id/unlink_contact_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Unlink Contacts"
+        android:text="Permissions"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/link_contacts_button" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

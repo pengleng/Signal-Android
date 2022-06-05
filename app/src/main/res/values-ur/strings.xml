@@ -824,9 +824,9 @@
   <string name="Megaphones_appearance">ظہور ہونا</string>
   <string name="Megaphones_add_photo">تصویر لگاو</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">signal کال پروگریس میں ہے</string>
+  <string name="NotificationBarManager_signal_call_in_progress">CoolApp کال پروگریس میں ہے</string>
   <string name="NotificationBarManager__establishing_signal_call">Signal کال قائم ہو رہی ہے</string>
-  <string name="NotificationBarManager__incoming_signal_call">signal کال آ رہی ہے</string>
+  <string name="NotificationBarManager__incoming_signal_call">CoolApp کال آ رہی ہے</string>
   <string name="NotificationBarManager__stopping_signal_call_service">Signal کال سروس روکنا</string>
   <string name="NotificationBarManager__answer_call">کال کا جواب دیں</string>
   <string name="NotificationBarManager__end_call">کال ختم کریں</string>
@@ -1255,7 +1255,7 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">کیا آپ کا فون نمبر اوپر سہی ہے ؟</string>
   <string name="RegistrationActivity_edit_number">نمبر ترتیب کرے</string>
   <string name="RegistrationActivity_missing_google_play_services">غائب گوگل پلے سروسز</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">یہ ڈیوائس Google Play خدمات کو حاصل کرنے سے قاصر ہے۔ اب بھی آپ Signal استعمال کر سکتے ہیں لیکن اس کنفگریشن سے کارکردگی میں فرق آسکتا ہے۔ n/n/اگر آپ ماہر صارف نہیں ہیں، اور کوئی aftermarket سے لیا ہوا Android ROM نہیں چلا رہے، یا اگر آپ اس کو غلطی کے طور پر دیکھ رہے ہیں تو براہِ کرم ٹربل شوٹنگ مدد حاصل کرنے کیلئے support@signal.org پر رابطہ کریں۔</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">یہ ڈیوائس Google Play خدمات کو حاصل کرنے سے قاصر ہے۔ اب بھی آپ Signal استعمال کر سکتے ہیں لیکن اس کنفگریشن سے کارکردگی میں فرق آسکتا ہے۔ n/n/اگر آپ ماہر صارف نہیں ہیں، اور کوئی aftermarket سے لیا ہوا Android ROM نہیں چلا رہے، یا اگر آپ اس کو غلطی کے طور پر دیکھ رہے ہیں تو براہِ کرم ٹربل شوٹنگ مدد حاصل کرنے کیلئے support@asia.coolapp.chat پر رابطہ کریں۔</string>
   <string name="RegistrationActivity_i_understand">میں سمجھ گیا</string>
   <string name="RegistrationActivity_play_services_error">گوگل پلے سروسز خرابی</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">گوگل پلے سروسز تجدید ہو رہی ہیں یا عارضی طور پر دستیاب نہیں۔ براہ کرم دوبارہ کوشش کریں۔</string>
@@ -3364,7 +3364,7 @@
   <!--Summary for switchable option allowing replies and reactions on your story-->
   <!--Note about default sharing-->
   <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
   <!--Signal connections sheet bullet point 1-->
   <!--Signal connections sheet bullet point 2-->
   <!--Signal connections sheet bullet point 3-->

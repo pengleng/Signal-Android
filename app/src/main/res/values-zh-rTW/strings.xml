@@ -10,22 +10,22 @@
   <string name="AbstractNotificationBuilder_new_message">新訊息</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal 正在更新中…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">CoolApp 正在更新中…</string>
   <!--ApplicationPreferencesActivity-->
   <string name="ApplicationPreferencesActivity_currently_s">目前: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">你還沒有建立密碼！</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">停用密碼嗎？</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">這將會永久性地解鎖 Signal 與訊息通知。</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">這將會永久性地解鎖 CoolApp 與訊息通知。</string>
   <string name="ApplicationPreferencesActivity_disable">停用</string>
   <string name="ApplicationPreferencesActivity_unregistering">取消註冊</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">正在取消註冊 Signal 訊息和通話…    </string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">停用 Signal 訊息與通話？</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">這將會從伺服器上取消你的註冊並停用 Signal 訊息和通話。日後如果想再次使用，則需要重新註冊你的電話號碼。</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">正在取消註冊 CoolApp 訊息和通話…    </string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">停用 CoolApp 訊息與通話？</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">這將會從伺服器上取消你的註冊並停用 CoolApp 訊息和通話。日後如果想再次使用，則需要重新註冊你的電話號碼。</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">與伺服器的連線發生錯誤！</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">簡訊功能已啟動</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">輕觸以變更你預設的簡訊應用程式</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">簡訊功能已停用</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">按這裡將 Signal 設定為預設的簡訊應用程式</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">按這裡將 CoolApp 設定為預設的簡訊應用程式</string>
   <string name="ApplicationPreferencesActivity_on">開啟</string>
   <string name="ApplicationPreferencesActivity_On">開</string>
   <string name="ApplicationPreferencesActivity_off">關閉</string>
@@ -57,14 +57,14 @@
   <string name="AttachmentKeyboard_file">檔案</string>
   <string name="AttachmentKeyboard_contact">聯絡人</string>
   <string name="AttachmentKeyboard_location">位置</string>
-  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Signal 需要權限以顯示你的照片及影片。</string>
+  <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">CoolApp 需要權限以顯示你的照片及影片。</string>
   <string name="AttachmentKeyboard_give_access">允許存取</string>
   <string name="AttachmentKeyboard_payment">付款</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">找不到合適的應用程式來選擇媒體檔案。</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal 需要儲存的權限，以存取照片、影片或聲音檔。但是現在被設定為永久拒絕存取。請到應用程式設定中，選擇「權限」及開啟「儲存」。 </string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal 需要聯絡人的權限以存取聯絡人資訊，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「聯絡人」的權限。</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal 需要位置的權限以存取位置資訊，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「位置」的權限。</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">CoolApp 需要儲存的權限，以存取照片、影片或聲音檔。但是現在被設定為永久拒絕存取。請到應用程式設定中，選擇「權限」及開啟「儲存」。 </string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">CoolApp 需要聯絡人的權限以存取聯絡人資訊，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「聯絡人」的權限。</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">CoolApp 需要位置的權限以存取位置資訊，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「位置」的權限。</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">上傳多媒體檔案中…</string>
   <string name="AttachmentUploadJob_compressing_video_start">壓縮影片中…</string>
@@ -89,10 +89,10 @@
   <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">群組成員將能夠再次將你新增到該群組。</string>
   <string name="BlockUnblockDialog_you_will_be_able_to_call_and_message_each_other">你將能夠互相發訊息和打電話，並且你的姓名和照片將與他們共享。</string>
   <string name="BlockUnblockDialog_blocked_people_wont_be_able_to_call_you_or_send_you_messages">被封鎖的人將無法給你打電話或向你傳送訊息。</string>
-  <!--Message shown on block dialog when blocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">封鎖取得 Signal 更新和新聞的通知。</string>
-  <!--Message shown on unblock dialog when unblocking the Signal release notes recipient-->
-  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">繼續取得 Signal 更新和新聞的通知。</string>
+  <!--Message shown on block dialog when blocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_block_getting_signal_updates_and_news">封鎖取得 CoolApp 更新和新聞的通知。</string>
+  <!--Message shown on unblock dialog when unblocking the CoolApp release notes recipient-->
+  <string name="BlockUnblockDialog_resume_getting_signal_updates_and_news">繼續取得 CoolApp 更新和新聞的通知。</string>
   <string name="BlockUnblockDialog_unblock_s">解除封鎖%1$s嗎？</string>
   <string name="BlockUnblockDialog_block">封鎖</string>
   <string name="BlockUnblockDialog_block_and_leave">封鎖並離開</string>
@@ -112,20 +112,20 @@
   <string name="CameraXFragment_open_gallery_description">開啟相簿</string>
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">最近的聯絡人</string>
-  <string name="CameraContacts_signal_contacts">Signal 聯絡人</string>
-  <string name="CameraContacts_signal_groups">Signal 群組</string>
+  <string name="CameraContacts_signal_contacts">CoolApp 聯絡人</string>
+  <string name="CameraContacts_signal_groups">CoolApp 群組</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">你可以分享最多%d的對話。</string>
-  <string name="CameraContacts_select_signal_recipients">選擇 Signal 收件人</string>
-  <string name="CameraContacts_no_signal_contacts">沒有 Signal 聯絡人</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">你只能使用相機按鈕將照片傳送到 Signal 聯絡人。</string>
+  <string name="CameraContacts_select_signal_recipients">選擇 CoolApp 收件人</string>
+  <string name="CameraContacts_no_signal_contacts">沒有 CoolApp 聯絡人</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">你只能使用相機按鈕將照片傳送到 CoolApp 聯絡人。</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">找不到你要找的人？</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">邀請一個聯絡人來使用 Signal </string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">邀請一個聯絡人來使用 CoolApp </string>
   <string name="CameraContacts__menu_search">搜尋</string>
   <!--Censorship Circumvention Megaphone-->
   <!--Title for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off_censorship_circumvention">要關閉審查規避嗎？</string>
   <!--Body for an alert that shows at the bottom of the chat list letting people know that circumvention is no longer needed-->
-  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">你現可直接連線到 Signal 服務以享有更佳體驗。</string>
+  <string name="CensorshipCircumventionMegaphone_you_can_now_connect_to_the_signal_service">你現可直接連線到 CoolApp 服務以享有更佳體驗。</string>
   <!--Action to prompt the user to disable circumvention since it is no longer needed-->
   <string name="CensorshipCircumventionMegaphone_turn_off">關閉</string>
   <!--Action to prompt the user to dismiss the alert at the bottom of the chat list-->
@@ -135,7 +135,7 @@
   <string name="ClearProfileActivity_remove_profile_photo">移除頭像照片？</string>
   <string name="ClearProfileActivity_remove_group_photo">移除群組照片？</string>
   <!--ClientDeprecatedActivity-->
-  <string name="ClientDeprecatedActivity_update_signal">更新 Signal</string>
+  <string name="ClientDeprecatedActivity_update_signal">更新 CoolApp</string>
   <string name="ClientDeprecatedActivity_this_version_of_the_app_is_no_longer_supported">不再支援此版本的應用程式。 要繼續傳送和接收訊息，請更新到最新版本。</string>
   <string name="ClientDeprecatedActivity_update">更新</string>
   <string name="ClientDeprecatedActivity_dont_update">不更新</string>
@@ -151,7 +151,7 @@
   <string name="CommunicationActions_insecure_call">不安全的電話</string>
   <string name="CommunicationActions_carrier_charges_may_apply">電信商可能會收取額外的費用。你撥出的號碼未在Signal中註冊。 該電話將通過你的電信商撥出，而不是通過網際網路撥出。</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">你與 %1$s 的安全碼產生變動。這可能是有不明人士試圖攔截你的通訊，或是因為 %2$s 重新安裝了 Signal。</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">你與 %1$s 的安全碼產生變動。這可能是有不明人士試圖攔截你的通訊，或是因為 %2$s 重新安裝了 CoolApp。</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">您可能希望驗證這名聯絡人的安全碼。</string>
   <string name="ConfirmIdentityDialog_accept">接受</string>
   <!--ContactsCursorLoader-->
@@ -166,7 +166,7 @@
   <string name="ContactsCursorLoader_new_story">新限時動態</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">傳送訊息給 %s</string>
-  <string name="ContactsDatabase_signal_call_s">與 %s 進行 Signal 通話</string>
+  <string name="ContactsDatabase_signal_call_s">與 %s 進行 CoolApp 通話</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">名字</string>
   <string name="ContactNameEditActivity_family_name">姓</string>
@@ -189,7 +189,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">傳送失敗，輕觸改用不安全的遞補方式</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">改用未加密的簡訊作為遞補方式？</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">改用未加密的多媒體訊息作為遞補方式？</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">由於對方已經不再是 Signal 的使用者，當前訊息<b>不會</b>被加密。\n\n傳送不加密的訊息？</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">由於對方已經不再是 CoolApp 的使用者，當前訊息<b>不會</b>被加密。\n\n傳送不加密的訊息？</string>
   <string name="ConversationItem_unable_to_open_media">找不到合適的應用程式來開啟媒體檔案。</string>
   <string name="ConversationItem_copied_text">已複製 %s</string>
   <string name="ConversationItem_from_s">來自 %s</string>
@@ -214,8 +214,8 @@
   <string name="ConversationActivity_this_device_does_not_appear_to_support_dial_actions">您使用的裝置看來不支援撥號通話功能。</string>
   <string name="ConversationActivity_transport_insecure_sms">不安全的簡訊</string>
   <string name="ConversationActivity_transport_insecure_mms">不安全的多媒體訊息</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">我們要不要切換到 Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">CoolApp</string>
+  <string name="ConversationActivity_lets_switch_to_signal">我們要不要切換到 CoolApp %1$s</string>
   <string name="ConversationActivity_specify_recipient">請選擇聯絡人</string>
   <string name="ConversationActivity_unblock">解除封鎖</string>
   <string name="ConversationActivity_attachment_exceeds_size_limits">當前訊息的附檔類型已經超越大小限制。</string>
@@ -229,17 +229,17 @@
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">您的裝置上沒有應用程式可以處理這個連結</string>
   <string name="ConversationActivity_your_request_to_join_has_been_sent_to_the_group_admin">你的加入要求已傳送到群組管理員。 他們採取行動時會通知你。</string>
   <string name="ConversationActivity_cancel_request">取消要求</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">若要傳送語音訊息，請允許 Signal 使用您的麥克風</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal 需要麥克風的權限來傳送語音訊息，但是現在系統設定為總是拒絕 Signal。請到 Signal 的應用程式設定中，點選「權限」，並啟用「麥克風」的權限。</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Signal 需要麥克風和相機的權限來打電話給 %s，但是現在系統設定為總是拒絕 Signal。請到 Signal 的應用程式設定中，點選「權限」，並啟用麥克風和相機的權限。</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">請授予 Signal 使用相機的權限，才能拍攝照片和影片</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal 需要相機的權限來拍攝照片或是影片 ，但是現在系統設定為總是拒絕 Signal。請到 Signal 的應用程式設定中，點選「權限」，並啟用相機的權限。</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal 需要使用相機的權限來拍攝照片和影片</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">若要傳送語音訊息，請允許 CoolApp 使用您的麥克風</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">CoolApp 需要麥克風的權限來傳送語音訊息，但是現在系統設定為總是拒絕 CoolApp。請到 CoolApp 的應用程式設定中，點選「權限」，並啟用「麥克風」的權限。</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">CoolApp 需要麥克風和相機的權限來打電話給 %s，但是現在系統設定為總是拒絕 CoolApp。請到 CoolApp 的應用程式設定中，點選「權限」，並啟用麥克風和相機的權限。</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">請授予 CoolApp 使用相機的權限，才能拍攝照片和影片</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">CoolApp 需要相機的權限來拍攝照片或是影片 ，但是現在系統設定為總是拒絕 CoolApp。請到 CoolApp 的應用程式設定中，點選「權限」，並啟用相機的權限。</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">CoolApp 需要使用相機的權限來拍攝照片和影片</string>
   <string name="ConversationActivity_enable_the_microphone_permission_to_capture_videos_with_sound">開啟麥克風權限以擷取帶有音效的影片。</string>
   <string name="ConversationActivity_signal_needs_the_recording_permissions_to_capture_video">Signal需要麥克風權限才能錄製影片，但已被拒絕。 請繼續進行應用程式設定，選擇“權限”，然後啟用“麥克風”和“相機”。</string>
-  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">Signal 需要麥克風權限以錄製影片。</string>
+  <string name="ConversationActivity_signal_needs_recording_permissions_to_capture_video">CoolApp 需要麥克風權限以錄製影片。</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal 無法傳送 SMS/MMS 訊息，因為Signal 不是你預設 SMS 應用軟體。你要在 Android 設定中改變這個設定嗎？</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">CoolApp 無法傳送 SMS/MMS 訊息，因為Signal 不是你預設 SMS 應用軟體。你要在 Android 設定中改變這個設定嗎？</string>
   <string name="ConversationActivity_yes">是</string>
   <string name="ConversationActivity_no">否</string>
   <string name="ConversationActivity_search_position">第 %1$d 個，共 %2$d 個</string>
@@ -253,7 +253,7 @@
   <string name="ConversationActivity_you_will_leave_this_group_and_it_will_be_deleted_from_all_of_your_devices">你將離開此群組，及它將從你所有的裝置上被刪除。</string>
   <string name="ConversationActivity_delete">刪除</string>
   <string name="ConversationActivity_delete_and_leave">刪除並離開</string>
-  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">如要與 %1$s 通話，Signal 需要存取你的麥克風</string>
+  <string name="ConversationActivity__to_call_s_signal_needs_access_to_your_microphone">如要與 %1$s 通話，CoolApp 需要存取你的麥克風</string>
   <string name="ConversationActivity__more_options_now_in_group_settings">「群組設定」中現有更多選項</string>
   <string name="ConversationActivity_join">加入</string>
   <string name="ConversationActivity_full">已滿</string>
@@ -282,7 +282,7 @@
     <item quantity="other">儲存%1$d附檔到儲存空間中…</item>
   </plurals>
   <string name="ConversationFragment_pending">暫待等候中…</string>
-  <string name="ConversationFragment_push">數據 (Signal)</string>
+  <string name="ConversationFragment_push">數據 (CoolApp)</string>
   <string name="ConversationFragment_mms">多媒體訊息</string>
   <string name="ConversationFragment_sms">簡訊</string>
   <string name="ConversationFragment_deleting">正在刪除</string>
@@ -306,7 +306,7 @@
   <string name="ConversationFragment_verify">驗證</string>
   <string name="ConversationFragment_not_now">稍後</string>
   <string name="ConversationFragment_your_safety_number_with_s_changed">你與 %s 的安全碼已變更</string>
-  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">你與 %s 的安全碼已變更，可能是因為對方重新安裝了 Signal 或更換了裝置。輕觸「驗證」以確認新的安全碼。這是可選的。</string>
+  <string name="ConversationFragment_your_safety_number_with_s_changed_likey_because_they_reinstalled_signal">你與 %s 的安全碼已變更，可能是因為對方重新安裝了 CoolApp 或更換了裝置。輕觸「驗證」以確認新的安全碼。這是可選的。</string>
   <!--Message shown to indicate which notification profile is on/active-->
   <string name="ConversationFragment__s_on">%1$s 開啟了</string>
   <!--Dialog title for block group link join requests-->
@@ -424,7 +424,7 @@
   <string name="BackupsPreferenceFragment__d_so_far">%1$d到目前為止…</string>
   <!--Show percentage of completion of backup-->
   <string name="BackupsPreferenceFragment__s_so_far">目前進度%1$s%%…</string>
-  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">為了要建立備份，Signal 需要外部空間的權限，但是已被永久拒絕。請到應用程式設定，選擇「權限」及開啟「儲存」。</string>
+  <string name="BackupsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">為了要建立備份，CoolApp 需要外部空間的權限，但是已被永久拒絕。請到應用程式設定，選擇「權限」及開啟「儲存」。</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">使用自訂：%s</string>
   <string name="CustomDefaultPreference_using_default">使用預設：%s</string>
@@ -461,9 +461,9 @@
   <string name="DocumentView_unnamed_file">無名稱的檔案</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">為缺少的 Play 服務優化</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">這個裝置不支援 Play 服務。輕觸關閉，因為系統電池效能最佳化會防止 Signal 在閒置時取得訊息。</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">這個裝置不支援 Play 服務。輕觸關閉，因為系統電池效能最佳化會防止 CoolApp 在閒置時取得訊息。</string>
   <!--ExpiredBuildReminder-->
-  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">此版本的 Signal 已過期。立即更新以傳送和接收訊息。</string>
+  <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">此版本的 CoolApp 已過期。立即更新以傳送和接收訊息。</string>
   <string name="ExpiredBuildReminder_update_now">立即更新</string>
   <!--PendingGroupJoinRequestsReminder-->
   <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">
@@ -475,8 +475,8 @@
   <string name="ShareActivity_multiple_attachments_are_only_supported">僅圖片和影片支援多個附檔</string>
   <string name="ShareActivity_you_do_not_have_permission_to_send_to_this_group">你無權傳送到此群組</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Signal 持續發生傳輸異常！</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal 無法順利與 Google Play Services 註冊，Signal 訊息與通話已經停用，請嘗試在設定 &gt; 進階中重新註冊。</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">CoolApp 持續發生傳輸異常！</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">CoolApp 無法順利與 Google Play Services 註冊，CoolApp 訊息與通話已經停用，請嘗試在設定 &gt; 進階中重新註冊。</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">在下載完整解析度的 GIF 時發生錯誤</string>
   <!--GiphyFragmentPageAdapter-->
@@ -614,7 +614,7 @@
   <string name="AddGroupDetailsFragment__this_field_is_required">此欄位是必須的</string>
   <string name="AddGroupDetailsFragment__group_creation_failed">群組建立失敗。</string>
   <string name="AddGroupDetailsFragment__try_again_later">請稍後再試一次。</string>
-  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">你選擇的聯絡人不支援 Signal 群組，因此該群組為多媒體訊息。</string>
+  <string name="AddGroupDetailsFragment__youve_selected_a_contact_that_doesnt">你選擇的聯絡人不支援 CoolApp 群組，因此該群組為多媒體訊息。</string>
   <string name="AddGroupDetailsFragment_custom_mms_group_names_and_photos_will_only_be_visible_to_you">自定義MMS群組名稱和照片僅有你可看見。</string>
   <string name="AddGroupDetailsFragment__remove">移除</string>
   <string name="AddGroupDetailsFragment__sms_contact">簡訊聯絡人</string>
@@ -647,7 +647,7 @@
   <string name="ManageGroupActivity_only_admins_can_reset_the_sharable_group_link">只有管理員可以重設可共享的群組連結。</string>
   <string name="ManageGroupActivity_you_dont_have_the_rights_to_do_this">你沒有權限來做此事</string>
   <string name="ManageGroupActivity_not_capable">你新增的人不支援新群組，需要更新Signal</string>
-  <string name="ManageGroupActivity_not_announcement_capable">你新增的人不支援公告群組，其須要更新 Signal</string>
+  <string name="ManageGroupActivity_not_announcement_capable">你新增的人不支援公告群組，其須要更新 CoolApp</string>
   <string name="ManageGroupActivity_failed_to_update_the_group">更新群組失敗</string>
   <string name="ManageGroupActivity_youre_not_a_member_of_the_group">你不是群組組員</string>
   <string name="ManageGroupActivity_failed_to_update_the_group_please_retry_later">無法更新群組，請稍後重試</string>
@@ -739,9 +739,9 @@
     <item quantity="other">群組 · %1$d 個成員</item>
   </plurals>
   <!--GroupJoinUpdateRequiredBottomSheetDialogFragment-->
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">更新 Signal 以使用群組連結</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal_to_use_group_links">更新 CoolApp 以使用群組連結</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_message">你使用的Signal版本不支援此群組連結。透過連結更新到最新版本以加入該群組。</string>
-  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">更新 Signal</string>
+  <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_signal">更新 CoolApp</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_update_linked_device_message">你的一個或多個連結的裝置正在執行不支援群組連結的Signal版本。在你已連結的裝置上更新Signal以加入該群組。</string>
   <string name="GroupJoinUpdateRequiredBottomSheetDialogFragment_group_link_is_not_valid">群組連結無效</string>
   <!--GroupInviteLinkEnableAndShareBottomSheetDialogFragment-->
@@ -774,12 +774,12 @@
   <string name="InviteActivity_cancel">取消</string>
   <string name="InviteActivity_sending">傳送中…</string>
   <string name="InviteActivity_invitations_sent">邀請已傳送！</string>
-  <string name="InviteActivity_invite_to_signal">邀請至 Signal</string>
+  <string name="InviteActivity_invite_to_signal">邀請至 CoolApp</string>
   <string name="InviteActivity_send_sms">傳送 SMS(%d)</string>
   <plurals name="InviteActivity_send_sms_invites">
     <item quantity="other">傳送 %d 則簡訊邀請？</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">讓我們切換到 Signal：%1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">讓我們切換到 CoolApp：%1$s</string>
   <string name="InviteActivity_no_app_to_share_to">看起來您沒有任何可以分享的應用。</string>
   <!--LearnMoreTextView-->
   <string name="LearnMoreTextView_learn_more">了解更多</string>
@@ -789,7 +789,7 @@
   <string name="LongMessageActivity_message_from_s">從 %1$s 傳送的訊息</string>
   <string name="LongMessageActivity_your_message">你的訊息</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">CoolApp</string>
   <string name="MessageRetrievalService_background_connection_enabled">背景連線已經啟用</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">讀取無線供應商的 MMS 設定時發生錯誤</string>
@@ -837,7 +837,7 @@
   <string name="MediaOverviewActivity_sent_by_you_to_s">由你傳送給 %1$s</string>
   <!--Megaphones-->
   <string name="Megaphones_remind_me_later">稍後提醒我</string>
-  <string name="Megaphones_verify_your_signal_pin">驗證你的 Signal PIN 碼</string>
+  <string name="Megaphones_verify_your_signal_pin">驗證你的 CoolApp PIN 碼</string>
   <string name="Megaphones_well_occasionally_ask_you_to_verify_your_pin">我們偶爾會要求你驗證你的 PIN 碼，以便你能記住它。</string>
   <string name="Megaphones_verify_pin">驗證 PIN 碼</string>
   <string name="Megaphones_get_started">開始使用</string>
@@ -847,11 +847,11 @@
   <string name="Megaphones_appearance">介面設定</string>
   <string name="Megaphones_add_photo">新增照片</string>
   <!--NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Signal 通話進行中</string>
-  <string name="NotificationBarManager__establishing_signal_call">Signal 通話連線中</string>
-  <string name="NotificationBarManager__incoming_signal_call">Signal 來電</string>
-  <string name="NotificationBarManager__incoming_signal_group_call">Signal 群組來電</string>
-  <string name="NotificationBarManager__stopping_signal_call_service">Signal 來電服務停止中</string>
+  <string name="NotificationBarManager_signal_call_in_progress">CoolApp 通話進行中</string>
+  <string name="NotificationBarManager__establishing_signal_call">CoolApp 通話連線中</string>
+  <string name="NotificationBarManager__incoming_signal_call">CoolApp 來電</string>
+  <string name="NotificationBarManager__incoming_signal_group_call">CoolApp 群組來電</string>
+  <string name="NotificationBarManager__stopping_signal_call_service">CoolApp 來電服務停止中</string>
   <string name="NotificationBarManager__decline_call">拒接來電</string>
   <string name="NotificationBarManager__answer_call">接聽通話</string>
   <string name="NotificationBarManager__end_call">結束通話</string>
@@ -878,8 +878,8 @@
   <string name="MediaSendActivity_message_to_s">傳訊息給 %s</string>
   <string name="MediaSendActivity_message">訊息</string>
   <string name="MediaSendActivity_select_recipients">選擇收件人</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal 需要存取你的\"聯絡人\"以顯示聯絡人資訊。</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Signal 需要聯絡人權限以顯示你的聯絡人，但是你已拒絕了該權限。請到應用程式設定，選擇\"權限\"，並開啟\"聯絡人\"。</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">CoolApp 需要存取你的\"聯絡人\"以顯示聯絡人資訊。</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">CoolApp 需要聯絡人權限以顯示你的聯絡人，但是你已拒絕了該權限。請到應用程式設定，選擇\"權限\"，並開啟\"聯絡人\"。</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="other">你無法分享超過 %d 個項目。</item>
   </plurals>
@@ -893,7 +893,7 @@
   <string name="MessageDecryptionUtil_tap_to_send_a_debug_log">點擊以傳送偵錯日誌</string>
   <!--MessageRecord-->
   <string name="MessageRecord_unknown">未知</string>
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">收到一則使用舊版本並已經不再支援的 Signal 加密訊息。請尋求傳送人將 Signal 升級到最新的版本並再次傳送該訊息。</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">收到一則使用舊版本並已經不再支援的 CoolApp 加密訊息。請尋求傳送人將 CoolApp 升級到最新的版本並再次傳送該訊息。</string>
   <string name="MessageRecord_left_group">您已經離開了此群組。</string>
   <string name="MessageRecord_you_updated_group">你已更新群組。</string>
   <string name="MessageRecord_the_group_was_updated">該群組已更新。</string>
@@ -902,7 +902,7 @@
   <string name="MessageRecord_missed_video_call_date">錯過的視訊電話· %1$s</string>
   <string name="MessageRecord_s_updated_group">%s 更新了群組。</string>
   <string name="MessageRecord_s_called_you_date">%1$s 撥電話給你 · %2$s</string>
-  <string name="MessageRecord_s_joined_signal">%s 在 Signal 了！</string>
+  <string name="MessageRecord_s_joined_signal">%s 在 CoolApp 了！</string>
   <string name="MessageRecord_you_disabled_disappearing_messages">你關閉了自動銷毀訊息的功能。</string>
   <string name="MessageRecord_s_disabled_disappearing_messages">%1$s 關閉了自動銷毀訊息的功能。</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">你已將訊息銷毀時間設定為 %1$s。</string>
@@ -1059,7 +1059,7 @@
   <!--Update item message shown in the release channel when someone is already a sustainer so we ask them if they want to boost.-->
   <string name="MessageRecord_like_this_new_feature_say_thanks_with_a_boost">喜歡這個新功能嗎？ 你可以用贊助來表示感謝。</string>
   <!--Update item message shown in the release channel when someone is not a sustainer so we ask them to consider becoming one-->
-  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">Signal 由像你這樣的人提供支持。今天就成為贊助人吧。</string>
+  <string name="MessageRecord_signal_is_powered_by_people_like_you_become_a_sustainer_today">CoolApp 由像你這樣的人提供支持。今天就成為贊助人吧。</string>
   <!--Group Calling update messages-->
   <string name="MessageRecord_s_started_a_group_call_s">%1$s 已開始群組通話 · %2$s</string>
   <string name="MessageRecord_s_is_in_the_group_call_s">%1$s 在群組通話中 · %2$s</string>
@@ -1126,9 +1126,9 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">QR 碼無效。</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">抱歉，您已經連結太多裝置，請移除部分裝置</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">抱歉，這不是有效的裝置連結 QR 碼。</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">連結 Signal 裝置？</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">看起來您正在嘗試使用第 3 方掃描器連結 Signal 裝置。為了安全著想，請使用 Signal 重新掃描代碼一次。</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal 需要相機的權限以掃描 QR 碼，但是現在被設定為永久拒絕使用。請到應用程式設定中，選取「權限」，並啟用「相機」的權限。</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">連結 CoolApp 裝置？</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">看起來您正在嘗試使用第 3 方掃描器連結 CoolApp 裝置。為了安全著想，請使用 CoolApp 重新掃描代碼一次。</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">CoolApp 需要相機的權限以掃描 QR 碼，但是現在被設定為永久拒絕使用。請到應用程式設定中，選取「權限」，並啟用「相機」的權限。</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">因為沒有相機的使用權限，所以無法掃描 QR 碼。</string>
   <!--OutdatedBuildReminder-->
   <string name="OutdatedBuildReminder_update_now">立即更新</string>
@@ -1138,11 +1138,11 @@
   </plurals>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">輸入自訂密碼</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal 圖示</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">CoolApp 圖示</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">送出密碼</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">無效的密碼！</string>
-  <string name="PassphrasePromptActivity_unlock_signal">解鎖 Signal</string>
-  <string name="PassphrasePromptActivity_signal_android_lock_screen">Signal Android-螢幕鎖定</string>
+  <string name="PassphrasePromptActivity_unlock_signal">解鎖 CoolApp</string>
+  <string name="PassphrasePromptActivity_signal_android_lock_screen">CoolApp Android-螢幕鎖定</string>
   <!--PlacePickerActivity-->
   <string name="PlacePickerActivity_title">地圖</string>
   <string name="PlacePickerActivity_drop_pin">標註地圖</string>
@@ -1162,16 +1162,16 @@
   <plurals name="PinRestoreEntryFragment_you_have_d_attempt_remaining">
     <item quantity="other">你還有 %1$d 次嘗試的機會。機會耗盡後，你可建立一個新的 PIN 碼。註冊和使用帳號將不成問題，惟你會遺失一些已儲存的設定，例如你的個人資料訊息。</item>
   </plurals>
-  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">Signal 註冊 - 在 Android 上需要 PIN 碼協助</string>
+  <string name="PinRestoreEntryFragment_signal_registration_need_help_with_pin">CoolApp 註冊 - 在 Android 上需要 PIN 碼協助</string>
   <string name="PinRestoreEntryFragment_enter_alphanumeric_pin">輸入字母數字 PIN 碼</string>
   <string name="PinRestoreEntryFragment_enter_numeric_pin">輸入數字 PIN 碼</string>
   <!--PinRestoreLockedFragment-->
   <string name="PinRestoreLockedFragment_create_your_pin">建立你的 PIN 碼</string>
-  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">你已耗盡猜測 PIN 碼的嘗試機會了，但你仍可建立一個新的 PIN 碼，以便存取你的 Signal 帳號。為確保你的隱私和安全，將會恢復您的帳號，惟不會還原任何已儲存的個人資料訊息或設定。</string>
+  <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">你已耗盡猜測 PIN 碼的嘗試機會了，但你仍可建立一個新的 PIN 碼，以便存取你的 CoolApp 帳號。為確保你的隱私和安全，將會恢復您的帳號，惟不會還原任何已儲存的個人資料訊息或設定。</string>
   <string name="PinRestoreLockedFragment_create_new_pin">建立新的 PIN 碼</string>
   <!--PinOptOutDialog-->
   <string name="PinOptOutDialog_warning">警告</string>
-  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">如果你停用 PIN 碼，則除非你進行手動備份和還原，否則當你重新註冊 Signal 時，將會遺失所有資料。停用 PIN 碼時無法開啟註冊鎖定。</string>
+  <string name="PinOptOutDialog_if_you_disable_the_pin_you_will_lose_all_data">如果你停用 PIN 碼，則除非你進行手動備份和還原，否則當你重新註冊 CoolApp 時，將會遺失所有資料。停用 PIN 碼時無法開啟註冊鎖定。</string>
   <string name="PinOptOutDialog_disable_pin">停用 PIN 碼</string>
   <!--RatingManager-->
   <string name="RatingManager_rate_this_app">評分這個應用程式</string>
@@ -1215,15 +1215,15 @@
   <string name="ValentinesDayMegaphone_show_your_affection">透過成為Signal的長期贊助人來表達你的愛。</string>
   <!--WebRtcCallActivity-->
   <string name="WebRtcCallActivity__tap_here_to_turn_on_your_video">輕觸此處以開啟你的視訊</string>
-  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">如要撥電話給 %1$s，Signal 需要存取你的相機</string>
-  <string name="WebRtcCallActivity__signal_s">Signal %1$s</string>
+  <string name="WebRtcCallActivity__to_call_s_signal_needs_access_to_your_camera">如要撥電話給 %1$s，CoolApp 需要存取你的相機</string>
+  <string name="WebRtcCallActivity__signal_s">CoolApp %1$s</string>
   <string name="WebRtcCallActivity__calling">撥號中…</string>
   <string name="WebRtcCallActivity__group_is_too_large_to_ring_the_participants">群組太大，無法給參與者打電話。</string>
   <!--Call status shown when an active call was disconnected (e.g., network hiccup) and is trying to reconnect-->
   <string name="WebRtcCallActivity__reconnecting">重新連接中…</string>
   <!--WebRtcCallView-->
-  <string name="WebRtcCallView__signal_call">Signal 語音通話</string>
-  <string name="WebRtcCallView__signal_video_call">Signal 視訊電話</string>
+  <string name="WebRtcCallView__signal_call">CoolApp 語音通話</string>
+  <string name="WebRtcCallView__signal_video_call">CoolApp 視訊電話</string>
   <string name="WebRtcCallView__start_call">開始通話</string>
   <string name="WebRtcCallView__join_call">加入通話</string>
   <string name="WebRtcCallView__call_is_full">通話人數已滿</string>
@@ -1233,10 +1233,10 @@
   <string name="WebRtcCallView__reconnecting">重新連接中…</string>
   <string name="WebRtcCallView__joining">加入中…</string>
   <string name="WebRtcCallView__disconnected">已斷線</string>
-  <string name="WebRtcCallView__signal_will_ring_s">Signal 將去電給 %1$s</string>
-  <string name="WebRtcCallView__signal_will_ring_s_and_s">Signal 將去電給 %1$s 及 %2$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s">CoolApp 將去電給 %1$s</string>
+  <string name="WebRtcCallView__signal_will_ring_s_and_s">CoolApp 將去電給 %1$s 及 %2$s</string>
   <plurals name="WebRtcCallView__signal_will_ring_s_s_and_d_others">
-    <item quantity="other">Signal 將去電給 %1$s、%2$s，和 %3$d 及其他人</item>
+    <item quantity="other">CoolApp 將去電給 %1$s、%2$s，和 %3$d 及其他人</item>
   </plurals>
   <string name="WebRtcCallView__s_will_be_notified">%1$s 將被通知</string>
   <string name="WebRtcCallView__s_and_s_will_be_notified">%1$s 和 %2$s 將被通知</string>
@@ -1306,18 +1306,18 @@
   <string name="RegistrationActivity_is_your_phone_number_above_correct">你的電話號碼正確嗎？</string>
   <string name="RegistrationActivity_edit_number">輸入號碼</string>
   <string name="RegistrationActivity_missing_google_play_services">找不到 Google Play 服務</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">此裝置缺少 Google Play 服務。你仍然可以使用 Signal，但是此設定可能會降低可靠性或效能。\n\n如果你不是個進階使用者，不是正在執行原廠的 Android ROM，或是你認為你看到的可能是一個錯誤，請聯絡 support@signal.org 來協助你排除故障。</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">此裝置缺少 Google Play 服務。你仍然可以使用 CoolApp，但是此設定可能會降低可靠性或效能。\n\n如果你不是個進階使用者，不是正在執行原廠的 Android ROM，或是你認為你看到的可能是一個錯誤，請聯絡 support@asia.coolapp.chat 來協助你排除故障。</string>
   <string name="RegistrationActivity_i_understand">我了解</string>
   <string name="RegistrationActivity_play_services_error">Play 服務錯誤</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play 服務正在更新或暫時無法使用。請再重試。</string>
   <string name="RegistrationActivity_terms_and_privacy">條款與條件；隱私權政策</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signal 需要聯絡人和媒體權限來幫助你與朋友聯繫和傳送訊息。你的聯絡人是使用 Signal 的私密聯絡人搜尋上傳的，這意味著它們是點對點加密的，並且也永遠不會被 Signal 的服務讀取。</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">Signal 需要獲得聯絡人權限才能幫助你與朋友聯絡。妳的聯絡人是使用 Signal 的私密聯絡人搜尋上傳的，這意味著它們是點對點加密的，並且永遠不會被 Signal 的服務讀取。</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">CoolApp 需要聯絡人和媒體權限來幫助你與朋友聯繫和傳送訊息。你的聯絡人是使用 CoolApp 的私密聯絡人搜尋上傳的，這意味著它們是點對點加密的，並且也永遠不會被 CoolApp 的服務讀取。</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_in_order_to_connect_with_friends">CoolApp 需要獲得聯絡人權限才能幫助你與朋友聯絡。妳的聯絡人是使用 CoolApp 的私密聯絡人搜尋上傳的，這意味著它們是點對點加密的，並且永遠不會被 CoolApp 的服務讀取。</string>
   <string name="RegistrationActivity_rate_limited_to_service">你已嘗試過多註冊此號碼。 請稍後再試。</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">無法連接服務。請檢查網路連線並再試一次。</string>
   <string name="RegistrationActivity_non_standard_number_format">非標準數字格式</string>
   <string name="RegistrationActivity_the_number_you_entered_appears_to_be_a_non_standard">你輸入的數字 (%1$s) 似乎是非標準格式。\n\n你的意思是 %2$s嗎 ?</string>
-  <string name="RegistrationActivity_signal_android_phone_number_format">Signal Android - 電話號碼格式</string>
+  <string name="RegistrationActivity_signal_android_phone_number_format">CoolApp Android - 電話號碼格式</string>
   <string name="RegistrationActivity_call_requested">請求通話</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="other">你現在距離提交偵錯日誌只有%d步之遙。</item>
@@ -1337,7 +1337,7 @@
   <!--RegistrationLockV2Dialog-->
   <string name="RegistrationLockV2Dialog_turn_on_registration_lock">開啟註冊鎖？</string>
   <string name="RegistrationLockV2Dialog_turn_off_registration_lock">關閉註冊鎖？</string>
-  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">如果你再次註冊 Signal 時忘記了你的 Signal PIN 碼，你的帳號將會被暫時鎖定 7 天。</string>
+  <string name="RegistrationLockV2Dialog_if_you_forget_your_signal_pin_when_registering_again">如果你再次註冊 CoolApp 時忘記了你的 CoolApp PIN 碼，你的帳號將會被暫時鎖定 7 天。</string>
   <string name="RegistrationLockV2Dialog_turn_on">開啟</string>
   <string name="RegistrationLockV2Dialog_turn_off">關閉</string>
   <!--RevealableMessageView-->
@@ -1353,13 +1353,13 @@
   <!--ShakeToReport-->
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">新增至連絡人</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">邀請至 Signal</string>
-  <string name="SharedContactDetailsActivity_signal_message">Signal 訊息</string>
-  <string name="SharedContactDetailsActivity_signal_call">Signal 通話</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">邀請至 CoolApp</string>
+  <string name="SharedContactDetailsActivity_signal_message">CoolApp 訊息</string>
+  <string name="SharedContactDetailsActivity_signal_call">CoolApp 通話</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">新增至連絡人</string>
-  <string name="SharedContactView_invite_to_signal">邀請至 Signal</string>
-  <string name="SharedContactView_message">Signal 訊息</string>
+  <string name="SharedContactView_invite_to_signal">邀請至 CoolApp</string>
+  <string name="SharedContactView_message">CoolApp 訊息</string>
   <!--SignalBottomActionBar-->
   <string name="SignalBottomActionBar_more">更多</string>
   <!--SignalPinReminders-->
@@ -1391,7 +1391,7 @@
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">已安裝的貼圖</string>
   <string name="StickerManagementAdapter_stickers_you_received">你收到的貼圖</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Signal 藝術家系列</string>
+  <string name="StickerManagementAdapter_signal_artist_series">CoolApp 藝術家系列</string>
   <string name="StickerManagementAdapter_no_stickers_installed">沒有貼圖被安裝</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">你收到的貼圖訊息將顯示在這裡</string>
   <string name="StickerManagementAdapter_untitled">無標題</string>
@@ -1417,8 +1417,8 @@
   <string name="SupportEmailUtil_filter">過濾:</string>
   <string name="SupportEmailUtil_device_info">裝置資訊:</string>
   <string name="SupportEmailUtil_android_version">Android 版本:</string>
-  <string name="SupportEmailUtil_signal_version">Signal 版本:</string>
-  <string name="SupportEmailUtil_signal_package">Signal 封包:</string>
+  <string name="SupportEmailUtil_signal_version">CoolApp 版本:</string>
+  <string name="SupportEmailUtil_signal_package">CoolApp 封包:</string>
   <string name="SupportEmailUtil_registration_lock">註冊鎖：</string>
   <string name="SupportEmailUtil_locale">語言:</string>
   <!--ThreadRecord-->
@@ -1437,7 +1437,7 @@
   <string name="ThreadRecord_view_once_media">一次性多媒體檔案</string>
   <string name="ThreadRecord_this_message_was_deleted">此訊息已被刪除。</string>
   <string name="ThreadRecord_you_deleted_this_message">你已刪除此訊息。</string>
-  <string name="ThreadRecord_s_is_on_signal">%s 在 Signal 了！</string>
+  <string name="ThreadRecord_s_is_on_signal">%s 在 CoolApp 了！</string>
   <string name="ThreadRecord_disappearing_messages_disabled">自動銷毀訊息功能已被關閉。</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">訊息銷毀時間設定為 %s</string>
   <string name="ThreadRecord_safety_number_changed">安全碼已改變</string>
@@ -1454,8 +1454,8 @@
   <string name="ThreadRecord_video">影片</string>
   <string name="ThreadRecord_chat_session_refreshed">聊天會話已刷新</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Signal 更新</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">有新版本的 Signal，輕觸更新</string>
+  <string name="UpdateApkReadyListener_Signal_update">CoolApp 更新</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">有新版本的 CoolApp，輕觸更新</string>
   <!--UntrustedSendDialog-->
   <string name="UntrustedSendDialog_send_message">傳送訊息？</string>
   <string name="UntrustedSendDialog_send">傳送</string>
@@ -1479,14 +1479,14 @@
     <item quantity="other">有%d個聯絡人使用Signal</item>
   </plurals>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">您的聯絡人使用的是舊版本的 Signal。在驗證您的安全碼前請尋求對方先進行更新。</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">您的聯絡人正使用較新版本的 Signal，QR 碼格式並不相容。請升級以作比對。</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">您的聯絡人使用的是舊版本的 CoolApp。在驗證您的安全碼前請尋求對方先進行更新。</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">您的聯絡人正使用較新版本的 CoolApp，QR 碼格式並不相容。請升級以作比對。</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">掃描的 QR 碼並非正確格式的安全碼驗證碼。請試著再掃一次。</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">分享安全碼到…</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">我方 Signal 安全碼：</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">我方 CoolApp 安全碼：</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">看起來您沒有任何可以分享的應用。</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">沒有在剪貼簿中發現安全碼，因此無法進行比較</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal 需要相機的權限以掃描 QR 碼，但是現在被設定為永久拒絕使用。請到應用程式設定中，選取「權限」，並啟用「相機」的權限。</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">CoolApp 需要相機的權限以掃描 QR 碼，但是現在被設定為永久拒絕使用。請到應用程式設定中，選取「權限」，並啟用「相機」的權限。</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">因為沒有「相機」的權限，無法掃描 QR 碼</string>
   <string name="VerifyIdentityActivity_you_must_first_exchange_messages_in_order_to_view">你必須先交換訊息才能查看 %1$s 的安全碼。</string>
   <!--ViewOnceMessageActivity-->
@@ -1505,13 +1505,13 @@
   <string name="ApplicationMigrationService_system_database_import_is_complete">系統數據庫導入完成。</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">按一下開啟。</string>
-  <string name="KeyCachingService_passphrase_cached">Signal 已經解鎖</string>
-  <string name="KeyCachingService_lock">鎖定 Signal</string>
+  <string name="KeyCachingService_passphrase_cached">CoolApp 已經解鎖</string>
+  <string name="KeyCachingService_lock">鎖定 CoolApp</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">你</string>
   <string name="MediaPreviewActivity_unssuported_media_type">不支援的媒體類型</string>
   <string name="MediaPreviewActivity_draft">草稿</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal 需要儲存的權限以儲存外接儲存空間，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「儲存空間」的權限。</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">CoolApp 需要儲存的權限以儲存外接儲存空間，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「儲存空間」的權限。</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">因為沒有儲存的權限，無法儲存到外部儲存空間</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">刪除訊息？</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">這將永久刪除此訊息。</string>
@@ -1537,10 +1537,10 @@
   <string name="MessageNotifier_view_once_photo">一次性照片</string>
   <string name="MessageNotifier_view_once_video">一次性影片</string>
   <string name="MessageNotifier_reply">回覆</string>
-  <string name="MessageNotifier_signal_message">Signal 訊息</string>
+  <string name="MessageNotifier_signal_message">CoolApp 訊息</string>
   <string name="MessageNotifier_unsecured_sms">不安全的簡訊</string>
   <string name="MessageNotifier_you_may_have_new_messages">你有新訊息</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">開啟 Signal 以查看最近的通知。</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">開啟 CoolApp 以查看最近的通知。</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">聯絡人</string>
   <string name="MessageNotifier_reacted_s_to_s">對「%2$s」作出了 %1$s 反應。</string>
@@ -1552,7 +1552,7 @@
   <string name="MessageNotifier_reacted_s_to_your_view_once_media">對你的一次觀看的媒體做出%1$s反應。</string>
   <string name="MessageNotifier_reacted_s_to_your_sticker">對你的貼圖作出了 %1$s 反應。</string>
   <string name="MessageNotifier_this_message_was_deleted">此訊息已被刪除。</string>
-  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">關閉聯絡人上線 Signal 的通知嗎？你可以在 Signal &gt; 設定 &gt; 通知中再次啟用。</string>
+  <string name="TurnOffContactJoinedNotificationsActivity__turn_off_contact_joined_signal">關閉聯絡人上線 CoolApp 的通知嗎？你可以在 CoolApp &gt; 設定 &gt; 通知中再次啟用。</string>
   <!--Notification Channels-->
   <string name="NotificationChannel_channel_messages">訊息</string>
   <string name="NotificationChannel_calls">通話</string>
@@ -1564,7 +1564,7 @@
   <string name="NotificationChannel_group_chats">聊天</string>
   <string name="NotificationChannel_missing_display_name">未知</string>
   <string name="NotificationChannel_voice_notes">語音筆記</string>
-  <string name="NotificationChannel_contact_joined_signal">聯絡人上線 Signal 通知</string>
+  <string name="NotificationChannel_contact_joined_signal">聯絡人上線 CoolApp 通知</string>
   <string name="NotificationChannels__no_activity_available_to_open_notification_channel_settings">無可用的活動以開啟通知類別設定。</string>
   <!--Notification channel name for showing persistent background connection on devices without push notifications-->
   <string name="NotificationChannel_background_connection">背景連線</string>
@@ -1572,7 +1572,7 @@
   <string name="NotificationChannel_call_status">通話狀態</string>
   <!--ProfileEditNameFragment-->
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">當 Signal 鎖定時無法使用快速回覆！</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">當 CoolApp 鎖定時無法使用快速回覆！</string>
   <string name="QuickResponseService_problem_sending_message">傳送訊息出現問題！</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">儲存到 %s</string>
@@ -1583,7 +1583,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">無效的捷徑</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">CoolApp</string>
   <string name="SingleRecipientNotificationBuilder_new_message">新訊息</string>
   <string name="SingleRecipientNotificationBuilder_message_request">訊息要求</string>
   <string name="SingleRecipientNotificationBuilder_you">你</string>
@@ -1596,11 +1596,11 @@
   </plurals>
   <!--UnauthorizedReminder-->
   <string name="UnauthorizedReminder_device_no_longer_registered">此裝置已被取消註冊</string>
-  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">這似乎是你將 Signal 的電話號碼註冊在其他的裝置上。觸碰這裡來重新註冊。</string>
+  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">這似乎是你將 CoolApp 的電話號碼註冊在其他的裝置上。觸碰這裡來重新註冊。</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">若要接聽通話，請允許 Signal 存取你的麥克風。</string>
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">要接聽來自%s的電話，請允許 Signal 使用你的麥克風。</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal 需要\"麥克風\"及\"相機\"的權限以接聽來電，但是現在被設定為永久拒絕使用。請到應用程式設定中，選取\"權限\"，並啟用\"麥克風\"及\"相機\"的權限。</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_give_signal_access_to_your_microphone">若要接聽通話，請允許 CoolApp 存取你的麥克風。</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">要接聽來自%s的電話，請允許 CoolApp 使用你的麥克風。</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">CoolApp 需要\"麥克風\"及\"相機\"的權限以接聽來電，但是現在被設定為永久拒絕使用。請到應用程式設定中，選取\"權限\"，並啟用\"麥克風\"及\"相機\"的權限。</string>
   <string name="WebRtcCallActivity__answered_on_a_linked_device">在已連結的裝置回答。</string>
   <string name="WebRtcCallActivity__declined_on_a_linked_device">拒絕在已連結的裝置。</string>
   <string name="WebRtcCallActivity__busy_on_a_linked_device">已連結的裝置忙線。</string>
@@ -1624,7 +1624,7 @@
   <string name="change_passphrase_activity__repeat_new_passphrase">重複新密碼</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">輸入名字或號碼</string>
-  <string name="contact_selection_activity__invite_to_signal">邀請至 Signal</string>
+  <string name="contact_selection_activity__invite_to_signal">邀請至 CoolApp</string>
   <string name="contact_selection_activity__new_group">新增群組</string>
   <!--contact_filter_toolbar-->
   <string name="contact_filter_toolbar__clear_entered_text_description">清除已輸入的文字</string>
@@ -1636,20 +1636,20 @@
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">聯絡人相片</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal 需要聯絡人的權限以顯示聯絡人資訊，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「聯絡人」的權限。</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">CoolApp 需要聯絡人的權限以顯示聯絡人資訊，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「聯絡人」的權限。</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">取回聯絡人名單錯誤，請檢查網路連線</string>
   <string name="ContactSelectionListFragment_username_not_found">找不到使用者名稱</string>
-  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\"不是 Signal 使用者。請檢查使用者名稱並再試一次。</string>
+  <string name="ContactSelectionListFragment_s_is_not_a_signal_user">\"%1$s\"不是 CoolApp 使用者。請檢查使用者名稱並再試一次。</string>
   <string name="ContactSelectionListFragment_you_do_not_need_to_add_yourself_to_the_group">你無需將自己新增到群組中</string>
   <string name="ContactSelectionListFragment_maximum_group_size_reached">已達群組人數上限</string>
-  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">Signal 群組最多可以有%1$d個成員。</string>
+  <string name="ContactSelectionListFragment_signal_groups_can_have_a_maximum_of_d_members">CoolApp 群組最多可以有%1$d個成員。</string>
   <string name="ContactSelectionListFragment_recommended_member_limit_reached">已達到推薦成員數上限</string>
-  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">Signal 群組在%1$d個成員數或更少的情況下表現最佳。 新增更多成員將導致傳送和接收訊息的延遲。</string>
+  <string name="ContactSelectionListFragment_signal_groups_perform_best_with_d_members_or_fewer">CoolApp 群組在%1$d個成員數或更少的情況下表現最佳。 新增更多成員將導致傳送和接收訊息的延遲。</string>
   <plurals name="ContactSelectionListFragment_d_members">
     <item quantity="other">%1$d 個成員</item>
   </plurals>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal 需要存取你的\"聯絡人\"以顯示聯絡人資訊。</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">CoolApp 需要存取你的\"聯絡人\"以顯示聯絡人資訊。</string>
   <string name="contact_selection_list_fragment__show_contacts">顯示聯絡人</string>
   <!--contact_selection_list_item-->
   <plurals name="contact_selection_list_item__number_of_members">
@@ -1660,7 +1660,7 @@
     <item quantity="other">%1$d 個觀看者</item>
   </plurals>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Signal 訊息</string>
+  <string name="conversation_activity__type_message_push">CoolApp 訊息</string>
   <string name="conversation_activity__type_message_sms_insecure">不安全的簡訊</string>
   <string name="conversation_activity__type_message_mms_insecure">不安全的多媒體訊息</string>
   <string name="conversation_activity__from_sim_name">來自 %1$s</string>
@@ -1672,7 +1672,7 @@
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">切換快速相機附檔抽屜</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">錄製並傳送語音附檔</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">鎖定語音錄製附檔</string>
-  <string name="conversation_activity__enable_signal_for_sms">啟動 Signal 簡訊功能</string>
+  <string name="conversation_activity__enable_signal_for_sms">啟動 CoolApp 簡訊功能</string>
   <string name="conversation_activity__message_could_not_be_sent">無法傳送訊息。 檢查你的連線，然後重試。</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">滑動以取消</string>
@@ -1703,7 +1703,7 @@
   <string name="ConversationUpdateItem_view">檢視</string>
   <string name="ConversationUpdateItem_the_disappearing_message_time_will_be_set_to_s_when_you_message_them">銷毀的訊息時間將設定為%1$s 當你要傳送訊息給他人。</string>
   <!--Update item button text to show to boost a feature-->
-  <string name="ConversationUpdateItem_signal_boost">Signal 單次贊助</string>
+  <string name="ConversationUpdateItem_signal_boost">CoolApp 單次贊助</string>
   <!--Update item button text to show to become a sustainer in the release notes channel-->
   <string name="ConversationUpdateItem_become_a_sustainer">成為贊助人</string>
   <!--audio_view-->
@@ -1728,7 +1728,7 @@
   <string name="conversation_fragment__scroll_to_the_bottom_content_description">向下滑動至底部</string>
   <!--BubbleOptOutTooltip-->
   <!--Message to inform the user of what Android chat bubbles are-->
-  <string name="BubbleOptOutTooltip__description">泡泡是一項 Android 功能，你可以為 Signal 聊天關閉該功能。</string>
+  <string name="BubbleOptOutTooltip__description">泡泡是一項 Android 功能，你可以為 CoolApp 聊天關閉該功能。</string>
   <!--Button to dismiss the tooltip for opting out of using Android bubbles-->
   <string name="BubbleOptOutTooltip__not_now">稍後</string>
   <!--Button to move to the system settings to control the use of Android bubbles-->
@@ -1794,9 +1794,9 @@
   <string name="IdentityUtil_unverified_banner_one">您與 %s 的安全碼已經改變，需要重新驗證</string>
   <string name="IdentityUtil_unverified_banner_two">您與 %1$s 及 %2$s 的安全碼需要重新驗證</string>
   <string name="IdentityUtil_unverified_banner_many">您與 %1$s、%2$s 及 %3$s 的安全碼需要重新驗證</string>
-  <string name="IdentityUtil_unverified_dialog_one">你與 %1$s 的安全碼已改變，而且不再是已驗證。這有可能是有不明人士試圖攔截您的通訊，或是因為 %1$s 重新安裝 Signal。</string>
-  <string name="IdentityUtil_unverified_dialog_two">你與 %1$s 及 %2$s 的安全碼不再是已驗證。這有可能是有不明人士試圖攔截您的通訊，或是因為他們重新安裝 Signal。</string>
-  <string name="IdentityUtil_unverified_dialog_many">你與 %1$s、%2$s 及 %3$s 的安全碼不再是已驗證。這有可能是有不明人士試圖攔截您的通訊，或是因為他們重新安裝 Signal。</string>
+  <string name="IdentityUtil_unverified_dialog_one">你與 %1$s 的安全碼已改變，而且不再是已驗證。這有可能是有不明人士試圖攔截您的通訊，或是因為 %1$s 重新安裝 CoolApp。</string>
+  <string name="IdentityUtil_unverified_dialog_two">你與 %1$s 及 %2$s 的安全碼不再是已驗證。這有可能是有不明人士試圖攔截您的通訊，或是因為他們重新安裝 CoolApp。</string>
+  <string name="IdentityUtil_unverified_dialog_many">你與 %1$s、%2$s 及 %3$s 的安全碼不再是已驗證。這有可能是有不明人士試圖攔截您的通訊，或是因為他們重新安裝 CoolApp。</string>
   <string name="IdentityUtil_untrusted_dialog_one">你與 %s 的安全碼剛剛已改變。</string>
   <string name="IdentityUtil_untrusted_dialog_two">你與 %1$s 及 %2$s 的安全碼剛剛已改變。</string>
   <string name="IdentityUtil_untrusted_dialog_many">你與 %1$s、%2$s 及 %3$s 的安全碼剛剛已改變。</string>
@@ -1808,7 +1808,7 @@
   <!--giphy_fragment-->
   <string name="giphy_fragment__nothing_found">未找到任何東西</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">您想要把已存在的訊息匯入 Signal 的加密資料庫嗎？</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">您想要把已存在的訊息匯入 CoolApp 的加密資料庫嗎？</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">裝置上預設的資料庫將不會被做任何修改或變更。</string>
   <string name="database_migration_activity__skip">略過</string>
   <string name="database_migration_activity__import">匯入</string>
@@ -1830,7 +1830,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">解鎖</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal 需要多媒體訊息設定以透過業者傳輸媒體與群組訊息。您的裝置沒有所需的資訊，有可能是由於裝置被鎖定或者其他限制設定。</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">CoolApp 需要多媒體訊息設定以透過業者傳輸媒體與群組訊息。您的裝置沒有所需的資訊，有可能是由於裝置被鎖定或者其他限制設定。</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">傳送媒體檔案或群組訊息，請按下 \"OK\" 並完成必要的設定。您所使用電信業者相關的MMS多媒體簡訊設定可能羅列在 \'無線與網路／行動網路\'的設定項目內。且您只需設定一次。</string>
   <!--BadDecryptLearnMoreDialog-->
   <string name="BadDecryptLearnMoreDialog_delivery_issue">傳送問題</string>
@@ -1870,7 +1870,7 @@
   <!--recipients_panel-->
   <string name="recipients_panel__to"><small>輸入名稱或手機號碼</small></string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[ 要與%s 驗證點對點加密的安全性，請將上面的數字與其裝置進行比對。你也可以掃描他們手機上的代碼。<a href="https://signal.org/redirect/safety-numbers">了解更多。</a>]]></string>
+  <string name="verify_display_fragment__to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[ 要與%s 驗證點對點加密的安全性，請將上面的數字與其裝置進行比對。你也可以掃描他們手機上的代碼。<a href="https://asia.coolapp.chat/redirect/safety-numbers">了解更多。</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">點擊掃描</string>
   <string name="verify_display_fragment__successful_match">成功匹配</string>
   <string name="verify_display_fragment__failed_to_verify_safety_number">驗證安全碼失敗</string>
@@ -1928,7 +1928,7 @@
   <string name="HelpFragment__how_do_you_feel">你覺得如何?(可選項目)</string>
   <string name="HelpFragment__tell_us_why_youre_reaching_out">所為何事？</string>
   <string name="HelpFragment__support_info">支援訊息</string>
-  <string name="HelpFragment__signal_android_support_request">Signal Android 支援要求</string>
+  <string name="HelpFragment__signal_android_support_request">CoolApp Android 支援要求</string>
   <string name="HelpFragment__debug_log">偵錯紀錄:</string>
   <string name="HelpFragment__could_not_upload_logs">無法上傳記錄檔</string>
   <string name="HelpFragment__please_be_as_descriptive_as_possible">請盡可能描述一下，以幫助我們理解該問題。</string>
@@ -1940,7 +1940,7 @@
     <item>回報</item>
     <item>其他</item>
     <item>付款(行動貨幣)</item>
-    <item>長期贊助 &amp; Signal 單次贊助</item>
+    <item>長期贊助 &amp; CoolApp 單次贊助</item>
   </string-array>
   <!--ReactWithAnyEmojiBottomSheetDialogFragment-->
   <string name="ReactWithAnyEmojiBottomSheetDialogFragment__this_message">這個訊息</string>
@@ -1989,8 +1989,8 @@
   <string name="preferences__sms_mms">簡訊與多媒體訊息</string>
   <string name="preferences__pref_all_sms_title">接收所有手機簡訊</string>
   <string name="preferences__pref_all_mms_title">接收所有多媒體訊息</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">使用 Signal 接收所有簡訊</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">使用 Signal 接收所有多媒體訊息</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">使用 CoolApp 接收所有簡訊</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">使用 CoolApp 接收所有多媒體訊息</string>
   <string name="preferences__pref_enter_sends_title">按下輸入鍵發送</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">按下輸入鍵將會發送訊息</string>
   <string name="preferences__pref_use_address_book_photos">使用通訊錄照片</string>
@@ -2005,7 +2005,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">使用鎖定螢幕及通知密碼</string>
   <string name="preferences__screen_security">螢幕安全設定</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">在對話清單或應用程式內停用畫面擷取功能</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">在特定時間內不活躍會自動鎖定 Signal</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">在特定時間內不活躍會自動鎖定 CoolApp</string>
   <string name="preferences__inactivity_timeout_passphrase">不活躍鎖定密碼</string>
   <string name="preferences__inactivity_timeout_interval">不活躍時間間隔</string>
   <string name="preferences__notifications">通知</string>
@@ -2036,10 +2036,10 @@
   <string name="preferences__slow">緩慢</string>
   <string name="preferences__help">幫助</string>
   <string name="preferences__advanced">進階</string>
-  <string name="preferences__donate_to_signal">贊助 Signal</string>
+  <string name="preferences__donate_to_signal">贊助 CoolApp</string>
   <string name="preferences__subscription">定期贊助</string>
   <string name="preferences__become_a_signal_sustainer">成為Signal 長期贊助人</string>
-  <string name="preferences__signal_boost">Signal 單次贊助</string>
+  <string name="preferences__signal_boost">CoolApp 單次贊助</string>
   <string name="preferences__privacy">隱私權</string>
   <string name="preferences__mms_user_agent">MMS User Agent</string>
   <string name="preferences__advanced_mms_access_point_names">手動多媒體設定</string>
@@ -2066,13 +2066,13 @@
   <string name="preferences__chat_color_and_wallpaper">聊天顏色與壁紙</string>
   <string name="preferences__disable_pin">停用 PIN 碼</string>
   <string name="preferences__enable_pin">啟用 PIN 碼</string>
-  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">如果你停用 PIN 碼，則除非你進行手動備份和還原，否則當你重新註冊 Signal 時，將會遺失所有資料。停用 PIN 碼時無法開啟註冊鎖定。</string>
-  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN 碼用於加密在 Signal 中儲存的資訊，以確保只得你可以存取。當你重新安裝應用程式後，你的個人資料、設定和聯絡人將會還原。開啟應用程式不需要你的 PIN 碼。</string>
+  <string name="preferences__if_you_disable_the_pin_you_will_lose_all_data">如果你停用 PIN 碼，則除非你進行手動備份和還原，否則當你重新註冊 CoolApp 時，將會遺失所有資料。停用 PIN 碼時無法開啟註冊鎖定。</string>
+  <string name="preferences__pins_keep_information_stored_with_signal_encrypted_so_only_you_can_access_it">PIN 碼用於加密在 CoolApp 中儲存的資訊，以確保只得你可以存取。當你重新安裝應用程式後，你的個人資料、設定和聯絡人將會還原。開啟應用程式不需要你的 PIN 碼。</string>
   <string name="preferences__system_default">系統預設</string>
   <string name="preferences__language">語言選項</string>
-  <string name="preferences__signal_messages_and_calls">Signal 訊息與通話</string>
+  <string name="preferences__signal_messages_and_calls">CoolApp 訊息與通話</string>
   <string name="preferences__advanced_pin_settings">進階 PIN 碼設定</string>
-  <string name="preferences__free_private_messages_and_calls">免費加密訊息與通話至 Signal 使用者</string>
+  <string name="preferences__free_private_messages_and_calls">免費加密訊息與通話至 CoolApp 使用者</string>
   <string name="preferences__submit_debug_log">送出偵錯日誌</string>
   <string name="preferences__delete_account">刪除帳號</string>
   <string name="preferences__support_wifi_calling">\"WiFi 呼叫\"相容模式</string>
@@ -2112,8 +2112,8 @@
   <string name="preferences_storage__s_messages">%1$s 則訊息</string>
   <string name="preferences_storage__custom">自訂</string>
   <string name="preferences_advanced__use_system_emoji">使用系統表情符號</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">停用 Signal 內建的表情支援</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">透過 Signal 伺服器轉發通話，來避免透露你的 IP 位址給你的聯絡人。啟用時，會降低通話品質。</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">停用 CoolApp 內建的表情支援</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">透過 CoolApp 伺服器轉發通話，來避免透露你的 IP 位址給你的聯絡人。啟用時，會降低通話品質。</string>
   <string name="preferences_advanced__always_relay_calls">永遠轉發通話</string>
   <string name="preferences_app_protection__who_can">誰可以…</string>
   <string name="preferences_app_protection__app_access">應用程式存取</string>
@@ -2133,20 +2133,20 @@
   <string name="preferences_notifications__calls">通話</string>
   <string name="preferences_notifications__ringtone">鈴聲</string>
   <string name="preferences_chats__show_invitation_prompts">顯示邀請提示</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">對非使用 Signal 的聯絡人顯示邀請提示</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">對非使用 CoolApp 的聯絡人顯示邀請提示</string>
   <string name="preferences_chats__message_text_size">訊息字體大小</string>
-  <string name="preferences_events__contact_joined_signal">聯絡人上線 Signal 通知</string>
+  <string name="preferences_events__contact_joined_signal">聯絡人上線 CoolApp 通知</string>
   <string name="preferences_notifications__priority">優先順序</string>
   <!--Heading for the \'censorship circumvention\' section of privacy preferences-->
   <string name="preferences_communication__category_censorship_circumvention">審查規避</string>
   <!--Title of the \'censorship circumvention\' toggle switch-->
   <string name="preferences_communication__censorship_circumvention">審查規避</string>
-  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">若啟用，Signal 將嘗試繞過網路審查，除非您所在的區域會封鎖 Signal，否則不要使用這項功能</string>
+  <string name="preferences_communication__censorship_circumvention_if_enabled_signal_will_attempt_to_circumvent_censorship">若啟用，CoolApp 將嘗試繞過網路審查，除非您所在的區域會封鎖 CoolApp，否則不要使用這項功能</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that we automatically enabled it because we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_has_been_activated_based_on_your_accounts_phone_number">根據您的電話號碼，我們已自動啟用網路審查規避</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you disabled it even though we believe you\'re in a censored country-->
   <string name="preferences_communication__censorship_circumvention_you_have_manually_disabled">你已經手動關閉規避審查。</string>
-  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the Signal service-->
+  <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re already connected to the CoolApp service-->
   <string name="preferences_communication__censorship_circumvention_is_not_necessary_you_are_already_connected">你已經連接上 Signal服務，所以不需要啟動審查規避功能。</string>
   <!--Summary text for \'censorship circumvention\' toggle. Indicates that you cannot use it because you\'re not connected to the internet-->
   <string name="preferences_communication__censorship_circumvention_can_only_be_activated_when_connected_to_the_internet">審查規避只能在連上網路時啟動。</string>
@@ -2162,7 +2162,7 @@
   <string name="preferences_off">關</string>
   <string name="preferences_on">開</string>
   <string name="preferences_proxy_address">代理伺服器位址</string>
-  <string name="preferences_only_use_a_proxy_if">僅當你無法透過行動數據或 Wi-Fi 連接到 Signal 時才使用代理。</string>
+  <string name="preferences_only_use_a_proxy_if">僅當你無法透過行動數據或 Wi-Fi 連接到 CoolApp 時才使用代理。</string>
   <string name="preferences_share">分享</string>
   <string name="preferences_save">儲存</string>
   <string name="preferences_connecting_to_proxy">連接代理伺服器中…</string>
@@ -2316,8 +2316,8 @@
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">撥出</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Signal 通話</string>
-  <string name="conversation_callable_secure__menu_video">Signal 視訊電話</string>
+  <string name="conversation_callable_secure__menu_call">CoolApp 通話</string>
+  <string name="conversation_callable_secure__menu_video">CoolApp 視訊電話</string>
   <!--conversation_context-->
   <!--Heading which shows how many messages are currently selected-->
   <plurals name="conversation_context__s_selected">
@@ -2403,10 +2403,10 @@
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">與剪貼簿中的內容進行比較</string>
   <!--reminder_header-->
   <string name="reminder_header_sms_import_title">匯入系統簡訊</string>
-  <string name="reminder_header_sms_import_text">按此以複製您手機中的簡訊訊息至 Signal 的加密數據庫中。</string>
-  <string name="reminder_header_push_title">啟用 Signal 訊息與通話</string>
+  <string name="reminder_header_sms_import_text">按此以複製您手機中的簡訊訊息至 CoolApp 的加密數據庫中。</string>
+  <string name="reminder_header_push_title">啟用 CoolApp 訊息與通話</string>
   <string name="reminder_header_push_text">升級您的通訊體驗。</string>
-  <string name="reminder_header_service_outage_text">Signal 正遇到技術性的問題。我們正在處理，將盡速的修正並恢復服務。</string>
+  <string name="reminder_header_service_outage_text">CoolApp 正遇到技術性的問題。我們正在處理，將盡速的修正並恢復服務。</string>
   <string name="reminder_header_progress">%1$d%%</string>
   <!--media_preview-->
   <string name="media_preview__save_title">儲存</string>
@@ -2422,7 +2422,7 @@
   <string name="Insights__percent">%</string>
   <string name="Insights__title">統計</string>
   <string name="InsightsDashboardFragment__title">統計</string>
-  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">Signal 協定自動保護%1$d%%你的過去%2$d天傳出的訊息。 Signal使用者之間的對話始終是點對點加密的。</string>
+  <string name="InsightsDashboardFragment__signal_protocol_automatically_protected">CoolApp 協定自動保護%1$d%%你的過去%2$d天傳出的訊息。 Signal使用者之間的對話始終是點對點加密的。</string>
   <string name="InsightsDashboardFragment__spread_the_word">把這些訊息散播出去</string>
   <string name="InsightsDashboardFragment__not_enough_data">沒有足夠的資料</string>
   <string name="InsightsDashboardFragment__your_insights_percentage_is_calculated_based_on">你的統計百分比是根據過去%1$d天內尚未銷毀或刪除的出訊息計算得出的。</string>
@@ -2433,11 +2433,11 @@
   <string name="InsightsDashboardFragment__cancel">取消</string>
   <string name="InsightsDashboardFragment__send">傳送</string>
   <string name="InsightsModalFragment__title">介紹 統計</string>
-  <string name="InsightsModalFragment__description">找出安全傳送的訊息數量，然後迅速邀請新聯絡人提高單次贊助 Signal 的比例。</string>
+  <string name="InsightsModalFragment__description">找出安全傳送的訊息數量，然後迅速邀請新聯絡人提高單次贊助 CoolApp 的比例。</string>
   <string name="InsightsModalFragment__view_insights">檢視 統計</string>
-  <string name="FirstInviteReminder__title">邀請至 Signal</string>
+  <string name="FirstInviteReminder__title">邀請至 CoolApp</string>
   <string name="FirstInviteReminder__description">你傳送的加密訊息數量可以增加多達 %1$d%%</string>
-  <string name="SecondInviteReminder__title">單次贊助你的 Signal</string>
+  <string name="SecondInviteReminder__title">單次贊助你的 CoolApp</string>
   <string name="SecondInviteReminder__description">邀請 %1$s</string>
   <string name="InsightsReminder__view_insights">檢視 統計</string>
   <string name="InsightsReminder__invite">邀請</string>
@@ -2456,7 +2456,7 @@
   <string name="CreateKbsPinFragment__create_a_new_pin">建立一個新 PIN 碼</string>
   <string name="CreateKbsPinFragment__you_can_choose_a_new_pin_as_long_as_this_device_is_registered">只要此裝置仍保持註冊，你隨時可變更 PIN 碼。</string>
   <string name="CreateKbsPinFragment__create_your_pin">建立你的 PIN 碼</string>
-  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN 碼用於加密在 Signal 中儲存的資訊，以確保只得你可以存取。當你重新安裝應用程式後，你的個人資料、設定和聯絡人將會還原。開啟應用程式不需要你的 PIN 碼。</string>
+  <string name="CreateKbsPinFragment__pins_keep_information_stored_with_signal_encrypted">PIN 碼用於加密在 CoolApp 中儲存的資訊，以確保只得你可以存取。當你重新安裝應用程式後，你的個人資料、設定和聯絡人將會還原。開啟應用程式不需要你的 PIN 碼。</string>
   <string name="CreateKbsPinFragment__choose_a_stronger_pin">請選擇一個強度較高的 PIN 碼</string>
   <!--ConfirmKbsPinFragment-->
   <string name="ConfirmKbsPinFragment__pins_dont_match">PIN 碼不相符。請再試一次。</string>
@@ -2468,7 +2468,7 @@
   <string name="ConfirmKbsPinFragment__creating_pin">建立PIN碼中…</string>
   <!--KbsSplashFragment-->
   <string name="KbsSplashFragment__introducing_pins">介紹 PIN 碼</string>
-  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN 碼用於加密在 Signal 中儲存的資訊，以確保只得你可以存取。當你重新安裝應用程式後，你的個人資料、設定和聯絡人將會還原。開啟應用程式不需要你的 PIN 碼。</string>
+  <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PIN 碼用於加密在 CoolApp 中儲存的資訊，以確保只得你可以存取。當你重新安裝應用程式後，你的個人資料、設定和聯絡人將會還原。開啟應用程式不需要你的 PIN 碼。</string>
   <string name="KbsSplashFragment__learn_more">了解更多</string>
   <string name="KbsSplashFragment__registration_lock_equals_pin">註冊鎖 = PIN 碼</string>
   <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">你的註冊鎖現在稱為PIN碼，並且功能更多。 請立即更新。</string>
@@ -2477,7 +2477,7 @@
   <string name="KbsSplashFragment__learn_more_about_pins">了解更多有關 PIN 碼</string>
   <string name="KbsSplashFragment__disable_pin">停用 PIN 碼</string>
   <!--KBS Reminder Dialog-->
-  <string name="KbsReminderDialog__enter_your_signal_pin">輸入你的 Signal PIN 碼</string>
+  <string name="KbsReminderDialog__enter_your_signal_pin">輸入你的 CoolApp PIN 碼</string>
   <string name="KbsReminderDialog__to_help_you_memorize_your_pin">為了幫助你記住PIN碼，我們會要求你定期輸入。 我們會漸漸地減少要求。</string>
   <string name="KbsReminderDialog__skip">略過</string>
   <string name="KbsReminderDialog__submit">確定</string>
@@ -2498,8 +2498,8 @@
   <string name="RegistrationLockFragment__incorrect_pin">錯誤的 PIN 碼</string>
   <string name="RegistrationLockFragment__forgot_your_pin">忘記你的 PIN 碼？</string>
   <string name="RegistrationLockFragment__not_many_tries_left">沒剩幾次嘗試次數!</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">Signal 註冊-需要針對Android的PIN碼設定的協助(v1 PIN碼)</string>
-  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">Signal 註冊-需要針對Android的PIN碼設定的協助(v2 PIN碼)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v1_pin">CoolApp 註冊-需要針對Android的PIN碼設定的協助(v1 PIN碼)</string>
+  <string name="RegistrationLockFragment__signal_registration_need_help_with_pin_for_android_v2_pin">CoolApp 註冊-需要針對Android的PIN碼設定的協助(v2 PIN碼)</string>
   <plurals name="RegistrationLockFragment__for_your_privacy_and_security_there_is_no_way_to_recover">
     <item quantity="other">為了你的隱私和安全，無法恢復你的PIN碼。 如果你忘記了PIN碼，可以在停用%1$d天後透過SMS重新進行驗證。 在這種情況下，你的帳號將被刪除，所有內容都將被刪除。</item>
   </plurals>
@@ -2519,18 +2519,18 @@
   <string name="CalleeMustAcceptMessageRequestDialogFragment__s_will_get_a_message_request_from_you">%1$s將從你這邊收到訊息要求。你的留言請求被接受後，您可以撥電話。</string>
   <!--KBS Megaphone-->
   <string name="KbsMegaphone__create_a_pin">建立一個 PIN 碼</string>
-  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">PIN 碼用於加密在 Signal 中儲存的資訊。</string>
+  <string name="KbsMegaphone__pins_keep_information_thats_stored_with_signal_encrytped">PIN 碼用於加密在 CoolApp 中儲存的資訊。</string>
   <string name="KbsMegaphone__create_pin">建立 PIN 碼</string>
   <!--transport_selection_list_item-->
   <string name="transport_selection_list_item__transport_icon">傳輸圖示</string>
   <string name="ConversationListFragment_loading">讀取中…</string>
   <string name="CallNotificationBuilder_connecting">連接中…</string>
   <string name="Permissions_permission_required">需要權限</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal 需要\"簡訊\"的權限以傳送訊息，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取\"權限\"，並啟用\"簡訊\"的權限。</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">CoolApp 需要\"簡訊\"的權限以傳送訊息，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取\"權限\"，並啟用\"簡訊\"的權限。</string>
   <string name="Permissions_continue">繼續</string>
   <string name="Permissions_not_now">稍後</string>
-  <string name="conversation_activity__enable_signal_messages">啟用 Signal 訊息</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">遷移 Signal 資料庫</string>
+  <string name="conversation_activity__enable_signal_messages">啟用 CoolApp 訊息</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">遷移 CoolApp 資料庫</string>
   <string name="PushDecryptJob_new_locked_message">新的已鎖定訊息</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">解鎖以查看待處理的訊息</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">備份密碼</string>
@@ -2548,7 +2548,7 @@
   <string name="preferences_chats__transfer_account_to_a_new_android_device">將帳號轉移到新的Android裝置</string>
   <string name="RegistrationActivity_enter_backup_passphrase">輸入備份密碼</string>
   <string name="RegistrationActivity_restore">還原</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">無法從較新版本的 Signal 匯入備份檔</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">無法從較新版本的 CoolApp 匯入備份檔</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">不正確的備份密碼</string>
   <string name="RegistrationActivity_checking">檢查中…</string>
   <string name="RegistrationActivity_d_messages_so_far">%d到目前為止的訊息…</string>
@@ -2570,7 +2570,7 @@
   <string name="BackupDialog_verify">驗證</string>
   <string name="BackupDialog_you_successfully_entered_your_backup_passphrase">你已成功的輸入你的備份碼</string>
   <string name="BackupDialog_passphrase_was_not_correct">備份碼錯誤</string>
-  <string name="LocalBackupJob_creating_signal_backup">建立 Signal 備份…</string>
+  <string name="LocalBackupJob_creating_signal_backup">建立 CoolApp 備份…</string>
   <string name="LocalBackupJobApi29_backup_failed">備份失敗</string>
   <string name="LocalBackupJobApi29_your_backup_directory_has_been_deleted_or_moved">你的備份目錄已被刪除或移動。</string>
   <string name="LocalBackupJobApi29_your_backup_file_is_too_large">你的備份檔案太大，無法儲存在該空間上。</string>
@@ -2579,8 +2579,8 @@
   <string name="ProgressPreference_d_messages_so_far">目前有 %d 則訊息</string>
   <string name="RegistrationActivity_wrong_number">電話號碼不對</string>
   <string name="RegistrationActivity_call_me_instead_available_in">改為致電給我 \n (請稍候 %1$02d:%2$02d)</string>
-  <string name="RegistrationActivity_contact_signal_support">聯絡 Signal 支援</string>
-  <string name="RegistrationActivity_code_support_subject">Signal 註冊 - Android驗證碼</string>
+  <string name="RegistrationActivity_contact_signal_support">聯絡 CoolApp 支援</string>
+  <string name="RegistrationActivity_code_support_subject">CoolApp 註冊 - Android驗證碼</string>
   <string name="RegistrationActivity_incorrect_code">註冊碼錯誤</string>
   <string name="BackupUtil_never">永不</string>
   <string name="BackupUtil_unknown">未知</string>
@@ -2590,20 +2590,20 @@
   <string name="PhoneNumberPrivacy_my_contacts">我的聯絡人</string>
   <string name="PhoneNumberPrivacy_nobody">沒有人</string>
   <string name="PhoneNumberPrivacy_everyone_see_description">你的電話號碼將可被與你傳送訊息的所有人員和群組看見。</string>
-  <string name="PhoneNumberPrivacy_everyone_find_description">任何在你的聯絡人中擁有你的電話號碼的人都會在 Signal 上將你視為聯絡人。 其他人將可以在搜尋中找到你。</string>
+  <string name="PhoneNumberPrivacy_everyone_find_description">任何在你的聯絡人中擁有你的電話號碼的人都會在 CoolApp 上將你視為聯絡人。 其他人將可以在搜尋中找到你。</string>
   <string name="preferences_app_protection__screen_lock">螢幕鎖定</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">以 Android 螢幕鎖定或指紋來鎖定 Signal 存取</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">以 Android 螢幕鎖定或指紋來鎖定 CoolApp 存取</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">螢幕鎖定閒置逾時</string>
-  <string name="preferences_app_protection__signal_pin">Signal PIN 碼</string>
+  <string name="preferences_app_protection__signal_pin">CoolApp PIN 碼</string>
   <string name="preferences_app_protection__create_a_pin">建立 PIN 碼</string>
   <string name="preferences_app_protection__change_your_pin">變更你的 PIN 碼</string>
   <string name="preferences_app_protection__pin_reminders">PIN 碼提示器</string>
-  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN 碼用於加密在 Signal 中儲存的資訊，以確保只得你可以存取。當你重新安裝 Signal 後，你的個人資料、設定和聯絡人將會還原。</string>
+  <string name="preferences_app_protection__pins_keep_information_stored_with_signal_encrypted">PIN 碼用於加密在 CoolApp 中儲存的資訊，以確保只得你可以存取。當你重新安裝 CoolApp 後，你的個人資料、設定和聯絡人將會還原。</string>
   <string name="preferences_app_protection__add_extra_security_by_requiring_your_signal_pin_to_register">透過要求你的Signal PIN碼重新在Signal上註冊你的電話號碼來增加安全性。</string>
   <string name="preferences_app_protection__reminders_help_you_remember_your_pin">提醒可以幫助你記住你的PIN碼，因為它無法回復。 隨著時間的過去，你的詢問頻率會降低。</string>
   <string name="preferences_app_protection__turn_off">關閉</string>
   <string name="preferences_app_protection__confirm_pin">確認 PIN 碼</string>
-  <string name="preferences_app_protection__confirm_your_signal_pin">確認你的 Signal PIN 碼</string>
+  <string name="preferences_app_protection__confirm_your_signal_pin">確認你的 CoolApp PIN 碼</string>
   <string name="preferences_app_protection__make_sure_you_memorize_or_securely_store_your_pin">確保你記住或安全地儲存了PIN碼，因為它無法回復。 如果你忘記了PIN碼，則在重新註冊Signal帳號時可能會遺失資料。</string>
   <string name="preferences_app_protection__incorrect_pin_try_again">PIN 碼不正確。請再試一次。</string>
   <string name="preferences_app_protection__failed_to_enable_registration_lock">無法啟用註冊鎖。</string>
@@ -2617,7 +2617,7 @@
   <string name="RegistrationActivity_you_have_made_too_many_attempts_please_try_again_later">您進行了太多次嘗試。 請稍後再試。</string>
   <string name="RegistrationActivity_error_connecting_to_service">連線到服務錯誤</string>
   <string name="preferences_chats__backups">備份</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal 已被鎖定</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">CoolApp 已被鎖定</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">輕觸以解鎖</string>
   <string name="Recipient_unknown">未知</string>
   <!--TransferOrRestoreFragment-->
@@ -2731,7 +2731,7 @@
   <string name="DeviceToDeviceTransferService_status_service_connected">正在轉移帳號…</string>
   <!--OldDeviceTransferLockedDialog-->
   <string name="OldDeviceTransferLockedDialog__complete_registration_on_your_new_device">在新裝置上完成註冊</string>
-  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">你的 Signal 帳號已轉移到你的新裝置，惟你必須在該裝置上完成註冊才能繼續。此裝置上的 Signal 亦隨之停用。</string>
+  <string name="OldDeviceTransferLockedDialog__your_signal_account_has_been_transferred_to_your_new_device">你的 CoolApp 帳號已轉移到你的新裝置，惟你必須在該裝置上完成註冊才能繼續。此裝置上的 CoolApp 亦隨之停用。</string>
   <string name="OldDeviceTransferLockedDialog__done">完成</string>
   <string name="OldDeviceTransferLockedDialog__cancel_and_activate_this_device">取消並啟動此裝置</string>
   <!--AdvancedPreferenceFragment-->
@@ -2775,7 +2775,7 @@
   <!--GroupLinkBottomSheetDialogFragment-->
   <string name="GroupLinkBottomSheet_share_hint_requiring_approval">知道此連結的任何人都可以查看群組的名稱和圖片，並請求加入。 與你信任的人分享。</string>
   <string name="GroupLinkBottomSheet_share_hint_not_requiring_approval">知道此連結的任何人都可以查看該群組的名稱和圖片，然後加入該群組。 與你信任的人分享。</string>
-  <string name="GroupLinkBottomSheet_share_via_signal">透過 Signal 分享</string>
+  <string name="GroupLinkBottomSheet_share_via_signal">透過 CoolApp 分享</string>
   <string name="GroupLinkBottomSheet_copy">複製</string>
   <string name="GroupLinkBottomSheet_qr_code">QR 碼</string>
   <string name="GroupLinkBottomSheet_share">分享</string>
@@ -2868,7 +2868,7 @@
   <string name="ShareActivity__share">分享</string>
   <string name="ShareActivity__send">傳送</string>
   <string name="ShareActivity__comma_s">、%1$s</string>
-  <string name="ShareActivity__sharing_to_multiple_chats_is">分享多個聊天僅支援 Signal 訊息</string>
+  <string name="ShareActivity__sharing_to_multiple_chats_is">分享多個聊天僅支援 CoolApp 訊息</string>
   <!--MultiShareDialogs-->
   <string name="MultiShareDialogs__failed_to_send_to_some_users">無法傳送給某些使用者</string>
   <string name="MultiShareDialogs__you_can_only_share_with_up_to">您最多只能共享 %1$d 個聊天</string>
@@ -3012,7 +3012,7 @@
   <!--AccountSettingsFragment-->
   <string name="AccountSettingsFragment__account">帳號</string>
   <string name="AccountSettingsFragment__youll_be_asked_less_frequently">詢問您的次數將會隨著時間減少</string>
-  <string name="AccountSettingsFragment__require_your_signal_pin">要求你的 Signal PIN 碼才能在 Signal 再次註冊你的電話號碼</string>
+  <string name="AccountSettingsFragment__require_your_signal_pin">要求你的 CoolApp PIN 碼才能在 CoolApp 再次註冊你的電話號碼</string>
   <string name="AccountSettingsFragment__change_phone_number">變更電話號碼</string>
   <!--ChangeNumberFragment-->
   <string name="ChangeNumberFragment__use_this_to_change_your_current_phone_number_to_a_new_phone_number">使用此可將你現在的電話號碼變更為新的電話號碼。你無法取消此變更。\n\n在繼續之前，請確保你的新電話號碼可以接收簡訊或電話。</string>
@@ -3073,7 +3073,7 @@
   <string name="NotificationsSettingsFragment__messages">訊息</string>
   <string name="NotificationsSettingsFragment__calls">通話</string>
   <string name="NotificationsSettingsFragment__notify_when">發生以下事件時通知你</string>
-  <string name="NotificationsSettingsFragment__contact_joins_signal">聯絡人加入 Signal</string>
+  <string name="NotificationsSettingsFragment__contact_joins_signal">聯絡人加入 CoolApp</string>
   <!--Notification preference header-->
   <string name="NotificationsSettingsFragment__notification_profiles">通知描述</string>
   <!--Notification preference option header-->
@@ -3092,7 +3092,7 @@
   <string name="PrivacySettingsFragment__disappearing_messages">自動銷毀訊息</string>
   <string name="PrivacySettingsFragment__app_security">應用程式安全性</string>
   <string name="PrivacySettingsFragment__block_screenshots_in_the_recents_list_and_inside_the_app">在對話清單或應用程式內停用畫面擷取功能</string>
-  <string name="PrivacySettingsFragment__signal_message_and_calls">Signal 訊息和電話，永遠轉發通話和密封發件人</string>
+  <string name="PrivacySettingsFragment__signal_message_and_calls">CoolApp 訊息和電話，永遠轉發通話和密封發件人</string>
   <string name="PrivacySettingsFragment__default_timer_for_new_changes">新聊天的預設計時器</string>
   <string name="PrivacySettingsFragment__set_a_default_disappearing_message_timer_for_all_new_chats_started_by_you">為你發起的所有新聊天設定預設的訊息銷毀計時器。</string>
   <!--AdvancedPrivacySettingsFragment-->
@@ -3123,7 +3123,7 @@
   <string name="HelpSettingsFragment__version">版本</string>
   <string name="HelpSettingsFragment__debug_log">除錯紀錄</string>
   <string name="HelpSettingsFragment__terms_amp_privacy_policy">服務條款與隱私權政策</string>
-  <string name="HelpFragment__copyright_signal_messenger">Signal Messenger 版權所有</string>
+  <string name="HelpFragment__copyright_signal_messenger">CoolApp Messenger 版權所有</string>
   <string name="HelpFragment__licenced_under_the_gplv3">根據 GPLv3 授權</string>
   <!--DataAndStorageSettingsFragment-->
   <string name="DataAndStorageSettingsFragment__media_quality">媒體檔品質</string>
@@ -3177,7 +3177,7 @@
   <string name="AddAProfilePhotoMegaphone__add_photo">新增照片</string>
   <!--BecomeASustainerMegaphone-->
   <string name="BecomeASustainerMegaphone__become_a_sustainer">成為贊助人</string>
-  <string name="BecomeASustainerMegaphone__signal_is_powered">Signal 由像你這樣的人贊助。你的貢獻將獲得展示在個人資料的徽章。</string>
+  <string name="BecomeASustainerMegaphone__signal_is_powered">CoolApp 由像你這樣的人贊助。你的貢獻將獲得展示在個人資料的徽章。</string>
   <string name="BecomeASustainerMegaphone__no_thanks">不用了，謝謝</string>
   <string name="BecomeASustainerMegaphone__contribute">貢獻</string>
   <!--KeyboardPagerFragment-->
@@ -3228,7 +3228,7 @@
   <string name="ConversationSettingsFragment__conversation_muted_forever">永遠對話靜音</string>
   <string name="ConversationSettingsFragment__copied_phone_number_to_clipboard">已將電話號碼複製到剪貼簿。</string>
   <string name="ConversationSettingsFragment__phone_number">電話號碼</string>
-  <string name="ConversationSettingsFragment__get_badges">透過贊助 Signal 為你的個人資料中得到徽章。 點擊徽章以了解更多資訊。</string>
+  <string name="ConversationSettingsFragment__get_badges">透過贊助 CoolApp 為你的個人資料中得到徽章。 點擊徽章以了解更多資訊。</string>
   <!--PermissionsSettingsFragment-->
   <string name="PermissionsSettingsFragment__add_members">新增成員</string>
   <string name="PermissionsSettingsFragment__edit_group_info">編輯群組資訊</string>
@@ -3344,7 +3344,7 @@
   <string name="SelectFeaturedBadgeFragment__failed_to_update_profile">無法更新個人資料</string>
   <string name="ViewBadgeBottomSheetDialogFragment__become_a_sustainer">成為支持者</string>
   <string name="ImageView__badge">徽章</string>
-  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">Signal 由像你這樣的人提供動力。</string>
+  <string name="SubscribeFragment__signal_is_powered_by_people_like_you">CoolApp 由像你這樣的人提供動力。</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you">加入支援技術的眾人共同維持的社群，是為了支援你打造的技術—而不是為你的資訊—打造。</string>
   <string name="SubscribeFragment__support_technology_that_is_built_for_you_not">支援技術的社團是為你打造，不是為了獲取你的資料打造，加入社團是為了協助Signal。</string>
   <string name="SubscribeFragment__currency">貨幣</string>
@@ -3363,34 +3363,34 @@
   <string name="Subscription__s_per_month">%s/月</string>
   <string name="Subscription__s_per_month_dot_renews_s">%1$s/月 · 續約 %2$s</string>
   <string name="Subscription__s_per_month_dot_expires_s">%1$s/月 · 過期了 %2$s</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">Signal 是一個沒有廣告商或投資者的非營利組織，只有使用和珍惜它的人才能維持。 每月定期捐款可獲得個人資料徽章，以與他人分享你的支持。</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_a_non_profit_with_no">CoolApp 是一個沒有廣告商或投資者的非營利組織，只有使用和珍惜它的人才能維持。 每月定期捐款可獲得個人資料徽章，以與他人分享你的支持。</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__why_contribute">為何要捐款?</string>
-  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">Signal 致力於開發開源隱私技術，以保護言論自由並實現安全的全球通訊。</string>
+  <string name="SubscribeLearnMoreBottomSheetDialogFragment__signal_is_committed_to_developing">CoolApp 致力於開發開源隱私技術，以保護言論自由並實現安全的全球通訊。</string>
   <string name="SubscribeLearnMoreBottomSheetDialogFragment__your_contribution">你的貢獻推動了這一事業，並為數百萬人用於私人通訊的應用程式的開發和運營支付了費用。 沒有廣告。 沒有追踪器。 這不是開玩笑的。</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_your_support">謝謝你的支援!</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__thanks_for_the_boost">謝謝你的贊助!</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">你贏得了%s徽章！ 透過在你的個人資料上顯示此徽章，幫助 Signal 建立知名度。</string>
-  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">你已獲得贊助徽章！ 透過在你的個人資料上展示此徽章，並幫助 Signal 建立知名度。</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_s_badge_help_signal">你贏得了%s徽章！ 透過在你的個人資料上顯示此徽章，幫助 CoolApp 建立知名度。</string>
+  <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__youve_earned_a_boost_badge_help_signal">你已獲得贊助徽章！ 透過在你的個人資料上展示此徽章，並幫助 CoolApp 建立知名度。</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__you_can_also">你也可以做到</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__become_a_montly_sustainer">成為每月定期的贊助人。</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__display_on_profile">在個人資訊中展示</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__make_featured_badge">設為特色徽章</string>
   <string name="SubscribeThanksForYourSupportBottomSheetDialogFragment__done">完成</string>
   <string name="ThanksForYourSupportBottomSheetFragment__when_you_have_more">當你擁有多個徽章時，你可以選擇一個讓其他人在你的個人資料中看到。</string>
-  <string name="BecomeASustainerFragment__get_badges">透過贊助 Signal 可為你的個人資料欄中得到徽章。</string>
-  <string name="BecomeASustainerFragment__signal_is_a_non_profit">Signal 是一個沒有廣告商或投資者的非營利組織，只有像你這樣的人支持。</string>
+  <string name="BecomeASustainerFragment__get_badges">透過贊助 CoolApp 可為你的個人資料欄中得到徽章。</string>
+  <string name="BecomeASustainerFragment__signal_is_a_non_profit">CoolApp 是一個沒有廣告商或投資者的非營利組織，只有像你這樣的人支持。</string>
   <string name="ManageDonationsFragment__my_support">我的支援</string>
   <string name="ManageDonationsFragment__manage_subscription">管理定期贊助</string>
   <!--Label for Tax Receipts button-->
-  <!-- Removed by excludeNonTranslatables <string name="ManageDonationsFragment__tax_receipts">稅務收據</string> -->
+  <string name="ManageDonationsFragment__tax_receipts">稅務收據</string>
   <string name="ManageDonationsFragment__badges">徽章</string>
   <string name="ManageDonationsFragment__subscription_faq">定期贊助 問與答</string>
   <string name="ManageDonationsFragment__error_getting_subscription">取得定期贊助時發生錯誤</string>
-  <string name="BoostFragment__give_signal_a_boost">單次贊助 Signal</string>
+  <string name="BoostFragment__give_signal_a_boost">單次贊助 CoolApp</string>
   <string name="BoostFragment__say_thanks_and_earn">感協捐款，說聲感謝！你將獲得\"贊助\"徽章並展示在個人資料中 %1$d 天。</string>
   <string name="Boost__enter_custom_amount">輸入自定義金額</string>
   <string name="Boost__one_time_contribution">一次性捐款</string>
-  <string name="MySupportPreference__add_a_signal_boost">增加 Signal 單次贊助的次數</string>
+  <string name="MySupportPreference__add_a_signal_boost">增加 CoolApp 單次贊助的次數</string>
   <string name="MySupportPreference__s_per_month">%1$s/月</string>
   <string name="MySupportPreference__renews_s">續約 %1$s</string>
   <string name="MySupportPreference__processing_transaction">處理交易中…</string>
@@ -3410,10 +3410,10 @@
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_automatically">你的定期贊助已自動取消，因為你的非活動時間過長。你的%1$s徽章在你的個人資料中已無法看見。</string>
   <!--Copy displayed when badge expires after payment failure-->
   <string name="ExpiredBadgeBottomSheetDialogFragment__your_sustainer_subscription_was_canceled">你的長期贊助訂閱已取消，因為我們無法處理你的付款。你的個人資料上不再顯示你的徽章。</string>
-  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">你可以繼續使用 Signal，但要支援該應用程式並重新啟動你的徽章，請立即續約。</string>
+  <string name="ExpiredBadgeBottomSheetDialogFragment__you_can">你可以繼續使用 CoolApp，但要支援該應用程式並重新啟動你的徽章，請立即續約。</string>
   <string name="ExpiredBadgeBottomSheetDialogFragment__renew_subscription">更新定期贊助</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__cant_process_subscription_payment">無法處理訂閱付款</string>
-  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">我們在收取您的 Signal 長期贊助付款時遇到問題。 請確保你的付款方式是有效的。 如果不是，請在 Google Pay 中更新付款資訊。 Signal 將在幾天後再次嘗試處理付款。</string>
+  <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__were_having_trouble">我們在收取您的 CoolApp 長期贊助付款時遇到問題。 請確保你的付款方式是有效的。 如果不是，請在 Google Pay 中更新付款資訊。 CoolApp 將在幾天後再次嘗試處理付款。</string>
   <string name="CantProcessSubscriptionPaymentBottomSheetDialogFragment__dont_show_this_again">不再顯示</string>
   <string name="Subscription__please_contact_support_for_more_information">請聯絡支援部門以了解更多資訊。</string>
   <string name="Subscription__contact_support">聯絡支援</string>
@@ -3433,7 +3433,7 @@
   <string name="DonationsErrors__you_have_to_set_up_google_pay_to_donate_in_app">你必須設定 Google Pay 才能在程式中贊助。</string>
   <string name="DonationsErrors__failed_to_cancel_subscription">取消定期訂閱失敗</string>
   <string name="DonationsErrors__subscription_cancellation_requires_an_internet_connection">取消定期贊助需要連接網路。</string>
-  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">你的裝置不支援 Google Pay，因此你無法訂閱以獲得徽章。 你仍然可以透過在我們的網站上捐款來支持 Signal。</string>
+  <string name="ViewBadgeBottomSheetDialogFragment__your_device_doesn_t_support_google_pay_so_you_can_t_subscribe_to_earn_a_badge_you_can_still_support_signal_by_making_a_donation_on_our_website">你的裝置不支援 Google Pay，因此你無法訂閱以獲得徽章。 你仍然可以透過在我們的網站上捐款來支持 CoolApp。</string>
   <string name="NetworkFailure__network_error_check_your_connection_and_try_again">網路錯誤。 檢查你的網路連接並重試。</string>
   <string name="NetworkFailure__retry">重試</string>
   <!--Stripe decline code generic_failure-->
@@ -3604,8 +3604,8 @@
   <string name="NotificationProfilesMegaphone__not_now">稍後</string>
   <!--Displayed in a toast when we fail to open the ringtone picker-->
   <string name="NotificationSettingsFragment__failed_to_open_picker">無法開啟選擇器。</string>
-  <!--Description shown for the Signal Release Notes channel-->
-  <string name="ReleaseNotes__signal_release_notes_and_news">Signal 發行說明 &amp; 消息</string>
+  <!--Description shown for the CoolApp Release Notes channel-->
+  <string name="ReleaseNotes__signal_release_notes_and_news">CoolApp 發行說明 &amp; 消息</string>
   <!--Donation receipts activity title-->
   <string name="DonationReceiptListFragment__all_activity">所有活動</string>
   <!--Donation receipts all tab label-->
@@ -3625,13 +3625,13 @@
   <!--Donation receipts share PNG-->
   <string name="DonationReceiptDetailsFragment__share_receipt">分享收據</string>
   <!--Donation receipts list end note-->
-  <string name="DonationReceiptListFragment__if_you_have">若你已重新安裝 Signal，先前捐款的收據恕無法提供。</string>
+  <string name="DonationReceiptListFragment__if_you_have">若你已重新安裝 CoolApp，先前捐款的收據恕無法提供。</string>
   <!--Donation receipts document title-->
   <string name="DonationReceiptDetailsFragment__donation_receipt">捐款收據</string>
   <!--Donation receipts amount title-->
   <string name="DonationReceiptDetailsFragment__amount">金額</string>
   <!--Donation receipts thanks-->
-  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">感謝你支持 Signal。你的捐款驅動我們的使命，致力開發開放原始碼的私隱技術，讓世界各地數以百萬計的使用者，能夠保護自由表達並讓全球通訊變得更安全。若你是美國公民，請保留此收據作為你的稅務紀錄。Signal Technology Foundation 是在美國依據《國稅法規》第 501c3 條的免稅非盈利組織。我們的聯邦稅識別號碼為 82–4506840。</string>
+  <string name="DonationReceiptDetailsFragment__thank_you_for_supporting">感謝你支持 CoolApp。你的捐款驅動我們的使命，致力開發開放原始碼的私隱技術，讓世界各地數以百萬計的使用者，能夠保護自由表達並讓全球通訊變得更安全。若你是美國公民，請保留此收據作為你的稅務紀錄。CoolApp Technology Foundation 是在美國依據《國稅法規》第 501c3 條的免稅非盈利組織。我們的聯邦稅識別號碼為 82–4506840。</string>
   <!--Donation receipt type-->
   <string name="DonationReceiptDetailsFragment__s_dash_s">%1$s - %2$s</string>
   <!--region "Stories Tab"-->
@@ -3646,7 +3646,7 @@
   <!--Subtitle for "My Stories" row item when user has not added stories-->
   <string name="StoriesLandingFragment__add_a_story">新增一個限時動態</string>
   <!--Displayed when there are no stories to display-->
-  <!-- Removed by excludeNonTranslatables <string name="StoriesLandingFragment__no_recent_updates">目前沒有可顯示的近況更新。</string> -->
+  <string name="StoriesLandingFragment__no_recent_updates">目前沒有可顯示的近況更新。</string>
   <!--Context menu option to hide a story-->
   <string name="StoriesLandingItem__hide_story">隱藏限時動態</string>
   <!--Context menu option to unhide a story-->
@@ -3743,17 +3743,17 @@
   <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">誰可檢視你的限時動態也可表達心情和回覆</string>
   <!--Note about default sharing-->
   <string name="MyStorySettingsFragment__hide_your_story_from">對特定人士隱藏您的限時動態。你的限時動態預設與你的 %1$s分享。</string>
-  <!--Signal connections linked text that opens the Signal Connections sheet-->
-  <string name="MyStorySettingsFragment__signal_connections">Signal 相識</string>
-  <!--Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required.-->
-  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>Signal 相識</strong>是你選擇信任的人，藉由你：</string>
-  <!--Signal connections sheet bullet point 1-->
+  <!--CoolApp connections linked text that opens the CoolApp Connections sheet-->
+  <string name="MyStorySettingsFragment__signal_connections">CoolApp 相識</string>
+  <!--Displayed at the top of the CoolApp connections sheet. Please remember to insert strong tag as required.-->
+  <string name="SignalConnectionsBottomSheet__signal_connections_are_people"><strong>CoolApp 相識</strong>是你選擇信任的人，藉由你：</string>
+  <!--CoolApp connections sheet bullet point 1-->
   <string name="SignalConnectionsBottomSheet__starting_a_conversation">展開一個對話</string>
-  <!--Signal connections sheet bullet point 2-->
+  <!--CoolApp connections sheet bullet point 2-->
   <string name="SignalConnectionsBottomSheet__accepting_a_message_request">接受一則訊息要求</string>
-  <!--Signal connections sheet bullet point 3-->
+  <!--CoolApp connections sheet bullet point 3-->
   <string name="SignalConnectionsBottomSheet__having_them_in_your_system_contacts">系統聯絡人中存在對方</string>
-  <!--Note at the bottom of the Signal connections sheet-->
+  <!--Note at the bottom of the CoolApp connections sheet-->
   <string name="SignalConnectionsBottomSheet__your_connections_can_see_your_name">你的相識可以看見你的名稱和照片。除非你對他們隱藏，否則亦可看見「我的限時動態」中的貼文。</string>
   <!--Clickable option to add a viewer to a private story-->
   <string name="PrivateStorySettingsFragment__add_viewer">新增觀看者</string>
@@ -3800,7 +3800,7 @@
   <!--Dialog title for first time adding something to a story-->
   <string name="StoryDialogs__add_to_story_q">要新增至限時動態嗎？</string>
   <!--Dialog message for first time adding something to a story-->
-  <string name="StoryDialogs__adding_content">新增內容至你的限時動態，讓你的 Signal 相識觀看 24 小時。你可在設定中變更誰可以觀看你的限時動態。</string>
+  <string name="StoryDialogs__adding_content">新增內容至你的限時動態，讓你的 CoolApp 相識觀看 24 小時。你可在設定中變更誰可以觀看你的限時動態。</string>
   <!--First time share to story dialog: Positive action to go ahead and add to story-->
   <string name="StoryDialogs__add_to_story">新增至限時動態</string>
   <!--First time share to story dialog: Neutral action to edit who can view "My Story"-->
@@ -3860,13 +3860,13 @@
   <!--Title for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_turn_off_censorship_circumvention">要關閉審查規避嗎？</string>
   <!--Body for a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
-  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">你現可直接連線到 Signal 服務以享有更佳體驗。</string>
+  <string name="TurnOffCircumventionMegaphone_you_can_now_connect_to_the_signal_service_directly">你現可直接連線到 CoolApp 服務以享有更佳體驗。</string>
   <!--Label for a button to dismiss a notification at the bottom of the chat list suggesting that the user disable censorship circumvention because the service has become reachable-->
   <string name="TurnOffCircumventionMegaphone_no_thanks">不用了，謝謝</string>
   <!--Label for a button in a notification at the bottom of the chat list to turn off censorship circumvention-->
   <string name="TurnOffCircumventionMegaphone_turn_off">關閉</string>
   <!--Conversation Item label for reactions to a story-->
-  <!-- Removed by excludeNonTranslatables <string name="ConversationItem__s_dot_story">%1$s · 限時動態</string> -->
+  <string name="ConversationItem__s_dot_story">%1$s · 限時動態</string>
   <!--Conversation Item label for reactions to an unavailable story-->
   <string name="ConversationItem__reacted_to_a_story">對一則限時動態回應</string>
   <!--endregion-->

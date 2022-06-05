@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<org.thoughtcrime.securesms.components.InputPanel xmlns:android="http://schemas.android.com/apk/res/android"
+<asia.coolapp.chat.components.InputPanel xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/bottom_panel"
@@ -46,7 +46,7 @@
                 android:clipToPadding="false"
                 android:orientation="vertical">
 
-                <org.thoughtcrime.securesms.components.QuoteView
+                <asia.coolapp.chat.components.QuoteView
                     android:id="@+id/quote_view"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
                     app:quote_colorSecondary="@color/signal_text_primary"
                     tools:visibility="visible" />
 
-                <org.thoughtcrime.securesms.components.LinkPreviewView
+                <asia.coolapp.chat.components.LinkPreviewView
                     android:id="@+id/link_preview"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
                         android:clipToPadding="false"
                         android:paddingStart="8dp">
 
-                        <org.thoughtcrime.securesms.components.emoji.EmojiToggle
+                        <asia.coolapp.chat.components.emoji.EmojiToggle
                             android:id="@+id/emoji_toggle"
                             android:layout_width="wrap_content"
                             android:layout_height="@dimen/conversation_compose_height"
@@ -96,7 +96,7 @@
                             android:layout_width="0dp"
                             android:layout_height="@dimen/conversation_compose_height" />
 
-                        <org.thoughtcrime.securesms.components.ComposeText
+                        <asia.coolapp.chat.components.ComposeText
                             android:id="@+id/embedded_text_editor"
                             style="@style/ComposeEditText"
                             android:layout_width="0dp"
@@ -109,7 +109,7 @@
                             tools:visibility="invisible">
 
                             <requestFocus />
-                        </org.thoughtcrime.securesms.components.ComposeText>
+                        </asia.coolapp.chat.components.ComposeText>
 
                         <FrameLayout
                             android:layout_width="wrap_content"
@@ -117,7 +117,7 @@
                             android:clipChildren="false"
                             android:clipToPadding="false">
 
-                            <org.thoughtcrime.securesms.components.HidingLinearLayout
+                            <asia.coolapp.chat.components.HidingLinearLayout
                                 android:id="@+id/quick_attachment_toggle"
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
@@ -137,7 +137,7 @@
                                     android:tint="@color/signal_icon_tint_primary"
                                     app:srcCompat="@drawable/ic_camera_24" />
 
-                                <org.thoughtcrime.securesms.components.MicrophoneRecorderView
+                                <asia.coolapp.chat.components.MicrophoneRecorderView
                                     android:id="@+id/recorder_view"
                                     android:layout_width="24dp"
                                     android:layout_height="match_parent"
@@ -148,11 +148,11 @@
 
                                     <include layout="@layout/microphone_recorder_view" />
 
-                                </org.thoughtcrime.securesms.components.MicrophoneRecorderView>
+                                </asia.coolapp.chat.components.MicrophoneRecorderView>
 
-                            </org.thoughtcrime.securesms.components.HidingLinearLayout>
+                            </asia.coolapp.chat.components.HidingLinearLayout>
 
-                            <org.thoughtcrime.securesms.components.HidingLinearLayout
+                            <asia.coolapp.chat.components.HidingLinearLayout
                                 android:id="@+id/inline_attachment_container"
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
@@ -171,7 +171,7 @@
                                     android:tint="@color/signal_icon_tint_secondary"
                                     app:srcCompat="@drawable/ic_plus_24" />
 
-                            </org.thoughtcrime.securesms.components.HidingLinearLayout>
+                            </asia.coolapp.chat.components.HidingLinearLayout>
 
                         </FrameLayout>
 
@@ -179,7 +179,7 @@
 
                     <include layout="@layout/recording_layout" />
 
-                    <org.thoughtcrime.securesms.conversation.VoiceNoteDraftView
+                    <asia.coolapp.chat.conversation.VoiceNoteDraftView
                         android:id="@+id/voice_note_draft_view"
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/conversation_compose_height"
@@ -192,7 +192,7 @@
 
         </FrameLayout>
 
-        <org.thoughtcrime.securesms.components.AnimatingToggle
+        <asia.coolapp.chat.components.AnimatingToggle
             android:id="@+id/button_toggle"
             android:layout_width="@dimen/conversation_compose_height"
             android:layout_height="@dimen/conversation_compose_height"
@@ -211,7 +211,7 @@
                 android:tint="@color/core_white"
                 app:srcCompat="@drawable/ic_plus_24" />
 
-            <org.thoughtcrime.securesms.components.SendButton
+            <asia.coolapp.chat.components.SendButton
                 android:id="@+id/send_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -226,7 +226,7 @@
                 android:tint="@color/core_white"
                 app:srcCompat="@drawable/ic_send_unlock_24" />
 
-        </org.thoughtcrime.securesms.components.AnimatingToggle>
+        </asia.coolapp.chat.components.AnimatingToggle>
 
     </LinearLayout>
-</org.thoughtcrime.securesms.components.InputPanel>
+</asia.coolapp.chat.components.InputPanel>

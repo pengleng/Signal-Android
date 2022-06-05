@@ -10,7 +10,7 @@
     android:paddingEnd="16dp"
     android:paddingBottom="8dp">
 
-    <org.thoughtcrime.securesms.components.AvatarImageView
+    <asia.coolapp.chat.components.AvatarImageView
         android:id="@+id/recipient_view_avatar"
         android:layout_width="40dp"
         android:layout_height="40dp"
@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:src="@tools:sample/avatars" />
 
-    <org.thoughtcrime.securesms.badges.BadgeImageView
+    <asia.coolapp.chat.badges.BadgeImageView
         android:id="@+id/recipient_view_badge"
         android:layout_width="24dp"
         android:layout_height="24dp"

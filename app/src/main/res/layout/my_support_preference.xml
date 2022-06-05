@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/rounded_outline">
 
-        <org.thoughtcrime.securesms.badges.BadgeImageView
+        <asia.coolapp.chat.badges.BadgeImageView
             android:id="@+id/my_support_badge"
             android:layout_width="64dp"
             android:layout_height="64dp"

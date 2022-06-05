@@ -23,7 +23,7 @@
         android:textAppearance="@style/Signal.Text.Body"
         android:textStyle="bold" />
 
-    <org.thoughtcrime.securesms.components.emoji.EmojiEditText
+    <asia.coolapp.chat.components.emoji.EmojiEditText
         android:id="@+id/search_field"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
