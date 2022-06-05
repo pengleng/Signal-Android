@@ -1,0 +1,25 @@
+package asia.coolapp.chat.mediasend;
+
+import android.net.Uri;
+import android.view.View;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+
+/**
+ * A page that sits in the {@link MediaSendFragmentPagerAdapter}.
+ */
+public interface MediaSendPageFragment {
+
+  @NonNull Uri getUri();
+
+  void setUri(@NonNull Uri uri);
+
+  @Nullable View getPlaybackControls();
+
+  @Nullable Object saveState();
+
+  void restoreState(@NonNull Object state);
+
+  void notifyHidden();
+}

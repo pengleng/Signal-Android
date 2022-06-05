@@ -1,0 +1,12 @@
+package asia.coolapp.chat.video.videoconverter;
+
+public final class Preconditions {
+
+  private Preconditions() {}
+
+  public static void checkState(final String errorMessage, final boolean expression) {
+    if (!expression) {
+      throw new IllegalStateException(errorMessage);
+    }
+  }
+}
